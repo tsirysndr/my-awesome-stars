@@ -2825,7 +2825,7 @@
 - [AsureNetwork/bip39-cli](https://github.com/AsureNetwork/bip39-cli) - simple cli tool to create, and verify bip39 mnemonics
 - [WalletConnect/create-eth-app](https://github.com/WalletConnect/create-eth-app) - Create Ethereum-powered apps with one command
 - [protobufjs/bytebuffer.js](https://github.com/protobufjs/bytebuffer.js) - A fast and complete ByteBuffer implementation using either ArrayBuffers in the browser or Buffers under node.js.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
 - [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x) - Encode/decode any base
 - [tannerlinsley/react-query-devtools](https://github.com/tannerlinsley/react-query-devtools) - ⚛️ Devtools for React Query
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -4082,6 +4082,8 @@
 
 ## Python 
 
+- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -4469,7 +4471,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
 - [r0gue-io/pop-node](https://github.com/r0gue-io/pop-node) - Pop Network makes it easy for smart contract developers to use the Power of Polkadot.
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [ArloFilley/rusty_torrent](https://github.com/ArloFilley/rusty_torrent) - 
 - [pythops/tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
