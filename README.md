@@ -1274,7 +1274,7 @@
 - [philips/grpc-gateway-example](https://github.com/philips/grpc-gateway-example) - 
 - [johanbrandhorst/grpc-gateway-boilerplate](https://github.com/johanbrandhorst/grpc-gateway-boilerplate) - All the boilerplate you need to get started with writing grpc-gateway powered REST services in Go
 - [go-gormigrate/gormigrate](https://github.com/go-gormigrate/gormigrate) - Minimalistic database migration helper for Gorm ORM
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [hyperledger-archives/burrow](https://github.com/hyperledger-archives/burrow) - https://wiki.hyperledger.org/display/burrow
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
@@ -1802,7 +1802,6 @@
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [fishworks/gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [werkshy/pickup](https://github.com/werkshy/pickup) - MPD Web Client in Go
 - [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
 - [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
@@ -4408,6 +4407,7 @@
 
 ## Rust 
 
+- [tokio-rs/tracing-opentelemetry](https://github.com/tokio-rs/tracing-opentelemetry) - 
 - [open-telemetry/weaver](https://github.com/open-telemetry/weaver) - A tool for interacting with Telemetry Schemas / definitions in OpenTelemetry
 - [StellateHQ/graphql-query](https://github.com/StellateHQ/graphql-query) - Stupendously fast and easy GraphQL Execution Language parsing and printing in Rust.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
@@ -5043,7 +5043,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
 - [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly components and capability providers.
-- [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [moonbeam-foundation/nimbus](https://github.com/moonbeam-foundation/nimbus) - Upgradeable consensus framework for Substrate blockchains and parachains
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -5373,6 +5373,7 @@
 - [jjyr/hdwallet](https://github.com/jjyr/hdwallet) - HD wallet BIP-32 related key derivation utilities.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [nimiq/core-rs](https://github.com/nimiq/core-rs) - Official Rust implementation of the Nimiq protocol
+- [werkshy/pickup](https://github.com/werkshy/pickup) - MPD Web Client in Go
 - [osuketh/apple-store-substrate](https://github.com/osuketh/apple-store-substrate) - An apple store on substrate
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [LayerXcom/zero-chain](https://github.com/LayerXcom/zero-chain) - A privacy-preserving blockchain on Substrate
@@ -5735,6 +5736,8 @@
 
 ## TypeScript 
 
+- [fluentci-io/fluentci-studio](https://github.com/fluentci-io/fluentci-studio) - 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
+- [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
 - [kitsonk/kv-toolbox](https://github.com/kitsonk/kv-toolbox) - Utilities for working with Deno KV 🦕🗝️
 - [denoland/tic-tac-toe](https://github.com/denoland/tic-tac-toe) - A global, real-time multiplayer TicTacToe game for Deno 🦕
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
