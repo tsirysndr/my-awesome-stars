@@ -5736,6 +5736,7 @@
 
 ## TypeScript 
 
+- [electron/osx-sign](https://github.com/electron/osx-sign) - Codesign Electron macOS apps
 - [fluentci-io/fluentci-studio](https://github.com/fluentci-io/fluentci-studio) - 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
 - [kitsonk/kv-toolbox](https://github.com/kitsonk/kv-toolbox) - Utilities for working with Deno KV 🦕🗝️
