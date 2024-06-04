@@ -1774,7 +1774,7 @@
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [Code-Hex/Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay) - 🐮 cowsay is reborn. Neo Cowsay has written in Go.
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
@@ -2565,6 +2565,7 @@
 
 ## JavaScript 
 
+- [dylibso/reactables](https://github.com/dylibso/reactables) - Reactables enable you to bring the power of React and JSX outside of the JavaScript ecosystem.
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 - [dwmkerr/wait-port](https://github.com/dwmkerr/wait-port) - Simple binary to wait for a port to open. Useful for docker-compose and general server side activities.
@@ -3740,11 +3741,9 @@
 - [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of barebone Nix shells for starting a project, provided as flake templates
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [DeterminateSystems/nixos-vault-service](https://github.com/DeterminateSystems/nixos-vault-service) - 
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [flox/nixpkgs-flox](https://github.com/flox/nixpkgs-flox) - 
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -4137,6 +4136,7 @@
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
 - [tom-doerr/codex.fish](https://github.com/tom-doerr/codex.fish) - Supercharge your command line with OpenAI Codex integration. Get AI-powered coding assistance right in your fish shell.
 - [leana8959/manage-music-metadata](https://github.com/leana8959/manage-music-metadata) - Manage metadata of music files
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
 - [opacam/Cohen3](https://github.com/opacam/Cohen3) - Simple DLNA/UPnP Media Client/Server for Python 3
@@ -5538,6 +5538,7 @@
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [planetscale/create-branch-action](https://github.com/planetscale/create-branch-action) - A GitHub Action that creates a new branch of your PlanetScale database
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [spiffe/spire-tutorials](https://github.com/spiffe/spire-tutorials) - 
 - [vinceliuice/WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops
@@ -6203,7 +6204,7 @@
 - [paritytech/canvas-ui](https://github.com/paritytech/canvas-ui) - Basic Polkadot/Substrate UI for interacting with a node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol
-- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - react-native native module for In App Purchase.
+- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - In App Purchase module for React Native!
 - [graphql-nexus/nexus-prisma](https://github.com/graphql-nexus/nexus-prisma) - Prisma plugin for Nexus
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
