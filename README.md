@@ -3904,7 +3904,7 @@
 - [deta/awesome-deta](https://github.com/deta/awesome-deta) - Awesome Deta Stuff
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
-- [paritytech/xcm-format](https://github.com/paritytech/xcm-format) - Polkadot Cross Consensus-system Message format.
+- [polkadot-fellows/xcm-format](https://github.com/polkadot-fellows/xcm-format) - Polkadot Cross Consensus-system Message format.
 - [cockroachlabs/open-sourced-interview-process](https://github.com/cockroachlabs/open-sourced-interview-process) - Open Sourced Interview Process
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -4525,7 +4525,7 @@
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [acrlabs/simkube](https://github.com/acrlabs/simkube) - Record-and-replay Kubernetes simulator
-- [j03-dev/bus_antsirabe_api](https://github.com/j03-dev/bus_antsirabe_api) - 
+- [j03-dev/bus_antsirabe_api](https://github.com/j03-dev/bus_antsirabe_api) - Antsirabe bus API
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
@@ -5184,7 +5184,7 @@
 - [porta-network/porta-node](https://github.com/porta-network/porta-node) - 
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [wyyerd/stripe-rs](https://github.com/wyyerd/stripe-rs) - Rust API bindings for the Stripe HTTP API.
-- [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
+- [ProvableHQ/leo](https://github.com/ProvableHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [AleoNet/snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
 - [AleoNet/snarkVM](https://github.com/AleoNet/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 - [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - A pure-Rust implementation of group operations on Ristretto and Curve25519
