@@ -366,7 +366,7 @@
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - react-native native module for In App Purchase.
+- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - In App Purchase module for React Native!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [wkh237/react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) - A project committed to making file access and data transfer easier, efficient for React Native developers.
 - [deanhet/react-native-text-ticker](https://github.com/deanhet/react-native-text-ticker) - React Native Text Ticker/Marquee Component
@@ -498,6 +498,7 @@
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
+- [j03-dev/bus_antsirabe_api](https://github.com/j03-dev/bus_antsirabe_api) - Antsirabe bus API
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
@@ -1528,7 +1529,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [apollographql/apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust.
-- [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
+- [ProvableHQ/leo](https://github.com/ProvableHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [hyperledger/solang](https://github.com/hyperledger/solang) - Solidity Compiler for Solana and Polkadot
@@ -1541,6 +1542,7 @@
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [scala-native/scala-native](https://github.com/scala-native/scala-native) - Your favorite language gets closer to bare metal.
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -2453,7 +2455,7 @@
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [mesg-foundation/engine](https://github.com/mesg-foundation/engine) - Build apps or autonomous workflows with reusable, shareable integrations connecting any service, app, blockchain or decentralized network.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [balena-io-experimental/boombeastic](https://github.com/balena-io-experimental/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
 - [balena-io-experimental/balena-electronjs](https://github.com/balena-io-experimental/balena-electronjs) - electronJS-based resin application template
@@ -3559,7 +3561,7 @@
 - [bazelbuild/rules_go](https://github.com/bazelbuild/rules_go) - Go rules for Bazel
 - [jhump/protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers
 - [Code-Hex/Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay) - 🐮 cowsay is reborn. Neo Cowsay has written in Go.
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [bluele/factory-go](https://github.com/bluele/factory-go) - A library for setting up Golang objects inspired by factory_bot.
@@ -5131,7 +5133,7 @@
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - react-native native module for In App Purchase.
+- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - In App Purchase module for React Native!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [wkh237/react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) - A project committed to making file access and data transfer easier, efficient for React Native developers.
 - [deanhet/react-native-text-ticker](https://github.com/deanhet/react-native-text-ticker) - React Native Text Ticker/Marquee Component
@@ -6074,7 +6076,6 @@
 - [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -7209,6 +7210,7 @@
 
 ## others 
 
+- [dylibso/reactables](https://github.com/dylibso/reactables) - Reactables enable you to bring the power of React and JSX outside of the JavaScript ecosystem.
 - [coffee-cup/zig-kv](https://github.com/coffee-cup/zig-kv) - A simple key value store written in Zig
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [metatypedev/ghjk](https://github.com/metatypedev/ghjk) - ghjk is a programmable runtime manager and an attempt at a successor for asdf.
@@ -7426,7 +7428,6 @@
 - [tektoncd/hub](https://github.com/tektoncd/hub) - The tekton hub, official
 - [szkiba/k6x](https://github.com/szkiba/k6x) - Run k6 with extensions as easy as possible
 - [dashbitco/mox](https://github.com/dashbitco/mox) - Mocks and explicit contracts in Elixir
-- [j03-dev/bus_antsirabe_api](https://github.com/j03-dev/bus_antsirabe_api) - 
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code
 - [lpil/envoy](https://github.com/lpil/envoy) - 📂 A zero dependency cross platform Gleam package for reading environment variables
@@ -8256,7 +8257,7 @@
 - [sourcegraph/jsonrpc2](https://github.com/sourcegraph/jsonrpc2) - Package jsonrpc2 provides a client and server implementation of JSON-RPC 2.0 (http://www.jsonrpc.org/specification)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
-- [paritytech/xcm-format](https://github.com/paritytech/xcm-format) - Polkadot Cross Consensus-system Message format.
+- [polkadot-fellows/xcm-format](https://github.com/polkadot-fellows/xcm-format) - Polkadot Cross Consensus-system Message format.
 - [buildpacks/samples](https://github.com/buildpacks/samples) - Samples for Cloud Native Buildpacks
 - [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) - Utility for emulating Heroku build and runtime tasks in containers
 - [strophe/libstrophe](https://github.com/strophe/libstrophe) - A simple, lightweight C library for writing XMPP clients
@@ -10624,7 +10625,7 @@
 - [naoufal/react-native-touch-id](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 - [cawfree/create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp) - Your next Ethereum application starts here. ⚛️  💪  🦄
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - react-native native module for In App Purchase.
+- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - In App Purchase module for React Native!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
 - [wkh237/react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) - A project committed to making file access and data transfer easier, efficient for React Native developers.
@@ -11001,6 +11002,7 @@
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [acrlabs/simkube](https://github.com/acrlabs/simkube) - Record-and-replay Kubernetes simulator
+- [j03-dev/bus_antsirabe_api](https://github.com/j03-dev/bus_antsirabe_api) - Antsirabe bus API
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
