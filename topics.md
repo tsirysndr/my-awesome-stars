@@ -272,6 +272,7 @@
 
 ## ai 
 
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [upstash/faq-generator](https://github.com/upstash/faq-generator) - Generate FAQ for your documentation. Powered by OpenAI, Vercel and Upstash.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
@@ -285,6 +286,7 @@
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
@@ -315,6 +317,7 @@
 
 ## analytics 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
@@ -793,7 +796,7 @@
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory consolidates user, resource, and configuration data from your cloud environments into a unified, graph-based asset inventory.
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
@@ -821,7 +824,7 @@
 
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
-- [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
+- [docker-archive/compose-cli](https://github.com/docker-archive/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -1057,7 +1060,7 @@
 - [mesg-foundation/engine](https://github.com/mesg-foundation/engine) - Build apps or autonomous workflows with reusable, shareable integrations connecting any service, app, blockchain or decentralized network.
 - [gautamdhameja/substrate-tcr](https://github.com/gautamdhameja/substrate-tcr) - A Parity Substrate runtime implementation of a simple Token Curated Registry (TCR)
 - [datachainlab/hypermint](https://github.com/datachainlab/hypermint) - Tendermint-based blockchain that supports WebAssembly smart contract
-- [use-ink/ink](https://github.com/use-ink/ink) - Parity's ink! to write smart contracts.
+- [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [Axentro/Axentro](https://github.com/Axentro/Axentro) - To be the go to platform for building dApps quickly and cheaply for business and gaming
 - [blocklayerhq/chainkit](https://github.com/blocklayerhq/chainkit) - ChainKit is a toolkit for blockchain development. It includes primitives for creating, building and running decentralized applications.
@@ -1209,7 +1212,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 
 ## chatgpt-api 
@@ -1292,7 +1295,7 @@
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [eliaperantoni/spaceman](https://github.com/eliaperantoni/spaceman) - A gRPC client from another world
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
-- [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
+- [docker-archive/compose-cli](https://github.com/docker-archive/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
@@ -1337,7 +1340,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit) - Modern, scalable tools. Exceptional developer experience.
 - [polkadot-js/tools](https://github.com/polkadot-js/tools) - Various cli tools for Polkadot and Substrate chains, including basic node monitoring, making API queries via a cli app and other command-line tools
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1650,6 +1653,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -2286,7 +2290,7 @@
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
@@ -2342,6 +2346,7 @@
 
 ## docker 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [GoogleCloudPlatform/cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [fluentci-io/fluentci-studio](https://github.com/fluentci-io/fluentci-studio) - 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -2353,7 +2358,7 @@
 - [fluent-ci-templates/microcks-pipeline](https://github.com/fluent-ci-templates/microcks-pipeline) - Import API specifications into Microcks and run Microcks tests
 - [crashappsec/chalk](https://github.com/crashappsec/chalk) - Chalk allows you to follow code from development, through builds and into production.
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries
-- [qemus/qemu-docker](https://github.com/qemus/qemu-docker) - QEMU in a docker container.
+- [qemus/qemu-docker](https://github.com/qemus/qemu-docker) - QEMU in a Docker container.
 - [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - Manage your development environment with ease ✨
 - [tsirysndr/base-workspace](https://github.com/tsirysndr/base-workspace) - A reproducible dev workspace, built with docker, nix, pkgx, homebrew, vscode & terraform 🧑‍💻✨
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider
@@ -2393,7 +2398,7 @@
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [fristonio/docker.rs](https://github.com/fristonio/docker.rs) - Rust bindings to interact with docker daemon.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
-- [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
+- [docker-archive/compose-cli](https://github.com/docker-archive/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
@@ -6263,6 +6268,7 @@
 
 ## llm 
 
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [pythops/tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
@@ -6534,6 +6540,7 @@
 
 ## mongodb 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [thedodd/wither](https://github.com/thedodd/wither) - An ODM for MongoDB built on the official MongoDB Rust driver.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
@@ -6641,6 +6648,7 @@
 
 ## mysql 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [vapor/mysql-kit](https://github.com/vapor/mysql-kit) - 🐬 Pure Swift MySQL client built on non-blocking, event-driven sockets.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -6762,6 +6770,7 @@
 
 ## nextjs 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
@@ -6892,6 +6901,7 @@
 
 ## nodejs 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
@@ -7211,6 +7221,8 @@
 
 ## others 
 
+- [taayyohh/sellout](https://github.com/taayyohh/sellout) - sold out shows.
+- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [extism/moonbit-pdk](https://github.com/extism/moonbit-pdk) - Experimental Extism PDK for the MoonBit programming language.
 - [prisma/dub](https://github.com/prisma/dub) - Open-source link management infrastructure.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
@@ -7569,7 +7581,7 @@
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [tremorlabs/tremor-cli](https://github.com/tremorlabs/tremor-cli) - 
 - [psteinroe/supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers) - A collection of framework specific Cache utilities for working with Supabase.
-- [wasmCloud/examples](https://github.com/wasmCloud/examples) - Example actors, capability providers, and other demonstrations
+- [wasmCloud/examples](https://github.com/wasmCloud/examples) - ARCHIVED: This repository contains examples for pre-1.0 versions of wasmCloud. All examples are now located in the main wasmCloud repository https://github.com/wasmCloud/wasmCloud/tree/main/examples.
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp) - A Language Server for Postgres
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
@@ -7905,7 +7917,7 @@
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [RustCrypto/MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust
 - [bazelbuild/setup-bazelisk](https://github.com/bazelbuild/setup-bazelisk) - Set up your GitHub Actions workflow with a specific version of Bazelisk
-- [wasmCloud/capability-providers](https://github.com/wasmCloud/capability-providers) - wasmCloud official capability providers
+- [wasmCloud/capability-providers](https://github.com/wasmCloud/capability-providers) - ARCHIVED: wasmCloud pre-1.0 capability providers. See up-to-date capability providers in the main repository, https://github.com/wasmcloud/wasmcloud
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
@@ -8366,7 +8378,7 @@
 - [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The React for Voice and Chat: Build Apps for Alexa, Messenger, Instagram, the Web, and more
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
-- [xamarin/monodroid-samples](https://github.com/xamarin/monodroid-samples) - A collection of Xamarin.Android sample projects.
+- [dotnet/android-samples](https://github.com/dotnet/android-samples) - A collection of .NET for Android sample projects
 - [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [reinkrul/golang-merkle-tree](https://github.com/reinkrul/golang-merkle-tree) - Simplistic Merkle tree implementation in Go
 - [zkcrypto/bellman](https://github.com/zkcrypto/bellman) - zk-SNARK library.
@@ -9906,6 +9918,7 @@
 
 ## php 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
@@ -9924,6 +9937,7 @@
 
 ## postgresql 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -10784,6 +10798,7 @@
 
 ## reactjs 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
@@ -11294,6 +11309,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [capsule-corp-ternoa/ternoa-node](https://github.com/capsule-corp-ternoa/ternoa-node) - Ternoa's Node Implementation
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
@@ -11474,7 +11490,7 @@
 - [JoshOrndorff/recipes](https://github.com/JoshOrndorff/recipes) - A Hands-On Cookbook for Aspiring Blockchain Chefs
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
-- [use-ink/ink](https://github.com/use-ink/ink) - Parity's ink! to write smart contracts.
+- [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
@@ -11618,6 +11634,7 @@
 
 ## self-hosted 
 
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -11680,6 +11697,7 @@
 
 ## serverless 
 
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native fork of Kafka by separating storage to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
 - [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js) - Rate limiting library for serverless runtimes
 - [upstash/redis-js](https://github.com/upstash/redis-js) - HTTP based Redis Client for Serverless and Edge Functions
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
@@ -11703,7 +11721,7 @@
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [tsirysndr/madagascar-explorer](https://github.com/tsirysndr/madagascar-explorer) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -12032,6 +12050,7 @@
 
 ## svelte 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -12048,7 +12067,7 @@
 - [vapor/sqlite-kit](https://github.com/vapor/sqlite-kit) - Non-blocking SQLite client library with SQL builder built on SwiftNIO
 - [vapor/mysql-kit](https://github.com/vapor/mysql-kit) - 🐬 Pure Swift MySQL client built on non-blocking, event-driven sockets.
 - [GraphQLSwift/GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift GraphQL implementation for macOS and Linux
-- [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
+- [swiftlang/swiftly](https://github.com/swiftlang/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [xmtp/xmtp-ios](https://github.com/xmtp/xmtp-ios) - XMTP client SDK for iOS applications written in Swift.
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [vapor/sqlite-nio](https://github.com/vapor/sqlite-nio) - Non-blocking wrapper for libsqlite3-dev using SwiftNIO
@@ -12220,7 +12239,7 @@
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
@@ -12714,6 +12733,7 @@
 
 ## vuejs 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [prose-im/prose-app-web](https://github.com/prose-im/prose-app-web) - Prose Web application. XMPP client for team messaging.
 - [skerkour/bloom-legacy](https://github.com/skerkour/bloom-legacy) - DEPRECATED - End-to-end encrypted Notes, Files, Calendar, Contacts... for Android, IOS, Linux & MacOS
 - [ignite/web](https://github.com/ignite/web) - Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules
