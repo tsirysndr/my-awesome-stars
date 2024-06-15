@@ -768,7 +768,7 @@
 - [lpil/cymbal](https://github.com/lpil/cymbal) - Build YAML in Gleam!
 - [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour) - 👩🏽‍💻 Learn Gleam in your browser
 - [lpil/tom](https://github.com/lpil/tom) - A pure Gleam TOML parser!
-- [TanklesXL/glint](https://github.com/TanklesXL/glint) - Gleam command line argument parsing with basic flag support.
+- [TanklesXL/glint](https://github.com/TanklesXL/glint) - Gleam command-line argument parsing with flags and automated help text generation.
 - [gleam-community/codec](https://github.com/gleam-community/codec) - A package for keeping your JSON encoders and decoders in sync.
 - [lpil/glance](https://github.com/lpil/glance) - 👁️‍🗨️ A Gleam source code parser, in Gleam!
 - [lpil/envoy](https://github.com/lpil/envoy) - 📂 A zero dependency cross platform Gleam package for reading environment variables
@@ -800,6 +800,7 @@
 
 ## Go 
 
+- [stateful/runme](https://github.com/stateful/runme) - DevOps Workflows Built with Markdown
 - [GoogleCloudPlatform/cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
@@ -1249,7 +1250,7 @@
 - [cnabio/cnab-go](https://github.com/cnabio/cnab-go) - A Go implementation of CNAB Core 1.0
 - [samuelkarp/runj](https://github.com/samuelkarp/runj) - runj is an experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails.
 - [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan) - Turning Kubernetes Events into spans
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
 - [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -2303,7 +2304,7 @@
 - [tsirysndr/dotfiles-example](https://github.com/tsirysndr/dotfiles-example) - A Minimal Dotfiles example
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
 - [futurice/terraform-examples](https://github.com/futurice/terraform-examples) - Terraform samples for all the major clouds you can copy and paste. The future, co-created.
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
 - [visibilityspots/nomad-local-development](https://github.com/visibilityspots/nomad-local-development) - A nomad setup used as an alternative to docker-compose
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
@@ -3833,6 +3834,7 @@
 
 ## Others 
 
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [tsirysndr/my-awesome-stars](https://github.com/tsirysndr/my-awesome-stars) - A curated list of my Github stars! ✨
 - [WebAssembly/tool-conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
 - [purescript/registry](https://github.com/purescript/registry) - Registry of PureScript packages and metadata about them
@@ -4417,6 +4419,13 @@
 
 ## Rust 
 
+- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
+- [fluentci-io/apko-plugin](https://github.com/fluentci-io/apko-plugin) - Set up your CI/CD Pipeline with a specific version of apko
+- [fluentci-io/sqruff-plugin](https://github.com/fluentci-io/sqruff-plugin) - Set up your CI/CD Pipeline with sqruff installed
+- [fluentci-io/sqlfluff-plugin](https://github.com/fluentci-io/sqlfluff-plugin) - Set up sqlfluff in your CI/CD Pipeline
+- [fluentci-io/playwright-plugin](https://github.com/fluentci-io/playwright-plugin) - CI/CD Plugin for Playwright
+- [fluentci-io/cypress-plugin](https://github.com/fluentci-io/cypress-plugin) - CI/CD Plugin for Cypress
+- [fluentci-io/packer-plugin](https://github.com/fluentci-io/packer-plugin) - CI/CD Plugin for Packer
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
@@ -4465,6 +4474,7 @@
 - [sdkman/sdkman-cli-native](https://github.com/sdkman/sdkman-cli-native) - The next generation of SDKMAN! CLI commands, written in Rust
 - [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
 - [gizmo-ds/totp-wasm](https://github.com/gizmo-ds/totp-wasm) - HOTP & TOTP & Steam Guard TOTP
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
@@ -4676,7 +4686,7 @@
 - [koute/pinky](https://github.com/koute/pinky) - An NES emulator written in Rust
 - [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [uhyo/nitrogql](https://github.com/uhyo/nitrogql) - GraphQL + TypeScript toolchain
 - [seijikun/desktopcast](https://github.com/seijikun/desktopcast) - CLI utility that screencaptures your Linux desktop and streams it to Kodi via UPNP/DLNA and RTSP
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
@@ -5168,7 +5178,7 @@
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [NodleCode/chain](https://github.com/NodleCode/chain) - A repo for the Nodle blockchain node ⛓
 - [sile/rustracing_jaeger](https://github.com/sile/rustracing_jaeger) - Jaeger tracing library for Rust
-- [bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost) - A parachain focused on building bridges of chains based on PoS consensus.
+- [bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost) - One Stake, Endless Opportunities. Build with Polkadot SDK (Substrate).
 - [dusk-network/rusk-vm](https://github.com/dusk-network/rusk-vm) - The Dusk Rust WASM VM implementation
 - [centrifuge/centrifuge-chain](https://github.com/centrifuge/centrifuge-chain) - Centrifuge Chain: the layer-1 blockchain for real-world assets, built on Substrate.
 - [apollographql/router](https://github.com/apollographql/router) - A configurable, high-performance routing runtime for Apollo Federation 🚀
@@ -5664,7 +5674,7 @@
 ## Solidity 
 
 - [thesellouts/sellout](https://github.com/thesellouts/sellout) - sold out shows.
-- [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash
+- [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash (WIP)
 - [teller-protocol/teller-protocol-v2](https://github.com/teller-protocol/teller-protocol-v2) - 
 - [celo-org/celo-monorepo](https://github.com/celo-org/celo-monorepo) - Official repository for core projects comprising the Celo platform
 - [teller-protocol/teller-protocol-v1](https://github.com/teller-protocol/teller-protocol-v1) - Teller is a lending and undercollateralized borrowing protocol on the Ethereum blockchain. Teller is the first protocol to allow zero collateral borrowing for greater than one block.
@@ -5777,7 +5787,6 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
 - [flipt-io/setup-action](https://github.com/flipt-io/setup-action) - Install Flipt CLI in your GitHub Workflows
 - [depot/setup-action](https://github.com/depot/setup-action) - ▶️ GitHub Action to download and install the Depot CLI
 - [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
