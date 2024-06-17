@@ -147,7 +147,7 @@
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [xiph/Icecast-Server](https://github.com/xiph/Icecast-Server) - Icecast streaming media server (Mirror) - Please report bugs at https://gitlab.xiph.org/xiph/icecast-server/issues
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
-- [ARM-software/AVH-GetStarted](https://github.com/ARM-software/AVH-GetStarted) - 
+- [ARM-software/AVH-GetStarted](https://github.com/ARM-software/AVH-GetStarted) - DEPRECATED - use instead AVH_CI_Template
 - [mborgerding/kissfft](https://github.com/mborgerding/kissfft) - a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [GNOME/rhythmbox](https://github.com/GNOME/rhythmbox) - Read-only mirror of https://gitlab.gnome.org/GNOME/rhythmbox
@@ -2716,6 +2716,7 @@
 - [interledger/rfcs](https://github.com/interledger/rfcs) - Specifications for Interledger and related protocols
 - [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
+- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
@@ -3730,7 +3731,7 @@
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 - [SnO2WMaN/deno2nix](https://github.com/SnO2WMaN/deno2nix) - Integrate Deno with Nix
 - [mozilla/nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla overlay for Nixpkgs.
-- [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) - Config for the Community aarch64 NixOS box [maintainer=@grahamc]
+- [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) - Config for the Community aarch64 NixOS box
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
@@ -4342,7 +4343,7 @@
 - [TheSpyder/rescript-nodejs](https://github.com/TheSpyder/rescript-nodejs) - Node bindings for ReScript
 - [zth/res-x](https://github.com/zth/res-x) - A ReScript framework for building server-driven web sites and applications. Use familiar tech like JSX and the component model from React, combined with simple server driven client side technologies l
 - [zth/rescript-bun](https://github.com/zth/rescript-bun) - Use Bun with ReScript.
-- [rescript-lang/create-rescript-app](https://github.com/rescript-lang/create-rescript-app) - npm create rescript-app
+- [rescript-lang/create-rescript-app](https://github.com/rescript-lang/create-rescript-app) - npm create rescript-app@latest
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
 - [rescript-association/rescript-core](https://github.com/rescript-association/rescript-core) - A drop-in standard library for ReScript. Intended to be familiar for JavaScript developers, easy to use, and be rich enough (without being bloated) so that you don't need to reach for anything else fo
 - [bloodyowl/rescript-express](https://github.com/bloodyowl/rescript-express) - Experimental (nearly zero-cost) bindings to express
@@ -4419,6 +4420,7 @@
 
 ## Rust 
 
+- [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [fluentci-io/apko-plugin](https://github.com/fluentci-io/apko-plugin) - Set up your CI/CD Pipeline with a specific version of apko
 - [fluentci-io/sqruff-plugin](https://github.com/fluentci-io/sqruff-plugin) - Set up your CI/CD Pipeline with sqruff installed
@@ -6192,7 +6194,6 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Monorepo for the Ethereum VM TypeScript Implementation
-- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
 - [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit) - Modern, scalable tools. Exceptional developer experience.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
