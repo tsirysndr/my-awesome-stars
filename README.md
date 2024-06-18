@@ -1129,10 +1129,10 @@
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [tendermint/liquidity](https://github.com/tendermint/liquidity) - Cosmos SDK Liquidity module
-- [coinbase/mesh-ethereum](https://github.com/coinbase/mesh-ethereum) - Ethereum Rosetta API Implementation
-- [coinbase/mesh-bitcoin](https://github.com/coinbase/mesh-bitcoin) - Bitcoin Rosetta API Implementation
-- [coinbase/mesh-sdk-go](https://github.com/coinbase/mesh-sdk-go) - Rosetta Client Go SDK
-- [coinbase/mesh-cli](https://github.com/coinbase/mesh-cli) - CLI for the Rosetta API
+- [coinbase/mesh-ethereum](https://github.com/coinbase/mesh-ethereum) - Ethereum Mesh API Implementation
+- [coinbase/mesh-bitcoin](https://github.com/coinbase/mesh-bitcoin) - Bitcoin Mesh API Implementation
+- [coinbase/mesh-sdk-go](https://github.com/coinbase/mesh-sdk-go) - Mesh Client Go SDK
+- [coinbase/mesh-cli](https://github.com/coinbase/mesh-cli) - CLI for the Mesh API
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka
 - [fgeller/jsonify](https://github.com/fgeller/jsonify) - cli app to create JSON objects
@@ -1191,7 +1191,7 @@
 - [krisnova/naml](https://github.com/krisnova/naml) - Convert Kubernetes YAML to Golang
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [subosito/gotenv](https://github.com/subosito/gotenv) - Load environment variables from `.env` or `io.Reader` in Go.
 - [golang/gddo](https://github.com/golang/gddo) - Go Doc Dot Org
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1428,7 +1428,7 @@
 - [awalterschulze/goderive](https://github.com/awalterschulze/goderive) - Derives and generates mundane golang functions that you do not want to maintain yourself
 - [nilslice/protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
-- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
+- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [gobuffalo/buffalo-auth](https://github.com/gobuffalo/buffalo-auth) - Buffalo auth plugin helps adding username password authentication to your app
 - [celo-org/celo-blockchain](https://github.com/celo-org/celo-blockchain) - Official repository for the golang Celo Blockchain
@@ -4094,6 +4094,7 @@
 
 ## Python 
 
+- [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -4230,7 +4231,7 @@
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [tilt-dev/protocc](https://github.com/tilt-dev/protocc) - Compile protobufs (protoc) inside a container (protocc)!
 - [ClusterHQ/flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application
-- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [tilt-dev/tiltdemo](https://github.com/tilt-dev/tiltdemo) - 
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -4420,6 +4421,9 @@
 
 ## Rust 
 
+- [fluentci-io/flipt-plugin](https://github.com/fluentci-io/flipt-plugin) - Set up your CI/CD Pipeline with a specific version of Flipt
+- [fluentci-io/depot-plugin](https://github.com/fluentci-io/depot-plugin) - Set up your CI/CD Pipeline with a specific version of Depot
+- [edigaryev/awesome-system-calls](https://github.com/edigaryev/awesome-system-calls) - A categorized list of system calls used by popular Unix-like operating systems
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [fluentci-io/apko-plugin](https://github.com/fluentci-io/apko-plugin) - Set up your CI/CD Pipeline with a specific version of apko
@@ -4476,7 +4480,7 @@
 - [sdkman/sdkman-cli-native](https://github.com/sdkman/sdkman-cli-native) - The next generation of SDKMAN! CLI commands, written in Rust
 - [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [gizmo-ds/totp-wasm](https://github.com/gizmo-ds/totp-wasm) - HOTP & TOTP & Steam Guard TOTP
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
@@ -5585,7 +5589,7 @@
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
 - [devfile/registry](https://github.com/devfile/registry) - Source repository for the public community devfile registry
-- [coinbase/mesh-specifications](https://github.com/coinbase/mesh-specifications) - Specification files for the Rosetta Blockchain Standard
+- [coinbase/mesh-specifications](https://github.com/coinbase/mesh-specifications) - Specification files for the Mesh Blockchain Standard
 - [syscl/XPS9350-macOS](https://github.com/syscl/XPS9350-macOS) - macOS patches for Dell XPS 13 9350 (Skylake)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [exercism/zig-test-runner](https://github.com/exercism/zig-test-runner) - 
