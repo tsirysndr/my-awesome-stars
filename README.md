@@ -2420,7 +2420,6 @@
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [rescript-react-native/template](https://github.com/rescript-react-native/template) - ReScript React Native template
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Agontuk/react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service) - React native geolocation service for iOS and android
 - [http-kit/http-kit](https://github.com/http-kit/http-kit) - Simple, high-performance event-driven HTTP client+server for Clojure
@@ -2829,7 +2828,6 @@
 - [fauna/fauna-shell](https://github.com/fauna/fauna-shell) - Interactive shell for FaunaDB
 - [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for Fauna v4
 - [ghengeveld/graphql-geojson](https://github.com/ghengeveld/graphql-geojson) - GraphQL schema object types for GeoJSON
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [mbostock/shapefile](https://github.com/mbostock/shapefile) - A cross-platform streaming parser for the ESRI Shapefile spatial data format.
 - [netlify/create-react-app-lambda](https://github.com/netlify/create-react-app-lambda) - 
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol
@@ -4422,6 +4420,7 @@
 
 ## Rust 
 
+- [fluentci-io/dagger-plugin](https://github.com/fluentci-io/dagger-plugin) - Set up your CI/CD Pipeline with a specific version of dagger
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [fluentci-io/flipt-plugin](https://github.com/fluentci-io/flipt-plugin) - Set up your CI/CD Pipeline with a specific version of Flipt
 - [fluentci-io/depot-plugin](https://github.com/fluentci-io/depot-plugin) - Set up your CI/CD Pipeline with a specific version of Depot
@@ -5714,6 +5713,7 @@
 
 ## Swift 
 
+- [shapehq/tartelet](https://github.com/shapehq/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
 - [vapor/sqlite-kit](https://github.com/vapor/sqlite-kit) - Non-blocking SQLite client library with SQL builder built on SwiftNIO
 - [vapor/mysql-kit](https://github.com/vapor/mysql-kit) - 🐬 Pure Swift MySQL client built on non-blocking, event-driven sockets.
 - [GraphQLSwift/GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift GraphQL implementation for macOS and Linux
@@ -6167,6 +6167,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [dpmland/deno-json-colorizer](https://github.com/dpmland/deno-json-colorizer) - A library for colorizing JSON strings for Deno
 - [tsirysndr/mvola-cli](https://github.com/tsirysndr/mvola-cli) - A command-line tool for MVola API
 - [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
@@ -6337,6 +6338,7 @@
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
 - [msgpack/msgpack-javascript](https://github.com/msgpack/msgpack-javascript) - @msgpack/msgpack - MessagePack for JavaScript / msgpack.org[JavaScript/TypeScript/ECMA-262]
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) - A suite of 3D-enabled data editing overlays, suitable for deck.gl
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [rlindskog/covid19-graphql](https://github.com/rlindskog/covid19-graphql) - COVID-19 GraphQL API
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -6494,7 +6496,7 @@
 - [polkadot-js/client](https://github.com/polkadot-js/client) - An alternative Polkadot Runtime Environment implementation acting as a full-node (excluding block production for validators) for syncing with Substrate-based chains.
 - [graphprotocol/graph-tooling](https://github.com/graphprotocol/graph-tooling) - Monorepo for various tools used by subgraph developers.
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-- [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
+- [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
 - [wadackel/react-md-spinner](https://github.com/wadackel/react-md-spinner) - Material Design spinner components for React.js.
 - [chingyawhao/material-ui-next-pickers](https://github.com/chingyawhao/material-ui-next-pickers) - A material ui next datepicker, demo on
 - [material-components/material-components-web-react](https://github.com/material-components/material-components-web-react) - Material Components for React (MDC React)
