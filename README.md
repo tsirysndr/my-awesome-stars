@@ -116,6 +116,7 @@
 - [yglukhov/wasmrt](https://github.com/yglukhov/wasmrt) - 
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [extism/wamr-sdk](https://github.com/extism/wamr-sdk) - A lightweight WAMR backend for Extism
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [PromyLOPh/pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
@@ -257,6 +258,7 @@
 
 ## C++ 
 
+- [megaeth-labs/evmone-compiler](https://github.com/megaeth-labs/evmone-compiler) - EVM ahead-of-time compiler based on the fast evmone interpreter
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [facebookincubator/nimble](https://github.com/facebookincubator/nimble) - New file format for storage of large columnar datasets.
@@ -801,6 +803,7 @@
 
 ## Go 
 
+- [taubyte/tau](https://github.com/taubyte/tau) - The Only Git-Native CDN PaaS ☁️ You Can Run Locally 💻 and Even Write Tests For 🧪
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [stateful/runme](https://github.com/stateful/runme) - DevOps Workflows Built with Markdown
@@ -819,7 +822,6 @@
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [extism/go-sdk](https://github.com/extism/go-sdk) - Extism Go SDK
@@ -1920,7 +1922,7 @@
 - [poonai/aran](https://github.com/poonai/aran) - Key Value storage based on Ranged LSM tree
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [hellofresh/goengine](https://github.com/hellofresh/goengine) - Engine provides you all the capabilities to build an Event sourced application in go
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다. 
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
 - [xtaci/smux](https://github.com/xtaci/smux) - A Stream Multiplexing Library for golang with least memory usage(TDMA)
@@ -4579,7 +4581,7 @@
 - [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
 - [luckasRanarison/yace](https://github.com/luckasRanarison/yace) - Yet another CHIP-8 emulator
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [tailcallhq/graphql-runtime](https://github.com/tailcallhq/graphql-runtime) - High Performance GraphQL Runtime
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [diem/move](https://github.com/diem/move) - Home of the Move programming language
 - [pendulum-chain/substrate-stellar-sdk](https://github.com/pendulum-chain/substrate-stellar-sdk) - A Rust SDK for Stellar that can be used for Substrate projects
 - [shiika-lang/shiika](https://github.com/shiika-lang/shiika) - A statically-typed programming language
@@ -5785,6 +5787,7 @@
 
 ## TypeScript 
 
+- [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The KittyCAD modeling app.
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) - 
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
