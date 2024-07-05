@@ -1922,7 +1922,7 @@
 - [poonai/aran](https://github.com/poonai/aran) - Key Value storage based on Ranged LSM tree
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [hellofresh/goengine](https://github.com/hellofresh/goengine) - Engine provides you all the capabilities to build an Event sourced application in go
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
 - [xtaci/smux](https://github.com/xtaci/smux) - A Stream Multiplexing Library for golang with least memory usage(TDMA)
@@ -2149,7 +2149,7 @@
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [matthewmueller/joy](https://github.com/matthewmueller/joy) - A delightful Go to Javascript compiler (ON HOLD)
 - [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) - The jsonrpc package helps implement of JSON-RPC 2.0
-- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [twitchtv/twirp-example](https://github.com/twitchtv/twirp-example) - Example Twirp service
 - [mantl/consul-cli](https://github.com/mantl/consul-cli) - Command line interface to Consul HTTP API
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
@@ -3786,7 +3786,6 @@
 - [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [ocaml/merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs
-- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [andreas/ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml
 - [teamwalnut/graphql-ppx](https://github.com/teamwalnut/graphql-ppx) - GraphQL language primitives for ReScript/ReasonML written in ReasonML
 - [moby/vpnkit](https://github.com/moby/vpnkit) - A toolkit for embedding VPN capabilities in your application
@@ -4360,6 +4359,7 @@
 - [bloodyowl/rescript-express](https://github.com/bloodyowl/rescript-express) - Experimental (nearly zero-cost) bindings to express
 - [jeddeloh/rescript-apollo-client](https://github.com/jeddeloh/rescript-apollo-client) - ReScript bindings for the Apollo Client ecosystem
 - [rescript-lang/rescript-react](https://github.com/rescript-lang/rescript-react) - Official ReScript bindings for ReactJS
+- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [giraud/bs-css](https://github.com/giraud/bs-css) - Statically typed DSL for writing css in reason.
 - [rescript-react-native/rescript-react-native](https://github.com/rescript-react-native/rescript-react-native) - ReScript bindings for React Native
 
@@ -4650,7 +4650,6 @@
 - [coffee-cup/wasm-plugins](https://github.com/coffee-cup/wasm-plugins) - Experiment using WASM modules as plugins
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit) - delegated, decentralized, capabilities based authorization token
-- [loopholelabs/scale-signature-http](https://github.com/loopholelabs/scale-signature-http) - The definitions and source for the official Scale HTTP Signature for Scale Functions.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [brundonsmith/rust_lisp](https://github.com/brundonsmith/rust_lisp) - A Rust-embeddable Lisp, with support for interop with native Rust functions
 - [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2) - 
@@ -5787,6 +5786,7 @@
 
 ## TypeScript 
 
+- [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The KittyCAD modeling app.
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) - 
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
@@ -6660,7 +6660,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [Nodonisko/ionic-cache](https://github.com/Nodonisko/ionic-cache) - Angular cache service with IndexedDB, SQLite  and WebSQL support
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [frankhale/electron-with-express](https://github.com/frankhale/electron-with-express) - A simple app that demonstrates spawning an Express app from Electron
