@@ -258,6 +258,7 @@
 
 ## C++ 
 
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [megaeth-labs/evmone-compiler](https://github.com/megaeth-labs/evmone-compiler) - EVM ahead-of-time compiler based on the fast evmone interpreter
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
@@ -2576,6 +2577,7 @@
 
 ## JavaScript 
 
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [extism/moonbit-pdk](https://github.com/extism/moonbit-pdk) - Experimental Extism PDK for the MoonBit programming language.
@@ -3754,7 +3756,7 @@
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@cpcloud]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
 - [tsirysndr/flake-templates](https://github.com/tsirysndr/flake-templates) - A collection of Nix flake templates ❄️
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
@@ -4496,7 +4498,6 @@
 - [sdkman/sdkman-cli-native](https://github.com/sdkman/sdkman-cli-native) - The next generation of SDKMAN! CLI commands, written in Rust
 - [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [gizmo-ds/totp-wasm](https://github.com/gizmo-ds/totp-wasm) - HOTP & TOTP & Steam Guard TOTP
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
@@ -4777,7 +4778,7 @@
 - [GuillaumeGomez/process-viewer](https://github.com/GuillaumeGomez/process-viewer) - A process viewer GUI in rust
 - [CodeSandwich/Mocktopus](https://github.com/CodeSandwich/Mocktopus) - Mocking framework for Rust
 - [kriomant/mockers](https://github.com/kriomant/mockers) - Mocking library for Rust
-- [galacticcouncil/HydraDX-node](https://github.com/galacticcouncil/HydraDX-node) - HydraDX node - cross-chain liquidity protocol built on Substrate
+- [galacticcouncil/hydration-node](https://github.com/galacticcouncil/hydration-node) - Hydration node - Cross-chain liquidity protocol built with Polkadot-SDK
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
@@ -5722,6 +5723,7 @@
 
 ## Swift 
 
+- [apple/swift-testing](https://github.com/apple/swift-testing) - A modern, expressive testing package for Swift
 - [shapehq/tartelet](https://github.com/shapehq/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
 - [vapor/sqlite-kit](https://github.com/vapor/sqlite-kit) - Non-blocking SQLite client library with SQL builder built on SwiftNIO
 - [vapor/mysql-kit](https://github.com/vapor/mysql-kit) - 🐬 Pure Swift MySQL client built on non-blocking, event-driven sockets.
@@ -5815,6 +5817,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [flipt-io/setup-action](https://github.com/flipt-io/setup-action) - Install Flipt CLI in your GitHub Workflows
 - [depot/setup-action](https://github.com/depot/setup-action) - ▶️ GitHub Action to download and install the Depot CLI
 - [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
