@@ -4381,6 +4381,7 @@
 
 ## Ruby 
 
+- [letiemble/vagrant-tart](https://github.com/letiemble/vagrant-tart) - Vagrant-tart is a Vagrant plugin that adds a Tart provider to Vagrant, allowing Vagrant to control and provision machines via Tart command line tool.
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -4551,6 +4552,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [tauri-apps/muda](https://github.com/tauri-apps/muda) - Menu Utilities for Desktop Applications in Rust.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [bytecodealliance/registry](https://github.com/bytecodealliance/registry) - WebAssembly Registry (Warg)
@@ -5865,7 +5867,6 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [enisdenjo/graphql-sse](https://github.com/enisdenjo/graphql-sse) - Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.
 - [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js) - Rate limiting library for serverless runtimes
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries
@@ -6301,7 +6302,7 @@
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
 - [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The React for Voice and Chat: Build Apps for Alexa, Messenger, Instagram, the Web, and more
 - [ethereumjs/merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree) - Project is in active development and has been moved to the EthereumJS VM monorepo.
 - [apollographql/federation](https://github.com/apollographql/federation) - 🌐  Build and scale a single data graph across multiple services with Apollo's federation gateway.
