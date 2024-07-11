@@ -585,6 +585,7 @@
 
 ## Elixir 
 
+- [livinginthepast/honcho](https://github.com/livinginthepast/honcho) - A process manager for your `Procfile`(s)
 - [dashbitco/nimble_parsec](https://github.com/dashbitco/nimble_parsec) - A simple and fast library for text-based parser combinators
 - [Clivern/Lynx](https://github.com/Clivern/Lynx) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
@@ -804,6 +805,7 @@
 
 ## Go 
 
+- [dokku/procfile-util](https://github.com/dokku/procfile-util) - A tool for interacting with Procfiles
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [appleboy/drone-ssh](https://github.com/appleboy/drone-ssh) - Drone plugin for executing remote ssh commands
 - [taubyte/tau](https://github.com/taubyte/tau) - The Only Git-Native CDN PaaS ☁️ You Can Run Locally 💻 and Even Write Tests For 🧪
@@ -858,7 +860,7 @@
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [maaslalani/glyphs](https://github.com/maaslalani/glyphs) - Unicode symbols on the command line
-- [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop client.
+- [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop IDE designed for seamless cluster exploration
 - [cloudius-systems/capstan](https://github.com/cloudius-systems/capstan) - Capstan, a tool for packaging and running your application on OSv. http://osv.io/capstan
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
@@ -2481,7 +2483,6 @@
 - [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [andreschaffer/event-sourcing-cqrs-examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - Event Sourcing and CQRS in practice.
 - [luontola/cqrs-hotel](https://github.com/luontola/cqrs-hotel) - Example application about CQRS and Event Sourcing #NoFrameworks
-- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [ocetnik/react-native-background-timer](https://github.com/ocetnik/react-native-background-timer) - Emit event periodically (even when app is in the background)
 - [SelfLender/react-native-biometrics](https://github.com/SelfLender/react-native-biometrics) - React Native module for iOS and Android biometrics
@@ -2579,6 +2580,7 @@
 
 ## JavaScript 
 
+- [indexzero/node-procfile](https://github.com/indexzero/node-procfile) - Procfile parser for node.js
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
@@ -3617,7 +3619,6 @@
 - [xmtp/xmtp-android](https://github.com/xmtp/xmtp-android) - XMTP client SDK for Android applications written in Kotlin.
 - [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
 - [videolan/vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
-- [TheMusicmax/Musicmax](https://github.com/TheMusicmax/Musicmax) - Musicmax is a Music Player application for Android built with Jetpack Compose and Jetpack Media 3.
 - [Dashlane/android-apps](https://github.com/Dashlane/android-apps) - 🤖 Android applications sources
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [status-im/keycard-connect](https://github.com/status-im/keycard-connect) - Keycard + WalletConnect
@@ -4436,6 +4437,8 @@
 
 ## Rust 
 
+- [fluentci-io/vfox-plugin](https://github.com/fluentci-io/vfox-plugin) - A CI/CD Plugin for vfox
+- [fluentci-io/mise-plugin](https://github.com/fluentci-io/mise-plugin) - A CI/CD Plugin for mise
 - [fluentci-io/git-plugin](https://github.com/fluentci-io/git-plugin) - Setup your CI/CD pipeline with a specific version of git.
 - [fluentci-io/ssh-plugin](https://github.com/fluentci-io/ssh-plugin) - CI Plugin to execute commands on a remote host through SSH.
 - [slp/krun](https://github.com/slp/krun) - krun - run programs from your system in a microVM
@@ -5932,7 +5935,7 @@
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) - Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
 - [fluentci-io/sdk](https://github.com/fluentci-io/sdk) - A custom version of Dagger SDK JS
 - [fluentci-io/nix](https://github.com/fluentci-io/nix) - Some reusables functions related to Nix, used by FluentCI
-- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way
+- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 - [rahmanfadhil/cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for Deno
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [tsirysndr/repl](https://github.com/tsirysndr/repl) - Simple extensible REPL Command Line Tool. With auto-complete, history and auto-install, no more `bash: cmd: command not found` 💻 🚀✨
