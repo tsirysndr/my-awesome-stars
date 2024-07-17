@@ -1965,7 +1965,7 @@
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
@@ -2184,7 +2184,7 @@
 - [fluent-ci-templates/snyk-pipeline](https://github.com/fluent-ci-templates/snyk-pipeline) - A ready-to-use CI/CD Pipeline for scanning vulnerabilities in your project with Snyk.
 - [fluent-ci-templates/pulumi-pipeline](https://github.com/fluent-ci-templates/pulumi-pipeline) - A ready-to-use CI/CD Pipeline for managing your infrastructure with Pulumi
 - [fluent-ci-templates/buck-pipeline](https://github.com/fluent-ci-templates/buck-pipeline) - A ready-to-use Pipeline for Buck projects.
-- [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [deno-library/compress](https://github.com/deno-library/compress) - compress and uncompress for Deno
 - [fluent-ci-templates/terragrunt-pipeline](https://github.com/fluent-ci-templates/terragrunt-pipeline) - A ready-to-use CI/CD Pipeline for managing your infrastructure with Terragrunt.
 - [fluent-ci-templates/prisma-pipeline](https://github.com/fluent-ci-templates/prisma-pipeline) - A ready-to-use CI/CD Pipeline for managing your database migrations with Prisma Migrate
@@ -2285,6 +2285,7 @@
 
 ## deployment 
 
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
 - [garden-io/garden-action](https://github.com/garden-io/garden-action) - GitHub action to install and prepare Garden, in order to run workflows, tests or deploy to your environments inside GitHub Workflows.
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
@@ -2315,6 +2316,7 @@
 
 ## devops 
 
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
 - [fluentci-io/services](https://github.com/fluentci-io/services) - Services are processes that run in the background and provide functionality that you might need to test or operate your application in a CI/CD pipeline.
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
@@ -2428,6 +2430,7 @@
 
 ## docker 
 
+- [Mirantis/cri-dockerd](https://github.com/Mirantis/cri-dockerd) - dockerd as a compliant Container Runtime Interface for Kubernetes
 - [testcontainers/testcontainers-clj](https://github.com/testcontainers/testcontainers-clj) - Control Docker containers from your test lifecycle for Clojure integration tests.
 - [fluentci-io/depot-plugin](https://github.com/fluentci-io/depot-plugin) - Set up your CI/CD Pipeline with a specific version of Depot
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
@@ -5471,7 +5474,7 @@
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [NoEnv/docker-sonar-scanner](https://github.com/NoEnv/docker-sonar-scanner) - Sonar Scanner as Docker Image
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
@@ -5945,6 +5948,8 @@
 
 ## kubernetes 
 
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
+- [Mirantis/cri-dockerd](https://github.com/Mirantis/cri-dockerd) - dockerd as a compliant Container Runtime Interface for Kubernetes
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
@@ -7211,7 +7216,7 @@
 
 ## nosql 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -12569,7 +12574,7 @@
 - [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
 - [fluent-ci-templates/pulumi-pipeline](https://github.com/fluent-ci-templates/pulumi-pipeline) - A ready-to-use CI/CD Pipeline for managing your infrastructure with Pulumi
 - [fluent-ci-templates/buck-pipeline](https://github.com/fluent-ci-templates/buck-pipeline) - A ready-to-use Pipeline for Buck projects.
-- [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [fluent-ci-templates/terragrunt-pipeline](https://github.com/fluent-ci-templates/terragrunt-pipeline) - A ready-to-use CI/CD Pipeline for managing your infrastructure with Terragrunt.
 - [fluent-ci-templates/prisma-pipeline](https://github.com/fluent-ci-templates/prisma-pipeline) - A ready-to-use CI/CD Pipeline for managing your database migrations with Prisma Migrate
