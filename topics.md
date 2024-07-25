@@ -648,7 +648,7 @@
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -2115,7 +2115,7 @@
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [Fuyukai/asyncqlio](https://github.com/Fuyukai/asyncqlio) - A fully async ORM for Python 3.5+
-- [gocql/gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
+- [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
@@ -3399,7 +3399,7 @@
 - [fluentci-io/tinygo-plugin](https://github.com/fluentci-io/tinygo-plugin) - Set up your CI/CD Pipeline with a specific version of TinyGo
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [opencontainers/go-digest](https://github.com/opencontainers/go-digest) - Common digest package used across the container ecosystem
 - [xigxog/kubefox](https://github.com/xigxog/kubefox) - Simplifying Kubernetes.
@@ -3829,7 +3829,7 @@
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [gocql/gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
+- [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -3872,7 +3872,7 @@
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [extism/go-pdk](https://github.com/extism/go-pdk) - Extism Plug-in Development Kit (PDK) for Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Cloud Metering for AI, Billing and FinOps. Collect and aggregate millions of usage events in real-time.
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go
@@ -3936,7 +3936,7 @@
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
@@ -4376,7 +4376,7 @@
 - [letsila/simple-go-crud](https://github.com/letsila/simple-go-crud) - A very simple Go application CRUD (without the U)
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [gocql/gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
+- [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
@@ -4628,7 +4628,7 @@
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [pkgxdev/libpkgx](https://github.com/pkgxdev/libpkgx) - `import`… but with pkging powers
@@ -5452,6 +5452,7 @@
 
 ## javascript 
 
+- [roccomuso/netcat](https://github.com/roccomuso/netcat) - :computer: Netcat client and server modules written in pure Javascript for Node.js.
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
@@ -6396,7 +6397,7 @@
 
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [pythops/tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -7049,6 +7050,7 @@
 
 ## nodejs 
 
+- [roccomuso/netcat](https://github.com/roccomuso/netcat) - :computer: Netcat client and server modules written in pure Javascript for Node.js.
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
@@ -7267,7 +7269,7 @@
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
-- [gocql/gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
+- [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 
 ## npm 
 
@@ -7375,6 +7377,7 @@
 
 ## others 
 
+- [gptscript-ai/clio](https://github.com/gptscript-ai/clio) - Your friendly and safe CLI Copilot
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr) - A library and proxy server for interacting with Hyperledger Indy Node ledger instances
@@ -7918,7 +7921,7 @@
 - [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of barebone Nix shells for starting a project, provided as flake templates
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [xmtp/xmtp-android](https://github.com/xmtp/xmtp-android) - XMTP client SDK for Android applications written in Kotlin.
-- [xmtp/libxmtp](https://github.com/xmtp/libxmtp) - 
+- [xmtp/libxmtp](https://github.com/xmtp/libxmtp) - LibXMTP is a shared library encapsulating the core functionality of the XMTP messaging protocol, such as cryptography, networking, and language bindings.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [rylev/component-book](https://github.com/rylev/component-book) - A high-level explanation of the low-level details of WebAssembly components
 - [ryyppy/rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - Opinionated Boilerplate for NextJS, Tailwind and ReScript
@@ -11229,7 +11232,7 @@
 - [ParthJadhav/Tmuxer](https://github.com/ParthJadhav/Tmuxer) - A Spotlight-like tool for searching and launching Tmux sessions in your preferred terminal.
 - [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [tauri-apps/muda](https://github.com/tauri-apps/muda) - Menu Utilities for Desktop Applications in Rust.
@@ -12370,7 +12373,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [murarth/linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
 - [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui) - 🦕 Deno module for creating Terminal User Interfaces
@@ -12993,6 +12996,7 @@
 
 ## web 
 
+- [roccomuso/netcat](https://github.com/roccomuso/netcat) - :computer: Netcat client and server modules written in pure Javascript for Node.js.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chr15m/sitefox](https://github.com/chr15m/sitefox) - Node + cljs backend web framework
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
