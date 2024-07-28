@@ -288,7 +288,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
@@ -616,7 +616,7 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
@@ -638,6 +638,7 @@
 
 ## automation 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [Netflix/go-expect](https://github.com/Netflix/go-expect) - an expect-like golang library to automate control of terminal or console based programs.
@@ -884,6 +885,7 @@
 
 ## bash 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
@@ -1223,13 +1225,13 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
 - [otiai10/openaigo](https://github.com/otiai10/openaigo) - OpenAI GPT3/3.5 and GPT4 ChatGPT API Client Library for Go, simple, less dependencies, and well-tested
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 
 ## chatgpt-api 
@@ -1611,6 +1613,7 @@
 
 ## continuous-integration 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [fluentci-io/haskell-plugin](https://github.com/fluentci-io/haskell-plugin) - Set up your CI/CD with a specific version of Haskell
 - [fluentci-io/sbt-plugin](https://github.com/fluentci-io/sbt-plugin) - Set up your CI/CD Pipeline with a specific version of sbt
@@ -2300,7 +2303,7 @@
 
 - [mina-deploy/mina](https://github.com/mina-deploy/mina) - Blazing fast deployer and server automation tool
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
-- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [garden-io/garden-action](https://github.com/garden-io/garden-action) - GitHub action to install and prepare Garden, in order to run workflows, tests or deploy to your environments inside GitHub Workflows.
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
@@ -2334,7 +2337,7 @@
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [capistrano/sshkit](https://github.com/capistrano/sshkit) - A toolkit for deploying code and assets to servers in a repeatable, testable, reliable way.
-- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [fluentci-io/services](https://github.com/fluentci-io/services) - Services are processes that run in the background and provide functionality that you might need to test or operate your application in a CI/CD pipeline.
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
@@ -2448,6 +2451,7 @@
 
 ## docker 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [Mirantis/cri-dockerd](https://github.com/Mirantis/cri-dockerd) - dockerd as a compliant Container Runtime Interface for Kubernetes
 - [testcontainers/testcontainers-clj](https://github.com/testcontainers/testcontainers-clj) - Control Docker containers from your test lifecycle for Clojure integration tests.
@@ -3298,6 +3302,7 @@
 
 ## git 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [fluentci-io/git-plugin](https://github.com/fluentci-io/git-plugin) - Setup your CI/CD pipeline with a specific version of git.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
@@ -3314,7 +3319,7 @@
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [planetscale/ghcommit](https://github.com/planetscale/ghcommit) - Use GitHub's GraphQL API to commit files to a GitHub repository.
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [saschagrunert/git-journal](https://github.com/saschagrunert/git-journal) - The Git Commit Message and Changelog Generation Framework :book:
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -3401,7 +3406,7 @@
 
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
-- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -3871,7 +3876,7 @@
 ## golang 
 
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
-- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
@@ -5983,7 +5988,7 @@
 
 ## kubernetes 
 
-- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [Mirantis/cri-dockerd](https://github.com/Mirantis/cri-dockerd) - dockerd as a compliant Container Runtime Interface for Kubernetes
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
@@ -6038,6 +6043,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [acorn-io/runtime](https://github.com/acorn-io/runtime) - A simple application deployment framework built on Kubernetes
 - [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - An extendible wasm host enabling wasm-native orchestration; run components on any cloud, any k8s, or any edge - including your own.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [tilt-dev/tilt-extensions](https://github.com/tilt-dev/tilt-extensions) - Extensions for Tilt
@@ -8292,7 +8298,6 @@
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [jwasham/practice-c](https://github.com/jwasham/practice-c) - Part of my daily plan for studying C.
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly components and capability providers.
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [zepp-health/rest-api](https://github.com/zepp-health/rest-api) - 
 - [libp2p/go-libp2p-peerstore](https://github.com/libp2p/go-libp2p-peerstore) - an object to manage sets of peers, their addresses and other metadata
@@ -10550,7 +10555,7 @@
 ## react 
 
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
-- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
@@ -11213,6 +11218,7 @@
 
 ## rust 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [fluentci-io/haskell-plugin](https://github.com/fluentci-io/haskell-plugin) - Set up your CI/CD with a specific version of Haskell
 - [varbhat/cvtek](https://github.com/varbhat/cvtek) - 📄 Craft your Resume/CV using TOML
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
@@ -11982,7 +11988,7 @@
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [tsirysndr/madagascar-explorer](https://github.com/tsirysndr/madagascar-explorer) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -12603,9 +12609,10 @@
 
 ## typescript 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
-- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [jetify-com/typeid-js](https://github.com/jetify-com/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
