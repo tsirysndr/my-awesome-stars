@@ -813,6 +813,7 @@
 
 ## Go 
 
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Hyperconverged cloud-edge native database
 - [r3labs/sse](https://github.com/r3labs/sse) - Server Sent Events server and client for Golang
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
@@ -820,6 +821,7 @@
 - [fluentci-io/wasm-to-oci](https://github.com/fluentci-io/wasm-to-oci) - Use OCI registries to distribute Wasm modules
 - [gptscript-ai/clio](https://github.com/gptscript-ai/clio) - Your friendly and safe CLI Copilot
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [Mirantis/cri-dockerd](https://github.com/Mirantis/cri-dockerd) - dockerd as a compliant Container Runtime Interface for Kubernetes
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
@@ -2624,7 +2626,6 @@
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 - [herimanana301/Potikena-cli](https://github.com/herimanana301/Potikena-cli) - Potikena is a simple command-line tool that allows you to easily download videos from various social media platforms.
 - [jaybuidl/teaxyz-frens-finder](https://github.com/jaybuidl/teaxyz-frens-finder) - Helper to find your friends and co-contributors and them to tea.yaml
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs) - Official repository for specifications for the Portal Network
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [ktock/vscode-container-wasm](https://github.com/ktock/vscode-container-wasm) - 
@@ -2885,7 +2886,7 @@
 - [paambaati/node-liftbridge](https://github.com/paambaati/node-liftbridge) - 🌉 Node.js client for Liftbridge
 - [entropitor/dotenv-cli](https://github.com/entropitor/dotenv-cli) - A cli to load dotenv files
 - [lupyuen/blockly-mynewt-rust](https://github.com/lupyuen/blockly-mynewt-rust) - Web-based visual programming editor for Apache Mynewt Embedded OS and Embedded Rust
-- [nats-io/nats.js](https://github.com/nats-io/nats.js) - Node.js client for NATS, the cloud native messaging system.
+- [nats-io/nats.node](https://github.com/nats-io/nats.node) - Node.js client for NATS, the cloud native messaging system.
 - [redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise) - FSA-compliant promise middleware for Redux.
 - [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
 - [dudleycarr/nsqjs](https://github.com/dudleycarr/nsqjs) - NodeJS client library for NSQ
@@ -4484,6 +4485,11 @@
 
 ## Rust 
 
+- [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [spinkube/containerd-shim-spin](https://github.com/spinkube/containerd-shim-spin) - A ContainerD shim for running Spin Applications.
+- [Glistix/glistix](https://github.com/Glistix/glistix) - Fork of the Gleam compiler providing a Nix backend, compiling Gleam to Nix
+- [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) - JIT and AOT compiler for the Ethereum Virtual Machine, built on Revm.
 - [fluentci-io/ftp-deploy-plugin](https://github.com/fluentci-io/ftp-deploy-plugin) - CI/CD Plugin for ftp-deploy
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
@@ -4748,7 +4754,6 @@
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [abdolence/gcloud-sdk-rs](https://github.com/abdolence/gcloud-sdk-rs) - Async Google Cloud Platform (GCP) gRPC/REST APIs client implementation based on Tonic middleware and Reqwest.
 - [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
-- [fermyon/spin-js-sdk](https://github.com/fermyon/spin-js-sdk) - https://developer.fermyon.com/spin/javascript-components
 - [agerasev/flatty](https://github.com/agerasev/flatty) - Flat message buffers with direct mapping to Rust types without packing/unpacking
 - [mitsuhiko/self-replace](https://github.com/mitsuhiko/self-replace) - Utility library that helps to implement processes that replace themselves
 - [biscuit-auth/biscuit-rust](https://github.com/biscuit-auth/biscuit-rust) - Rust implementation of the Biscuit authorization token
@@ -5210,7 +5215,7 @@
 - [dfinity/ic](https://github.com/dfinity/ic) - Internet Computer blockchain source: the client/replica software run by nodes
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - An Event Sourcing runtime with WebAssembly & embedded event store
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
@@ -5857,6 +5862,7 @@
 
 ## TeX 
 
+- [gavofyork/graypaper](https://github.com/gavofyork/graypaper) - The JAM Specification
 - [cosmos/ibc](https://github.com/cosmos/ibc) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 - [ethereum/yellowpaper](https://github.com/ethereum/yellowpaper) - The "Yellow Paper": Ethereum's formal specification
 - [w3f/polkadot-spec](https://github.com/w3f/polkadot-spec) - The Polkadot Protocol Specification
@@ -5869,7 +5875,6 @@
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [temporalio/sdk-typescript](https://github.com/temporalio/sdk-typescript) - Temporal TypeScript SDK
 - [jetify-com/typeid-js](https://github.com/jetify-com/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
@@ -5938,6 +5943,7 @@
 - [extism/js-sdk](https://github.com/extism/js-sdk) - Run Extism WebAssembly plug-ins / functions from JavaScript (supports major browsers, Node.js, Deno, Bun, and Cloudflare Workers)
 - [fluent-ci-templates/microcks-pipeline](https://github.com/fluent-ci-templates/microcks-pipeline) - Import API specifications into Microcks and run Microcks tests
 - [ParthJadhav/Tmuxer](https://github.com/ParthJadhav/Tmuxer) - A Spotlight-like tool for searching and launching Tmux sessions in your preferred terminal.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [tsirysndr/secrets](https://github.com/tsirysndr/secrets) - My Personal Secret Manager, configured with Terraform + Google Secret Manager & Cloudflare Worker Secrets🏠 🔐
 - [tsirysndr/setup-envhub](https://github.com/tsirysndr/setup-envhub) - Set up your GitHub Actions workflow with a specific version of Envhub
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
@@ -6139,6 +6145,7 @@
 - [jedisct1/as-wasi](https://github.com/jedisct1/as-wasi) - An AssemblyScript API layer for WASI system calls.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [deislabs/yo-wasm](https://github.com/deislabs/yo-wasm) - Yeoman generator for Rust projects intended to build to WASM in OCI registries
+- [fermyon/spin-js-sdk](https://github.com/fermyon/spin-js-sdk) - https://developer.fermyon.com/spin/javascript-components
 - [cucumber/language-server](https://github.com/cucumber/language-server) - Cucumber Language Server
 - [spotify/spotify-web-api-ts-sdk](https://github.com/spotify/spotify-web-api-ts-sdk) - A Typescript SDK for the Spotify Web API with types for returned data.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
