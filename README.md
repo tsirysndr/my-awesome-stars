@@ -2339,6 +2339,7 @@
 
 ## Groovy 
 
+- [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) - A gradle plugin that merge dependencies into the final aar file works with AGP 3.+
@@ -4507,6 +4508,8 @@
 
 ## Rust 
 
+- [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
+- [OpenZeppelin/polkadot-runtime-templates](https://github.com/OpenZeppelin/polkadot-runtime-templates) - A generic template for Substrate Runtime
 - [denzp/cargo-wharf](https://github.com/denzp/cargo-wharf) - Cacheable and efficient Docker images builder for Rust
 - [izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.
 - [fluentci-io/scaleway-plugin](https://github.com/fluentci-io/scaleway-plugin) - CI/CD Plugin for Scaleway CLI
@@ -5909,6 +5912,7 @@
 
 ## TypeScript 
 
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
