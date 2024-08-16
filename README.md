@@ -112,6 +112,7 @@
 
 ## C 
 
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [cubzh/cubzh](https://github.com/cubzh/cubzh) - Cubzh is a User Generated Social Universe, an online platform where all items, avatars, games, and experiences are made by users from the community.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -163,6 +164,7 @@
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
@@ -228,7 +230,7 @@
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
-- [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+- [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD audio server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [mikebrady/shairport-sync-metadata-reader](https://github.com/mikebrady/shairport-sync-metadata-reader) - Sample Shairport Sync Metadata Player
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
@@ -263,6 +265,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -275,7 +278,7 @@
 - [dp-mason/rustism_osc](https://github.com/dp-mason/rustism_osc) - Experiment as to whether an oscillator can be written for VCV Rack using Rust and Extism.
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [silverqx/TinyORM](https://github.com/silverqx/TinyORM) - Modern C++ ORM library
 - [Qihoo360/blackwidow](https://github.com/Qihoo360/blackwidow) - A library implements REDIS commands(Strings, Hashes, Lists, Sorted Sets, Sets, Keys, HyperLogLog) based on rocksdb, as the storage layer for Pika https://github.com/OpenAtomFoundation/pika .
@@ -598,6 +601,7 @@
 
 ## Elixir 
 
+- [fishjam-dev/fishjam](https://github.com/fishjam-dev/fishjam) - General purpose media server. Supports WebRTC, HLS, RTSP, SIP
 - [elixirs/faker](https://github.com/elixirs/faker) - Faker is a pure Elixir library for generating fake data.
 - [livinginthepast/honcho](https://github.com/livinginthepast/honcho) - A process manager for your `Procfile`(s)
 - [dashbitco/nimble_parsec](https://github.com/dashbitco/nimble_parsec) - A simple and fast library for text-based parser combinators
@@ -608,7 +612,7 @@
 - [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
 - [dashbitco/nimble_csv](https://github.com/dashbitco/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir
 - [dashbitco/mox](https://github.com/dashbitco/mox) - Mocks and explicit contracts in Elixir
-- [phoenixframework/flame](https://github.com/phoenixframework/flame) - 
+- [phoenixframework/flame](https://github.com/phoenixframework/flame) - Fleeting Lambda Application for Modular Execution: auto scale parts of your existing app with a single function call
 - [falood/file_system](https://github.com/falood/file_system) - Filesystem monitor for elixir
 - [wingyplus/phx_bun](https://github.com/wingyplus/phx_bun) - An installer for Bun.
 - [lexical-lsp/lexical](https://github.com/lexical-lsp/lexical) - Lexical is a next-generation elixir language server
@@ -774,6 +778,8 @@
 
 ## Gleam 
 
+- [gleam-lang/elli](https://github.com/gleam-lang/elli) - 🍛 A Gleam HTTP service adapter for the Elli web server
+- [gleam-lang/javascript](https://github.com/gleam-lang/javascript) - 🌼 Extra code for when running on JavaScript
 - [lustre-labs/dev-tools](https://github.com/lustre-labs/dev-tools) - Lustre's CLI and development tooling: zero-config dev server, bundling, and scaffolding.
 - [DanielleMaywood/glexer](https://github.com/DanielleMaywood/glexer) - Gleam lexer implemented in Gleam!
 - [bcpeinhardt/simplifile](https://github.com/bcpeinhardt/simplifile) - Simple file operations for Gleam that work on all targets (Erlang/Node/Deno)
@@ -819,6 +825,7 @@
 
 ## Go 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [rtCamp/action-slack-notify](https://github.com/rtCamp/action-slack-notify) - GitHub Action for sending a notification to a Slack channel
 - [sethvargo/go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
@@ -1090,7 +1097,7 @@
 - [mit-dci/zkledger](https://github.com/mit-dci/zkledger) - Privacy-preserving auditing for distributed ledgers
 - [aurae-runtime/client-go](https://github.com/aurae-runtime/client-go) - Go gRPC client for Aurae
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [daguflow/dagu](https://github.com/daguflow/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [ChainSafe/chainbridge-core](https://github.com/ChainSafe/chainbridge-core) - 🌁 Sygma core library (ChainBridge)
@@ -1646,7 +1653,7 @@
 - [ssbc/go-muxrpc](https://github.com/ssbc/go-muxrpc) - js/muxrpc in golang (for interfacing ssb/scuttlebot)
 - [chiefnoah/goalpost](https://github.com/chiefnoah/goalpost) - A durable, embeddable, worker queue for golang
 - [apache/trafficcontrol](https://github.com/apache/trafficcontrol) - Apache Traffic Control is an Open Source implementation of a Content Delivery Network
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [appsody/appsody](https://github.com/appsody/appsody) - Appsody command line tool. This repo will be archived soon.
 - [weaveworks/mesh](https://github.com/weaveworks/mesh) - A tool for building distributed applications.
 - [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
@@ -2277,7 +2284,7 @@
 - [machinebox/graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client for Go
 - [herenow/go-crate](https://github.com/herenow/go-crate) - Golang Sql Driver for Crate Data Storage. (https://crate.io/)
 - [desertbit/grumble](https://github.com/desertbit/grumble) - A powerful modern CLI and SHELL
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
@@ -2325,7 +2332,7 @@
 - [TritonDataCenter/containerpilot](https://github.com/TritonDataCenter/containerpilot) - A service for autodiscovery and configuration of applications running in containers
 - [clockworksoul/smudge](https://github.com/clockworksoul/smudge) - A lightweight library that provides group member discovery, status dissemination, and failure detection using the SWIM epidemic protocol.
 - [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [cosmos/ethermint-archive](https://github.com/cosmos/ethermint-archive) - Ethereum on Tendermint using Cosmos-SDK!
@@ -2414,6 +2421,9 @@
 
 ## Haskell 
 
+- [andyarvanitis/purescript-native](https://github.com/andyarvanitis/purescript-native) - A native compiler backend for PureScript (via C++ or Golang)
+- [extism/haskell-pdk](https://github.com/extism/haskell-pdk) - Extism Plug-in development kit (PDK) for Haskell
+- [chrisdone/hell](https://github.com/chrisdone/hell) - Haskell-based shell scripting language
 - [purerl/purerl](https://github.com/purerl/purerl) - Erlang backend for the PureScript compiler
 - [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -2624,7 +2634,7 @@
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [roccomuso/netcat](https://github.com/roccomuso/netcat) - :computer: Netcat client and server modules written in pure Javascript for Node.js.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [indexzero/node-procfile](https://github.com/indexzero/node-procfile) - Procfile parser for node.js
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
@@ -2822,7 +2832,7 @@
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Node.js implementation of Web audio API
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [paulmillr/noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) - Fastest 4KB JS implementation of secp256k1 signatures and ECDH
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -3705,6 +3715,7 @@
 
 ## Lua 
 
+- [aspeddro/rescript-tools.nvim](https://github.com/aspeddro/rescript-tools.nvim) - A plugin to improve your ReScript experience in Neovim
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
@@ -3751,6 +3762,7 @@
 
 ## Markdown 
 
+- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
@@ -3907,7 +3919,6 @@
 - [sluongng/awesome-buck2](https://github.com/sluongng/awesome-buck2) - Collection of resources about Buck2
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [garden-io/garden-action](https://github.com/garden-io/garden-action) - GitHub action to install and prepare Garden, in order to run workflows, tests or deploy to your environments inside GitHub Workflows.
-- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [tsirysndr/my-awesome-stars](https://github.com/tsirysndr/my-awesome-stars) - A curated list of my Github stars! ✨
 - [WebAssembly/tool-conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
@@ -3971,7 +3982,6 @@
 - [spiffe/spire-examples](https://github.com/spiffe/spire-examples) - Examples and documentation showing SPIRE integration with various projects and platforms
 - [rasolofonirina/zip-code-madagascar](https://github.com/rasolofonirina/zip-code-madagascar) - Zip Code Madagascar
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [redhat-developer/devfile](https://github.com/redhat-developer/devfile) - devfile v1
@@ -4128,7 +4138,7 @@
 
 ## PLpgSQL 
 
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
 
 ## Perl 
@@ -4149,6 +4159,12 @@
 
 ## PureScript 
 
+- [fluentci-io/purescript-fluentci](https://github.com/fluentci-io/purescript-fluentci) - FluentCI SDK for Purescript
+- [natefaubion/purescript-tidy](https://github.com/natefaubion/purescript-tidy) - A syntax tidy-upper for PureScript.
+- [juspay/purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations!
+- [rowtype-yoga/purescript-fetch](https://github.com/rowtype-yoga/purescript-fetch) - 
+- [nwolverson/purescript-aff-promise](https://github.com/nwolverson/purescript-aff-promise) - 
+- [purescript-contrib/purescript-aff](https://github.com/purescript-contrib/purescript-aff) - An asynchronous effect monad for PureScript
 - [JordanMartinez/purescript-jordans-reference](https://github.com/JordanMartinez/purescript-jordans-reference) - Learn PureScript with this "clone and play" repository
 - [purescript/purescript-arrays](https://github.com/purescript/purescript-arrays) - Array utility functions
 - [purescript-contrib/purescript-book](https://github.com/purescript-contrib/purescript-book) - Sources for the PureScript book
@@ -4508,6 +4524,9 @@
 
 ## Rust 
 
+- [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
+- [rescript-lang/rewatch](https://github.com/rescript-lang/rewatch) - Rewatch is an alternative build system for the Rescript Compiler.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
 - [OpenZeppelin/polkadot-runtime-templates](https://github.com/OpenZeppelin/polkadot-runtime-templates) - A generic template for Substrate Runtime
 - [denzp/cargo-wharf](https://github.com/denzp/cargo-wharf) - Cacheable and efficient Docker images builder for Rust
@@ -4627,7 +4646,7 @@
 - [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
-- [conda-incubator/rattler](https://github.com/conda-incubator/rattler) - Rust crates to work with the Conda ecosystem.
+- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem.
 - [gpg-rs/gpgme](https://github.com/gpg-rs/gpgme) - GPGme bindings for Rust
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
@@ -4651,7 +4670,7 @@
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal
 - [oxidecomputer/propolis](https://github.com/oxidecomputer/propolis) - VMM userspace for illumos bhyve
 - [oxidecomputer/helios](https://github.com/oxidecomputer/helios) - Helios: Or, a Vision in a Dream. A Fragment.
-- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter
+- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - compiler from JSON Schema into idiomatic Rust types
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
@@ -4713,7 +4732,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [murarth/linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
 - [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push) - Release your Nix flake to FlakeHub.com.
-- [BeringLab/ruva](https://github.com/BeringLab/ruva) - 
+- [Migorithm/ruva](https://github.com/Migorithm/ruva) - 
 - [Rustixir/darkbird](https://github.com/Rustixir/darkbird) - In-memory database inspired by erlang mnesia
 - [superfly/litevfs](https://github.com/superfly/litevfs) - LiteFS VFS SQLite extension for serverless environments
 - [superfly/ltx-rs](https://github.com/superfly/ltx-rs) - Rust library for the LTX file format
@@ -5073,7 +5092,7 @@
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL query engine for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Pos
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams, database CDC, and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stream
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
@@ -5244,7 +5263,7 @@
 - [paritytech/parity-bridges-common](https://github.com/paritytech/parity-bridges-common) - Collection of Useful Bridge Building Tools 🏗️
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
 - [ChainSafe/chainbridge-substrate](https://github.com/ChainSafe/chainbridge-substrate) - 
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [zcash/librustzcash](https://github.com/zcash/librustzcash) - Rust-language assets for Zcash
@@ -5299,7 +5318,7 @@
 - [arctic-hen7/diana](https://github.com/arctic-hen7/diana) - A Rust GraphQL system with full support for subscriptions and authentication that works out of the box.
 - [hermit-os/kernel](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel.
 - [interlay/interbtc](https://github.com/interlay/interbtc) - interBTC: Bitcoin Anywhere
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [obmarg/cynic](https://github.com/obmarg/cynic) - A bring your own types GraphQL client library for Rust
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [awslabs/amazon-qldb-driver-rust](https://github.com/awslabs/amazon-qldb-driver-rust) - A Rust implementation of a driver for Amazon QLDB.
@@ -5392,7 +5411,7 @@
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tomaka/rouille](https://github.com/tomaka/rouille) - Web framework in Rust
 - [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
-- [snowplow/factotum](https://github.com/snowplow/factotum) - A system to programmatically run data pipelines
+- [snowplow-archive/factotum](https://github.com/snowplow-archive/factotum) - A system to programmatically run data pipelines
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
@@ -5673,6 +5692,7 @@
 
 ## Shell 
 
+- [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [gruntwork-io/terragrunt-action](https://github.com/gruntwork-io/terragrunt-action) - A GitHub Action for installing and running Terragrunt
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
@@ -5912,6 +5932,7 @@
 
 ## TypeScript 
 
+- [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new) - In-browser Postgres sandbox with AI assistance
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -6822,6 +6843,7 @@
 
 ## Vim Script 
 
+- [purescript-contrib/purescript-vim](https://github.com/purescript-contrib/purescript-vim) - Syntax highlighting and indentation for PureScript
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [gleam-lang/gleam.vim](https://github.com/gleam-lang/gleam.vim) - ✌️ Gleam support for Vim/Neovim
