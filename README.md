@@ -112,6 +112,7 @@
 
 ## C 
 
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [cubzh/cubzh](https://github.com/cubzh/cubzh) - Cubzh is a User Generated Social Universe, an online platform where all items, avatars, games, and experiences are made by users from the community.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -265,6 +266,7 @@
 
 ## C++ 
 
+- [fluentci-demos/fluentci-demo-flutter](https://github.com/fluentci-demos/fluentci-demo-flutter) - A FluentCI CI/CD demo pipeline using Flutter
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -449,6 +451,7 @@
 
 ## Clojure 
 
+- [babashka/nbb](https://github.com/babashka/nbb) - Scripting in Clojure on Node.js using SCI
 - [testcontainers/testcontainers-clj](https://github.com/testcontainers/testcontainers-clj) - Control Docker containers from your test lifecycle for Clojure integration tests.
 - [boot-clj/boot](https://github.com/boot-clj/boot) - Build tooling for Clojure.
 - [nubank/lacinia](https://github.com/nubank/lacinia) - GraphQL implementation in pure Clojure. Forked because issues
@@ -601,6 +604,7 @@
 
 ## Elixir 
 
+- [fluentci-demos/fluentci-demo-elixir-phoenix](https://github.com/fluentci-demos/fluentci-demo-elixir-phoenix) - A FluentCI demo CI Pipeline using Elixir and Phoenix
 - [fishjam-dev/fishjam](https://github.com/fishjam-dev/fishjam) - General purpose media server. Supports WebRTC, HLS, RTSP, SIP
 - [elixirs/faker](https://github.com/elixirs/faker) - Faker is a pure Elixir library for generating fake data.
 - [livinginthepast/honcho](https://github.com/livinginthepast/honcho) - A process manager for your `Procfile`(s)
@@ -752,6 +756,7 @@
 
 ## Erlang 
 
+- [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [rvirding/luerl](https://github.com/rvirding/luerl) - Lua in Erlang
 - [chef/chef-server](https://github.com/chef/chef-server) - Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.
 - [hauleth/erlang-systemd](https://github.com/hauleth/erlang-systemd) - systemd utilities for Erlang applications
@@ -825,6 +830,9 @@
 
 ## Go 
 
+- [Excoriate/go-terradagger](https://github.com/Excoriate/go-terradagger) - TerraDagger is a Go package for managing your infrastructure-as-code through containers.
+- [cashapp/hermit](https://github.com/cashapp/hermit) - 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
+- [semaphoreci/agent](https://github.com/semaphoreci/agent) - Agent for running Semaphore 2.0 jobs
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [rtCamp/action-slack-notify](https://github.com/rtCamp/action-slack-notify) - GitHub Action for sending a notification to a Slack channel
@@ -1464,7 +1472,7 @@
 - [libp2p/go-libp2p-core](https://github.com/libp2p/go-libp2p-core) - Interfaces and abstractions that make up go-libp2p
 - [go-gorp/gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
 - [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [mitchellh/go-grpc-net-conn](https://github.com/mitchellh/go-grpc-net-conn) - Turn any gRPC stream into a Go `net.Conn` implementation.
@@ -2356,6 +2364,7 @@
 
 ## HCL 
 
+- [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [cirruslabs/macos-image-templates](https://github.com/cirruslabs/macos-image-templates) - 
 - [tsirysndr/dotfiles-example](https://github.com/tsirysndr/dotfiles-example) - A Minimal Dotfiles example
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
@@ -2632,6 +2641,7 @@
 
 ## JavaScript 
 
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [roccomuso/netcat](https://github.com/roccomuso/netcat) - :computer: Netcat client and server modules written in pure Javascript for Node.js.
@@ -3675,6 +3685,8 @@
 
 ## Kotlin 
 
+- [cashapp/misk](https://github.com/cashapp/misk) - Microservice Kontainer
+- [cashapp/sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [xmtp/xmtp-android](https://github.com/xmtp/xmtp-android) - XMTP client SDK for Android applications written in Kotlin.
 - [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
@@ -3916,6 +3928,7 @@
 
 ## Others 
 
+- [gmlewis/spin-moonbit-sdk](https://github.com/gmlewis/spin-moonbit-sdk) - Experimental Spin SDK for the MoonBit programming language.
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [sluongng/awesome-buck2](https://github.com/sluongng/awesome-buck2) - Collection of resources about Buck2
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -4181,6 +4194,8 @@
 
 ## Python 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [fluentci-demos/fluentci-demo-python-django](https://github.com/fluentci-demos/fluentci-demo-python-django) - A FluentCI Demo for Django
 - [ContainerCraft/Kargo](https://github.com/ContainerCraft/Kargo) - KubeVirt Private Cloud Hypervisor
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -4465,6 +4480,8 @@
 
 ## Ruby 
 
+- [github-community-projects/graphql-client](https://github.com/github-community-projects/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries
+- [fluentci-demos/fluentci-demo-ruby](https://github.com/fluentci-demos/fluentci-demo-ruby) - A FluentCI Demo for Ruby
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [mina-deploy/mina](https://github.com/mina-deploy/mina) - Blazing fast deployer and server automation tool
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
@@ -4525,6 +4542,8 @@
 
 ## Rust 
 
+- [bytecodealliance/wit-deps](https://github.com/bytecodealliance/wit-deps) - WIT dependency manager
+- [bytecodealliance/jco](https://github.com/bytecodealliance/jco) - JavaScript toolchain for working with WebAssembly Components
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [rescript-lang/rewatch](https://github.com/rescript-lang/rewatch) - Rewatch is an alternative build system for the Rescript Compiler.
@@ -4597,9 +4616,9 @@
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [bytecodealliance/wasm-pkg-tools](https://github.com/bytecodealliance/wasm-pkg-tools) - 
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - manage multiple kubectl port-forward commands with a menu bar or a TUI app, with support for UDP and proxy connections through Kubernetes clusters, and gitops-like state sync with github.
 - [tokio-rs/tracing-opentelemetry](https://github.com/tokio-rs/tracing-opentelemetry) - 
-- [open-telemetry/weaver](https://github.com/open-telemetry/weaver) - A tool for interacting with Telemetry Schemas / definitions in OpenTelemetry
+- [open-telemetry/weaver](https://github.com/open-telemetry/weaver) - OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions
 - [StellateHQ/graphql-query](https://github.com/StellateHQ/graphql-query) - Stupendously fast and easy GraphQL Execution Language parsing and printing in Rust.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
@@ -4972,7 +4991,7 @@
 - [prometheus/client_rust](https://github.com/prometheus/client_rust) - Prometheus / OpenMetrics client library in Rust
 - [microsoft/Spartan](https://github.com/microsoft/Spartan) - Spartan: High-speed zkSNARKs without trusted setup
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
-- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A framework for building typesafe web backends in Rust
+- [specta-rs/rspc](https://github.com/specta-rs/rspc) - A framework for building typesafe web backends in Rust
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
@@ -5093,7 +5112,7 @@
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams, database CDC, and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stream
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch p
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
@@ -5649,6 +5668,7 @@
 
 ## Scala 
 
+- [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
 - [softwaremill/elasticmq](https://github.com/softwaremill/elasticmq) - In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
@@ -5934,6 +5954,8 @@
 
 ## TypeScript 
 
+- [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
+- [samchon/prisma-markdown](https://github.com/samchon/prisma-markdown) - Markdown generator of Prisma, including ERD and descriptions
 - [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new) - In-browser Postgres sandbox with AI assistance
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
