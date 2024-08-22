@@ -419,6 +419,9 @@
 
 ## CMake 
 
+- [fluentci-demos/fluentci-demo-cmake](https://github.com/fluentci-demos/fluentci-demo-cmake) - A FluentCI demo CI Pipeline using CMake
+- [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+- [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
@@ -832,6 +835,7 @@
 
 ## Go 
 
+- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [Excoriate/go-terradagger](https://github.com/Excoriate/go-terradagger) - TerraDagger is a Go package for managing your infrastructure-as-code through containers.
 - [cashapp/hermit](https://github.com/cashapp/hermit) - 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [semaphoreci/agent](https://github.com/semaphoreci/agent) - Agent for running Semaphore 2.0 jobs
@@ -996,7 +1000,7 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [ariga/atlas-sync-action](https://github.com/ariga/atlas-sync-action) - Sync migration directories to Atlas Cloud
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
+- [keploy/keploy](https://github.com/keploy/keploy) - Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [cirruslabs/cirrus-ci-agent](https://github.com/cirruslabs/cirrus-ci-agent) - Agent to execute Cirrus CI tasks
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
@@ -2890,7 +2894,7 @@
 - [ensdomains/ensjs-v2](https://github.com/ensdomains/ensjs-v2) - Javascript bindings for the Ethereum Name Service
 - [speakeasyjs/speakeasy](https://github.com/speakeasyjs/speakeasy) - **NOT MAINTAINED** Two-factor authentication for Node.js. One-time passcode generator (HOTP/TOTP) with support for Google Authenticator.
 - [voucherifyio/voucher-code-generator-js](https://github.com/voucherifyio/voucher-code-generator-js) - Customisable Promo Code / Coupon / Voucher Generator - Use cases: online coupons, prepaid vouchers, in-app promo codes
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) - Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
 - [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
@@ -4544,13 +4548,14 @@
 
 ## Rust 
 
+- [fluentci-io/cmake-plugin](https://github.com/fluentci-io/cmake-plugin) - CI/CD Plugin for CMake
 - [bytecodealliance/wit-deps](https://github.com/bytecodealliance/wit-deps) - WIT dependency manager
 - [bytecodealliance/jco](https://github.com/bytecodealliance/jco) - JavaScript toolchain for working with WebAssembly Components
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [rescript-lang/rewatch](https://github.com/rescript-lang/rewatch) - Rewatch is an alternative build system for the Rescript Compiler.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
-- [OpenZeppelin/polkadot-runtime-templates](https://github.com/OpenZeppelin/polkadot-runtime-templates) - A generic template for Substrate Runtime
+- [OpenZeppelin/polkadot-runtime-templates](https://github.com/OpenZeppelin/polkadot-runtime-templates) - Runtime Templates for Polkadot Parachains
 - [denzp/cargo-wharf](https://github.com/denzp/cargo-wharf) - Cacheable and efficient Docker images builder for Rust
 - [izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.
 - [fluentci-io/scaleway-plugin](https://github.com/fluentci-io/scaleway-plugin) - CI/CD Plugin for Scaleway CLI
@@ -4766,7 +4771,7 @@
 - [mercedes-benz/zbus](https://github.com/mercedes-benz/zbus) - Rust D-Bus crate.
 - [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool to transform Rust Cargo dependencies into generated Buck build rules
 - [wasix-org/wasix-rust-examples](https://github.com/wasix-org/wasix-rust-examples) - Rust examples showcasing wasix build target
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [prose-im/prose-core-client](https://github.com/prose-im/prose-core-client) - Prose core XMPP client manager & protocols.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
@@ -5873,6 +5878,7 @@
 
 ## Starlark 
 
+- [fluentci-demos/fluentci-demo-buck](https://github.com/fluentci-demos/fluentci-demo-buck) - A FluentCI demo CI Pipeline using Buck2
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [facebook/buck2-prelude](https://github.com/facebook/buck2-prelude) - Prelude for the Buck2 project
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
@@ -5956,6 +5962,7 @@
 
 ## TypeScript 
 
+- [fluentci-demos/fluentci-demo-javascript](https://github.com/fluentci-demos/fluentci-demo-javascript) - A FluentCI demo CI/CD pipeline using Node.js, TypeScript, Nest.js and React.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [samchon/prisma-markdown](https://github.com/samchon/prisma-markdown) - Markdown generator of Prisma, including ERD and descriptions
 - [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new) - In-browser Postgres sandbox with AI assistance
