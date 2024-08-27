@@ -798,7 +798,7 @@
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
 ## aws 
 
@@ -1071,7 +1071,7 @@
 - [cybercongress/go-cyber](https://github.com/cybercongress/go-cyber) - Your 🔵 Superintelligence
 - [iov-one/weave](https://github.com/iov-one/weave) - Easy-to-use SDK to build Tendermint ABCI applications
 - [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar) - 🌟 TypeScript Implementation of Ethereum Consensus
-- [substrate-developer-hub/pallet-did](https://github.com/substrate-developer-hub/pallet-did) - A Substrate pallet for decentralized identifiers' (DIDs) management.
+- [polkadot-developers/pallet-did](https://github.com/polkadot-developers/pallet-did) - A Substrate pallet for decentralized identifiers' (DIDs) management.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [PolymeshAssociation/Polymesh](https://github.com/PolymeshAssociation/Polymesh) - Node for Polymesh Blockchain
@@ -1634,7 +1634,7 @@
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
 ## computer-vision 
 
@@ -1891,7 +1891,7 @@
 
 ## css 
 
-- [ghivert/sketch](https://github.com/ghivert/sketch) - A CSS-in-Gleam package, made to work with frontend, backend and directly with lustre!
+- [ghivert/sketch](https://github.com/ghivert/sketch) - A CSS-in-Gleam package, made to work with frontend, backend, with your favorite framework!
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
@@ -3333,7 +3333,7 @@
 
 ## frontend 
 
-- [ghivert/sketch](https://github.com/ghivert/sketch) - A CSS-in-Gleam package, made to work with frontend, backend and directly with lustre!
+- [ghivert/sketch](https://github.com/ghivert/sketch) - A CSS-in-Gleam package, made to work with frontend, backend, with your favorite framework!
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol Monorepo
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -6107,6 +6107,7 @@
 
 ## kotlin 
 
+- [lupuuss/Mokkery](https://github.com/lupuuss/Mokkery) - The mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven.
 - [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e tests for your JVM back-end API with Kotlin
 - [konform-kt/konform](https://github.com/konform-kt/konform) - Portable validations for Kotlin
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
@@ -7588,6 +7589,7 @@
 
 ## others 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [samharju/yeet.nvim](https://github.com/samharju/yeet.nvim) - Plugin for running shell commands in terminal buffers or tmux panes.
 - [mcfisto/node_airtunes2](https://github.com/mcfisto/node_airtunes2) - node.js AirTunes v2 implementation: stream wirelessly to Apple audio devices.
 - [fgp/AirReceiver](https://github.com/fgp/AirReceiver) - AirReceiver is an AirPort Express emulator, i.e. it allows streaming audio from iTunes and iOS devices to a computer running AirReceiver. It does so by implementing a RAOP/AirTunes2 server.
@@ -7779,7 +7781,7 @@
 - [gleam-lang/vscode-gleam](https://github.com/gleam-lang/vscode-gleam) - 📟 Gleam support for VS Code
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
-- [dp-mason/rustism_osc](https://github.com/dp-mason/rustism_osc) - Experiment as to whether an oscillator can be written for VCV Rack using Rust and Extism.
+- [dp-mason/BD-synCret](https://github.com/dp-mason/BD-synCret) - An embedded VCV Rack Wasm host powered by Extism
 - [rawhat/mist](https://github.com/rawhat/mist) - gleam HTTP server. because it glistens on a web
 - [paritytech/zombienet-sdk](https://github.com/paritytech/zombienet-sdk) - ZombieNet SDK
 - [r0gue-io/pop-cli](https://github.com/r0gue-io/pop-cli) - An all-in-one tool for Polkadot development.
@@ -7875,7 +7877,7 @@
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour) - 👩🏽‍💻 Learn Gleam in your browser
 - [WebAssembly/wasi-cli](https://github.com/WebAssembly/wasi-cli) - Command-Line Interface (CLI) World for WASI
-- [franela/pocketci](https://github.com/franela/pocketci) - 
+- [franela/pocketci](https://github.com/franela/pocketci) - A dagger-based portable CI platform
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
@@ -8384,7 +8386,7 @@
 - [Joystream/hydra](https://github.com/Joystream/hydra) - A Substrate indexing framework
 - [fermyon/websocket-bridge](https://github.com/fermyon/websocket-bridge) - WebSocket-to-HTTP reverse proxy
 - [fermyon/cloud-start](https://github.com/fermyon/cloud-start) - A prebuilt Spin application to quickly try out the Fermyon Cloud
-- [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
+- [polkadot-developers/substrate-node-template](https://github.com/polkadot-developers/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
 - [ireader/media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [sealvault/sealvault](https://github.com/sealvault/sealvault) - SealVault is an open source project to build a self-custody Web3 key manager app that is primarily used for everyday browsing with social and gaming dapps.
@@ -8579,7 +8581,7 @@
 - [CargoSense/fable](https://github.com/CargoSense/fable) - 
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter) - React 0.68+ Turbo Module starter using codegen with typescript for Objective-C and Java/Kotlin with C++ shared library. 🚀🚀🚀
-- [substrate-developer-hub/substrate-parachain-template](https://github.com/substrate-developer-hub/substrate-parachain-template) - A new Cumulus-based Substrate node, ready for hacking.
+- [polkadot-developers/substrate-parachain-template](https://github.com/polkadot-developers/substrate-parachain-template) - A new Cumulus-based Substrate node, ready for hacking.
 - [open-telemetry/opentelemetry-erlang](https://github.com/open-telemetry/opentelemetry-erlang) - OpenTelemetry Erlang SDK
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [integritee-network/integritee-node](https://github.com/integritee-network/integritee-node) - Integritee node with TEE registry validating remote attestation
@@ -9659,7 +9661,7 @@
 - [beatgammit/base64-js](https://github.com/beatgammit/base64-js) - Base64 encoding/decoding in pure JS
 - [3box/3box-graphql](https://github.com/3box/3box-graphql) - 3box GraphQL Service
 - [joaoaguiam/attestari.me](https://github.com/joaoaguiam/attestari.me) - A decentralized P2P attestations platform using 3Box for the ETH San Francisco
-- [substrate-developer-hub/substrate-proof-of-existence](https://github.com/substrate-developer-hub/substrate-proof-of-existence) - Proof of Existence Blockchain built on Parity's Substrate
+- [polkadot-developers/substrate-proof-of-existence](https://github.com/polkadot-developers/substrate-proof-of-existence) - Proof of Existence Blockchain built on Parity's Substrate
 - [ReportChef/List-of-best-Slack-Teams](https://github.com/ReportChef/List-of-best-Slack-Teams) - The ultimate list of 400+ Slack communities
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [graphprotocol/graph-tooling](https://github.com/graphprotocol/graph-tooling) - Monorepo for various tools used by subgraph developers.
