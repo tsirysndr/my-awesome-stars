@@ -280,7 +280,7 @@
 - [facebookincubator/nimble](https://github.com/facebookincubator/nimble) - New file format for storage of large columnar datasets.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
-- [dp-mason/rustism_osc](https://github.com/dp-mason/rustism_osc) - Experiment as to whether an oscillator can be written for VCV Rack using Rust and Extism.
+- [dp-mason/BD-synCret](https://github.com/dp-mason/BD-synCret) - An embedded VCV Rack Wasm host powered by Extism
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
@@ -792,7 +792,7 @@
 
 - [fluentci-demos/fluentci-demo-gleam](https://github.com/fluentci-demos/fluentci-demo-gleam) - A FluentCI demo CI Pipeline using Gleam and Wisp
 - [lpil/pgo](https://github.com/lpil/pgo) - 🐘 Use PostgreSQL databases with PGO
-- [ghivert/sketch](https://github.com/ghivert/sketch) - A CSS-in-Gleam package, made to work with frontend, backend and directly with lustre!
+- [ghivert/sketch](https://github.com/ghivert/sketch) - A CSS-in-Gleam package, made to work with frontend, backend, with your favorite framework!
 - [gleam-lang/elli](https://github.com/gleam-lang/elli) - 🍛 A Gleam HTTP service adapter for the Elli web server
 - [gleam-lang/javascript](https://github.com/gleam-lang/javascript) - 🌼 Extra code for when running on JavaScript
 - [lustre-labs/dev-tools](https://github.com/lustre-labs/dev-tools) - Lustre's CLI and development tooling: zero-config dev server, bundling, and scaffolding.
@@ -840,6 +840,7 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [fluentci-demos/fluentci-demo-go](https://github.com/fluentci-demos/fluentci-demo-go) - FluentCI demo CI pipeline using Go
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [Excoriate/go-terradagger](https://github.com/Excoriate/go-terradagger) - TerraDagger is a Go package for managing your infrastructure-as-code through containers.
@@ -939,7 +940,7 @@
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [franela/pocketci](https://github.com/franela/pocketci) - 
+- [franela/pocketci](https://github.com/franela/pocketci) - A dagger-based portable CI platform
 - [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments
 - [ibuildthecloud/ai-example](https://github.com/ibuildthecloud/ai-example) - 
@@ -3163,7 +3164,7 @@
 - [beatgammit/base64-js](https://github.com/beatgammit/base64-js) - Base64 encoding/decoding in pure JS
 - [3box/3box-graphql](https://github.com/3box/3box-graphql) - 3box GraphQL Service
 - [joaoaguiam/attestari.me](https://github.com/joaoaguiam/attestari.me) - A decentralized P2P attestations platform using 3Box for the ETH San Francisco
-- [substrate-developer-hub/substrate-proof-of-existence](https://github.com/substrate-developer-hub/substrate-proof-of-existence) - Proof of Existence Blockchain built on Parity's Substrate
+- [polkadot-developers/substrate-proof-of-existence](https://github.com/polkadot-developers/substrate-proof-of-existence) - Proof of Existence Blockchain built on Parity's Substrate
 - [maevadevs/numery](https://github.com/maevadevs/numery) - NodeJS: A collection of useful helper functions for numbers manipulation in JS that I wrote. This is available on NPM.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [WrappedBTC/bitcoin-token-smart-contracts](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) - 
@@ -3700,6 +3701,7 @@
 
 ## Kotlin 
 
+- [lupuuss/Mokkery](https://github.com/lupuuss/Mokkery) - The mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven.
 - [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e tests for your JVM back-end API with Kotlin
 - [konform-kt/konform](https://github.com/konform-kt/konform) - Portable validations for Kotlin
 - [cashapp/misk](https://github.com/cashapp/misk) - Microservice Kontainer
@@ -4151,7 +4153,7 @@
 - [Knotx/knotx](https://github.com/Knotx/knotx) - Knot.x is a highly-efficient and scalable integration framework designed to build backend APIs
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [MostlyAdequate/mostly-adequate-guide-fr](https://github.com/MostlyAdequate/mostly-adequate-guide-fr) - Mostly adequate guide to FP (in javascript, translated in french)
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [amjuarez/bytecoin](https://github.com/amjuarez/bytecoin) - CryptoNote protocol implementation
 
 ## PHP 
@@ -5072,7 +5074,7 @@
 - [wasmerio/wasmer-postgres](https://github.com/wasmerio/wasmer-postgres) - 💽🕸 Postgres library to run WebAssembly binaries.
 - [fermyon/websocket-bridge](https://github.com/fermyon/websocket-bridge) - WebSocket-to-HTTP reverse proxy
 - [fermyon/cloud-start](https://github.com/fermyon/cloud-start) - A prebuilt Spin application to quickly try out the Fermyon Cloud
-- [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
+- [polkadot-developers/substrate-node-template](https://github.com/polkadot-developers/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
@@ -5296,7 +5298,7 @@
 - [Zokrates/ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKs on Ethereum
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
-- [substrate-developer-hub/substrate-parachain-template](https://github.com/substrate-developer-hub/substrate-parachain-template) - A new Cumulus-based Substrate node, ready for hacking.
+- [polkadot-developers/substrate-parachain-template](https://github.com/polkadot-developers/substrate-parachain-template) - A new Cumulus-based Substrate node, ready for hacking.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [integritee-network/integritee-node](https://github.com/integritee-network/integritee-node) - Integritee node with TEE registry validating remote attestation
@@ -5522,7 +5524,7 @@
 - [deus-labs/cw-contracts](https://github.com/deus-labs/cw-contracts) - Example contracts for using CosmWasm
 - [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
-- [substrate-developer-hub/pallet-did](https://github.com/substrate-developer-hub/pallet-did) - A Substrate pallet for decentralized identifiers' (DIDs) management.
+- [polkadot-developers/pallet-did](https://github.com/polkadot-developers/pallet-did) - A Substrate pallet for decentralized identifiers' (DIDs) management.
 - [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma ORM
 - [old-storyai/blob-uuid](https://github.com/old-storyai/blob-uuid) - Convert Uuid to a url friendly 22 character string blob
 - [mplanchard/cuid-rust](https://github.com/mplanchard/cuid-rust) - Rust implemention of CUID unique IDs
