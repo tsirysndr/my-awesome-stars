@@ -1192,6 +1192,7 @@
 
 ## c 
 
+- [boazsegev/facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [PromyLOPh/pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player
@@ -2545,6 +2546,7 @@
 
 ## docker 
 
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [pocketenv-io/pkgx](https://github.com/pocketenv-io/pkgx) - Deploy a new pkgx workspace on Pocketenv. pkgx is a blazingly fast, standalone, cross‐platform binary that runs anything
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [denzp/cargo-wharf](https://github.com/denzp/cargo-wharf) - Cacheable and efficient Docker images builder for Rust
@@ -3271,6 +3273,7 @@
 
 ## framework 
 
+- [boazsegev/facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -5217,7 +5220,7 @@
 - [grpc/grpc-haskell](https://github.com/grpc/grpc-haskell) - gRPC library binding for Haskell.
 - [input-output-hk/cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [haskell-distributed/distributed-process](https://github.com/haskell-distributed/distributed-process) - Cloud Haskell core library
+- [haskell-distributed/distributed-process](https://github.com/haskell-distributed/distributed-process) - Cloud Haskell core libraries
 - [aviaviavi/legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in Haskell for educational purposes
 - [joelburget/react-haskell](https://github.com/joelburget/react-haskell) - React bindings for Haskell
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
@@ -6032,6 +6035,7 @@
 
 ## json 
 
+- [boazsegev/facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -6487,7 +6491,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [tsirysndr/dotfiles](https://github.com/tsirysndr/dotfiles) - My Personal Dotfiles  🏠 💻 ✨.
 - [tsirysndr/secrets](https://github.com/tsirysndr/secrets) - My Personal Secret Manager, configured with Terraform + Google Secret Manager & Cloudflare Worker Secrets🏠 🔐
 - [tsirysndr/dotfiles-example](https://github.com/tsirysndr/dotfiles-example) - A Minimal Dotfiles example
@@ -6719,6 +6723,7 @@
 
 ## macos 
 
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [letiemble/vagrant-tart](https://github.com/letiemble/vagrant-tart) - Vagrant-tart is a Vagrant plugin that adds a Tart provider to Vagrant, allowing Vagrant to control and provision machines via Tart command line tool.
@@ -7611,6 +7616,9 @@
 
 ## others 
 
+- [RohanVashisht1234/zigistry](https://github.com/RohanVashisht1234/zigistry) - A place where you can find all the libraries that suit your Zig lang needs.
+- [jetzig-framework/jetzig](https://github.com/jetzig-framework/jetzig) - Jetzig is a web framework written in Zig
+- [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
 - [extism/zig-sdk](https://github.com/extism/zig-sdk) - Extism Zig Host SDK
 - [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
 - [allyourcodebase/SDL](https://github.com/allyourcodebase/SDL) - SDL with the build system replaced by Zig
@@ -10445,7 +10453,7 @@
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig.
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 - [silverqx/TinyORM](https://github.com/silverqx/TinyORM) - Modern C++ ORM library
@@ -11468,7 +11476,7 @@
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [capistrano/sshkit](https://github.com/capistrano/sshkit) - A toolkit for deploying code and assets to servers in a repeatable, testable, reliable way.
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [ApidojoHQ/Apidojo-CLI](https://github.com/ApidojoHQ/Apidojo-CLI) - Official CLI companion for the Apidojo platform
@@ -12186,6 +12194,7 @@
 
 ## self-hosted 
 
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [mixel-music/mixel-music](https://github.com/mixel-music/mixel-music) - Build your own music server simply.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -12640,6 +12649,7 @@
 
 ## swift 
 
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [shapehq/tartelet](https://github.com/shapehq/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
 - [vapor/sqlite-kit](https://github.com/vapor/sqlite-kit) - Non-blocking SQLite client library with SQL builder built on SwiftNIO
@@ -12680,6 +12690,7 @@
 
 ## swiftui 
 
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 
 ## symfony 
@@ -13596,6 +13607,8 @@
 
 ## zig 
 
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [ZystemOS/pluto](https://github.com/ZystemOS/pluto) - An x86 kernel written in Zig
 - [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
 - [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal) - Image processing library in Zig
