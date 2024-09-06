@@ -67,6 +67,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [Racket](#racket)
+- [Raku](#raku)
 - [ReScript](#rescript)
 - [Reason](#reason)
 - [Roff](#roff)
@@ -112,6 +113,7 @@
 
 ## C 
 
+- [tsirysndr/rockbox-zig](https://github.com/tsirysndr/rockbox-zig) - Rockbox with the build system replaced by Zig ⚡
 - [boazsegev/facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [allyourcodebase/SDL](https://github.com/allyourcodebase/SDL) - SDL with the build system replaced by Zig
 - [getsentry/sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
@@ -655,7 +657,7 @@
 - [danschultzer/ex_oauth2_provider](https://github.com/danschultzer/ex_oauth2_provider) - Making OAuth 2 provider and authentication with http bearer as simple as possible for Elixir and Phoenix apps
 - [ueberauth/oauth2](https://github.com/ueberauth/oauth2) - An Elixir OAuth 2.0 Client Library
 - [mana-ethereum/ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain 0x063D3d782598744AF1252eBEaf3aA97D990Edf72
-- [sorentwo/oban](https://github.com/sorentwo/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3
+- [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3
 - [elixir-lang/gen_stage](https://github.com/elixir-lang/gen_stage) - Producer and consumer actors with back-pressure for Elixir
 - [pedroassumpcao/incident](https://github.com/pedroassumpcao/incident) - Event Sourcing and CQRS library in Elixir
 - [andreapavoni/disco](https://github.com/andreapavoni/disco) - Simple, opinionated yet flexible library to build CQRS/ES driven systems 🕺
@@ -796,6 +798,7 @@
 
 ## Gleam 
 
+- [lpil/bucket](https://github.com/lpil/bucket) - 
 - [fluentci-demos/fluentci-demo-gleam](https://github.com/fluentci-demos/fluentci-demo-gleam) - A FluentCI demo CI Pipeline using Gleam and Wisp
 - [lpil/pgo](https://github.com/lpil/pgo) - 🐘 Use PostgreSQL databases with PGO
 - [ghivert/sketch](https://github.com/ghivert/sketch) - A CSS-in-Gleam package, made to work with frontend, backend, with your favorite framework!
@@ -2412,7 +2415,6 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [fermyon/spin-kv-explorer](https://github.com/fermyon/spin-kv-explorer) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [golang-cafe/job-board](https://github.com/golang-cafe/job-board) - Golang Cafe - Go job board with no recruiters and clear salary ranges
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [github/hackathons](https://github.com/github/hackathons) - Tips, Tricks, and Resources for running your hackathon.
@@ -2929,7 +2931,7 @@
 - [stoplightio/httpsnippet](https://github.com/stoplightio/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [tsirysndr/mg-explorer-api](https://github.com/tsirysndr/mg-explorer-api) - 
-- [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAw
+- [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). https://x.com/MrAhmadAwais
 - [fauna/fauna-shell](https://github.com/fauna/fauna-shell) - Interactive shell for FaunaDB
 - [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for Fauna v4 (deprecated)
 - [ghengeveld/graphql-geojson](https://github.com/ghengeveld/graphql-geojson) - GraphQL schema object types for GeoJSON
@@ -3730,7 +3732,7 @@
 - [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) - ⚠️ This project moved to a new repository. It is now developed and maintained at: https://github.com/mozilla-mobile/firefox-android
 - [Tapadoo/Alerter](https://github.com/Tapadoo/Alerter) - An Android Alerting Library
 - [Kotlin/kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter) - Kotlin kernel for Jupyter/IPython
-- [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+- [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [corda/corda](https://github.com/corda/corda) - Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contra
@@ -3838,6 +3840,7 @@
 
 ## Nix 
 
+- [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 - [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
@@ -3856,7 +3859,7 @@
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
-- [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@adisbladis]
+- [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
@@ -4474,6 +4477,10 @@
 - [awalterschulze/the-little-typer-exercises](https://github.com/awalterschulze/the-little-typer-exercises) - exercises for the book - the little typer
 - [fractalide/fractalide](https://github.com/fractalide/fractalide) - Reusable Reproducible Composable Software
 
+## Raku 
+
+- [reasonml/reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
+
 ## ReScript 
 
 - [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
@@ -4499,7 +4506,6 @@
 - [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Type-safe styled components for ReScript, Melange and native with type-safe CSS
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [apollographql/reason-apollo](https://github.com/apollographql/reason-apollo) - Reason binding for Apollo Client and React Apollo
-- [reasonml/reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 
 ## Roff 
 
@@ -5031,6 +5037,7 @@
 - [specta-rs/rspc](https://github.com/specta-rs/rspc) - A framework for building typesafe web backends in Rust
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+- [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [denoland/deno_bindgen](https://github.com/denoland/deno_bindgen) - Write high-level Deno FFI libraries in Rust.
 - [scottlamb/retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust
 - [emarsden/dash-mpd-rs](https://github.com/emarsden/dash-mpd-rs) - Rust library for parsing, serializing and downloading media content from a DASH MPD manifest.
@@ -5508,7 +5515,7 @@
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [darwinia-network/darwinia](https://github.com/darwinia-network/darwinia) - Darwinia Chain, EVM+, Polkadot parachain and integrating with XCMP.
 - [stellar/slingshot](https://github.com/stellar/slingshot) - A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety
-- [turbofish-org/orga](https://github.com/turbofish-org/orga) - State machine engine
+- [turbofish-org/orga](https://github.com/turbofish-org/orga) - Deterministic state machine engine written in Rust
 - [ChainSafe/forest](https://github.com/ChainSafe/forest) - 🌲 Rust Filecoin Node Implementation
 - [holochain/holochain](https://github.com/holochain/holochain) - The current, performant & industrial strength version of Holochain on Rust.
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes
@@ -5635,7 +5642,7 @@
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
 - [AmbireTech/adex-protocol-substrate](https://github.com/AmbireTech/adex-protocol-substrate) - Substrate implementation of the AdEx Protocol v4: OUTPACE & Registry
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [poanetwork/hbbft](https://github.com/poanetwork/hbbft) - An implementation of the paper "Honey Badger of BFT Protocols" in Rust. This is a modular library of consensus.
 - [omni/poa-bridge](https://github.com/omni/poa-bridge) - POA &lt;-&gt; Ethereum bridge for self transfers of POA native token to POA20 (ERC20 representation). Not supported. Use TokenBridge instead
@@ -5907,6 +5914,7 @@
 
 ## Starlark 
 
+- [aherrmann/rules_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
 - [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
 - [fluentci-demos/fluentci-demo-buck](https://github.com/fluentci-demos/fluentci-demo-buck) - A FluentCI demo CI Pipeline using Buck2
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
@@ -5993,6 +6001,9 @@
 
 ## TypeScript 
 
+- [meltylabs/melty](https://github.com/meltylabs/melty) - Open source AI code editor. To download the packaged app:
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [tiktok/sparo](https://github.com/tiktok/sparo) - Sparo optimizes performance of Git operations for your large frontend monorepo.
 - [RohanVashisht1234/zigistry](https://github.com/RohanVashisht1234/zigistry) - A place where you can find all the libraries that suit your Zig lang needs.
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [fluentci-demos/fluentci-demo-deno](https://github.com/fluentci-demos/fluentci-demo-deno) - A FluentCI Demo for Deno
@@ -6453,7 +6464,7 @@
 - [paritytech/txwrapper-core](https://github.com/paritytech/txwrapper-core) - Tools for FRAME chain builders to publish chain specific offline transaction generation libraries.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [cawfree/create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp) - Your next Ethereum application starts here. ⚛️  💪  🦄
@@ -6548,7 +6559,7 @@
 - [typescript-eslint/tslint-to-eslint-config](https://github.com/typescript-eslint/tslint-to-eslint-config) - Converts your TSLint configuration to the closest possible ESLint equivalent. 🚀
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-- [getsentry/sentry-react-native](https://github.com/getsentry/sentry-react-native) - Official Sentry SDK for React-Native
+- [getsentry/sentry-react-native](https://github.com/getsentry/sentry-react-native) - Official Sentry SDK for React Native
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [grafoojs/grafoo](https://github.com/grafoojs/grafoo) - A GraphQL Client and Toolkit
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
@@ -6971,7 +6982,7 @@
 - [extism/zig-sdk](https://github.com/extism/zig-sdk) - Extism Zig Host SDK
 - [ZystemOS/pluto](https://github.com/ZystemOS/pluto) - An x86 kernel written in Zig
 - [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal) - Image processing library in Zig
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal) - Image processing library
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - a protobuf 3 implementation for zig.
 - [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig
