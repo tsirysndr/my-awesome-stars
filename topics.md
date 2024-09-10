@@ -893,7 +893,7 @@
 
 ## backend 
 
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
@@ -2071,7 +2071,7 @@
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [vapor/sqlite-kit](https://github.com/vapor/sqlite-kit) - Non-blocking SQLite client library with SQL builder built on SwiftNIO
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
 - [xataio/client-ts](https://github.com/xataio/client-ts) - Xata.io SDK for TypeScript and JavaScript
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -2443,7 +2443,7 @@
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [fluentci-io/flipt-plugin](https://github.com/fluentci-io/flipt-plugin) - Set up your CI/CD Pipeline with a specific version of Flipt
 - [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync.
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids 🦀  |  manage and share multiple k8s port forwards - with support for UDP, proxy through the k8s cluster, and github state sync.
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [fluentci-io/fluentci-engine](https://github.com/fluentci-io/fluentci-engine) - Programmable CI/CD engine without Containers, written in Rust, built on top of Wasm and Nix ❄️
@@ -6101,7 +6101,7 @@
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [jfilipczyk/gomatch](https://github.com/jfilipczyk/gomatch) - Library created for testing JSON against patterns.
-- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
+- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package for querying over JSON, YAML, XML, and CSV data.
 - [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) - The jsonrpc package helps implement of JSON-RPC 2.0
 - [WeeJeWel/decoravit](https://github.com/WeeJeWel/decoravit) - Beautiful code beautifier — App for macOS
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -6191,7 +6191,7 @@
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync.
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids 🦀  |  manage and share multiple k8s port forwards - with support for UDP, proxy through the k8s cluster, and github state sync.
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [xigxog/kubefox](https://github.com/xigxog/kubefox) - Simplifying Kubernetes.
@@ -7629,6 +7629,7 @@
 
 ## others 
 
+- [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [ZigEmbeddedGroup/libusb](https://github.com/ZigEmbeddedGroup/libusb) - libusb with batteries...build.zig included
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
@@ -7724,7 +7725,7 @@
 - [fluentci-io/vfox-plugin](https://github.com/fluentci-io/vfox-plugin) - A CI/CD Plugin for vfox
 - [fluentci-io/mise-plugin](https://github.com/fluentci-io/mise-plugin) - A CI/CD Plugin for mise
 - [fluentci-io/ssh-plugin](https://github.com/fluentci-io/ssh-plugin) - CI Plugin to execute commands on a remote host through SSH.
-- [slp/krun](https://github.com/slp/krun) - krun - run programs from your system in a microVM
+- [AsahiLinux/krun](https://github.com/AsahiLinux/krun) - krun - run programs from your system in a microVM
 - [fluentci-io/shell-plugin](https://github.com/fluentci-io/shell-plugin) - This plugin allows you to run shell commands in your FluentCI pipeline.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [megaeth-labs/evmone-compiler](https://github.com/megaeth-labs/evmone-compiler) - EVM ahead-of-time compiler based on the fast evmone interpreter
@@ -11547,10 +11548,10 @@
 - [fluentci-io/sqruff-plugin](https://github.com/fluentci-io/sqruff-plugin) - Set up your CI/CD Pipeline with sqruff installed
 - [fluentci-io/sqlfluff-plugin](https://github.com/fluentci-io/sqlfluff-plugin) - Set up sqlfluff in your CI/CD Pipeline
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync.
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids 🦀  |  manage and share multiple k8s port forwards - with support for UDP, proxy through the k8s cluster, and github state sync.
 - [StellateHQ/graphql-query](https://github.com/StellateHQ/graphql-query) - Stupendously fast and easy GraphQL Execution Language parsing and printing in Rust.
 - [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
 - [matklad/once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
 - [sile/wstcp](https://github.com/sile/wstcp) - WebSocket to TCP proxy written in Rust
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
@@ -12974,10 +12975,10 @@
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync.
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids 🦀  |  manage and share multiple k8s port forwards - with support for UDP, proxy through the k8s cluster, and github state sync.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
