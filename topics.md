@@ -935,7 +935,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [wobsoriano/bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -1410,7 +1410,7 @@
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [wobsoriano/bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [gaetan1903/tononkira](https://github.com/gaetan1903/tononkira) - A simple python wrapper for https://tononkira.serasera.org
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
@@ -5766,7 +5766,7 @@
 - [KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [oven-sh/bun-types](https://github.com/oven-sh/bun-types) - TypeScript type definitions for Bun's JavaScript runtime APIs
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [crayon-js/crayon](https://github.com/crayon-js/crayon) - 🖍️ Terminal styling done light and fast.
@@ -7378,7 +7378,7 @@
 - [oweitman/ioBroker.squeezeboxrpc](https://github.com/oweitman/ioBroker.squeezeboxrpc) - This is an alternative Adapter that uses the JSON/RPC-Protokoll to get data and send commands to the Logitech Media Server.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [oven-sh/bun-types](https://github.com/oven-sh/bun-types) - TypeScript type definitions for Bun's JavaScript runtime APIs
 - [crayon-js/crayon](https://github.com/crayon-js/crayon) - 🖍️ Terminal styling done light and fast.
 - [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
@@ -7687,6 +7687,9 @@
 
 ## others 
 
+- [gleam-lang/cookbook](https://github.com/gleam-lang/cookbook) - 👩🏾‍🍳 How to do many things in Gleam
+- [Gabriella439/haskell-flake](https://github.com/Gabriella439/haskell-flake) - Flake template for Haskell repository
+- [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
 - [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal
 - [ije/html](https://github.com/ije/html) - Create `text/html` response with JSX.
 - [denoland/roll-your-own-javascript-runtime](https://github.com/denoland/roll-your-own-javascript-runtime) - 
@@ -11597,6 +11600,7 @@
 
 ## rust 
 
+- [veeso/suppaftp](https://github.com/veeso/suppaftp) - a super FTP/FTPS client library for Rust with support for both passive and active mode
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
@@ -12446,7 +12450,7 @@
 - [Trendyol/docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [wobsoriano/bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
