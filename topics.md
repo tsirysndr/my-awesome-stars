@@ -4839,6 +4839,7 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [tsirysndr/repl](https://github.com/tsirysndr/repl) - Simple extensible REPL Command Line Tool. With auto-complete, history and auto-install, no more `bash: cmd: command not found` 💻 🚀✨
@@ -9022,7 +9023,7 @@
 - [antihax/optional](https://github.com/antihax/optional) - optional parameters for go
 - [diem/client-sdk-go](https://github.com/diem/client-sdk-go) - The Go Client SDK for Diem
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
-- [CosmWasm/wasmvm](https://github.com/CosmWasm/wasmvm) - Go bindings to the running cosmwasm contracts with wasmer
+- [CosmWasm/wasmvm](https://github.com/CosmWasm/wasmvm) - Go bindings to the CosmWasm VM
 - [marqeta/marqeta-python](https://github.com/marqeta/marqeta-python) - Marqeta Python SDK
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [rancher/wrangler](https://github.com/rancher/wrangler) - Write controllers like a boss
