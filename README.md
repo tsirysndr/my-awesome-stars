@@ -295,6 +295,7 @@
 - [facebookincubator/nimble](https://github.com/facebookincubator/nimble) - New file format for storage of large columnar datasets.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [dp-mason/BD-synCret](https://github.com/dp-mason/BD-synCret) - An embedded VCV Rack Wasm host powered by Extism
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -923,7 +924,6 @@
 - [extism/go-pdk](https://github.com/extism/go-pdk) - Extism Plug-in Development Kit (PDK) for Go
 - [extism/cli](https://github.com/extism/cli) - The extism CLI is used to generate plugin scaffolding and manage Extism installations
 - [extism/extism-pql](https://github.com/extism/extism-pql) - RunReveal's PQL compiler as an Extism plugin.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [opencontainers/go-digest](https://github.com/opencontainers/go-digest) - Common digest package used across the container ecosystem
 - [xigxog/kubefox](https://github.com/xigxog/kubefox) - Simplifying Kubernetes.
@@ -1827,7 +1827,7 @@
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
-- [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
+- [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs
 - [cep21/circuit](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [Symantec/keymaster](https://github.com/Symantec/keymaster) - Short term certificate based identity system (ssh/x509 ca + openidc)
 - [cloudflare/certmgr](https://github.com/cloudflare/certmgr) - Automated certificate management using a CFSSL CA.
@@ -2678,6 +2678,7 @@
 
 ## JavaScript 
 
+- [twobin/react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
 - [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
@@ -2945,7 +2946,6 @@
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [tsirysndr/mg-explorer-api](https://github.com/tsirysndr/mg-explorer-api) - 
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). https://x.com/MrAhmadAwais
-- [fauna/fauna-shell](https://github.com/fauna/fauna-shell) - Interactive shell for FaunaDB
 - [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for Fauna v4 (deprecated)
 - [ghengeveld/graphql-geojson](https://github.com/ghengeveld/graphql-geojson) - GraphQL schema object types for GeoJSON
 - [mbostock/shapefile](https://github.com/mbostock/shapefile) - A cross-platform streaming parser for the ESRI Shapefile spatial data format.
@@ -3906,6 +3906,7 @@
 
 ## OCaml 
 
+- [zth/resgraph](https://github.com/zth/resgraph) - Build implementation-first GraphQL servers in ReScript
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason
@@ -6034,6 +6035,7 @@
 
 ## TypeScript 
 
+- [captbaritone/grats](https://github.com/captbaritone/grats) - Implementation-First GraphQL for TypeScript
 - [Kampouse/study-hack](https://github.com/Kampouse/study-hack) - learn togther on the go !
 - [cmackenzie1/tfstate-worker](https://github.com/cmackenzie1/tfstate-worker) - A Terraform HTTP Backend built using Cloudflare Workers with locking support!
 - [7PH/poweraudio](https://github.com/7PH/poweraudio) - Innovative audio visualization library
@@ -6634,6 +6636,7 @@
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [safe-global/safe-smart-account](https://github.com/safe-global/safe-smart-account) - Safe allows secure management of blockchain assets.
+- [fauna/fauna-shell](https://github.com/fauna/fauna-shell) - Interactive shell for FaunaDB
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
