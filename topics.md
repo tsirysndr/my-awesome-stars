@@ -365,7 +365,7 @@
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [fluent-ci-templates/android-pipeline](https://github.com/fluent-ci-templates/android-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Android projects
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [rust-mobile/ndk](https://github.com/rust-mobile/ndk) - Rust bindings to the Android NDK
@@ -531,7 +531,7 @@
 - [j03-dev/bus_antsirabe_api](https://github.com/j03-dev/bus_antsirabe_api) - Antsirabe bus API
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!
@@ -1400,7 +1400,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [tsirysndr/music-player](https://github.com/tsirysndr/music-player) - An extensible music server written in Rust 🚀🎵✨
 - [tsirysndr/genius-cli](https://github.com/tsirysndr/genius-cli) - Search lyrics or song metadata from your terminal
 - [tsirysndr/kickasstorrent](https://github.com/tsirysndr/kickasstorrent) - A command-line tool for KickassTorrents
@@ -2310,6 +2310,7 @@
 - [tsirysndr/repl](https://github.com/tsirysndr/repl) - Simple extensible REPL Command Line Tool. With auto-complete, history and auto-install, no more `bash: cmd: command not found` 💻 🚀✨
 - [fluent-ci-templates/trivy-pipeline](https://github.com/fluent-ci-templates/trivy-pipeline) - A ready-to-use CI/CD Pipeline for scanning vulnerabilities using Trivy.
 - [fluent-ci-templates/snyk-pipeline](https://github.com/fluent-ci-templates/snyk-pipeline) - A ready-to-use CI/CD Pipeline for scanning vulnerabilities in your project with Snyk.
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [fluent-ci-templates/pulumi-pipeline](https://github.com/fluent-ci-templates/pulumi-pipeline) - A ready-to-use CI/CD Pipeline for managing your infrastructure with Pulumi
 - [fluent-ci-templates/buck-pipeline](https://github.com/fluent-ci-templates/buck-pipeline) - A ready-to-use Pipeline for Buck projects.
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
@@ -3474,7 +3475,7 @@
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
@@ -4812,6 +4813,7 @@
 - [elixirs/faker](https://github.com/elixirs/faker) - Faker is a pure Elixir library for generating fake data.
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+- [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [xataio/client-ts](https://github.com/xataio/client-ts) - Xata.io SDK for TypeScript and JavaScript
@@ -4907,6 +4909,7 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 - [goatandsheep/react-native-dotenv](https://github.com/goatandsheep/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
@@ -4982,6 +4985,7 @@
 - [EmbarkStudios/physx-rs](https://github.com/EmbarkStudios/physx-rs) - 🎳 Rust binding for NVIDIA PhysX 🦀
 - [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
@@ -5011,6 +5015,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -5481,7 +5486,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [xmtp/xmtp-ios](https://github.com/xmtp/xmtp-ios) - XMTP client SDK for iOS applications written in Swift.
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [insidegui/ChromeCastCore](https://github.com/insidegui/ChromeCastCore) - An open source implementation of the Google Cast SDK for macOS
@@ -7051,6 +7056,7 @@
 
 ## music 
 
+- [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [7PH/poweraudio](https://github.com/7PH/poweraudio) - Innovative audio visualization library
 - [electro-smith/DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful DSP Library in C++
 - [tsirysndr/rockbox-zig](https://github.com/tsirysndr/rockbox-zig) - This project brings modern enhancements to the classic Rockbox firmware, using Zig and Rust for improved performance and maintainability ⚡ 🦀
@@ -7239,7 +7245,7 @@
 - [MarsX-dev/devhunt](https://github.com/MarsX-dev/devhunt) - A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase your
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [sst/sst](https://github.com/sst/sst) - SST v2
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
@@ -7565,7 +7571,7 @@
 ## nosql 
 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [vapor/fluent](https://github.com/vapor/fluent) - Vapor ORM (queries, models, and relations) for NoSQL and SQL databases
@@ -7640,7 +7646,7 @@
 - [MarsX-dev/devhunt](https://github.com/MarsX-dev/devhunt) - A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase your
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
@@ -7730,6 +7736,9 @@
 
 ## others 
 
+- [github/release-radar](https://github.com/github/release-radar) - Repo for submission of projects to consider for the GitHub Release Radar 📡
+- [Rafostar/clapper](https://github.com/Rafostar/clapper) - Level up your video experience with a modern and user-friendly media player.
+- [gleam-lang/zed-gleam](https://github.com/gleam-lang/zed-gleam) - 
 - [zth/resgraph](https://github.com/zth/resgraph) - Build implementation-first GraphQL servers in ReScript
 - [Kampouse/study-hack](https://github.com/Kampouse/study-hack) - learn togther on the go !
 - [moondance-labs/tanssi](https://github.com/moondance-labs/tanssi) - 
@@ -10716,7 +10725,7 @@
 
 ## pwa 
 
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [alibaba/rax](https://github.com/alibaba/rax) - 🐰 Rax is a progressive framework for building universal application. https://rax.js.org
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
@@ -11004,7 +11013,7 @@
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
@@ -12429,7 +12438,7 @@
 - [upstash/redis-js](https://github.com/upstash/redis-js) - HTTP based Redis Client for Serverless and Edge Functions
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [sst/sst](https://github.com/sst/sst) - SST v2
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
@@ -12621,7 +12630,7 @@
 - [bytebase/sql-review-action](https://github.com/bytebase/sql-review-action) - The GitHub Action for SQL Review.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
 - [rahmanfadhil/cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for Deno
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [vapor/postgres-kit](https://github.com/vapor/postgres-kit) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 - [vapor/sql-kit](https://github.com/vapor/sql-kit) - *️⃣ Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
@@ -13171,7 +13180,7 @@
 - [tsirysndr/repl](https://github.com/tsirysndr/repl) - Simple extensible REPL Command Line Tool. With auto-complete, history and auto-install, no more `bash: cmd: command not found` 💻 🚀✨
 - [fluent-ci-templates/trivy-pipeline](https://github.com/fluent-ci-templates/trivy-pipeline) - A ready-to-use CI/CD Pipeline for scanning vulnerabilities using Trivy.
 - [fluent-ci-templates/snyk-pipeline](https://github.com/fluent-ci-templates/snyk-pipeline) - A ready-to-use CI/CD Pipeline for scanning vulnerabilities in your project with Snyk.
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [fluent-ci-templates/pulumi-pipeline](https://github.com/fluent-ci-templates/pulumi-pipeline) - A ready-to-use CI/CD Pipeline for managing your infrastructure with Pulumi
 - [fluent-ci-templates/buck-pipeline](https://github.com/fluent-ci-templates/buck-pipeline) - A ready-to-use Pipeline for Buck projects.
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
@@ -13558,7 +13567,7 @@
 - [extism/js-sdk](https://github.com/extism/js-sdk) - Run Extism WebAssembly plug-ins / functions from JavaScript (supports major browsers, Node.js, Deno, Bun, and Cloudflare Workers)
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
+- [elsoul/skeet](https://github.com/elsoul/skeet) - Skeet: Edge-Native Web Framework
 - [prose-im/prose-app-web](https://github.com/prose-im/prose-app-web) - Prose Web application. XMPP client for team messaging.
 - [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
@@ -13666,6 +13675,7 @@
 ## webpack 
 
 - [open-source-labs/Recoilize](https://github.com/open-source-labs/Recoilize) - A Chrome Dev tool for debugging applications built with the experimental Recoil.js state management library.
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
