@@ -279,7 +279,6 @@
 ## C++ 
 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [electro-smith/DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful DSP Library in C++
 - [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang) - The official implementation library for the hypr config language.
 - [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
@@ -1120,7 +1119,7 @@
 - [openairplay/goplay2](https://github.com/openairplay/goplay2) - Airplay 2 Receiver written in Go
 - [stackb/rules_proto](https://github.com/stackb/rules_proto) - Bazel build rules for protobuf / gRPC (now with gazelle)
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
-- [crossplane-contrib/provider-upjet-aws](https://github.com/crossplane-contrib/provider-upjet-aws) - Official AWS Provider for Crossplane by Upbound.
+- [crossplane-contrib/provider-upjet-aws](https://github.com/crossplane-contrib/provider-upjet-aws) - AWS Provider for Crossplane.
 - [aurae-runtime/ae](https://github.com/aurae-runtime/ae) - Unix inspired command line client for Aurae
 - [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
 - [honeycombio/libhoney-go](https://github.com/honeycombio/libhoney-go) - Go library for sending data to Honeycomb
@@ -1371,7 +1370,7 @@
 - [twitchtv/circuitgen](https://github.com/twitchtv/circuitgen) - 
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
 - [spiffe/go-spiffe](https://github.com/spiffe/go-spiffe) - Golang library for SPIFFE support
-- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
+- [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [go-masonry/mortar](https://github.com/go-masonry/mortar) - Mortar is a GO framework/library for building gRPC (and REST) web services.
 - [oleiade/lane](https://github.com/oleiade/lane) - Generic PriorityQueues, Queues, Stacks, and Deque data structures for Go
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
@@ -1818,7 +1817,7 @@
 - [puppetlabs-toy-chest/wash](https://github.com/puppetlabs-toy-chest/wash) - Wide Area SHell: a cloud-native shell for bringing remote infrastructure to your terminal.
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
+- [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
 - [labstack/tunnel-client](https://github.com/labstack/tunnel-client) - Expose local servers to the internet securely
@@ -1859,8 +1858,8 @@
 - [nwtgck/go-fakelish](https://github.com/nwtgck/go-fakelish) - Fake English word generator for Go and CLI
 - [s4kibs4mi/awesome-twirp](https://github.com/s4kibs4mi/awesome-twirp) - Example project using Twirp
 - [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) - A bazel BUILD file formatter and editor
-- [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-- [bazelbuild/rules_go](https://github.com/bazelbuild/rules_go) - Go rules for Bazel
+- [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+- [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) - Go rules for Bazel
 - [emicklei/proto](https://github.com/emicklei/proto) - parser for Google ProtocolBuffers definition
 - [jhump/protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
@@ -2680,6 +2679,7 @@
 
 ## JavaScript 
 
+- [Rafostar/playercast](https://github.com/Rafostar/playercast) - Cast to media player and control playback remotely.
 - [twobin/react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
 - [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
@@ -2740,7 +2740,7 @@
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [rehypejs/rehype-raw](https://github.com/rehypejs/rehype-raw) - plugin to parse the tree again
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
-- [cloudflare/pages-action](https://github.com/cloudflare/pages-action) - 
+- [cloudflare/pages-action](https://github.com/cloudflare/pages-action) - 🛑 DEPRECATED, please use wrangler-action
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [mojaloop/account-lookup-service](https://github.com/mojaloop/account-lookup-service) - ALS - Account Lookup Service for the central switch
 - [rovelstars/reejs](https://github.com/rovelstars/reejs) - Make Sites Faster, without the need of building anything!
@@ -4241,6 +4241,7 @@
 
 ## Python 
 
+- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [daytonaio/devcontainer-generator](https://github.com/daytonaio/devcontainer-generator) - devcontainer.ai - AI generated standardized dev environments
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -4597,6 +4598,7 @@
 
 ## Rust 
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [gleam-lang/zed-gleam](https://github.com/gleam-lang/zed-gleam) - 
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight ORM library for Rust ⛵
 - [moondance-labs/tanssi](https://github.com/moondance-labs/tanssi) - 
@@ -5156,6 +5158,7 @@
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [jacobstern/music-player](https://github.com/jacobstern/music-player) - An extensible music server written in Rust 🚀🎵✨
 - [JonasKruckenberg/tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL
+- [teller-protocol/teller-protocol-v2](https://github.com/teller-protocol/teller-protocol-v2) - 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavi
 - [zeitgeistpm/zeitgeist](https://github.com/zeitgeistpm/zeitgeist) - An evolving blockchain for prediction markets and futarchy.
@@ -5439,7 +5442,7 @@
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [NodleCode/chain](https://github.com/NodleCode/chain) - A repo for the Nodle blockchain node ⛓
 - [sile/rustracing_jaeger](https://github.com/sile/rustracing_jaeger) - Jaeger tracing library for Rust
-- [bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost) - One Stake, Endless Opportunities. Build with Polkadot SDK (Substrate).
+- [bifrost-io/bifrost](https://github.com/bifrost-io/bifrost) - One Stake, Endless Opportunities. Build with Polkadot SDK (Substrate).
 - [dusk-network/rusk-vm](https://github.com/dusk-network/rusk-vm) - The Dusk Rust WASM VM implementation
 - [centrifuge/centrifuge-chain](https://github.com/centrifuge/centrifuge-chain) - Centrifuge Chain: the layer-1 blockchain for real-world assets, built on Substrate.
 - [apollographql/router](https://github.com/apollographql/router) - A configurable, high-performance routing runtime for Apollo Federation 🚀
@@ -5941,7 +5944,6 @@
 
 - [thesellouts/sellout](https://github.com/thesellouts/sellout) - sold out shows.
 - [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash (WIP)
-- [teller-protocol/teller-protocol-v2](https://github.com/teller-protocol/teller-protocol-v2) - 
 - [celo-org/celo-monorepo](https://github.com/celo-org/celo-monorepo) - Official repository for core projects comprising the Celo platform
 - [teller-protocol/teller-protocol-v1](https://github.com/teller-protocol/teller-protocol-v1) - Teller is a lending and undercollateralized borrowing protocol on the Ethereum blockchain. Teller is the first protocol to allow zero collateral borrowing for greater than one block.
 - [mattdf/payment-channel](https://github.com/mattdf/payment-channel) - Ethereum Payment Channel in 50 lines of code
@@ -6126,7 +6128,7 @@
 - [oxitools/result](https://github.com/oxitools/result) - 
 - [letsila/hello-dagger](https://github.com/letsila/hello-dagger) - Dagger Quickstart - Example Application
 - [tsirysndr/me](https://github.com/tsirysndr/me) - This is my personal website
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [tsirysndr/exit-js](https://github.com/tsirysndr/exit-js) - Provides an `exit()` function that works with Deno, Bun and Node.js
 - [tsirysndr/env-js](https://github.com/tsirysndr/env-js) - Get environment variables in Deno, Bun and Node.js
 - [jsr-io/jsr-npm](https://github.com/jsr-io/jsr-npm) - A cli tool to make installing packages form jsr.io in node easy
@@ -6666,7 +6668,7 @@
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
-- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
+- [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [nats-io/nats.ts](https://github.com/nats-io/nats.ts) - TypeScript Node.js client for NATS, the cloud native messaging system
