@@ -99,7 +99,7 @@
 
 ## Astro 
 
-- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs.
+- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
 - [denoland/deno-astro-template](https://github.com/denoland/deno-astro-template) - Template repo for an Astro site, preconfigured to run with Deno and Deno Deploy
 
 ## Ballerina 
@@ -1259,7 +1259,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [BenderScript/envoybigbook](https://github.com/BenderScript/envoybigbook) - Envoy Proxy Big Book of Examples
 - [dusk-network/dusk-blockchain](https://github.com/dusk-network/dusk-blockchain) - Reference implementation of the DUSK Network node, written in Golang
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [hashicorp/consul-api-gateway](https://github.com/hashicorp/consul-api-gateway) - The Consul API Gateway is a dedicated ingress solution for intelligently routing traffic to applications running on a Consul Service Mesh.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
@@ -4241,6 +4241,7 @@
 
 ## Python 
 
+- [mopidy/mopidy-mpd](https://github.com/mopidy/mopidy-mpd) - Mopidy extension for controlling playback from MPD clients
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [daytonaio/devcontainer-generator](https://github.com/daytonaio/devcontainer-generator) - devcontainer.ai - AI generated standardized dev environments
@@ -4326,7 +4327,7 @@
 - [google/pica](https://github.com/google/pica) - 
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
-- [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory consolidates user, resource, and configuration data from your cloud environments into a unified, graph-based asset inventory.
+- [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [flesniak/python-prodj-link](https://github.com/flesniak/python-prodj-link) - A python interface to Pioneer ProDJ Link
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
@@ -4598,6 +4599,8 @@
 
 ## Rust 
 
+- [shssoichiro/sqlformat-rs](https://github.com/shssoichiro/sqlformat-rs) - SQL Formatter written in Rust
+- [mierak/rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [gleam-lang/zed-gleam](https://github.com/gleam-lang/zed-gleam) - 
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight ORM library for Rust ⛵
@@ -5011,7 +5014,7 @@
 - [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix) - Single dependency Kubernetes clusters for local testing, experimenting and development
 - [moonbeam-foundation/frontier](https://github.com/moonbeam-foundation/frontier) - Ethereum compatibility layer for Substrate.
 - [containers/oci-spec-rs](https://github.com/containers/oci-spec-rs) - OCI Runtime, Image and Distribution Spec in Rust
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [Supercolony-net/openbrush-contracts](https://github.com/Supercolony-net/openbrush-contracts) - 
 - [inkdevhub/dex](https://github.com/inkdevhub/dex) - ink! DEX unaudited full implementation
 - [Byron/open-rs](https://github.com/Byron/open-rs) - Open a path or URL with the system-defined program
@@ -5548,7 +5551,7 @@
 - [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust
 - [PumpkinDB/PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Immutable Ordered Key-Value Database Engine
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [valeth/javelin](https://github.com/valeth/javelin) - [Mirror] RTMP streaming server written in Rust
+- [valeth/javelin](https://github.com/valeth/javelin) - [Mirror] A simple streaming server
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [arkworks-rs/marlin](https://github.com/arkworks-rs/marlin) - A Rust library for the Marlin preprocessing zkSNARK
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
@@ -6128,7 +6131,7 @@
 - [oxitools/result](https://github.com/oxitools/result) - 
 - [letsila/hello-dagger](https://github.com/letsila/hello-dagger) - Dagger Quickstart - Example Application
 - [tsirysndr/me](https://github.com/tsirysndr/me) - This is my personal website
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [tsirysndr/exit-js](https://github.com/tsirysndr/exit-js) - Provides an `exit()` function that works with Deno, Bun and Node.js
 - [tsirysndr/env-js](https://github.com/tsirysndr/env-js) - Get environment variables in Deno, Bun and Node.js
 - [jsr-io/jsr-npm](https://github.com/jsr-io/jsr-npm) - A cli tool to make installing packages form jsr.io in node easy
@@ -6548,7 +6551,7 @@
 - [paritytech/canvas-ui](https://github.com/paritytech/canvas-ui) - Basic Polkadot/Substrate UI for interacting with a node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol
-- [dooboolab-community/react-native-iap](https://github.com/dooboolab-community/react-native-iap) - In App Purchase module for React Native!
+- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
 - [graphql-nexus/nexus-prisma](https://github.com/graphql-nexus/nexus-prisma) - Prisma plugin for Nexus
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
