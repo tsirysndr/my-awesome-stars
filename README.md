@@ -406,7 +406,7 @@
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [ewasm/hera](https://github.com/ewasm/hera) - Hera: Ewasm virtual machine conforming to the EVMC API
 - [gearman/gearmand](https://github.com/gearman/gearmand) - 
-- [hyperledger-archives/iroha](https://github.com/hyperledger-archives/iroha) - Iroha - A simple, decentralized ledger
+- [hyperledger-iroha/iroha-dco](https://github.com/hyperledger-iroha/iroha-dco) - Iroha - A simple, decentralized ledger
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [facebook/openr](https://github.com/facebook/openr) - Distributed platform for building autonomic network functions.
 - [facebook/fatal](https://github.com/facebook/fatal) - Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping 
@@ -912,7 +912,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
-- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
@@ -1072,7 +1071,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
@@ -5497,7 +5496,7 @@
 - [interledger/interledger-rs](https://github.com/interledger/interledger-rs) - An easy-to-use, high-performance Interledger implementation written in Rust
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
 - [blackbeam/mysql_async](https://github.com/blackbeam/mysql_async) - Asyncronous Rust Mysql driver based on Tokio.
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
@@ -5960,6 +5959,7 @@
 - [aherrmann/rules_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
 - [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
 - [fluentci-demos/fluentci-demo-buck](https://github.com/fluentci-demos/fluentci-demo-buck) - A FluentCI demo CI Pipeline using Buck2
+- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [facebook/buck2-prelude](https://github.com/facebook/buck2-prelude) - Prelude for the Buck2 project
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
@@ -6183,7 +6183,7 @@
 - [fluent-ci-templates/gitleaks-pipeline](https://github.com/fluent-ci-templates/gitleaks-pipeline) - A ready-to-use CI/CD Pipeline for detecting secrets in your code using Gitleaks
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both brow
-- [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
+- [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - incredible for web, but also for native. No Metro, just a single Vite plugin.
 - [fluentci-io/codegen](https://github.com/fluentci-io/codegen) - Typescript (Deno) code generator used by all Fluent CI / Dagger Modules
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [bevry/envfile](https://github.com/bevry/envfile) - Parse and write environment files with Node.js
@@ -6231,7 +6231,7 @@
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [fluent-ci-templates/deno-client](https://github.com/fluent-ci-templates/deno-client) - A custom version of Dagger SDK JS
 - [hashicorp/terraform-cdk-action](https://github.com/hashicorp/terraform-cdk-action) - The Terraform CDK GitHub Action allows you to run CDKTF as part of your CI/CD workflow
-- [sst/sst](https://github.com/sst/sst) - SST v2
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [tsirysndr/tar](https://github.com/tsirysndr/tar) - 
 - [Code-Hex/firebase-auth-cloudflare-workers](https://github.com/Code-Hex/firebase-auth-cloudflare-workers) - 
 - [deno-library/compress](https://github.com/deno-library/compress) - compress and uncompress for Deno
