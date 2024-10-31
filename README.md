@@ -5192,7 +5192,7 @@
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [CosmWasm/sylvia](https://github.com/CosmWasm/sylvia) - CosmWasm smart contract framework
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
@@ -5473,7 +5473,7 @@
 - [livioribeiro/rusted-cypher](https://github.com/livioribeiro/rusted-cypher) - Rust crate for accessing the cypher endpoint of a neo4j server
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [containers/containrs](https://github.com/containers/containrs) - General purpose container library
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust
 - [async-graphql/examples](https://github.com/async-graphql/examples) - 
 - [apollographql/apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust.
@@ -5693,7 +5693,7 @@
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [poanetwork/hbbft](https://github.com/poanetwork/hbbft) - An implementation of the paper "Honey Badger of BFT Protocols" in Rust. This is a modular library of consensus.
 - [omni/poa-bridge](https://github.com/omni/poa-bridge) - POA &lt;-&gt; Ethereum bridge for self transfers of POA native token to POA20 (ERC20 representation). Not supported. Use TokenBridge instead
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
 - [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap'n Proto for Rust
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
@@ -5802,6 +5802,7 @@
 
 ## Shell 
 
+- [outpaddling/desktop-installer](https://github.com/outpaddling/desktop-installer) - Quickly configure a FreeBSD, NetBSD, or OpenBSD desktop system
 - [gmlewis/spin-moonbit-sdk](https://github.com/gmlewis/spin-moonbit-sdk) - Experimental Spin SDK for the MoonBit programming language.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [ContainerCraft/devcontainer](https://github.com/ContainerCraft/devcontainer) - Cloud Dev & Ops VSCode Devcontainer
@@ -7044,6 +7045,7 @@
 
 ## Zig 
 
+- [ikskuh/ZigAndroidTemplate](https://github.com/ikskuh/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
 - [00JCIV00/cova](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.
 - [Ratakor/zpotify](https://github.com/Ratakor/zpotify) - A CLI for Spotify
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
