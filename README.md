@@ -63,6 +63,7 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [Pkl](#pkl)
 - [PowerShell](#powershell)
 - [Pug](#pug)
 - [PureScript](#purescript)
@@ -137,7 +138,7 @@
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [Afirium/wasmer-zig-api](https://github.com/Afirium/wasmer-zig-api) - Zig bindings for the Wasmer WebAssembly runtime
 - [yglukhov/wasmrt](https://github.com/yglukhov/wasmrt) - 
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
@@ -3746,6 +3747,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [jvns/dns-weekend](https://github.com/jvns/dns-weekend) - Code for Implement DNS in a Weekend
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [manocormen/ranking-universities-2020-world-cs](https://github.com/manocormen/ranking-universities-2020-world-cs) - 
@@ -3941,7 +3943,7 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@Nebucatnetzer]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
 - [tsirysndr/flake-templates](https://github.com/tsirysndr/flake-templates) - A collection of Nix flake templates ❄️
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
@@ -4064,7 +4066,6 @@
 - [WebAssembly/wasi-http](https://github.com/WebAssembly/wasi-http) - 
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [paritytech/json-rpc-interface-spec](https://github.com/paritytech/json-rpc-interface-spec) - 
-- [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
 - [WebAssembly/wasi-io](https://github.com/WebAssembly/wasi-io) - I/O Types proposal for WASI
 - [WebAssembly/wasi-cli](https://github.com/WebAssembly/wasi-cli) - Command-Line Interface (CLI) World for WASI
 - [luckasRanarison/awesome-madagascar](https://github.com/luckasRanarison/awesome-madagascar) - A curated list of Madagascar related projects
@@ -4274,6 +4275,10 @@
 - [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
 - [trizen/trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 
+## Pkl 
+
+- [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
+
 ## PowerShell 
 
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -4358,7 +4363,6 @@
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
-- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
@@ -4447,7 +4451,7 @@
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [egh/spydaap](https://github.com/egh/spydaap) - 
-- [exaile/exaile](https://github.com/exaile/exaile) - :notes: Cross-platform music player
+- [exaile/exaile](https://github.com/exaile/exaile) - 🎶 Cross-platform music player
 - [Unviray/pyplater](https://github.com/Unviray/pyplater) - Build html component with python
 - [mopidy/mopidy-spotify](https://github.com/mopidy/mopidy-spotify) - Mopidy extension for playing music from Spotify
 - [natumbri/mopidy-youtube](https://github.com/natumbri/mopidy-youtube) - Mopidy extension for playing music from YouTube
@@ -4672,6 +4676,7 @@
 
 ## Rust 
 
+- [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Jellyfin music streaming client for the terminal.
 - [OpenZeppelin/openzeppelin-pallet-abstractions](https://github.com/OpenZeppelin/openzeppelin-pallet-abstractions) - 
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
@@ -4692,7 +4697,7 @@
 - [ipqwery/ipapi-rust](https://github.com/ipqwery/ipapi-rust) - Rust bindings for ipquery.io | A free and performant ip address API
 - [gabdube/native-windows-gui](https://github.com/gabdube/native-windows-gui) - A light windows GUI toolkit for rust
 - [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable.
 - [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
@@ -4834,7 +4839,7 @@
 - [open-telemetry/weaver](https://github.com/open-telemetry/weaver) - OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions
 - [StellateHQ/graphql-query](https://github.com/StellateHQ/graphql-query) - Stupendously fast and easy GraphQL Execution Language parsing and printing in Rust.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API.
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [denoland/deno_core](https://github.com/denoland/deno_core) - The core engine at the heart of Deno
 - [matklad/once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
 - [sile/wstcp](https://github.com/sile/wstcp) - WebSocket to TCP proxy written in Rust
@@ -5003,6 +5008,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
 - [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group.
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -6186,6 +6192,8 @@
 
 ## TypeScript 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [pkgxdev/pkgm](https://github.com/pkgxdev/pkgm) - Install `pkgx` packages to `/usr/local`
 - [seemueller-io/manifold-workflow-engine](https://github.com/seemueller-io/manifold-workflow-engine) - for building dynamic, LLM-driven workflows using a region-based execution model
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [jotaijs/jotai-devtools](https://github.com/jotaijs/jotai-devtools) - A powerful toolkit to enhance your development experience with Jotai
@@ -6495,7 +6503,6 @@
 - [planetscale/setup-pscale-action](https://github.com/planetscale/setup-pscale-action) - Setup the PlanetScale CLI for GitHub Actions
 - [tsirysndr/setup-crosup](https://github.com/tsirysndr/setup-crosup) - Set up your GitHub Actions workflow with a specific version of Crosup
 - [pkgxdev/brewkit](https://github.com/pkgxdev/brewkit) - build infra & `$ pkg build`
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 - [denoland/merch](https://github.com/denoland/merch) - The Deno shop!
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
