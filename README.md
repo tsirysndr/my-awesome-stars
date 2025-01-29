@@ -6,6 +6,7 @@
 ## Contents
 
 - [Astro](#astro)
+- [Awk](#awk)
 - [Ballerina](#ballerina)
 - [BitBake](#bitbake)
 - [C](#c)
@@ -104,6 +105,10 @@
 
 - [denoland/deno-astro-template](https://github.com/denoland/deno-astro-template) - Template repo for an Astro site, preconfigured to run with Deno and Deno Deploy
 
+## Awk 
+
+- [mysql2sqlite/mysql2sqlite](https://github.com/mysql2sqlite/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump
+
 ## Ballerina 
 
 - [ballerina-attic/grpc-service](https://github.com/ballerina-attic/grpc-service) - 
@@ -116,6 +121,7 @@
 
 ## C 
 
+- [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [rescript-lang/tree-sitter-rescript](https://github.com/rescript-lang/tree-sitter-rescript) - ReScript parser for Tree-Sitter
@@ -383,7 +389,7 @@
 - [gimesketvirtadieni/slimstreamer](https://github.com/gimesketvirtadieni/slimstreamer) - SlimStreamer is an audio streaming software for Linux with multi-room functionality. SlimStreamer captures audio playback from ALSA and broadcasts it to connected Squeezebox devices (real or ‘virtual’
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [facebookarchive/bistro](https://github.com/facebookarchive/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
-- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
@@ -961,7 +967,7 @@
 - [extism/go-pdk](https://github.com/extism/go-pdk) - Extism Plug-in Development Kit (PDK) for Go
 - [extism/cli](https://github.com/extism/cli) - The extism CLI is used to generate plugin scaffolding and manage Extism installations
 - [extism/extism-pql](https://github.com/extism/extism-pql) - RunReveal's PQL compiler as an Extism plugin.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [opencontainers/go-digest](https://github.com/opencontainers/go-digest) - Common digest package used across the container ecosystem
 - [xigxog/kubefox](https://github.com/xigxog/kubefox) - Simplifying Kubernetes.
@@ -2722,6 +2728,8 @@
 
 ## JavaScript 
 
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
+- [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
 - [w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki) - The source of truth for Polkadot.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [moonbeam-foundation/moonbeam-docs](https://github.com/moonbeam-foundation/moonbeam-docs) - Documentation for the Moonbeam project
@@ -3104,7 +3112,7 @@
 - [mcollina/msgpack5](https://github.com/mcollina/msgpack5) - A msgpack v5 implementation for node.js, with extension points / msgpack.org[Node]
 - [creationix/msgpack-js](https://github.com/creationix/msgpack-js) - The msgpack protocol implemented in pure javascript.
 - [0xProject/0x-launch-kit](https://github.com/0xProject/0x-launch-kit) - Start an exchange in under a minute
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [sheerun/prettier-standard](https://github.com/sheerun/prettier-standard) - Formats with Prettier and lints with ESLint+Standard! (✿◠‿◠)
 - [FullstackStation/react-native-svg-animated-linear-gradient](https://github.com/FullstackStation/react-native-svg-animated-linear-gradient) - A wrap SVG component for animated linear gradient
 - [kawanet/msgpack-ts](https://github.com/kawanet/msgpack-ts) - TypeScript msgpack encoder and decoder
@@ -3852,6 +3860,7 @@
 
 ## Makefile 
 
+- [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 - [teaxyz/white-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
 - [andrenth/kubecaml](https://github.com/andrenth/kubecaml) - Kubernetes API client for OCaml
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
@@ -4618,6 +4627,7 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [sinatra/sinatra](https://github.com/sinatra/sinatra) - Classy web-development dressed in a DSL (official / canonical repo)
 - [github-community-projects/graphql-client](https://github.com/github-community-projects/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries
 - [fluentci-demos/fluentci-demo-ruby](https://github.com/fluentci-demos/fluentci-demo-ruby) - A FluentCI Demo for Ruby
@@ -5344,7 +5354,7 @@
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming database. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Supports SQL (Postgres-style) and Python
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming database. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Supports SQL and Python.
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
@@ -5623,7 +5633,7 @@
 - [wyyerd/stripe-rs](https://github.com/wyyerd/stripe-rs) - Rust API bindings for the Stripe HTTP API.
 - [ProvableHQ/leo](https://github.com/ProvableHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
-- [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
+- [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) - A zkVM for Decentralized Private Computations (DPC)
 - [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - A pure-Rust implementation of group operations on Ristretto and Curve25519
 - [CosmWasm/cw-template](https://github.com/CosmWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [dusk-network/kelvin](https://github.com/dusk-network/kelvin) - Merkle tree toolkit
@@ -6106,6 +6116,7 @@
 
 ## Starlark 
 
+- [cgrindel/rules_swift_package_manager](https://github.com/cgrindel/rules_swift_package_manager) - Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.
 - [aherrmann/rules_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
 - [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
 - [fluentci-demos/fluentci-demo-buck](https://github.com/fluentci-demos/fluentci-demo-buck) - A FluentCI demo CI Pipeline using Buck2
@@ -6204,6 +6215,7 @@
 
 ## TypeScript 
 
+- [bluesky-social/statusphere-example-app](https://github.com/bluesky-social/statusphere-example-app) - An example atproto application using ExpressJS and Typescript.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [pkgxdev/pkgm](https://github.com/pkgxdev/pkgm) - Install `pkgx` packages to `/usr/local`
@@ -6513,7 +6525,7 @@
 - [open-source-labs/Recoilize](https://github.com/open-source-labs/Recoilize) - A Chrome Dev tool for debugging applications built with the experimental Recoil.js state management library.
 - [planetscale/setup-pscale-action](https://github.com/planetscale/setup-pscale-action) - Setup the PlanetScale CLI for GitHub Actions
 - [tsirysndr/setup-crosup](https://github.com/tsirysndr/setup-crosup) - Set up your GitHub Actions workflow with a specific version of Crosup
-- [pkgxdev/brewkit](https://github.com/pkgxdev/brewkit) - build infra & `$ pkg build`
+- [pkgxdev/brewkit](https://github.com/pkgxdev/brewkit) - build infra & `$ bk build`
 - [denoland/merch](https://github.com/denoland/merch) - The Deno shop!
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
