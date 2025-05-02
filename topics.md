@@ -1118,7 +1118,7 @@
 - [interledger/interledger-rs](https://github.com/interledger/interledger-rs) - An easy-to-use, high-performance Interledger implementation written in Rust
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
 - [bnb-chain/bsc](https://github.com/bnb-chain/bsc) - A BNB Smart Chain client based on the go-ethereum fork
-- [blocknative/web3-onboard](https://github.com/blocknative/web3-onboard) - Client library to onboard users to web3 apps
+- [thirdweb-dev/web3-onboard](https://github.com/thirdweb-dev/web3-onboard) - Client library to onboard users to web3 apps
 - [HydroProtocol/hydro-scaffold-dex](https://github.com/HydroProtocol/hydro-scaffold-dex) - A Decentralized Exchange Scaffold - launch a DEX in minutes
 - [HydroProtocol/ethereum-watcher](https://github.com/HydroProtocol/ethereum-watcher) - make getting updates from blockchain easier
 - [cosmos/ethermint](https://github.com/cosmos/ethermint) - Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
@@ -3262,7 +3262,7 @@
 - [interledger/interledger-rs](https://github.com/interledger/interledger-rs) - An easy-to-use, high-performance Interledger implementation written in Rust
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
 - [bnb-chain/bsc](https://github.com/bnb-chain/bsc) - A BNB Smart Chain client based on the go-ethereum fork
-- [blocknative/web3-onboard](https://github.com/blocknative/web3-onboard) - Client library to onboard users to web3 apps
+- [thirdweb-dev/web3-onboard](https://github.com/thirdweb-dev/web3-onboard) - Client library to onboard users to web3 apps
 - [HydroProtocol/protocol](https://github.com/HydroProtocol/protocol) - Hydro Protocol decentralized exchange smart contracts
 - [HydroProtocol/hydro-scaffold-dex](https://github.com/HydroProtocol/hydro-scaffold-dex) - A Decentralized Exchange Scaffold - launch a DEX in minutes
 - [HydroProtocol/ethereum-watcher](https://github.com/HydroProtocol/ethereum-watcher) - make getting updates from blockchain easier
@@ -8010,6 +8010,8 @@
 
 ## others 
 
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
+- [yuhuacheng/tidal-mcp](https://github.com/yuhuacheng/tidal-mcp) - 
 - [funwarioisii/mcp-rb](https://github.com/funwarioisii/mcp-rb) - A lightweight Ruby framework for building MCP servers with a Sinatra-like DSL
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) - A Model Context Protocol (MCP) server implementation for DuckDB, providing database interaction capabilities
 - [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
@@ -8304,7 +8306,7 @@
 - [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [acj/freebsd-firecracker](https://github.com/acj/freebsd-firecracker) - 
-- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [denoland/deno_core](https://github.com/denoland/deno_core) - The core engine at the heart of Deno
 - [salvoravida/recoil-toolkit](https://github.com/salvoravida/recoil-toolkit) - Helpers for Recoil, the next generation state management library.
