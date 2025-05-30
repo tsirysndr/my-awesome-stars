@@ -394,6 +394,7 @@
 
 ## android 
 
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed music tracker for Last.fm, ListenBrainz, Libre.fm, Maloja, Pleroma or a local file
 - [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
 - [luckasRanarison/mes](https://github.com/luckasRanarison/mes) - A decent multiplateform NES emulator written in Rust
 - [ikskuh/ZigAndroidTemplate](https://github.com/ikskuh/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
@@ -430,7 +431,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [wkh237/react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) - A project committed to making file access and data transfer easier, efficient for React Native developers.
 - [deanhet/react-native-text-ticker](https://github.com/deanhet/react-native-text-ticker) - React Native Text Ticker/Marquee Component
 - [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) - Building Local-First apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView & Elixir!
@@ -961,7 +962,7 @@
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
@@ -1062,9 +1063,10 @@
 
 ## blockchain 
 
+- [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki) - The source of truth for Polkadot.
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
-- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - ethrex: Ethereum Rust Execution L1 and L2 client.
+- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, stable, modular and fast implementation of the Ethereum protocol in Rust
 - [liuchengxu/blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial) - :ear_of_rice: A step-by-step blockchain tutorial in simplified Chinese
 - [cometbft/cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.
 - [lambdaclass/cairo-vm](https://github.com/lambdaclass/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
@@ -2542,7 +2544,7 @@
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [garden-io/garden-action](https://github.com/garden-io/garden-action) - GitHub action to install and prepare Garden, in order to run workflows, tests or deploy to your environments inside GitHub Workflows.
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
 - [installer/instl](https://github.com/installer/instl) - 🤖 Instl is an installation script generator for GitHub projects. It does not need any setup, and can be used to install most GitHub projects on Linux, macOS and Windows.
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
@@ -2811,7 +2813,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [bazelbuild/rules_k8s](https://github.com/bazelbuild/rules_k8s) - This repository contains rules for interacting with Kubernetes configurations / clusters.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
@@ -3233,7 +3235,8 @@
 
 ## ethereum 
 
-- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - ethrex: Ethereum Rust Execution L1 and L2 client.
+- [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
+- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, stable, modular and fast implementation of the Ethereum protocol in Rust
 - [OpenZeppelin/cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) - OpenZeppelin Contracts written in Cairo for Starknet, a decentralized ZK Rollup
 - [sora-xor/sora2-network](https://github.com/sora-xor/sora2-network) - SORA is a new economic system aimed at creating a supranational, world economic system with built-in tools for decentralized finance (DeFi). The SORA network implements a new way of parachain architec
 - [AudiusProject/audius-protocol](https://github.com/AudiusProject/audius-protocol) - The Audius Protocol - Freedom to share, monetize, and listen to any audio content.
@@ -3399,7 +3402,7 @@
 - [Code-Hex/firebase-auth-cloudflare-workers](https://github.com/Code-Hex/firebase-auth-cloudflare-workers) - 
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy) - Automatically deploy shareable previews for your Firebase Hosting sites
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [firebase/fastlane-plugin-firebase_app_distribution](https://github.com/firebase/fastlane-plugin-firebase_app_distribution) - fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution
@@ -3444,7 +3447,7 @@
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
@@ -4219,6 +4222,7 @@
 
 ## golang 
 
+- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - Semaphore is an open source CI/CD platform. Self-host Semaphore on your own servers or on a cloud provider.
 - [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks
@@ -5237,7 +5241,7 @@
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [PMunch/protobuf-nim](https://github.com/PMunch/protobuf-nim) - Protobuf implementation in pure Nim that leverages the power of the macro system to not depend on any external tools
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
@@ -5647,7 +5651,7 @@
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use.
@@ -5697,7 +5701,7 @@
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [wkh237/react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) - A project committed to making file access and data transfer easier, efficient for React Native developers.
 - [deanhet/react-native-text-ticker](https://github.com/deanhet/react-native-text-ticker) - React Native Text Ticker/Marquee Component
 - [jamesisaac/react-native-background-task](https://github.com/jamesisaac/react-native-background-task) - Periodic background tasks for React Native apps, cross-platform (iOS and Android), which run even when the app is closed.
@@ -6047,7 +6051,7 @@
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [houndci/hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [alibaba/rax](https://github.com/alibaba/rax) - 🐰 Rax is a progressive framework for building universal application. https://rax.js.org
 - [codenotary/immudb-node](https://github.com/codenotary/immudb-node) - Node.js SDK for immudb
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -7303,6 +7307,7 @@
 
 ## music 
 
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed music tracker for Last.fm, ListenBrainz, Libre.fm, Maloja, Pleroma or a local file
 - [cometsh/comet](https://github.com/cometsh/comet) - Music streaming on ATProto!
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [espeon/muse](https://github.com/espeon/muse) - music platform
@@ -7372,7 +7377,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [vapor/mysql-nio](https://github.com/vapor/mysql-nio) - 🐬 Non-blocking, event-driven Swift client for MySQL.
 - [vapor/sql-kit](https://github.com/vapor/sql-kit) - *️⃣ Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [blackbeam/rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust.
@@ -7533,7 +7538,7 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [Ovyerus/prismaliser](https://github.com/Ovyerus/prismaliser) - Visualise your Prisma schema!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -8024,6 +8029,9 @@
 
 ## others 
 
+- [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - 
+- [thrumdev/nomt](https://github.com/thrumdev/nomt) - Super-fast Merklized Embedded Key-Value Store for blockchain nodes
+- [tsirysndr/rocksky-docs](https://github.com/tsirysndr/rocksky-docs) - Rocksky API Documentation
 - [tsirysndr/rocksky-connect](https://github.com/tsirysndr/rocksky-connect) - Remote playback control for any local player — inspired by "Spotify Connect".
 - [papertigers/plex-list](https://github.com/papertigers/plex-list) - List Plex activity via a Tautulli (Plexpy) Server
 - [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin.
@@ -8055,11 +8063,10 @@
 - [pilcrowonpaper/atproto-oauth-example](https://github.com/pilcrowonpaper/atproto-oauth-example) - An example implementation of an AT Protocol (BlueSky) OAuth client
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [mary-ext/atproto-scraping](https://github.com/mary-ext/atproto-scraping) - Git scraping of AT Protocol/Bluesky instances
-- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [teaxyz/tea-token](https://github.com/teaxyz/tea-token) - $TEA ERC-20 token
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [starkware-libs/stwo-cairo](https://github.com/starkware-libs/stwo-cairo) - 
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [jbwharris/scrobbleable-streams](https://github.com/jbwharris/scrobbleable-streams) - Radio streams that can be scrobbled by last.fm
 - [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) - A website to listen to cool radio stations and scrobble to LastFM with Web Scrobbler
@@ -8380,7 +8387,7 @@
 - [cirruslabs/echelon](https://github.com/cirruslabs/echelon) - hierarchical progress bars in terminal on steroids
 - [WebAssembly/tool-conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
 - [cirruslabs/docker-images-flutter](https://github.com/cirruslabs/docker-images-flutter) - Docker Images for Flutter
-- [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode) - Biome extension for Visual Studio Code and VSCodium
+- [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode) - Biome extension for VS Code
 - [purescript/registry](https://github.com/purescript/registry) - Registry of PureScript packages and metadata about them
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
@@ -9575,7 +9582,7 @@
 - [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
 - [juananime/react-native-audiowaveform](https://github.com/juananime/react-native-audiowaveform) - Audio waveform renderer for React Native
 - [879479119/react-native-shadow](https://github.com/879479119/react-native-shadow) - A SVG shadow component powered with react-native-svg,which can provide shadow on Android like iOS ^_^
-- [felt/geo_postgis](https://github.com/felt/geo_postgis) - Postrex Extension for PostGIS
+- [felt/geo_postgis](https://github.com/felt/geo_postgis) - Postgrex Extension for PostGIS
 - [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) - A React Native library providing support for Apple Authentication on iOS and Android.
 - [Dart-Code/Flutter](https://github.com/Dart-Code/Flutter) - Flutter support for VS Code
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
@@ -10871,7 +10878,7 @@
 
 ## p2p 
 
-- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - ethrex: Ethereum Rust Execution L1 and L2 client.
+- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, stable, modular and fast implementation of the Ethereum protocol in Rust
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [vacp2p/nim-libp2p](https://github.com/vacp2p/nim-libp2p) - libp2p implementation in Nim
@@ -11016,6 +11023,7 @@
 
 ## postgresql 
 
+- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -11262,7 +11270,7 @@
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
-- [benhoyt/scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(), now in the Python 3.5 stdlib
+- [benhoyt/scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(). Archived, as this has been in the stdlib since Python 3.5.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [google/skylark](https://github.com/google/skylark) - Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
@@ -11540,7 +11548,7 @@
 - [funcool/rumext](https://github.com/funcool/rumext) - Simple and decomplected ui library for ClojureScript (based on React)
 - [houndci/hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests.
 - [Ovyerus/prismaliser](https://github.com/Ovyerus/prismaliser) - Visualise your Prisma schema!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
@@ -11787,7 +11795,7 @@
 - [cawfree/create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp) - Your next Ethereum application starts here. ⚛️  💪  🦄
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
 - [wkh237/react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) - A project committed to making file access and data transfer easier, efficient for React Native developers.
 - [deanhet/react-native-text-ticker](https://github.com/deanhet/react-native-text-ticker) - React Native Text Ticker/Marquee Component
@@ -12127,11 +12135,14 @@
 
 ## rust 
 
+- [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
+- [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [durch/rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with S3 API compatible services
 - [espeon/muse](https://github.com/espeon/muse) - music platform
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+- [starkware-libs/stwo-cairo](https://github.com/starkware-libs/stwo-cairo) - Prove Cairo programs with the blazing-fast S-two prover, powered by the cryptographic breakthrough of Circle STARKs.
 - [mozilla-services/autopush-rs](https://github.com/mozilla-services/autopush-rs) - Push Server in Rust
 - [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [Smithay/drm-rs](https://github.com/Smithay/drm-rs) - A low-level abstraction of the Direct Rendering Manager API
@@ -12142,7 +12153,7 @@
 - [tsirysndr/mpd-filters](https://github.com/tsirysndr/mpd-filters) - A simple mpd query parser in Rust
 - [RReverser/serde-xml-rs](https://github.com/RReverser/serde-xml-rs) - xml-rs based deserializer for Serde (compatible with 1.0+)
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
-- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - ethrex: Ethereum Rust Execution L1 and L2 client.
+- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, stable, modular and fast implementation of the Ethereum protocol in Rust
 - [Mithronn/rusty_ytdl](https://github.com/Mithronn/rusty_ytdl) - A Rust library for Youtube video searcher and downloader
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 - [ipqwery/ipapi-rust](https://github.com/ipqwery/ipapi-rust) - Rust bindings for ipquery.io | A free and performant ip address API
@@ -12274,11 +12285,11 @@
 - [fluent-ci-templates/rust-pipeline](https://github.com/fluent-ci-templates/rust-pipeline) - A ready-to-use CI/CD Pipeline for Rust projects.
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [thedodd/dockerfile](https://github.com/thedodd/dockerfile) - A Rust library for dynamically generating Dockerfiles.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group.
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt, @zmitchell]
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
 - [tessi/wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly from Elixir
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
@@ -12909,7 +12920,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
@@ -12991,7 +13002,7 @@
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [tsirysndr/madagascar-explorer](https://github.com/tsirysndr/madagascar-explorer) - 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
@@ -13093,6 +13104,7 @@
 
 ## solidity 
 
+- [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [volsa/etherface](https://github.com/volsa/etherface) - Ethereum Signature Database
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
@@ -13390,7 +13402,7 @@
 - [inkeliz/karmem](https://github.com/inkeliz/karmem) - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.
 - [vapor/fluent](https://github.com/vapor/fluent) - Vapor ORM (queries, models, and relations) for NoSQL and SQL databases
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [Carthage/Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
@@ -14249,7 +14261,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [CrowdHailer/Ace](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2
 - [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [alibaba/rax](https://github.com/alibaba/rax) - 🐰 Rax is a progressive framework for building universal application. https://rax.js.org
 - [tomaka/rouille](https://github.com/tomaka/rouille) - Web framework in Rust
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
