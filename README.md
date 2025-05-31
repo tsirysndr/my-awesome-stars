@@ -4018,7 +4018,7 @@
 - [andrenth/sequoia](https://github.com/andrenth/sequoia) - OCaml type-safe query builder with syntax tree extension
 - [andrenth/ocaml-swagger](https://github.com/andrenth/ocaml-swagger) - Swagger 2.0 code generator for OCaml
 - [dialohq/ocaml-grpc](https://github.com/dialohq/ocaml-grpc) - gRPC library for OCaml
-- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi operations via pu
+- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [zth/resgraph](https://github.com/zth/resgraph) - Build implementation-first GraphQL servers in ReScript
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
@@ -6519,7 +6519,7 @@
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both brow
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 - [fluentci-io/codegen](https://github.com/fluentci-io/codegen) - Typescript (Deno) code generator used by all Fluent CI / Dagger Modules
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [bevry/envfile](https://github.com/bevry/envfile) - Parse and write environment files with Node.js
 - [fluentci-io/daggerverse](https://github.com/fluentci-io/daggerverse) - A custom Dagger SDK Module for all FluentCI (Deno) modules 🧩✨
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
@@ -7143,7 +7143,7 @@
 - [loomnetwork/loom-truffle-provider](https://github.com/loomnetwork/loom-truffle-provider) - Adapter that allows Truffle Suite to communicate with Loom DappChain
 - [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
-- [deepops-io/deepops](https://github.com/deepops-io/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
+- [deepops-ai/deepops](https://github.com/deepops-ai/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [itsthatguy/avatars-api-middleware](https://github.com/itsthatguy/avatars-api-middleware) - The express middleware for our avatars service
 - [polkadot-js/client](https://github.com/polkadot-js/client) - An alternative Polkadot Runtime Environment implementation acting as a full-node (excluding block production for validators) for syncing with Substrate-based chains.
