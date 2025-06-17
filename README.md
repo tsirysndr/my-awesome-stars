@@ -312,7 +312,7 @@
 - [electro-smith/libDaisy](https://github.com/electro-smith/libDaisy) - Hardware Library for the Daisy Audio Platform
 - [evidence-dev/duckdb_gsheets](https://github.com/evidence-dev/duckdb_gsheets) - DuckDB extension to read and write Google Sheets using SQL
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
@@ -333,7 +333,7 @@
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [facebookincubator/nimble](https://github.com/facebookincubator/nimble) - New file format for storage of large columnar datasets.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 - [dp-mason/BD-synCret](https://github.com/dp-mason/BD-synCret) - An embedded VCV Rack Wasm host powered by Extism
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -890,7 +890,7 @@
 - [rvcas/ids](https://github.com/rvcas/ids) - ✨ Unique IDs for Gleam
 - [bcpeinhardt/gsv](https://github.com/bcpeinhardt/gsv) - A simple csv parser and encoder written in gleam
 - [giacomocavalieri/glicine](https://github.com/giacomocavalieri/glicine) - A static site generator made with Gleam ✨
-- [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - 🐙 Extra code for when running on Erlang
+- [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - 🐙 Types and functions for programs running on Erlang!
 - [gleam-lang/otp](https://github.com/gleam-lang/otp) - 📫 Fault tolerant multicore programs with actors
 - [gleam-lang/httpc](https://github.com/gleam-lang/httpc) - 📡 Make requests to HTTP servers with httpc
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - 📦 Search for Gleam packages
@@ -914,6 +914,8 @@
 
 ## Go 
 
+- [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to ListenBrainz
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [teal-fm/piper](https://github.com/teal-fm/piper) - [WIP] music platform user data scraper
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -930,7 +932,6 @@
 - [apple/pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [nats-io/natscli](https://github.com/nats-io/natscli) - The NATS Command Line Interface
-- [basicdb/basic-cli](https://github.com/basicdb/basic-cli) - cli for creating & managing basic.tech projects
 - [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) - 🔬PGWATCH: PostgreSQL metrics monitor/dashboard
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks
@@ -1228,7 +1229,7 @@
 - [mit-dci/zkledger](https://github.com/mit-dci/zkledger) - Privacy-preserving auditing for distributed ledgers
 - [aurae-runtime/client-go](https://github.com/aurae-runtime/client-go) - Go gRPC client for Aurae
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, light-weight, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [ChainSafe/chainbridge-core](https://github.com/ChainSafe/chainbridge-core) - 🌁 Sygma core library (ChainBridge)
@@ -1869,7 +1870,7 @@
 - [lopezator/migrator](https://github.com/lopezator/migrator) - Dead simple Go database migration library.
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [miniclip/gonsul](https://github.com/miniclip/gonsul) - A stand-alone alternative to git2consul
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [ArthurHlt/zipper](https://github.com/ArthurHlt/zipper) - Library to create a zip file from different kind of source
@@ -2618,7 +2619,7 @@
 - [openairplay/jolivia](https://github.com/openairplay/jolivia) - An Java implementation of DMAP, DAAP, DPAP, DMCP, DACP and RAOP with Guice + Jetty - Essentially a iTunes share, iPhoto share and Airport Express emulation
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [apache/cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless/diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -2775,8 +2776,10 @@
 
 ## JavaScript 
 
+- [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) - A website to listen to cool radio stations and scrobble to LastFM with Web Scrobbler
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
 - [moonbeam-foundation/moonbeam-docs](https://github.com/moonbeam-foundation/moonbeam-docs) - Documentation for the Moonbeam project
@@ -3475,7 +3478,6 @@
 - [relayjs/relay-devtools](https://github.com/relayjs/relay-devtools) - Relay Development Tools
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [serverless/serverless-graphql](https://github.com/serverless/serverless-graphql) - Serverless GraphQL Examples for AWS AppSync and Apollo
-- [alphasights/ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript 
 - [richardgirges/express-fileupload](https://github.com/richardgirges/express-fileupload) - Simple express file upload middleware that wraps around busboy
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
@@ -4113,7 +4115,6 @@
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [sluongng/awesome-buck2](https://github.com/sluongng/awesome-buck2) - Collection of resources about Buck2
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [garden-io/garden-action](https://github.com/garden-io/garden-action) - GitHub action to install and prepare Garden, in order to run workflows, tests or deploy to your environments inside GitHub Workflows.
 - [tsirysndr/my-awesome-stars](https://github.com/tsirysndr/my-awesome-stars) - A curated list of my Github stars! ✨
 - [WebAssembly/tool-conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
@@ -4390,7 +4391,6 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow) - DuckDB for streaming data
 - [nestipy/nestipy](https://github.com/nestipy/nestipy) - Nestipy is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
@@ -4466,7 +4466,7 @@
 - [dcos/dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [hyperonym/basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -4709,7 +4709,7 @@
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [letiemble/vagrant-tart](https://github.com/letiemble/vagrant-tart) - Vagrant-tart is a Vagrant plugin that adds a Tart provider to Vagrant, allowing Vagrant to control and provision machines via Tart command line tool.
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services in public beta.
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
@@ -4762,6 +4762,7 @@
 
 ## Rust 
 
+- [at-microcosm/links](https://github.com/at-microcosm/links) - Links and references in the at-mosphere
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - 
@@ -5223,7 +5224,7 @@
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [envio-cli/envio](https://github.com/envio-cli/envio) - envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [RustAudio/dasp](https://github.com/RustAudio/dasp) - The fundamentals for Digital Audio Signal Processing. Formerly `sample`.
-- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
+- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
 - [rust-mobile/cargo-apk](https://github.com/rust-mobile/cargo-apk) - Helps cargo build APKs
 - [eliaperantoni/spaceman](https://github.com/eliaperantoni/spaceman) - A gRPC client from another world
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) - Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
@@ -5651,7 +5652,7 @@
 - [dalek-cryptography/x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) - X25519 elliptic curve Diffie-Hellman key exchange in pure-Rust, using curve25519-dalek.
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
-- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [puchka/sync-the-balance-of-a-descriptor](https://github.com/puchka/sync-the-balance-of-a-descriptor) - Sync the balance of a descriptor using JNI and Bitcoin Dev Kit
 - [graydon/backtrace-error](https://github.com/graydon/backtrace-error) - wrap errors with automatic backtrace capture and print-on-result-unwrap
@@ -5830,7 +5831,6 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [polkadot-evm/frontier](https://github.com/polkadot-evm/frontier) - Ethereum compatibility layer for Substrate.
-- [moonbeam-foundation/moonbeam](https://github.com/moonbeam-foundation/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [CosmWasm/simple-option](https://github.com/CosmWasm/simple-option) - Demo repo for hackatom video
 - [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
@@ -6015,7 +6015,7 @@
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
 - [zio/zio-sqs](https://github.com/zio/zio-sqs) - ZIO-powered client for AWS SQS
-- [zio/zio-kafka](https://github.com/zio/zio-kafka) - A Kafka client for ZIO and ZIO Streams
+- [zio/zio-kafka](https://github.com/zio/zio-kafka) - A fast Kafka client for ZIO and ZIO Streams
 - [typelevel/skunk](https://github.com/typelevel/skunk) - A data access library for Scala + Postgres.
 - [ACINQ/eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network.
 - [soundcloud/twinagle](https://github.com/soundcloud/twinagle) - Twinagle = Twirp + Finagle
@@ -6064,6 +6064,7 @@
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [gruntwork-io/terragrunt-action](https://github.com/gruntwork-io/terragrunt-action) - A GitHub Action for installing and running Terragrunt
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [acj/freebsd-firecracker](https://github.com/acj/freebsd-firecracker) - Launch FreeBSD VMs using Firecracker
 - [version-fox/vfox-plugins](https://github.com/version-fox/vfox-plugins) - 🚀🚀 This repository serves as a registry for vfox community plugins.
@@ -6244,6 +6245,8 @@
 
 ## Swift 
 
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [swiftlang/swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [kartik-venugopal/aural-player](https://github.com/kartik-venugopal/aural-player) - An audio file player for macOS, inspired by Winamp.
@@ -6317,6 +6320,8 @@
 
 ## TypeScript 
 
+- [mary-ext/pkg-protobuf](https://github.com/mary-ext/pkg-protobuf) - protobuf codec with static type inference
+- [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device manage
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
@@ -6350,6 +6355,7 @@
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
 - [branchseer/oxidase](https://github.com/branchseer/oxidase) - Transpiles TypeScript at the Speed of Parsing
+- [basicdb/basic-cli](https://github.com/basicdb/basic-cli) - cli for creating & managing basic.tech projects
 - [teal-fm/teal](https://github.com/teal-fm/teal) - Your music, beautifully tracked. All yours. (coming soon)
 - [notjuliet/pdsls](https://github.com/notjuliet/pdsls) - atproto explorer
 - [haroldadmin/atproto-browser](https://github.com/haroldadmin/atproto-browser) - Browser for files stored on the ATProto network
@@ -6360,7 +6366,7 @@
 - [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - 📦 Build modern websites with zero added frameworks. Deno, React, JS/TS, & Markdown MDX supported.
 - [bluesky-social/statusphere-example-app](https://github.com/bluesky-social/statusphere-example-app) - An example atproto application using ExpressJS and Typescript.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [pkgxdev/pkgm](https://github.com/pkgxdev/pkgm) - Install `pkgx` packages to `/usr/local`
 - [seemueller-io/manifold-workflow-engine](https://github.com/seemueller-io/manifold-workflow-engine) - for building dynamic, LLM-driven workflows using a region-based execution model
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
@@ -6949,6 +6955,7 @@
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [mongodb-js/boxednode](https://github.com/mongodb-js/boxednode) - 📦 boxednode – Ship a JS file with Node.js in a box
+- [moonbeam-foundation/moonbeam](https://github.com/moonbeam-foundation/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [herisata/node-starter](https://github.com/herisata/node-starter) - 
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
@@ -7216,7 +7223,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [buildo/react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encryption), share parts of it to global network of topics with deep AI integration
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
@@ -7407,7 +7414,7 @@
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Command line argument parsing library
-- [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
+- [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [extism/zig-sdk](https://github.com/extism/zig-sdk) - Extism Zig Host SDK - easily run WebAssembly modules / plugins from Zig applications
 - [ZystemOS/pluto](https://github.com/ZystemOS/pluto) - An x86 kernel written in Zig
 - [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
