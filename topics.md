@@ -131,6 +131,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
@@ -431,7 +432,7 @@
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit) - Modern, scalable tools. Exceptional developer experience.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -749,6 +750,7 @@
 
 ## awesome 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [atblueprints/awesome-atproto](https://github.com/atblueprints/awesome-atproto) - A curated list of awesome AT Protocol resources
 - [chrvadala/awesome-protocols](https://github.com/chrvadala/awesome-protocols) - Curated list of awesome technology protocols with a reference to official RFCs
@@ -814,6 +816,7 @@
 
 ## awesome-list 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [atblueprints/awesome-atproto](https://github.com/atblueprints/awesome-atproto) - A curated list of awesome AT Protocol resources
@@ -1071,6 +1074,10 @@
 
 ## blockchain 
 
+- [tsirysndr/evmosup](https://github.com/tsirysndr/evmosup) - Spin up an evmos blockchain in seconds
+- [evmos/os](https://github.com/evmos/os) - A bleeding-edge forward-compatible EVM framework for fast blockchain development 🔌⚡️
+- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
+- [ava-labs/subnet-evm](https://github.com/ava-labs/subnet-evm) - Launch your own EVM as an Avalanche Subnet
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki) - The source of truth for Polkadot.
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
@@ -2041,7 +2048,7 @@
 - [pipelinit/pipelinit-cli](https://github.com/pipelinit/pipelinit-cli) - Automatically generates pipelines for your project.
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Type-safe styled components for ReScript, Melange and native with type-safe CSS
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -2194,7 +2201,7 @@
 - [MystPi/dinostore](https://github.com/MystPi/dinostore) - 🦕 Gleam bindings to the Deno KV database
 - [cometbft/cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [hasura/ndc-postgres](https://github.com/hasura/ndc-postgres) - Hasura v3 Data Connector for PostgreSQL
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -2314,7 +2321,7 @@
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [canonical/go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
-- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [kubedb/cli](https://github.com/kubedb/cli) - `kubectl` plugin for KubeDB
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
@@ -2389,6 +2396,7 @@
 
 ## deno 
 
+- [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
 - [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - 📦 Build modern websites with zero added frameworks. Deno, React, JS/TS, & Markdown MDX supported.
 - [denoland/docs](https://github.com/denoland/docs) - Deno documentation, examples and API Reference. Powered by Lume.
@@ -2926,6 +2934,7 @@
 
 ## documentation 
 
+- [evmos/docs](https://github.com/evmos/docs) - The official docs for Evmos
 - [w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki) - The source of truth for Polkadot.
 - [denoland/deno_doc](https://github.com/denoland/deno_doc) - Documentation generator for Deno
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -3243,6 +3252,12 @@
 
 ## ethereum 
 
+- [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
+- [tsirysndr/evmosup](https://github.com/tsirysndr/evmosup) - Spin up an evmos blockchain in seconds
+- [evmos/os](https://github.com/evmos/os) - A bleeding-edge forward-compatible EVM framework for fast blockchain development 🔌⚡️
+- [passkeys-4337/smart-wallet](https://github.com/passkeys-4337/smart-wallet) - Simple implementation of an ERC-4337 contract wallet controlled by Passkeys
+- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
+- [ava-labs/subnet-evm](https://github.com/ava-labs/subnet-evm) - Launch your own EVM as an Avalanche Subnet
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, stable, modular and fast implementation of the Ethereum protocol in Rust
 - [OpenZeppelin/cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) - OpenZeppelin Contracts written in Cairo for Starknet, a decentralized ZK Rollup
@@ -3487,6 +3502,8 @@
 
 ## framework 
 
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+- [evmos/os](https://github.com/evmos/os) - A bleeding-edge forward-compatible EVM framework for fast blockchain development 🔌⚡️
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [callstackincubator/fabrice-ai](https://github.com/callstackincubator/fabrice-ai) - A lightweight, functional, and composable framework for building AI agents. No PhD required.
@@ -4034,7 +4051,7 @@
 - [rqlite/gorqlite](https://github.com/rqlite/gorqlite) - A Go client for rqlite, the distributed database built on SQLite
 - [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
@@ -4582,7 +4599,7 @@
 - [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
 - [google/martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [perlin-network/wavelet](https://github.com/perlin-network/wavelet) - Write once, run forever. Deploy robust, scalable, decentralized WebAssembly applications on Wavelet.
 - [gogo/grpc-example](https://github.com/gogo/grpc-example) - An example of using Go gRPC and tools from the greater gRPC ecosystem together with the GoGo Protobuf Project.
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
@@ -5288,7 +5305,7 @@
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
+- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [Unviray/pyplater](https://github.com/Unviray/pyplater) - Build html component with python
@@ -5497,6 +5514,7 @@
 
 ## home-assistant 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 
 ## homebrew 
@@ -5525,7 +5543,7 @@
 - [pipelinit/pipelinit-cli](https://github.com/pipelinit/pipelinit-cli) - Automatically generates pipelines for your project.
 - [coast-framework/coast](https://github.com/coast-framework/coast) - The fullest full stack clojure web framework
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [Unviray/pyplater](https://github.com/Unviray/pyplater) - Build html component with python
@@ -5687,6 +5705,10 @@
 - [ChillFish8/lust](https://github.com/ChillFish8/lust) - A fast, auto-optimizing image server designed for high throughput and caching; Now that is hot.
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
 
+## information-gathering 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+
 ## instagram 
 
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
@@ -5706,8 +5728,9 @@
 - [keycard-tech/react-native-status-keycard](https://github.com/keycard-tech/react-native-status-keycard) - React Native library to interact with Status Keycard using NFC connection
 - [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit) - Modern, scalable tools. Exceptional developer experience.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
@@ -5923,6 +5946,8 @@
 
 ## javascript 
 
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [ghivert/brioche](https://github.com/ghivert/brioche) - Opinionated Bun's bindings for Gleam
@@ -6517,7 +6542,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [sharadregoti/devops-cli](https://github.com/sharadregoti/devops-cli) - A Terminal/Web UI to interact with devops tools & services, intended for devops/platform engineers.
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -6803,6 +6828,7 @@
 
 ## linux 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [diegopvlk/Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker for Linux
 - [philn/glide](https://github.com/philn/glide) - Linux/macOS media player based on GStreamer and GTK
 - [kra-mo/cartridges](https://github.com/kra-mo/cartridges) - Mirrored from https://codeberg.org/kramo/cartridges
@@ -6867,6 +6893,7 @@
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [JoseExposito/touche](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [iberianpig/fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
@@ -6933,6 +6960,7 @@
 
 ## llm 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [mkinf-io/mkinf](https://github.com/mkinf-io/mkinf) - mkinf SDK to interact with mkinf hub MCP servers
@@ -7117,6 +7145,7 @@
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit) - Modern, scalable tools. Exceptional developer experience.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -7442,7 +7471,7 @@
 - [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
 - [si3nloong/goloquent](https://github.com/si3nloong/goloquent) - Golang sequel eloquent
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
-- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -7609,6 +7638,7 @@
 
 ## node 
 
+- [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
@@ -7947,6 +7977,7 @@
 
 ## open-source 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [wulkano/Plug](https://github.com/wulkano/Plug) - macOS app for Hype Machine
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -7973,7 +8004,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
@@ -8037,6 +8068,7 @@
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [ZystemOS/pluto](https://github.com/ZystemOS/pluto) - An x86 kernel written in Zig
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while being usable in most usecases
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system -- this is a read-only mirror of the official repository at https://code.illumos.org/plugins/gitiles/illumos-gate
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
@@ -8053,6 +8085,12 @@
 
 ## others 
 
+- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
+- [alloy-rs/examples](https://github.com/alloy-rs/examples) - Example code for using alloy and alloy-core
+- [passwordless-id/webauthn](https://github.com/passwordless-id/webauthn) - Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.
+- [tynanpurdy/atprofile](https://github.com/tynanpurdy/atprofile) - A universal profile page for people on the ATmosphere
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 - [tsirysndr/pm22](https://github.com/tsirysndr/pm22) - A lightweight CLI tool that connects to a remote server over SSH and executes PM2 process manager commands.
 - [ony-boom/os](https://github.com/ony-boom/os) - VPS config
 - [tsirysndr/pkl-kamal](https://github.com/tsirysndr/pkl-kamal) - Pkl package for Kamal
@@ -8062,7 +8100,7 @@
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) - Pure Rust implementation of components of the Secure Shell (SSH) protocol
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to ListenBrainz
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [bgwdotdev/shore](https://github.com/bgwdotdev/shore) - A Gleam TUI framework. TEA+Erlang
 - [teal-fm/piper](https://github.com/teal-fm/piper) - [WIP] music platform user data scraper
@@ -10301,7 +10339,7 @@
 - [3box/3box-verifications](https://github.com/3box/3box-verifications) - Verification service
 - [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
-- [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - feuille de styles CSS sur-vitaminée
+- [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
 - [AmbireTech/adex-protocol-substrate](https://github.com/AmbireTech/adex-protocol-substrate) - Substrate implementation of the AdEx Protocol v4: OUTPACE & Registry
 - [azavana/velirano](https://github.com/azavana/velirano) - Just for Fun Repo listing all promises made by the brand new president of Madagascar for Madagascar
@@ -11145,7 +11183,7 @@
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
-- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -11167,6 +11205,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -11174,6 +11213,7 @@
 
 ## privacy 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -11429,6 +11469,7 @@
 
 ## pytorch 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
@@ -11466,6 +11507,7 @@
 
 ## raspberry-pi 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [golemparts/rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
@@ -11495,6 +11537,8 @@
 
 ## react 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 - [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device manage
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
@@ -11593,7 +11637,7 @@
 - [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management. REST, GraphQL, SSE, Websockets
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [cawfree/create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp) - Your next Ethereum application starts here. ⚛️  💪  🦄
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
@@ -12190,6 +12234,7 @@
 
 ## rust 
 
+- [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
 - [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
@@ -12320,7 +12365,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
-- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while being usable in most usecases
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [acrlabs/simkube](https://github.com/acrlabs/simkube) - Record-and-replay Kubernetes simulator based on KWOK
 - [j03-dev/bus_antsirabe_api](https://github.com/j03-dev/bus_antsirabe_api) - Antsirabe bus API
@@ -12366,7 +12411,6 @@
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [swsnr/gethostname.rs](https://github.com/swsnr/gethostname.rs) - gethostname() for all systems
 - [FGRibreau/spinners](https://github.com/FGRibreau/spinners) - 🛎 60+ Elegant terminal spinners for Rust
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
 - [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client) - Server-sent events (SSE) client implementation for Rust
@@ -12618,7 +12662,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [asaaki/opentelemetry-tide](https://github.com/asaaki/opentelemetry-tide) - 🔭🌊 OpenTelemetry integration for Tide
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - An Event Sourcing runtime with WebAssembly & embedded event store
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
@@ -12648,7 +12692,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [fMeow/arangors](https://github.com/fMeow/arangors) - Easy to use rust driver for arangoDB
-- [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling.
+- [time-rs/time](https://github.com/time-rs/time) - Date and time handling in Rust.
 - [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️
 - [hermit-os/kernel](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel.
 - [interlay/interbtc](https://github.com/interlay/interbtc) - interBTC: Bitcoin Anywhere
@@ -12745,7 +12789,7 @@
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms
-- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
+- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma ORM
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
@@ -12879,6 +12923,7 @@
 
 ## security 
 
+- [kanidm/webauthn-rs](https://github.com/kanidm/webauthn-rs) - An implementation of webauthn components for Rustlang servers
 - [dylibso/modsurfer](https://github.com/dylibso/modsurfer) - Devtools to validate, audit and investigate WebAssembly binaries.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -12907,6 +12952,7 @@
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -12951,6 +12997,7 @@
 
 ## self-hosted 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -13220,7 +13267,7 @@
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
 - [apache/datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
@@ -13759,6 +13806,9 @@
 
 ## typescript 
 
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+- [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.
+- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [mary-ext/pkg-protobuf](https://github.com/mary-ext/pkg-protobuf) - protobuf codec with static type inference
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
@@ -14124,7 +14174,7 @@
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your tea
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [funcool/rumext](https://github.com/funcool/rumext) - Simple and decomplected ui library for ClojureScript (based on React)
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [ugglr/react-native-storybook-boilerplate](https://github.com/ugglr/react-native-storybook-boilerplate) - Compelling boilerplate setup for starting development of a React Native UI library. React-Native+React-Native-Web+Storybook=❤️
@@ -14155,6 +14205,7 @@
 
 ## ui-design 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ugglr/react-native-storybook-boilerplate](https://github.com/ugglr/react-native-storybook-boilerplate) - Compelling boilerplate setup for starting development of a React Native UI library. React-Native+React-Native-Web+Storybook=❤️
 
 ## unity 
@@ -14232,6 +14283,7 @@
 
 ## vue 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
@@ -14323,7 +14375,7 @@
 - [GenieFramework/Genie.jl](https://github.com/GenieFramework/Genie.jl) - 🧞The highly productive Julia web framework
 - [go-zepto/zepto](https://github.com/go-zepto/zepto) - ⚡️Lightweight web framework written in go
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [CrowdHailer/Ace](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2
