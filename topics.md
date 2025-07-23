@@ -1684,7 +1684,7 @@
 - [AppsFlyer/donkey](https://github.com/AppsFlyer/donkey) - Modern Clojure HTTP server and client built for ease of use and performance
 - [puchka/memecollect](https://github.com/puchka/memecollect) - Application for collecting meme and sharing meme collection
 - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
-- [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components with ease.
+- [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components.
 - [dmotz/natal](https://github.com/dmotz/natal) - 📲 Bootstrap ClojureScript React Native apps
 
 ## cms 
@@ -2073,7 +2073,7 @@
 - [airbnb/react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [styled-components/elm-styled](https://github.com/styled-components/elm-styled) - Styling your Html Elements with typed Css 💅
-- [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components with ease.
+- [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components.
 - [WeeJeWel/decoravit](https://github.com/WeeJeWel/decoravit) - Beautiful code beautifier — App for macOS
 - [data-uri/datauri](https://github.com/data-uri/datauri) - Generate Data-URI scheme via terminal or node.js
 - [nickbullll/react-sweet-progress](https://github.com/nickbullll/react-sweet-progress) - A way to quickly add a progress bar to react app 🌈
@@ -5113,7 +5113,6 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -8112,6 +8111,7 @@
 
 ## others 
 
+- [ealmloff/sledgehammer_bindgen](https://github.com/ealmloff/sledgehammer_bindgen) - Breaking the WASM/JS communication performance barrier
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -12263,6 +12263,7 @@
 
 ## rust 
 
+- [bugthesystem/Flux](https://github.com/bugthesystem/Flux) - [Experimental] Flux is a high-performance message transport library for Rust that implements patterns inspired by LMAX Disruptor and Aeron. It provides lock-free inter-process communication (IPC), UDP
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
 - [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -14225,7 +14226,7 @@
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [ConsenSysMesh/rimble-ui](https://github.com/ConsenSysMesh/rimble-ui) - React components that implement Rimble's Design System.
-- [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components with ease.
+- [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components.
 - [XiaoMi/naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
