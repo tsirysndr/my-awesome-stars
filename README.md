@@ -916,6 +916,7 @@
 
 ## Go 
 
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [buildkite/terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [evmos/os](https://github.com/evmos/os) - A bleeding-edge forward-compatible EVM framework for fast blockchain development 🔌⚡️
@@ -1237,7 +1238,7 @@
 - [mit-dci/zkledger](https://github.com/mit-dci/zkledger) - Privacy-preserving auditing for distributed ledgers
 - [aurae-runtime/client-go](https://github.com/aurae-runtime/client-go) - Go gRPC client for Aurae
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A feature-full workflow engine for enterprise & small teams. Low-code and language agnostic, making it easy to integrate with any existing software.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A simple local-first workflow engine for enterprise & small teams. No database is needed, low-code, and language agnostic, making it easy to integrate with any existing software.
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [ChainSafe/chainbridge-core](https://github.com/ChainSafe/chainbridge-core) - 🌁 Sygma core library (ChainBridge)
@@ -2633,7 +2634,6 @@
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [wiremock/wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
-- [facebook/buck2-prelude](https://github.com/facebook/buck2-prelude) - Prelude for the Buck2 project
 - [hei-school/sigmalex-planner](https://github.com/hei-school/sigmalex-planner) - 
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
@@ -2811,7 +2811,7 @@
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [indexzero/node-procfile](https://github.com/indexzero/node-procfile) - Procfile parser for node.js
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [dylibso/reactables](https://github.com/dylibso/reactables) - Reactables enable you to bring the power of React and JSX outside of the JavaScript ecosystem.
@@ -4106,6 +4106,7 @@
 
 ## Others 
 
+- [infracloudio/awesome-microvm](https://github.com/infracloudio/awesome-microvm) - 🎉 A curated list of awesome things related to Micro-VMs
 - [tsirysndr/rocksky-docs](https://github.com/tsirysndr/rocksky-docs) - Rocksky API Documentation
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [jbwharris/scrobbleable-streams](https://github.com/jbwharris/scrobbleable-streams) - Radio streams that can be scrobbled by last.fm
@@ -4772,8 +4773,9 @@
 
 ## Rust 
 
+- [tsirysndr/fireup](https://github.com/tsirysndr/fireup) - Prepare, configure, and manage Firecracker microVMs in seconds!
+- [tsirysndr/xata_id_extension](https://github.com/tsirysndr/xata_id_extension) - PostgreSQL extension for generating Xata-style xata_id unique identifiers (rec_&lt;20_chars&gt;) using Rust and pgrx.
 - [ealmloff/sledgehammer_bindgen](https://github.com/ealmloff/sledgehammer_bindgen) - Breaking the WASM/JS communication performance barrier
-- [bugthesystem/Flux](https://github.com/bugthesystem/Flux) - [Experimental] Flux is a high-performance message transport library for Rust that implements patterns inspired by LMAX Disruptor and Aeron. It provides lock-free inter-process communication (IPC), UDP
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
 - [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
@@ -4788,7 +4790,7 @@
 - [Miyoshi-Ryota/async-ssh2-tokio](https://github.com/Miyoshi-Ryota/async-ssh2-tokio) - asynchronous and easy-to-use high level ssh client library for rust
 - [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) - Pure Rust implementation of components of the Secure Shell (SSH) protocol
-- [at-microcosm/links](https://github.com/at-microcosm/links) - Links and references in the at-mosphere
+- [at-microcosm/links](https://github.com/at-microcosm/links) - APIs for links and references in the ATmosphere
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - 
@@ -5100,7 +5102,7 @@
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while being usable in most usecases
-- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+- [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [acrlabs/simkube](https://github.com/acrlabs/simkube) - Record-and-replay Kubernetes simulator based on KWOK
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
@@ -5247,7 +5249,7 @@
 - [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) - Library for audio processing and synthesis
 - [katyo/oboe-rs](https://github.com/katyo/oboe-rs) - Rust bindings for Oboe high-performance audio IO Android library
 - [bbqsrc/cargo-cocoapods](https://github.com/bbqsrc/cargo-cocoapods) - Bundle Cargo crates for use with macOS/iOS in Xcode
-- [bbqsrc/cargo-ndk](https://github.com/bbqsrc/cargo-ndk) - Compile Rust projects against the Android NDK without hassle
+- [bbqsrc/cargo-ndk](https://github.com/bbqsrc/cargo-ndk) - Compile Rust projects with the Android NDK without hassle
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [envio-cli/envio](https://github.com/envio-cli/envio) - envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [RustAudio/dasp](https://github.com/RustAudio/dasp) - The fundamentals for Digital Audio Signal Processing. Formerly `sample`.
@@ -5538,7 +5540,7 @@
 - [BurntSushi/walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [arkworks-rs/curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [wyhaya/lok](https://github.com/wyhaya/lok) - Count the number of codes
 - [MaikKlein/unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine 5
 - [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - moved to https://codeberg.org/dirs/dirs-rs
@@ -5609,7 +5611,7 @@
 - [wasmCloud/wadm](https://github.com/wasmCloud/wadm) - wasmCloud Application Deployment Manager (wadm) is a Wasm-native orchestrator for managing and scaling declarative wasmCloud applications.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
-- [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
+- [ranile/gloo](https://github.com/ranile/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
 - [railwayapp/cli](https://github.com/railwayapp/cli) - Railway CLI
 - [yujqiao/catproc](https://github.com/yujqiao/catproc) - Print the output of a running process
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -5944,7 +5946,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rossbulat/ink-nft](https://github.com/rossbulat/ink-nft) - Bare-bones Non-Fungible Token smart contract, written in Ink for Substrate blockchains.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
-- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
+- [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [jjyr/hdwallet](https://github.com/jjyr/hdwallet) - HD wallet BIP-32 related key derivation utilities.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -6252,6 +6254,7 @@
 - [fluentci-demos/fluentci-demo-buck](https://github.com/fluentci-demos/fluentci-demo-buck) - A FluentCI demo CI Pipeline using Buck2
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+- [facebook/buck2-prelude](https://github.com/facebook/buck2-prelude) - Prelude for the Buck2 project
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs) - Rules for importing Nixpkgs packages into Bazel.
 - [tilt-dev/tilt-extensions](https://github.com/tilt-dev/tilt-extensions) - Extensions for Tilt
@@ -6428,7 +6431,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [eugeniodepalo/react-native-gtk4](https://github.com/eugeniodepalo/react-native-gtk4) - React renderer for GTK4 using node-gtk
