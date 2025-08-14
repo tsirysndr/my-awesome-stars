@@ -204,6 +204,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [physics](#physics)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -326,7 +327,6 @@
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [upstash/faq-generator](https://github.com/upstash/faq-generator) - Generate FAQ for your documentation. Powered by OpenAI, Vercel and Upstash.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -334,7 +334,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -729,7 +729,7 @@
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a simple, flexible, and powerful workflow engine built for enterprise and small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find large-scale, 
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a lightweight and powerful workflow engine for small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find Airflow to be overkill and are looking f
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1372,7 +1372,7 @@
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
@@ -1388,7 +1388,7 @@
 ## chatgpt-api 
 
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [otiai10/openaigo](https://github.com/otiai10/openaigo) - OpenAI GPT3/3.5 and GPT4 ChatGPT API Client Library for Go, simple, less dependencies, and well-tested
 
 ## chrome 
@@ -1534,7 +1534,7 @@
 - [railwayapp/cli](https://github.com/railwayapp/cli) - Railway CLI
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-- [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
+- [wasmCloud/wash-archive](https://github.com/wasmCloud/wash-archive) - MOVED: https://github.com/wasmCloud/wasmCloud/tree/main/crates/wash
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [tsirysndr/mvola-cli](https://github.com/tsirysndr/mvola-cli) - A command-line tool for MVola API
 - [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
@@ -3931,7 +3931,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go.
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [fsouza/go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
@@ -4424,7 +4424,7 @@
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [go-zookeeper/zk](https://github.com/go-zookeeper/zk) - Native ZooKeeper client for Go
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [second-state/dapr-wasm](https://github.com/second-state/dapr-wasm) - A template project to demonstrate how to run WebAssembly functions as sidecar microservices in dapr
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
@@ -4450,7 +4450,7 @@
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a simple, flexible, and powerful workflow engine built for enterprise and small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find large-scale, 
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a lightweight and powerful workflow engine for small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find Airflow to be overkill and are looking f
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
@@ -4471,7 +4471,7 @@
 - [archway-network/archway](https://github.com/archway-network/archway) - Archway Network
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [spatial-go/geoos](https://github.com/spatial-go/geoos) - A library provides spatial data and geometric algorithms
-- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [hashicorp/envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
@@ -5333,7 +5333,7 @@
 - [predetermined/aqua](https://github.com/predetermined/aqua) - A minimal and fast 🏃 web framework for Deno.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
-- [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
+- [wasmCloud/wash-archive](https://github.com/wasmCloud/wash-archive) - MOVED: https://github.com/wasmCloud/wasmCloud/tree/main/crates/wash
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -7092,6 +7092,7 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
+- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -7100,7 +7101,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [hyperonym/basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -7214,7 +7215,7 @@
 ## macos 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
+- [trycua/cua](https://github.com/trycua/cua) - Cua is the Docker Container for Computer-Use AI Agents.
 - [kartik-venugopal/aural-player](https://github.com/kartik-venugopal/aural-player) - (Archived) An audio file player for macOS, inspired by Winamp.
 - [wulkano/Plug](https://github.com/wulkano/Plug) - macOS app for Hype Machine
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
@@ -8157,8 +8158,8 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [dongri/openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API client library for Rust (unofficial)
@@ -8210,6 +8211,7 @@
 
 ## others 
 
+- [bluesky-social/goat](https://github.com/bluesky-social/goat) - Go AT protocol CLI tool
 - [bluecatengineering/dora](https://github.com/bluecatengineering/dora) - A Rust DHCP server
 - [bluecatengineering/dhcproto](https://github.com/bluecatengineering/dhcproto) - A DHCP parser and encoder for DHCPv4/DHCPv6
 - [caio/foca](https://github.com/caio/foca) - mirror of https://caio.co/de/foca/
@@ -8269,7 +8271,7 @@
 - [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [tsirysndr/rocksky-lexicons](https://github.com/tsirysndr/rocksky-lexicons) - ATProto lexicons used by https://rocksky.app
-- [ony-boom/mms](https://github.com/ony-boom/mms) - A music server and player
+- [ony-boom/mms](https://github.com/ony-boom/mms) - A local music server and player
 - [ony-boom/mpd-lrc](https://github.com/ony-boom/mpd-lrc) - A simple terminal based LRC file player, made up with the Music Player Daemon and go.
 - [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
 - [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
@@ -8495,7 +8497,6 @@
 - [fluentci-io/typos-plugin](https://github.com/fluentci-io/typos-plugin) - CI/CD Plugin for typos-cli
 - [spinframework/containerd-shim-spin](https://github.com/spinframework/containerd-shim-spin) - A containerd shim for running Spin Applications.
 - [gavofyork/graypaper](https://github.com/gavofyork/graypaper) - The JAM Specification
-- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [fluentci-io/ftp-deploy-plugin](https://github.com/fluentci-io/ftp-deploy-plugin) - CI/CD Plugin for ftp-deploy
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
@@ -11222,6 +11223,11 @@
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 
+## physics 
+
+- [EmbarkStudios/physx-rs](https://github.com/EmbarkStudios/physx-rs) - 🎳 Rust binding for NVIDIA PhysX 🦀
+- [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+
 ## pixel-art 
 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
@@ -11361,7 +11367,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
+- [suptejas/fleet](https://github.com/suptejas/fleet) - 🚀 The blazing fast build tool for Rust.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nilslice/protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility.
@@ -11457,7 +11463,7 @@
 - [fluent-ci-templates/django-pipeline](https://github.com/fluent-ci-templates/django-pipeline) - A ready-to-use CI/CD Pipeline for Django projects
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [GuardKenzie/miniplayer](https://github.com/GuardKenzie/miniplayer) - A curses based mpd client with basic functionality and album art.
 - [dcos/dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
@@ -12772,7 +12778,7 @@
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [Narasimha1997/boson-lang](https://github.com/Narasimha1997/boson-lang) - A hybrid programming language written in Rust.
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-- [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
+- [wasmCloud/wash-archive](https://github.com/wasmCloud/wash-archive) - MOVED: https://github.com/wasmCloud/wasmCloud/tree/main/crates/wash
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -12785,7 +12791,7 @@
 - [wisespace-io/binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
+- [suptejas/fleet](https://github.com/suptejas/fleet) - 🚀 The blazing fast build tool for Rust.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [capsule-corp-ternoa/ternoa-node](https://github.com/capsule-corp-ternoa/ternoa-node) - Ternoa's Node Implementation
@@ -13620,7 +13626,7 @@
 
 ## swift 
 
-- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
+- [trycua/cua](https://github.com/trycua/cua) - Cua is the Docker Container for Computer-Use AI Agents.
 - [swiftlang/swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 - [cgrindel/rules_swift_package_manager](https://github.com/cgrindel/rules_swift_package_manager) - Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.
 - [kartik-venugopal/aural-player](https://github.com/kartik-venugopal/aural-player) - (Archived) An audio file player for macOS, inspired by Winamp.
@@ -14636,7 +14642,7 @@
 ## windows 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
+- [trycua/cua](https://github.com/trycua/cua) - Cua is the Docker Container for Computer-Use AI Agents.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
