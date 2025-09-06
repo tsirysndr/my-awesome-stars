@@ -38,6 +38,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -126,6 +127,7 @@
 
 ## C 
 
+- [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [Polochon-street/bliss](https://github.com/Polochon-street/bliss) - Bliss music library that can compute distance between songs
 - [LMS-Community/squeezeplay](https://github.com/LMS-Community/squeezeplay) - Squeezeplay software as used in Logitech Squeezebox players
@@ -917,6 +919,7 @@
 
 ## Go 
 
+- [google/mangle](https://github.com/google/mangle) - 
 - [DopplerHQ/cli](https://github.com/DopplerHQ/cli) - The official CLI for interacting with your Doppler secrets and configuration.
 - [bluesky-social/goat](https://github.com/bluesky-social/goat) - Go AT protocol CLI tool
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -1089,7 +1092,7 @@
 - [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
-- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - Linter/analyzer for Makefiles
 - [tektoncd/cli](https://github.com/tektoncd/cli) - A CLI for interacting with Tekton!
 - [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [terrarium-tf/cli](https://github.com/terrarium-tf/cli) - terraform wrapper which transparent loads env files for stacks
@@ -2621,6 +2624,10 @@
 - [jameysharp/corrode](https://github.com/jameysharp/corrode) - C to Rust translator
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 
+## Janet 
+
+- [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
+
 ## Java 
 
 - [nordic-institute/X-Road](https://github.com/nordic-institute/X-Road) - Source code of the X-Road® data exchange layer software
@@ -2663,7 +2670,7 @@
 - [grpc-swagger/grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) - Debugging gRPC application with swagger-ui.
 - [gchq/Gaffer](https://github.com/gchq/Gaffer) - A large-scale entity and relation database supporting aggregation of properties
 - [sieuhuflit/react-native-live-stream-rtmp-example](https://github.com/sieuhuflit/react-native-live-stream-rtmp-example) - React native live stream using RTMP
-- [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it 
+- [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server — Ultra-low latency streaming engine with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding & scaling
 - [michalchudziak/react-native-geolocation](https://github.com/michalchudziak/react-native-geolocation) - Geolocation APIs for React Native
 - [reactiverse/es4x](https://github.com/reactiverse/es4x) - 🚀 fast JavaScript 4 Eclipse Vert.x
 - [Instagram/ig-json-parser](https://github.com/Instagram/ig-json-parser) - Fast JSON parser for java projects
@@ -3162,7 +3169,6 @@
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [Andr3wHur5t/react-native-keyboard-spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-native keyboard spacer view.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
-- [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [BosNaufal/vuex-saga](https://github.com/BosNaufal/vuex-saga) - Better Vuex Action To Simplify Your Async Flow Process And Code Testing
 - [EddyVerbruggen/nativescript-nodeify](https://github.com/EddyVerbruggen/nativescript-nodeify) - Makes most npm packages compatible with NativeScript
@@ -3663,6 +3669,7 @@
 - [kimmobrunfeldt/react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) - Responsive and slick progress bars for React.
 - [jscomplete/graphfront-ui](https://github.com/jscomplete/graphfront-ui) - A multi-user admin interface on database schemas with a GraphQL API - Powering https://graphfront.com/
 - [joincivil/react-ethereum-provider](https://github.com/joincivil/react-ethereum-provider) - Inject web3 provider into your React app
+- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [apollographql/react-apollo](https://github.com/apollographql/react-apollo) - :recycle: React integration for Apollo Client
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
@@ -3986,7 +3993,6 @@
 
 ## Nix 
 
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [ony-boom/os](https://github.com/ony-boom/os) - VPS config
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [Gabriella439/haskell-flake](https://github.com/Gabriella439/haskell-flake) - Flake template for Haskell repository
@@ -4346,6 +4352,7 @@
 
 ## Perl 
 
+- [ungive/media-control](https://github.com/ungive/media-control) - Control and observe media playback from the command line
 - [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
@@ -4782,6 +4789,7 @@
 
 ## Rust 
 
+- [samitbasu/rust-hdl](https://github.com/samitbasu/rust-hdl) - A framework for writing FPGA firmware using the Rust Programming Language
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 - [daniel5151/clicky](https://github.com/daniel5151/clicky) - A clickwheel iPod emulator (WIP)
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
@@ -4807,7 +4815,6 @@
 - [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) - Pure Rust implementation of components of the Secure Shell (SSH) protocol
 - [at-microcosm/microcosm-rs](https://github.com/at-microcosm/microcosm-rs) - Rust atproto crates and services for microcosm
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - 
 - [thrumdev/nomt](https://github.com/thrumdev/nomt) - Super-fast Merklized Embedded Key-Value Store for blockchain nodes
@@ -5290,7 +5297,7 @@
 - [cosmonic-labs/concordance](https://github.com/cosmonic-labs/concordance) - Opinionated Event Sourcing Framework based on wasmCloud
 - [hyperium/mime](https://github.com/hyperium/mime) - MIMEs in Rust
 - [deislabs/bindle](https://github.com/deislabs/bindle) - Bindle: Object Storage for Collections
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The API platform for mission-critical applications
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The Grafbase GraphQL Federation Gateway
 - [deislabs/wagi](https://github.com/deislabs/wagi) - Write HTTP handlers in WebAssembly with a minimal amount of work
 - [dtolnay/dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe
 - [google/briolette](https://github.com/google/briolette) - Briolette is an experimental framework for researching offline digital currency designs.
@@ -6235,7 +6242,6 @@
 - [qrush/sub](https://github.com/qrush/sub) - a delicious way to organize programs
 - [sdepold/rsvm](https://github.com/sdepold/rsvm) - Rust Version Manager
 - [AliyunContainerService/redis-cluster](https://github.com/AliyunContainerService/redis-cluster) - HA Redis Cluster with Sentinel by Docker Compose
-- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [tj/n](https://github.com/tj/n) - Node version management
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -6373,6 +6379,7 @@
 
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [tsirysndr/oh-my-droid](https://github.com/tsirysndr/oh-my-droid) - Opinionated Android  15+ Linux Terminal Setup
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [tsirysndr/fireup](https://github.com/tsirysndr/fireup) - Prepare, configure, and manage Firecracker microVMs in seconds!
 - [tscircuit/core](https://github.com/tscircuit/core) - Create electronics with Typescript and React. Compile Typescript to Circuit JSON
 - [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com) - The main website, playground and online development environment for tscircuit (React Electronics)
@@ -6388,6 +6395,7 @@
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [mary-ext/pkg-protobuf](https://github.com/mary-ext/pkg-protobuf) - protobuf codec with static type inference
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device manage
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
@@ -6971,7 +6979,7 @@
 - [paritytech/canvas-ui](https://github.com/paritytech/canvas-ui) - Basic Polkadot/Substrate UI for interacting with a node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol
-- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
+- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native that confirms OpenIAP
 - [graphql-nexus/nexus-prisma](https://github.com/graphql-nexus/nexus-prisma) - Prisma plugin for Nexus
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
@@ -7139,6 +7147,7 @@
 - [shirakaba/react-nativescript](https://github.com/shirakaba/react-nativescript) - React renderer for NativeScript
 - [NativeScript/nativescript-camera](https://github.com/NativeScript/nativescript-camera) - NativeScript plugin to empower using device camera.
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vuejs/apollo](https://github.com/vuejs/apollo) - 🚀 Apollo/GraphQL integration for VueJS
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
