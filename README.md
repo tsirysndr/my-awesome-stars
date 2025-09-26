@@ -1025,6 +1025,7 @@
 - [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
 - [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -1333,7 +1334,7 @@
 - [go-zepto/zepto](https://github.com/go-zepto/zepto) - ⚡️Lightweight web framework written in go
 - [rocket-pool/smartnode](https://github.com/rocket-pool/smartnode) - The CLI package for Rocket Pool smart nodes.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [torusresearch/torus-node](https://github.com/torusresearch/torus-node) - Torus nodes run a Distributed Key Generation protocol amongst themselves that allows for the generation, storage and assignment of cryptographic keys
+- [MetaMask/torus-node](https://github.com/MetaMask/torus-node) - Torus nodes run a Distributed Key Generation protocol amongst themselves that allows for the generation, storage and assignment of cryptographic keys
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) - golang ftp server library
@@ -1586,7 +1587,7 @@
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [tsirysndr/coupon](https://github.com/tsirysndr/coupon) - Generate promo codes, loyalty coupons, gift vouchers, in-app purchases, referral links
 - [bitpay/bitpay-go](https://github.com/bitpay/bitpay-go) - Powerful, flexible, lightweight interface to the BitPay Bitcoin Payment Gateway API.
-- [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
+- [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [neo4j/neo4j-go-driver](https://github.com/neo4j/neo4j-go-driver) - Neo4j Bolt Driver for Go
 - [dgryski/dgoogauth](https://github.com/dgryski/dgoogauth) - Google Authenticator for Go
@@ -4209,7 +4210,6 @@
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 - [spiffe/spire-examples](https://github.com/spiffe/spire-examples) - Examples and documentation showing SPIRE integration with various projects and platforms
 - [rasolofonirina/zip-code-madagascar](https://github.com/rasolofonirina/zip-code-madagascar) - Zip Code Madagascar
-- [interledger/open-payments](https://github.com/interledger/open-payments) - Protocol to setup payments between entities on the Web based on GNAP
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
@@ -4382,7 +4382,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
@@ -4468,7 +4467,6 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [extism/plugpluginin](https://github.com/extism/plugpluginin) - Calling an Extism plug-in from another plug-in
@@ -5804,7 +5802,7 @@
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [containers/containrs](https://github.com/containers/containrs) - General purpose container library
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust
+- [httpmock/httpmock](https://github.com/httpmock/httpmock) - HTTP mocking library for Rust
 - [async-graphql/examples](https://github.com/async-graphql/examples) - 
 - [apollographql/apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust.
 - [porta-network/porta-node](https://github.com/porta-network/porta-node) - 
@@ -6405,6 +6403,7 @@
 
 ## TypeScript 
 
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [tsirysndr/rocksky](https://github.com/tsirysndr/rocksky) - A decentralized music tracking and discovery platform built on AT Protocol 🎵
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
 - [rivet-dev/rivetkit](https://github.com/rivet-dev/rivetkit) - A library for building stateful workloads anywhere
@@ -6454,6 +6453,7 @@
 - [tobilg/duckerd](https://github.com/tobilg/duckerd) - CLI to create an ER Diagram from DuckDB database files
 - [jotaijs/jotai-effect](https://github.com/jotaijs/jotai-effect) - A Jōtai utility package for reactive side-effects
 - [mkizka/linkat](https://github.com/mkizka/linkat) - Create your Link in Bio for Bluesky
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
 - [usounds/AtpDashboard](https://github.com/usounds/AtpDashboard) - A dashboard for monitoring the status of third-party collections in the AT Protocol.
 - [upstash/qstash-js](https://github.com/upstash/qstash-js) - Message queue for serverless
@@ -6744,7 +6744,7 @@
 - [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) - TypeScript/JavaScript client API for libSQL
 - [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic) - Juanita makes it easy to play music with your friends on a Discord server. With the new integrated Spotify functionality, you can now queue your favorite playlists from Spotify along with your friends
 - [charliermarsh/trellis](https://github.com/charliermarsh/trellis) - Write Dockerfiles and CI pipelines in TypeScript.
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
 - [fluent-ci-templates/go-pipeline](https://github.com/fluent-ci-templates/go-pipeline) - A ready-to-use CI/CD Pipeline for Go projects.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [fluent-ci-templates/fastlane-pipeline](https://github.com/fluent-ci-templates/fastlane-pipeline) - A ready-to-use CI/CD Pipeline for Fastlane
@@ -6879,7 +6879,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
+- [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Track Scroll Like a Pro – React Hook for Smooth UI
 - [razorpay/react-native-apollo-devtools](https://github.com/razorpay/react-native-apollo-devtools) - Flipper plugin to debug apollo client cache for React Native
 - [spotify/basic-pitch-ts](https://github.com/spotify/basic-pitch-ts) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection.
 - [jamiepine/prismix](https://github.com/jamiepine/prismix) - The Prisma schema mixer 🍹
@@ -6958,6 +6958,7 @@
 - [notrab/react-use-cart](https://github.com/notrab/react-use-cart) - React hook library for managing cart state
 - [BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva) - Clojure & ClojureScript Interactive Programming for VS Code
 - [tsirysndr/mvola-node](https://github.com/tsirysndr/mvola-node) - Node.js library for the MVola API
+- [interledger/open-payments](https://github.com/interledger/open-payments) - Protocol to setup payments between entities on the Web based on GNAP
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet) - The most powerful wallet for the Cosmos ecosystem and the Interchain
 - [RajaRakoto/minificator](https://github.com/RajaRakoto/minificator) - Minificator CLI: efficience solution for swiftly reducing file sizes and effortlessly optimizing a variety of file formats 🛠️
@@ -7380,7 +7381,7 @@
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [apollographql/apollo-fetch](https://github.com/apollographql/apollo-fetch) - :dog: Lightweight GraphQL client that supports middleware and afterware
-- [streamich/memfs](https://github.com/streamich/memfs) - Node fs and browser File System API adapters and in-memory implementations 👍
+- [streamich/memfs](https://github.com/streamich/memfs) - Node.js "fs" and browser File System API adapters and in-memory implementations 👍
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [legastero/stanza](https://github.com/legastero/stanza) - Modern XMPP, with a JSON API
 - [cosmos/gravity-bridge](https://github.com/cosmos/gravity-bridge) - A CosmosSDK application for moving assets on and off of EVM based, POW chains
@@ -7543,7 +7544,6 @@
 - [mitchellh/zig-js](https://github.com/mitchellh/zig-js) - Access the JS host environment from Zig compiled to WebAssembly.
 - [mattn/zig-json](https://github.com/mattn/zig-json) - 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [mitchellh/zig-libxml2](https://github.com/mitchellh/zig-libxml2) - libxml2 built using Zig build system
 - [exercism/zig](https://github.com/exercism/zig) - Exercism exercises in Zig.
 - [kprotty/zap](https://github.com/kprotty/zap) - An asynchronous runtime with a focus on performance and resource efficiency.
