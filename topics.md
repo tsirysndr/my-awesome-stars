@@ -41,6 +41,7 @@
 - [clash](#clash)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -117,7 +118,6 @@
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
-- [godot](#godot)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
@@ -276,7 +276,6 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
-- [unreal-engine](#unreal-engine)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -297,6 +296,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -1361,6 +1361,7 @@
 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2025: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
@@ -1719,6 +1720,61 @@
 - [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components.
 - [dmotz/natal](https://github.com/dmotz/natal) - 📲 Bootstrap ClojureScript React Native apps
 
+## cloud 
+
+- [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
+- [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source containers-as-microVMs orchestrator.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [ContainerCraft/devcontainer](https://github.com/ContainerCraft/devcontainer) - Cloud Dev & Ops Devcontainer
+- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+- [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
+- [contabo/terraform-provider-contabo](https://github.com/contabo/terraform-provider-contabo) - Terraform Provider for Contabo Cloud-Services
+- [contabo/cntb](https://github.com/contabo/cntb) - Contabo Command Line Interface
+- [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
+- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+- [bazelbuild/rules_docker](https://github.com/bazelbuild/rules_docker) - Rules for building and handling Docker images with Bazel
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
+- [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
+- [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
+- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+- [koding/koding](https://github.com/koding/koding) - The Simplest Way to Manage Your Entire Dev Infrastructure!
+- [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
+- [apache/couchdb-fauxton](https://github.com/apache/couchdb-fauxton) - Fauxton is the new Web UI for CouchDB
+- [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
+
 ## cms 
 
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -2010,7 +2066,7 @@
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - ARCHIVED/MOVED: please visit the new location
 - [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) - ⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI
-- [torusresearch/torus-node](https://github.com/torusresearch/torus-node) - Torus nodes run a Distributed Key Generation protocol amongst themselves that allows for the generation, storage and assignment of cryptographic keys
+- [MetaMask/torus-node](https://github.com/MetaMask/torus-node) - Torus nodes run a Distributed Key Generation protocol amongst themselves that allows for the generation, storage and assignment of cryptographic keys
 - [dalek-cryptography/x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) - X25519 elliptic curve Diffie-Hellman key exchange in pure-Rust, using curve25519-dalek.
 - [iotexproject/iotex-core](https://github.com/iotexproject/iotex-core) - Official implementation of IoTeX blockchain protocol in Go. An ultra-efficient EVM blockchain offering 1000 TPS with instant 1-block finality. Perfect for DeFi, DePIN tokenomics, Identities, and any t
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
@@ -2028,7 +2084,7 @@
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms
-- [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
+- [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
 - [ZenGo-X/curv](https://github.com/ZenGo-X/curv) - Rust language general purpose elliptic curve cryptography.
 - [ZenGo-X/multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa) - Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
 - [perlin-network/noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
@@ -2458,7 +2514,6 @@
 
 - [jderochervlk/rescript-fresh](https://github.com/jderochervlk/rescript-fresh) - ReScript bindings for Deno's Fresh framework
 - [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - ⬡ Deno to browser in seconds!
 - [denoland/docs](https://github.com/denoland/docs) - Deno documentation, examples and API Reference. Powered by Lume.
 - [denoland/denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
@@ -3756,7 +3811,6 @@
 
 ## game-development 
 
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -4393,10 +4447,6 @@
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [mattn/go-gtk](https://github.com/mattn/go-gtk) - Go binding for GTK
 
-## godot 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
-
 ## golang 
 
 - [coredhcp/coredhcp](https://github.com/coredhcp/coredhcp) - Fast, multithreaded, modular and extensible DHCP server written in Go
@@ -4614,7 +4664,7 @@
 - [KyleBanks/goodreads](https://github.com/KyleBanks/goodreads) - Goodreads API client written in Go.
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
 - [tsirysndr/coupon](https://github.com/tsirysndr/coupon) - Generate promo codes, loyalty coupons, gift vouchers, in-app purchases, referral links
-- [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
+- [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
 - [neo4j/neo4j-go-driver](https://github.com/neo4j/neo4j-go-driver) - Neo4j Bolt Driver for Go
 - [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications.
 - [KohlsTechnology/git2consul-go](https://github.com/KohlsTechnology/git2consul-go) - Populates a Consul key/value store from git
@@ -5266,7 +5316,6 @@
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
@@ -7497,7 +7546,7 @@
 - [graphql-hive/graphql-inspector](https://github.com/graphql-hive/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -7748,7 +7797,7 @@
 - [MarsX-dev/devhunt](https://github.com/MarsX-dev/devhunt) - A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase your
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [elsoul/skeet](https://github.com/elsoul/skeet) - 🚧 What...? Skeet is evolving to SLV!
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -7871,7 +7920,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [streamich/memfs](https://github.com/streamich/memfs) - Node fs and browser File System API adapters and in-memory implementations 👍
+- [streamich/memfs](https://github.com/streamich/memfs) - Node.js "fs" and browser File System API adapters and in-memory implementations 👍
 - [ealmansi/bitcoincashjs](https://github.com/ealmansi/bitcoincashjs) - WARNING: This project is no longer maintained. Please, use bitcore-lib-cash instead.
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
@@ -8167,7 +8216,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [elsoul/skeet](https://github.com/elsoul/skeet) - 🚧 What...? Skeet is evolving to SLV!
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -8263,6 +8312,7 @@
 
 ## others 
 
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [tsirysndr/rocksky](https://github.com/tsirysndr/rocksky) - A decentralized music tracking and discovery platform built on AT Protocol 🎵
 - [wish13yt/skyears-discord](https://github.com/wish13yt/skyears-discord) - Discord bot like .fmbot but for Rocksky.app
 - [superfly/init-snapshot](https://github.com/superfly/init-snapshot) - Fly
@@ -8734,7 +8784,6 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [jsr-io/jsr-npm](https://github.com/jsr-io/jsr-npm) - A cli tool to install packages from jsr.io in node
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
-- [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 - [WebAssembly/wasi-http](https://github.com/WebAssembly/wasi-http) - A collection of interfaces for sending and receiving HTTP requests and responses
 - [herimanana301/Potikena-cli](https://github.com/herimanana301/Potikena-cli) - Potikena is a simple command-line tool that allows you to easily download videos from various social media platforms.
 - [jaybuidl/teaxyz-frens-finder](https://github.com/jaybuidl/teaxyz-frens-finder) - Helper to find your friends and co-contributors and them to tea.yaml
@@ -9187,7 +9236,6 @@
 - [spdx/license-list-XML](https://github.com/spdx/license-list-XML) - Source XML and test text files for the SPDX License List
 - [moonbeam-foundation/frontier](https://github.com/moonbeam-foundation/frontier) - Ethereum compatibility layer for Substrate.
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
-- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [Supercolony-net/openbrush-contracts](https://github.com/Supercolony-net/openbrush-contracts) - 
 - [inkdevhub/dex](https://github.com/inkdevhub/dex) - ink! DEX unaudited full implementation
 - [Byron/open-rs](https://github.com/Byron/open-rs) - Open a path or URL with the system-defined program
@@ -10539,7 +10587,6 @@
 - [loomnetwork/loom-truffle-provider](https://github.com/loomnetwork/loom-truffle-provider) - Adapter that allows Truffle Suite to communicate with Loom DappChain
 - [3box/3box-verifications](https://github.com/3box/3box-verifications) - Verification service
 - [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
-- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
 - [AmbireTech/adex-protocol-substrate](https://github.com/AmbireTech/adex-protocol-substrate) - Substrate implementation of the AdEx Protocol v4: OUTPACE & Registry
@@ -11236,7 +11283,6 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-- [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [purescript/spago](https://github.com/purescript/spago) - 🍝 PureScript package manager and build tool
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -11865,7 +11911,7 @@
 - [yannbf/mealdrop](https://github.com/yannbf/mealdrop) - Mealdrop is a "real world" app built to show good practices and examples of Storybook
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [xobotyi/react-scrollbars-custom](https://github.com/xobotyi/react-scrollbars-custom) - The best React custom scrollbars component
-- [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
+- [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Track Scroll Like a Pro – React Hook for Smooth UI
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [JesusTheHun/storybook-addon-remix-react-router](https://github.com/JesusTheHun/storybook-addon-remix-react-router) - Use your app router in your stories. A decorator made for Remix React Router and Storybook
 - [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) - ⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI
@@ -12982,7 +13028,7 @@
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [containers/containrs](https://github.com/containers/containrs) - General purpose container library
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust
+- [httpmock/httpmock](https://github.com/httpmock/httpmock) - HTTP mocking library for Rust
 - [apollographql/apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust.
 - [wyyerd/stripe-rs](https://github.com/wyyerd/stripe-rs) - Rust API bindings for the Stripe HTTP API.
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
@@ -14482,10 +14528,6 @@
 
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 
-## unreal-engine 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
-
 ## vagrant 
 
 - [letiemble/vagrant-tart](https://github.com/letiemble/vagrant-tart) - Vagrant-tart is a Vagrant plugin that adds a Tart provider to Vagrant, allowing Vagrant to control and provision machines via Tart command line tool.
@@ -14888,10 +14930,42 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [inkeliz/karmem](https://github.com/inkeliz/karmem) - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [kprotty/zap](https://github.com/kprotty/zap) - An asynchronous runtime with a focus on performance and resource efficiency.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [luckasRanarison/dotfiles](https://github.com/luckasRanarison/dotfiles) - .
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [zifeo/lade](https://github.com/zifeo/lade) - Automatically load secrets from your preferred vault as environment variables or files, and clear them once your shell command is over.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
+- [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 
 ## License
