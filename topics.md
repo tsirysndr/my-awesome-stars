@@ -8350,6 +8350,7 @@
 
 ## others 
 
+- [rust-lang/infra-team](https://github.com/rust-lang/infra-team) - Coordination repository for the Rust infra team
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [tigerbeetle/tigerbeetle-go](https://github.com/tigerbeetle/tigerbeetle-go) - TigerBeetle Go client
 - [flo-bit/skywatched](https://github.com/flo-bit/skywatched) - review movies and tv shows, based on at proto
@@ -9398,7 +9399,7 @@
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [apache/dubbo-rust](https://github.com/apache/dubbo-rust) - Apache Dubbo Rust implementation
 - [apple/swift-cassandra-client](https://github.com/apple/swift-cassandra-client) - Cassandra client in Swift
-- [google/ripunzip](https://github.com/google/ripunzip) - 
+- [GoogleChrome/ripunzip](https://github.com/GoogleChrome/ripunzip) - 
 - [wyattjoh/ydns-updater](https://github.com/wyattjoh/ydns-updater) - A DNS Updater client written in Go for yDNS
 - [mitchellh/zig-js](https://github.com/mitchellh/zig-js) - Access the JS host environment from Zig compiled to WebAssembly.
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
