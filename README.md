@@ -156,7 +156,6 @@
 - [allyourcodebase/ffmpeg](https://github.com/allyourcodebase/ffmpeg) - FFmpeg Zig package
 - [mcfisto/node_airtunes2](https://github.com/mcfisto/node_airtunes2) - node.js AirTunes v2 implementation: stream wirelessly to Apple audio devices.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
-- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [bliporg/blip](https://github.com/bliporg/blip) - Blip is a cross-platform fully scriptable game engine and distribution platform.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -4138,6 +4137,7 @@
 
 ## Others 
 
+- [rust-lang/infra-team](https://github.com/rust-lang/infra-team) - Coordination repository for the Rust infra team
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [infracloudio/awesome-microvm](https://github.com/infracloudio/awesome-microvm) - 🎉 A curated list of awesome things related to Micro-VMs
 - [tsirysndr/rocksky-docs](https://github.com/tsirysndr/rocksky-docs) - Rocksky API Documentation
@@ -4374,6 +4374,7 @@
 
 - [ungive/media-control](https://github.com/ungive/media-control) - Control and observe media playback from the command line
 - [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
@@ -5493,7 +5494,7 @@
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [apache/dubbo-rust](https://github.com/apache/dubbo-rust) - Apache Dubbo Rust implementation
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-- [google/ripunzip](https://github.com/google/ripunzip) - 
+- [GoogleChrome/ripunzip](https://github.com/GoogleChrome/ripunzip) - 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 - [DzenanJupic/rustube](https://github.com/DzenanJupic/rustube) - A YouTube video downloader, originally inspired by pytube, written in Rust.
