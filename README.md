@@ -343,7 +343,7 @@
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [silverqx/TinyORM](https://github.com/silverqx/TinyORM) - Modern C++ ORM library
 - [Qihoo360/blackwidow](https://github.com/Qihoo360/blackwidow) - A library implements REDIS commands(Strings, Hashes, Lists, Sorted Sets, Sets, Keys, HyperLogLog) based on rocksdb, as the storage layer for Pika https://github.com/OpenAtomFoundation/pika .
 - [pinterest/rocksplicator](https://github.com/pinterest/rocksplicator) - RocksDB Replication
@@ -928,6 +928,7 @@
 
 ## Go 
 
+- [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [tigerbeetle/tigerbeetle-go](https://github.com/tigerbeetle/tigerbeetle-go) - TigerBeetle Go client
 - [bluesky-social/go-util](https://github.com/bluesky-social/go-util) - Sharable Go Utilities
@@ -1087,7 +1088,7 @@
 - [ibuildthecloud/ai-example](https://github.com/ibuildthecloud/ai-example) - 
 - [Stride-Labs/stride](https://github.com/Stride-Labs/stride) - Stride: Multichain Liquid Staking
 - [cirruslabs/vetu](https://github.com/cirruslabs/vetu) - Create, publish and virtualize ephemeral Linux VMs with ease
-- [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
+- [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) - Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch.
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [contabo/terraform-provider-contabo](https://github.com/contabo/terraform-provider-contabo) - Terraform Provider for Contabo Cloud-Services
 - [contabo/cntb](https://github.com/contabo/cntb) - Contabo Command Line Interface
@@ -4509,7 +4510,7 @@
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [latchbio/latch](https://github.com/latchbio/latch) - a python bioinformatics framework
 - [samalba/hf-model-ops](https://github.com/samalba/hf-model-ops) - 🤗 MLOps with Hugging Face Spaces and Dagger
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -4928,7 +4929,7 @@
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [Moonsong-Labs/moonkit](https://github.com/Moonsong-Labs/moonkit) - Collection of open substrate pallets
 - [arthurprs/quick-cache](https://github.com/arthurprs/quick-cache) - Lightweight and high performance concurrent cache
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [philn/glide](https://github.com/philn/glide) - Linux/macOS media player based on GStreamer and GTK
@@ -5550,7 +5551,7 @@
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
@@ -5718,7 +5719,7 @@
 - [paritytech/parity-bridges-common](https://github.com/paritytech/parity-bridges-common) - Collection of Useful Bridge Building Tools 🏗️
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [ChainSafe/chainbridge-substrate](https://github.com/ChainSafe/chainbridge-substrate) - 
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [zcash/librustzcash](https://github.com/zcash/librustzcash) - Rust-language assets for Zcash
@@ -6426,13 +6427,14 @@
 
 ## TypeScript 
 
+- [tsirysndr/freebsd-up](https://github.com/tsirysndr/freebsd-up) - A simple, zero-configuration script to quickly boot FreeBSD ISO images using QEMU
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
 - [knotbin/airport](https://github.com/knotbin/airport) - AT Protocol PDS migration built in Deno Fresh
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [dylanblokhuis/kysely-bun-sqlite](https://github.com/dylanblokhuis/kysely-bun-sqlite) - Use Kysely with the Bun runtime
-- [Unistyles-OSS/uniwind](https://github.com/Unistyles-OSS/uniwind) - The fastest Tailwind bindings for React Native
+- [Unistyles-OSS/uniwind](https://github.com/Unistyles-OSS/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
 - [hyperlink-academy/leaflet](https://github.com/hyperlink-academy/leaflet) - A tool for shared writing and social publishing
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [easrng/atpkgs](https://github.com/easrng/atpkgs) - 
