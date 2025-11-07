@@ -334,7 +334,7 @@
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [bliporg/blip](https://github.com/bliporg/blip) - Blip is a cross-platform fully scriptable game engine and distribution platform.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
+- [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -363,7 +363,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [cybercongress/go-cyber](https://github.com/cybercongress/go-cyber) - Your 🔵 Superintelligence
+- [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber) - Your 🔵 Superintelligence
 - [old-storyai/Story.ai](https://github.com/old-storyai/Story.ai) - Notebook for building internal tools.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
@@ -408,7 +408,6 @@
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
@@ -1114,6 +1113,7 @@
 
 ## blockchain 
 
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
 - [tsirysndr/evmosup](https://github.com/tsirysndr/evmosup) - Spin up an evmos blockchain in seconds
 - [evmos/os](https://github.com/evmos/os) - A bleeding-edge forward-compatible EVM framework for fast blockchain development 🔌⚡️
@@ -1203,7 +1203,7 @@
 - [moonbeam-foundation/moonbeam](https://github.com/moonbeam-foundation/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
 - [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
-- [cybercongress/go-cyber](https://github.com/cybercongress/go-cyber) - Your 🔵 Superintelligence
+- [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber) - Your 🔵 Superintelligence
 - [iov-one/weave](https://github.com/iov-one/weave) - Easy-to-use SDK to build Tendermint ABCI applications
 - [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar) - 🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem
 - [gautamdhameja/pallet-did](https://github.com/gautamdhameja/pallet-did) - A Substrate pallet for decentralized identifiers' (DIDs) management.
@@ -2331,6 +2331,7 @@
 
 ## database 
 
+- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance durable, transactional embeddable storage engine designed for flash and RAM optimization.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications.
@@ -2706,6 +2707,7 @@
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [garden-io/garden-action](https://github.com/garden-io/garden-action) - GitHub action to install and prepare Garden, in order to run workflows, tests or deploy to your environments inside GitHub Workflows.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
@@ -2762,7 +2764,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [briefercloud/layerform](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
@@ -2981,7 +2983,7 @@
 - [testcontainers/testcontainers-clj](https://github.com/testcontainers/testcontainers-clj) - Control Docker containers from your test lifecycle for Clojure integration tests.
 - [fluentci-io/depot-plugin](https://github.com/fluentci-io/depot-plugin) - Set up your CI/CD Pipeline with a specific version of Depot
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [GoogleCloudPlatform/cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [fluentci-io/fluentci-studio](https://github.com/fluentci-io/fluentci-studio) - 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
@@ -3007,7 +3009,7 @@
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [NoEnv/docker-sonar-scanner](https://github.com/NoEnv/docker-sonar-scanner) - Sonar Scanner as Docker Image
 - [fluent-ci-templates/fluentci](https://github.com/fluent-ci-templates/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way
@@ -3478,6 +3480,7 @@
 
 ## ethereum 
 
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
 - [tsirysndr/evmosup](https://github.com/tsirysndr/evmosup) - Spin up an evmos blockchain in seconds
 - [evmos/os](https://github.com/evmos/os) - A bleeding-edge forward-compatible EVM framework for fast blockchain development 🔌⚡️
@@ -4478,6 +4481,7 @@
 
 ## golang 
 
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.
 - [coredhcp/coredhcp](https://github.com/coredhcp/coredhcp) - Fast, multithreaded, modular and extensible DHCP server written in Go
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
@@ -5249,6 +5253,7 @@
 
 ## hacktoberfest 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [nordic-institute/X-Road](https://github.com/nordic-institute/X-Road) - Source code of the X-Road® data exchange layer software
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -5350,7 +5355,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -6094,7 +6099,7 @@
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -&gt; IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
-- [cybercongress/go-cyber](https://github.com/cybercongress/go-cyber) - Your 🔵 Superintelligence
+- [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber) - Your 🔵 Superintelligence
 - [textileio/go-textile](https://github.com/textileio/go-textile) - [DEPRECATED] Textile is a set of tools and infrastructure for building composable apps and services on the IPFS network
 - [libp2p/go-libp2p-kad-dht](https://github.com/libp2p/go-libp2p-kad-dht) - A Kademlia DHT implementation on go-libp2p
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
@@ -7017,6 +7022,7 @@
 ## laravel 
 
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [fluent-ci-templates/laravel-pipeline](https://github.com/fluent-ci-templates/laravel-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Laravel projects.
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
@@ -7039,6 +7045,7 @@
 
 ## library 
 
+- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance durable, transactional embeddable storage engine designed for flash and RAM optimization.
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [openwallet-foundation/vcx](https://github.com/openwallet-foundation/vcx) - vcx
@@ -7077,6 +7084,7 @@
 
 ## linux 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [tsirysndr/slackware-overlayfs](https://github.com/tsirysndr/slackware-overlayfs) - An init script that adds OverlayFS support for Slackware, enabling both ephemeral (RAM) and persistent (disk) root overlays.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
@@ -7353,6 +7361,7 @@
 
 ## macos 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -7548,7 +7557,6 @@
 ## mongodb 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [thedodd/wither](https://github.com/thedodd/wither) - An ODM for MongoDB built on the official MongoDB Rust driver.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
@@ -7683,7 +7691,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [vapor/mysql-kit](https://github.com/vapor/mysql-kit) - 🐬 Pure Swift MySQL client built on non-blocking, event-driven sockets.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
@@ -7839,7 +7847,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [tryabby/abby](https://github.com/tryabby/abby) - Open-Source Feature Flags, Remote Config & A/B Tests for Developers ⛳🧪
@@ -7996,7 +8004,7 @@
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
@@ -8362,6 +8370,9 @@
 
 ## others 
 
+- [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+- [Anastasia-Labs/lucid-evolution](https://github.com/Anastasia-Labs/lucid-evolution) - A highly scalable, production-ready transaction builder and off-chain framework for dApps and devs on Cardano.
+- [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
 - [tsirysndr/openindiana-up](https://github.com/tsirysndr/openindiana-up) - A simple, powerful CLI tool to spin up OpenIndiana virtual machines with QEMU
 - [tsirysndr/netbsd-up](https://github.com/tsirysndr/netbsd-up) - A simple command-line tool to start NetBSD virtual machines using QEMU with sensible defaults.
 - [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
@@ -9596,7 +9607,7 @@
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [elixir-lang/gen_stage](https://github.com/elixir-lang/gen_stage) - Producer and consumer actors with back-pressure for Elixir
 - [elixir-toniq/maestro](https://github.com/elixir-toniq/maestro) - an event store + cqrs
-- [CargoSense/fable](https://github.com/CargoSense/fable) - Your events have a story to tell
+- [CargoSense/fable](https://github.com/CargoSense/fable) - Your events have a story to tell.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter) - React 0.68+ Turbo Module starter using codegen with typescript for Objective-C and Java/Kotlin with C++ shared library. 🚀🚀🚀
 - [open-telemetry/opentelemetry-erlang](https://github.com/open-telemetry/opentelemetry-erlang) - OpenTelemetry Erlang SDK
@@ -10728,7 +10739,7 @@
 - [jessfraz/party-clippy](https://github.com/jessfraz/party-clippy) - Go server that shows clippy. Nice for curl in demos.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [mattdf/payment-channel](https://github.com/mattdf/payment-channel) - Ethereum Payment Channel in 50 lines of code
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
+- [google-admin/blockly](https://github.com/google-admin/blockly) - The web-based visual programming editor.
 - [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.
 - [CodeSequence/store-saga](https://github.com/CodeSequence/store-saga) - An Rx implementation of redux-saga for @ngrx/store
 - [helm/hub](https://github.com/helm/hub) - ⚠️(OBSOLETE) Former distributed charts search for hub.helm.sh. Now see https://artifacthub.io/
@@ -11269,7 +11280,7 @@
 ## p2p 
 
 - [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
-- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
+- [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) - Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch.
 - [vacp2p/nim-libp2p](https://github.com/vacp2p/nim-libp2p) - libp2p implementation in Nim
 - [fluencelabs/registry](https://github.com/fluencelabs/registry) - Register and discover services via Aqua
@@ -11393,7 +11404,7 @@
 
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
@@ -11434,7 +11445,6 @@
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -12228,6 +12238,7 @@
 
 ## react-native 
 
+- [toss/granite](https://github.com/toss/granite) - Enterprise-grade React Native framework for microservice apps. Brownfield friendly, 200KB bundles, AWS-ready infrastructure.
 - [Unistyles-OSS/uniwind](https://github.com/Unistyles-OSS/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
@@ -12415,7 +12426,6 @@
 
 - [authts/react-oidc-context](https://github.com/authts/react-oidc-context) - Lightweight auth library based on oidc-client-ts for React single page applications (SPA). Support for hooks and higher-order components (HOC).
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
@@ -12600,6 +12610,7 @@
 
 ## rust 
 
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
 - [aa-proxy/aa-proxy-rs](https://github.com/aa-proxy/aa-proxy-rs) - AndroidAuto wired/wireless proxy
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
@@ -13392,6 +13403,7 @@
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -13426,6 +13438,7 @@
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [jollytoad/deno_http_fns](https://github.com/jollytoad/deno_http_fns) - A bunch of functions for building HTTP servers
 - [enisdenjo/graphql-sse](https://github.com/enisdenjo/graphql-sse) - Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -13464,7 +13477,7 @@
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [hypermodeinc/modus](https://github.com/hypermodeinc/modus) - modus: a framework for building agentic flows powered by WebAssembly
-- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
+- [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js) - Rate limiting library for serverless runtimes
@@ -13592,6 +13605,7 @@
 
 ## solidity 
 
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [volsa/etherface](https://github.com/volsa/etherface) - Ethereum Signature Database
@@ -13845,13 +13859,14 @@
 
 ## svelte 
 
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [ScuffleCloud/scuffle](https://github.com/ScuffleCloud/scuffle) - Opensource Cloud Provider (focusing on video streaming)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [mixel-music/mixel-music](https://github.com/mixel-music/mixel-music) - Build your own music server simply.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -14200,6 +14215,7 @@
 
 ## typescript 
 
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [AugustinMauroy/am-neuralnetwork](https://github.com/AugustinMauroy/am-neuralnetwork) - A simple neural network library for JavaScript and TypeScript.
 - [tsirysndr/openbsd-up](https://github.com/tsirysndr/openbsd-up) - A simple CLI tool to spin up OpenBSD virtual machines using QEMU with minimal fuss.
 - [tsirysndr/dragonflybsd-up](https://github.com/tsirysndr/dragonflybsd-up) - A convenient CLI tool to quickly spin up DragonflyBSD virtual machines using QEMU with sensible defaults.
@@ -14749,7 +14765,6 @@
 ## vuejs 
 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [prose-im/prose-app-web](https://github.com/prose-im/prose-app-web) - Prose Web application. XMPP client for team messaging.
 - [skerkour/bloom-legacy](https://github.com/skerkour/bloom-legacy) - DEPRECATED - End-to-end encrypted Notes, Files, Calendar, Contacts... for Android, IOS, Linux & MacOS
 - [ignite/web](https://github.com/ignite/web) - Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules
@@ -14918,6 +14933,7 @@
 
 ## windows 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
