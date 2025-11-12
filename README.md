@@ -939,6 +939,7 @@
 - [bluesky-social/go-util](https://github.com/bluesky-social/go-util) - Sharable Go Utilities
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [coreos/butane](https://github.com/coreos/butane) - Butane translates human-readable Butane Configs into machine-readable Ignition Configs.
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [nextdhcp/nextdhcp](https://github.com/nextdhcp/nextdhcp) - A DHCP server chaining middlewares. Similar to CoreDNS and Caddy
 - [coredhcp/coredhcp](https://github.com/coredhcp/coredhcp) - Fast, multithreaded, modular and extensible DHCP server written in Go
 - [google/mangle](https://github.com/google/mangle) - 
@@ -6464,7 +6465,6 @@
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [tsirysndr/rocksky](https://github.com/tsirysndr/rocksky) - A decentralized music tracking and discovery platform built on AT Protocol 🎵
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [tsirysndr/oh-my-droid](https://github.com/tsirysndr/oh-my-droid) - Opinionated Android  15+ Linux Terminal Setup
@@ -6686,7 +6686,7 @@
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [denoland/deployctl](https://github.com/denoland/deployctl) - Command line tool for Deno Deploy
 - [kitsonk/xhr](https://github.com/kitsonk/xhr) - An XMLHttpRequest polyfill for Deno CLI and Deploy 🦕
-- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Debuggability Elevated
+- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Sentry for Development
 - [MarsX-dev/devhunt](https://github.com/MarsX-dev/devhunt) - A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase your
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
 - [tsirysndr/top-mg-github-users](https://github.com/tsirysndr/top-mg-github-users) - The public contributions by users in Madagascar
@@ -7067,7 +7067,7 @@
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol
 - [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native that confirms OpenIAP
 - [graphql-nexus/nexus-prisma](https://github.com/graphql-nexus/nexus-prisma) - Prisma plugin for Nexus
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
