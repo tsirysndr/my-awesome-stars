@@ -397,7 +397,7 @@
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
 - [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) - Data Structure Libraries and Algorithms implementation
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms library in TypeScript and JavaScript
 
 ## analytics 
@@ -1114,6 +1114,7 @@
 
 ## blockchain 
 
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
 - [tsirysndr/evmosup](https://github.com/tsirysndr/evmosup) - Spin up an evmos blockchain in seconds
@@ -2656,7 +2657,7 @@
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [syumai/dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [cmorten/opine](https://github.com/cmorten/opine) - Minimalist web framework for Deno ported from ExpressJS.
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [denoland/deno_bindgen](https://github.com/denoland/deno_bindgen) - Write high-level Deno FFI libraries in Rust.
 - [polkadot-js/build-deno.land](https://github.com/polkadot-js/build-deno.land) - Package publishing for deno.land/x/polkadot
@@ -4483,6 +4484,7 @@
 
 ## golang 
 
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.
 - [coredhcp/coredhcp](https://github.com/coredhcp/coredhcp) - Fast, multithreaded, modular and extensible DHCP server written in Go
@@ -5258,7 +5260,6 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [nordic-institute/X-Road](https://github.com/nordic-institute/X-Road) - Source code of the X-Road® data exchange layer software
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [tscircuit/core](https://github.com/tscircuit/core) - Create electronics with Typescript and React. Compile Typescript to Circuit JSON
 - [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com) - The main website, playground and online development environment for tscircuit (React Electronics)
@@ -6095,6 +6096,7 @@
 
 ## ipfs 
 
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
@@ -6748,6 +6750,7 @@
 
 ## kubernetes 
 
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -7087,6 +7090,7 @@
 
 ## linux 
 
+- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance durable, transactional embeddable storage engine designed for flash and RAM optimization.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [tsirysndr/slackware-overlayfs](https://github.com/tsirysndr/slackware-overlayfs) - An init script that adds OverlayFS support for Slackware, enabling both ephemeral (RAM) and persistent (disk) root overlays.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -7365,6 +7369,7 @@
 ## macos 
 
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance durable, transactional embeddable storage engine designed for flash and RAM optimization.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -7469,7 +7474,7 @@
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
@@ -8374,6 +8379,7 @@
 
 ## others 
 
+- [NetBSDfr/pkgin](https://github.com/NetBSDfr/pkgin) - pkgin's official github repository
 - [Rabbit-Company/Web-JS](https://github.com/Rabbit-Company/Web-JS) - High-performance web framework
 - [cperciva/firecracker](https://github.com/cperciva/firecracker) - Secure and fast microVMs for serverless computing.
 - [open-telemetry/opentelemetry-ebpf-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) - 
@@ -8385,7 +8391,7 @@
 - [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
-- [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
+- [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [epilot-dev/engineering-principles](https://github.com/epilot-dev/engineering-principles) - Core principles for epilot engineers
 - [bluesky-social/cookbook](https://github.com/bluesky-social/cookbook) - A collection of example projects and scripts for atproto development.
 - [rust-lang/infra-team](https://github.com/rust-lang/infra-team) - Coordination repository for the Rust infra team
@@ -11286,6 +11292,7 @@
 
 ## p2p 
 
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) - Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch.
@@ -11975,7 +11982,7 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
 - [rescript-react-native/template](https://github.com/rescript-react-native/template) - ReScript React Native template
 - [flexsurfer/rn-shadow-steroid](https://github.com/flexsurfer/rn-shadow-steroid) - React Native with shadow-cljs on steroids
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
 - [goatandsheep/react-native-dotenv](https://github.com/goatandsheep/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
 - [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android, iOS & Web) ActionSheet with a flexible api, native performance for react native. Create anything you want inside ActionSheet.
 - [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
@@ -12159,7 +12166,7 @@
 - [danilowoz/create-content-loader](https://github.com/danilowoz/create-content-loader) - ✏️ Tool to create your own react-content-loader easily.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [buildo/react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [FormidableLabs/victory-chart](https://github.com/FormidableLabs/victory-chart) - Chart Component for Victory
 - [kuy/redux-tooltip](https://github.com/kuy/redux-tooltip) - A tooltip React component for Redux.
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
@@ -12628,7 +12635,7 @@
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [Sinono3/souvlaki](https://github.com/Sinono3/souvlaki) - A cross-platform library for handling OS media controls and metadata.
 - [tsirysndr/xata_id_extension](https://github.com/tsirysndr/xata_id_extension) - PostgreSQL extension for generating Xata-style xata_id unique identifiers (rec_&lt;20_chars&gt;) using Rust and pgrx.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such
 - [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
@@ -14396,7 +14403,7 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [syumai/dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 - [uhyo/nitrogql](https://github.com/uhyo/nitrogql) - GraphQL + TypeScript toolchain
@@ -14725,6 +14732,7 @@
 
 ## vpn 
 
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
@@ -14943,6 +14951,7 @@
 
 ## windows 
 
+- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance durable, transactional embeddable storage engine designed for flash and RAM optimization.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
