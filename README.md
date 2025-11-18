@@ -16,6 +16,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [CUE](#cue)
+- [Cairo](#cairo)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
@@ -515,6 +516,10 @@
 ## CUE 
 
 - [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND
+
+## Cairo 
+
+- [starkware-libs/stwo-cairo](https://github.com/starkware-libs/stwo-cairo) - Prove Cairo programs with the blazing-fast S-two prover, powered by the cryptographic breakthrough of Circle STARKs.
 
 ## Clojure 
 
@@ -1335,7 +1340,7 @@
 - [subscan-explorer/scale.go](https://github.com/subscan-explorer/scale.go) - Golang polkadot substrate scale codec
 - [lotusdblabs/lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value database written in Go, extremely fast, compatible with LSM tree and B+ tree.
 - [evmos/evmos](https://github.com/evmos/evmos) - Evmos is the canonical EVM chain on Cosmos. Evmos is the flagship implementation of evmOS, a stack to build forward compatible EVMs
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [osmosis-labs/osmosis](https://github.com/osmosis-labs/osmosis) - The AMM Laboratory
 - [engineerd/wasm-to-oci](https://github.com/engineerd/wasm-to-oci) - Use OCI registries to distribute Wasm modules
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
@@ -2849,7 +2854,7 @@
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [roccomuso/netcat](https://github.com/roccomuso/netcat) - :computer: Netcat client and server modules written in pure Javascript for Node.js.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [indexzero/node-procfile](https://github.com/indexzero/node-procfile) - Procfile parser for node.js
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
@@ -4428,6 +4433,7 @@
 
 ## Python 
 
+- [neondatabase/appdotbuild-agent](https://github.com/neondatabase/appdotbuild-agent) - The agent that generates working apps (and maybe some other things)
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
 - [bluesky-social/cookbook](https://github.com/bluesky-social/cookbook) - A collection of example projects and scripts for atproto development.
 - [exislow/tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Multithreaded TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24-bit, 192 kHz and Dolby Atmos.
@@ -4451,6 +4457,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow) - DuckDB for streaming data
 - [nestipy/nestipy](https://github.com/nestipy/nestipy) - Nestipy is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
@@ -4826,6 +4833,7 @@
 
 ## Rust 
 
+- [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - GDB TUI Dashboard for the understanding of vast knowledge
 - [supabase/etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
 - [cperciva/firecracker](https://github.com/cperciva/firecracker) - Secure and fast microVMs for serverless computing.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
@@ -4886,7 +4894,6 @@
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Binary
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
-- [starkware-libs/stwo-cairo](https://github.com/starkware-libs/stwo-cairo) - Prove Cairo programs with the blazing-fast S-two prover, powered by the cryptographic breakthrough of Circle STARKs.
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications.
 - [mozilla-services/autopush-rs](https://github.com/mozilla-services/autopush-rs) - Push Server in Rust
@@ -5134,7 +5141,7 @@
 - [r0gue-io/pop-node](https://github.com/r0gue-io/pop-node) - Pop Network makes it easy for smart contract developers to use the Power of Polkadot.
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [ArloFilley/rusty_torrent](https://github.com/ArloFilley/rusty_torrent) - A Rust Bittorrent v1 Library
-- [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI interface for LLMs written in Rust
+- [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI for LLMs
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
 - [rust-math/fftw](https://github.com/rust-math/fftw) - FFTW3 binding for Rust
 - [paritytech/zombienet-sdk](https://github.com/paritytech/zombienet-sdk) - ZombieNet SDK
@@ -6443,6 +6450,8 @@
 
 ## TypeScript 
 
+- [kitojs/kito](https://github.com/kitojs/kito) - 🐺 The high-performance, type-safe and modern TypeScript web framework written in Rust.
+- [tsirysndr/vmx](https://github.com/tsirysndr/vmx) - A Docker-like CLI and HTTP API for managing headless QEMU VMs
 - [Rabbit-Company/Web-JS](https://github.com/Rabbit-Company/Web-JS) - High-performance web framework
 - [toss/granite](https://github.com/toss/granite) - Enterprise-grade React Native framework for microservice apps. Brownfield friendly, 200KB bundles, AWS-ready infrastructure.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -6513,7 +6522,6 @@
 - [tobilg/duckerd](https://github.com/tobilg/duckerd) - CLI to create an ER Diagram from DuckDB database files
 - [jotaijs/jotai-effect](https://github.com/jotaijs/jotai-effect) - A Jōtai utility package for reactive side-effects
 - [mkizka/linkat](https://github.com/mkizka/linkat) - Create your Link in Bio for Bluesky
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
 - [usounds/AtpDashboard](https://github.com/usounds/AtpDashboard) - A dashboard for monitoring the status of third-party collections in the AT Protocol.
 - [upstash/qstash-js](https://github.com/upstash/qstash-js) - Message queue for serverless
@@ -6593,7 +6601,7 @@
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) - 
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
 - [microsoft/azure-pipelines-terraform](https://github.com/microsoft/azure-pipelines-terraform) - Azure Pipelines tasks for installing Terraform and running Terraform commands in a build or release pipeline.
 - [microsoft/tfs-cli](https://github.com/microsoft/tfs-cli) - Cross-platform CLI for Microsoft Team Foundation Server and Visual Studio Team Services
 - [cdk8s-team/cdk8s-cli](https://github.com/cdk8s-team/cdk8s-cli) - 
