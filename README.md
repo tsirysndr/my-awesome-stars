@@ -457,7 +457,7 @@
 - [facebook/fatal](https://github.com/facebook/fatal) - Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping 
 - [facebook/fbthrift](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a new C++ server.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [itinance/react-native-fs](https://github.com/itinance/react-native-fs) - Native filesystem access for react-native
 - [daisygao/ScannerLite](https://github.com/daisygao/ScannerLite) - An OpenCV program implementing the recognition feature of the app "CamScanner". It extracts the main document object from an image and adjusts it to A4 size.
 - [brave/muon](https://github.com/brave/muon) - [DEPRECATED] Build browsers and browser like applications with HTML, CSS, and JavaScript
@@ -2305,7 +2305,7 @@
 - [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 - [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [go-shadow/moment](https://github.com/go-shadow/moment) - Port of moment.js to Golang with some additional features for working with dates and times
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [capnproto/go-capnp](https://github.com/capnproto/go-capnp) - Cap'n Proto library and code generator for Go
@@ -2751,7 +2751,6 @@
 - [datso/react-native-pjsip](https://github.com/datso/react-native-pjsip) - A PJSIP module for React Native.
 - [tanguyantoine/react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - Display and manage media controls on lock screen and notification center for iOS and Android.
 - [react-native-webrtc/react-native-incall-manager](https://github.com/react-native-webrtc/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
-- [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A &lt;LinearGradient /&gt; component for react-native
 - [react-native-config/react-native-config](https://github.com/react-native-config/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [futurepress/react-native-static-server](https://github.com/futurepress/react-native-static-server) - HTTP static file server for React Native
 - [ppareit/swiftp](https://github.com/ppareit/swiftp) - FTP server for your android device.
@@ -3260,6 +3259,7 @@
 - [feross/last-fm](https://github.com/feross/last-fm) - Simple, robust LastFM API client (for public data)
 - [ConsenSys-archive/drizzle-utils](https://github.com/ConsenSys-archive/drizzle-utils) - A library for interacting with Ethereum smart contracts based on RxJS streams.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A &lt;LinearGradient /&gt; component for react-native
 - [strongloop/loopback-cli](https://github.com/strongloop/loopback-cli) - LoopBack CLI tool for creating projects, models and more.
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -4450,7 +4450,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - Let's be honest, who really knows how to use ffmpeg. Its that tool that is so helpful but not needed enough to justify learning all of its inner workings. The days of scrolling through stackoverflow a
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -4830,6 +4830,8 @@
 
 ## Rust 
 
+- [tsirysndr/rockbox-deno](https://github.com/tsirysndr/rockbox-deno) - A modern runtime for JavaScript and TypeScript.
+- [actions-rust-lang/setup-rust-toolchain](https://github.com/actions-rust-lang/setup-rust-toolchain) - Setup a specific Rust toolchain with extra features like problem matchers
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel
 - [oramasearch/oramacore](https://github.com/oramasearch/oramacore) - OramaCore is the complete runtime you need for your projects, answer engines, copilots, and search. It includes a fully-fledged full-text search engine, vector database, LLM interface, and many more u
@@ -6378,6 +6380,7 @@
 
 ## Swift 
 
+- [kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor) - An offline macOS music player
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -6429,7 +6432,7 @@
 - [grpc/grpc-swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
 - [Awalz/SwiftyCam](https://github.com/Awalz/SwiftyCam) - A Snapchat Inspired iOS Camera Framework written in Swift
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
@@ -6926,7 +6929,7 @@
 - [graphql-compose/graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose) - Mongoose model converter to GraphQL types with resolvers for graphql-compose https://github.com/nodkz/graphql-compose
 - [cucumber/language-service](https://github.com/cucumber/language-service) - Cucumber Language Service
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
 - [Crossmint/crossmint-sdk](https://github.com/Crossmint/crossmint-sdk) - Crossmint SDK for client and server integrations
