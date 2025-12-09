@@ -1273,7 +1273,7 @@
 - [mit-dci/zkledger](https://github.com/mit-dci/zkledger) - Privacy-preserving auditing for distributed ledgers
 - [aurae-runtime/client-go](https://github.com/aurae-runtime/client-go) - Go gRPC client for Aurae
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight durable workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing comm
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, lightweight workflow engine for enterprise and small teams. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing comm
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [ChainSafe/chainbridge-core](https://github.com/ChainSafe/chainbridge-core) - 🌁 Sygma core library (ChainBridge)
@@ -4216,6 +4216,7 @@
 - [Gismo1337/hacktoberfest-project-list](https://github.com/Gismo1337/hacktoberfest-project-list) - A interactive showcase of all the projects waiting for your contribution at Hacktoberfest 2022. You want to publish your projects to the contributors of Hacktoberfest? Contributions to this repositori
 - [libp2p/specs](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
+- [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - ARCHIVED/MOVED: please visit the new location
 - [hmelder/TIDAL](https://github.com/hmelder/TIDAL) - Reverse engineering the TIDAL API. OAuth2 (RFC 8628 & RFC 6749) and (nearly) all endpoints
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [oscarmcm/ocean-space](https://github.com/oscarmcm/ocean-space) - 🌊 Deep oceanic blue Visual Studio Code theme
@@ -4762,6 +4763,7 @@
 
 ## Ruby 
 
+- [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [tsirysndr/pkgs](https://github.com/tsirysndr/pkgs) - 📦 My Package bundle — A reproducible list of all the Homebrew packages, casks, and taps + Debian/Pkgx packages I use on macOS/Debian/Android/Chrome OS, managed via a Brewfile and oh-my-droid.toml.
 - [funwarioisii/mcp-rb](https://github.com/funwarioisii/mcp-rb) - A lightweight Ruby framework for building MCP servers with a Sinatra-like DSL
@@ -5122,7 +5124,7 @@
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [bytecodealliance/wac](https://github.com/bytecodealliance/wac) - WebAssembly Composition (WAC) tooling
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [ordinals/ord-bitcoincore-rpc](https://github.com/ordinals/ord-bitcoincore-rpc) - Rust RPC client library for the Bitcoin Core JSON-RPC API.
 - [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
@@ -5341,7 +5343,7 @@
 - [bbqsrc/cargo-cocoapods](https://github.com/bbqsrc/cargo-cocoapods) - Bundle Cargo crates for use with macOS/iOS in Xcode
 - [bbqsrc/cargo-ndk](https://github.com/bbqsrc/cargo-ndk) - Compile Rust projects with the Android NDK without hassle
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-- [envio-cli/envio](https://github.com/envio-cli/envio) - A modern and secure command-line tool that simplifies the management of environment variables
+- [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - A secure command-line tool for managing environment variables
 - [RustAudio/dasp](https://github.com/RustAudio/dasp) - The fundamentals for Digital Audio Signal Processing. Formerly `sample`.
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
 - [rust-mobile/cargo-apk](https://github.com/rust-mobile/cargo-apk) - Helps cargo build APKs
@@ -5621,7 +5623,6 @@
 - [angelcam/rust-ac-ffmpeg](https://github.com/angelcam/rust-ac-ffmpeg) - Simple and safe Rust interface for FFmpeg libraries.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
-- [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - ARCHIVED/MOVED: please visit the new location
 - [ruuda/hound](https://github.com/ruuda/hound) - A wav encoding and decoding library in Rust
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
@@ -6458,6 +6459,7 @@
 
 ## TypeScript 
 
+- [Rantoniaina/kpi](https://github.com/Rantoniaina/kpi) - A standalone desktop application for tracking developer performance through ticket management, bug tracking, and monthly KPI reporting. Built with Tauri, React, and Rust.
 - [kitojs/kito](https://github.com/kitojs/kito) - 🐺 The high-performance, type-safe and modern TypeScript web framework written in Rust.
 - [tsirysndr/vmx](https://github.com/tsirysndr/vmx) - A Docker-like CLI and HTTP API for managing headless QEMU VMs
 - [Rabbit-Company/Web-JS](https://github.com/Rabbit-Company/Web-JS) - High-performance web framework
@@ -7116,7 +7118,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The React for Voice and Chat: Build Apps for Alexa, Messenger, Instagram, the Web, and more
 - [ethereumjs/merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree) - Project is in active development and has been moved to the EthereumJS VM monorepo.
-- [paulmillr/noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) - Fastest 4KB JS implementation of secp256k1 signatures and ECDH
+- [paulmillr/noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) - Fastest 5KB JS implementation of secp256k1 signatures and ECDH
 - [apollographql/federation](https://github.com/apollographql/federation) - 🌐  Build and scale a single data graph across multiple services with Apollo's federation gateway.
 - [aaronwlee/oak-graphql](https://github.com/aaronwlee/oak-graphql) - A simple graphql middleware for oak deno framework.
 - [mitchlloyd/ts-twirp](https://github.com/mitchlloyd/ts-twirp) - A Twirp implementation for TypeScript and Nodejs
