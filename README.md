@@ -152,7 +152,7 @@
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [MidstallSoftware/dbus.zig](https://github.com/MidstallSoftware/dbus.zig) - DBus packaging & bindings in Zig
 - [allyourcodebase/libusb](https://github.com/allyourcodebase/libusb) - libusb with batteries...build.zig included
-- [tsirysndr/rockbox-zig](https://github.com/tsirysndr/rockbox-zig) - Rockbox open source high quality audio player as a Music Player Daemon. This project brings modern enhancements to the classic Rockbox firmware, using Zig and Rust for improved performance and maintai
+- [tsirysndr/rockbox-zig](https://github.com/tsirysndr/rockbox-zig) - A modern Music Player Daemon based on Rockbox firmware
 - [boazsegev/facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [allyourcodebase/SDL](https://github.com/allyourcodebase/SDL) - SDL with the build system replaced by Zig
 - [getsentry/sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
@@ -4833,6 +4833,7 @@
 
 ## Rust 
 
+- [vectorize-io/pg0](https://github.com/vectorize-io/pg0) - pg0 - language agnostic embedded postgres
 - [whispem/minikv](https://github.com/whispem/minikv) - A production-ready distributed key-value store with Raft consensus.
 - [alejandroqh/term39](https://github.com/alejandroqh/term39) - A modern, retro-styled terminal multiplexer built with Rust.
 - [tsirysndr/rockbox-deno](https://github.com/tsirysndr/rockbox-deno) - A modern runtime for JavaScript and TypeScript.
@@ -4982,7 +4983,7 @@
 - [Andry-RALAMBOMANANTSOA/instrument](https://github.com/Andry-RALAMBOMANANTSOA/instrument) - Futures Order matching engine
 - [warpy-ai/rustubble](https://github.com/warpy-ai/rustubble) - Beautifull components for your terminal.
 - [shssoichiro/sqlformat-rs](https://github.com/shssoichiro/sqlformat-rs) - SQL Formatter written in Rust
-- [mierak/rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based MPD Client with album art support via various terminal image protocols
+- [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [gleam-lang/zed-gleam](https://github.com/gleam-lang/zed-gleam) - Gleam language support for Zed
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A versatile, feature-rich Rust ORM ⛵
