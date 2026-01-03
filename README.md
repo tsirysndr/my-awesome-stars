@@ -945,7 +945,7 @@
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [tigerbeetle/tigerbeetle-go](https://github.com/tigerbeetle/tigerbeetle-go) - TigerBeetle Go client
 - [bluesky-social/go-util](https://github.com/bluesky-social/go-util) - Sharable Go Utilities
-- [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [coreos/butane](https://github.com/coreos/butane) - Butane translates human-readable Butane Configs into machine-readable Ignition Configs.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -4460,7 +4460,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - Let's be honest, who really knows how to use ffmpeg. Its that tool that is so helpful but not needed enough to justify learning all of its inner workings. The days of scrolling through stackoverflow a
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -4842,7 +4842,7 @@
 
 ## Rust 
 
-- [sanchxt/yoop](https://github.com/sanchxt/yoop) - 
+- [sanchxt/yoop](https://github.com/sanchxt/yoop) - A very fast P2P file sharing and clipboard sync for local networks. Works between any device and OS. No cloud or account required. Built with Rust.
 - [rex-rs/rex](https://github.com/rex-rs/rex) - Rex is a safe and usable kernel extension framework that allows loading and executing Rust kernel extension programs in the place of eBPF.
 - [vectorize-io/pg0](https://github.com/vectorize-io/pg0) - pg0 - Zero-config PostgreSQL with pgvector
 - [whispem/minikv](https://github.com/whispem/minikv) - A production-ready distributed key-value store with Raft consensus.
@@ -5591,7 +5591,7 @@
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -5931,7 +5931,7 @@
 - [influxdb-rs/influxdb-rust](https://github.com/influxdb-rs/influxdb-rust) - Rust Client for the InfluxDB Time Series Database
 - [weihanglo/sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [RReverser/coreutils](https://github.com/RReverser/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [ogham/specsheet](https://github.com/ogham/specsheet) - The testing toolkit.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
@@ -6778,7 +6778,7 @@
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [fluent-ci-templates/deno-client](https://github.com/fluent-ci-templates/deno-client) - A custom version of Dagger SDK JS
 - [hashicorp/terraform-cdk-action](https://github.com/hashicorp/terraform-cdk-action) - The Terraform CDK GitHub Action allows you to run CDKTF as part of your CI/CD workflow
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [tsirysndr/tar](https://github.com/tsirysndr/tar) - 
 - [Code-Hex/firebase-auth-cloudflare-workers](https://github.com/Code-Hex/firebase-auth-cloudflare-workers) - 
 - [deno-library/compress](https://github.com/deno-library/compress) - compress and uncompress for Deno
