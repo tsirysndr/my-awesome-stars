@@ -361,7 +361,7 @@
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2025: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
@@ -1279,7 +1279,7 @@
 - [mit-dci/zkledger](https://github.com/mit-dci/zkledger) - Privacy-preserving auditing for distributed ledgers
 - [aurae-runtime/client-go](https://github.com/aurae-runtime/client-go) - Go gRPC client for Aurae
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine with builtin Web UI. No code, self-contained, and portable.  execute them anywhere with a single binary, compose complex pipelines from reusable sub-workflows, and distri
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine with builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute ta
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [ChainSafe/chainbridge-core](https://github.com/ChainSafe/chainbridge-core) - 🌁 Sygma core library (ChainBridge)
@@ -3510,7 +3510,7 @@
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [sinonjs/sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
-- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ classic, reliable, trusted JavaScript test framework for Node.js & the browser
 - [tapjs/tapjs](https://github.com/tapjs/tapjs) - Test Anything Protocol tools for node
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [mmazzarolo/react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker) - A React-Native datetime-picker for Android and iOS
@@ -3550,7 +3550,7 @@
 - [dohooo/react-native-table-component](https://github.com/dohooo/react-native-table-component) - 🌱Build table for react native
 - [morenofa/react-global-configuration](https://github.com/morenofa/react-global-configuration) - For setting a global config object managed as a requirement
 - [wix-incubator/react-native-keyboard-aware-scrollview](https://github.com/wix-incubator/react-native-keyboard-aware-scrollview) - Created by artald
-- [NativeScript/nativescript-cli](https://github.com/NativeScript/nativescript-cli) - Command-line interface for building NativeScript apps
+- [NativeScript/nativescript-cli](https://github.com/NativeScript/nativescript-cli) - NativeScript CLI - command-line tools
 - [ladjs/react-native-loading-spinner-overlay](https://github.com/ladjs/react-native-loading-spinner-overlay) - :barber: React Native loading spinner overlay
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [phil-r/react-native-grid-component](https://github.com/phil-r/react-native-grid-component) - :black_square_button: React native grid component
@@ -5167,7 +5167,7 @@
 - [rust-math/fftw](https://github.com/rust-math/fftw) - FFTW3 binding for Rust
 - [paritytech/zombienet-sdk](https://github.com/paritytech/zombienet-sdk) - ZombieNet SDK
 - [r0gue-io/pop-cli](https://github.com/r0gue-io/pop-cli) - The all-in-one tool for Polkadot development.
-- [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal
+- [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - oscilloscope/vectorscope/spectroscope for your terminal
 - [oxidecomputer/propolis](https://github.com/oxidecomputer/propolis) - VMM userspace for illumos bhyve
 - [oxidecomputer/helios](https://github.com/oxidecomputer/helios) - Helios: Or, a Vision in a Dream. A Fragment.
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - compiler from JSON Schema into idiomatic Rust types
@@ -5504,6 +5504,7 @@
 - [http-rs/async-session](https://github.com/http-rs/async-session) - Async session support with plugabble backends
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
 - [1148118271/ssh-rs](https://github.com/1148118271/ssh-rs) - Rust implementation of ssh2.0 client 👻 rust实现的ssh2.0客户端
 - [liberland/liberland_substrate](https://github.com/liberland/liberland_substrate) - Substrate implementation of the Liberland Network node
@@ -6525,7 +6526,7 @@
 - [mary-ext/pkg-protobuf](https://github.com/mary-ext/pkg-protobuf) - protobuf codec with static type inference
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
-- [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device manage
+- [Buoy-gg/Buoy-Desktop](https://github.com/Buoy-gg/Buoy-Desktop) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device manage
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [mary-ext/bluesky-labeler-scraping](https://github.com/mary-ext/bluesky-labeler-scraping) - Git scraping of Bluesky labelers/label providers
 - [streamplace/atproto-oauth-client-react-native](https://github.com/streamplace/atproto-oauth-client-react-native) - @aquareum/atproto-oauth-client-react-native
@@ -7562,7 +7563,6 @@
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
 - [prose-im/prose-app-web](https://github.com/prose-im/prose-app-web) - Prose Web application. XMPP client for team messaging.
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [ignite/web](https://github.com/ignite/web) - Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
