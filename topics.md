@@ -4167,7 +4167,7 @@
 - [fluentci-io/tinygo-plugin](https://github.com/fluentci-io/tinygo-plugin) - Set up your CI/CD Pipeline with a specific version of TinyGo
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [opencontainers/go-digest](https://github.com/opencontainers/go-digest) - Common digest package used across the container ecosystem
 - [xigxog/kubefox](https://github.com/xigxog/kubefox) - Simplifying Kubernetes.
@@ -4657,7 +4657,7 @@
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [extism/go-pdk](https://github.com/extism/go-pdk) - Extism Plug-in Development Kit (PDK) for Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go
@@ -7435,7 +7435,7 @@
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI for LLMs
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -8499,6 +8499,7 @@
 
 ## npm 
 
+- [danielroe/npmx.dev](https://github.com/danielroe/npmx.dev) - A fast, modern browser for the npm registry for power users.
 - [tsndr/cloudflare-worker-jwt](https://github.com/tsndr/cloudflare-worker-jwt) - A lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.
 - [NoEnv/docker-sonar-scanner](https://github.com/NoEnv/docker-sonar-scanner) - Sonar Scanner as Docker Image
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
