@@ -1363,7 +1363,7 @@
 - [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) - golang ftp server library
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [ChainSafe/ChainBridge](https://github.com/ChainSafe/ChainBridge) - 🌉 Modular Multi-Directional Blockchain Bridge to interact with Multiple Networks; Ethereum, Ethereum Classic, Substrate,  based chains. Stay tuned for ChainBridge Hub!
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an open-source engine for autonomous agents — event-driven, proactive, and self-scheduling.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [tendermint/liquidity](https://github.com/tendermint/liquidity) - Cosmos SDK Liquidity module
@@ -2263,7 +2263,7 @@
 - [Fs02/grimoire](https://github.com/Fs02/grimoire) - Database access layer for golang
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct. [Notes]This repository is archived, moved to the new repository https://github.com/go-faker/faker
 - [cashshuffle/cashshuffle](https://github.com/cashshuffle/cashshuffle) - A CashShuffle server implented in Go.
 - [getamis/eth-indexer](https://github.com/getamis/eth-indexer) - An Ethereum project to crawl blockchain states into database
@@ -2352,7 +2352,7 @@
 - [azavana/EnySaTsia](https://github.com/azavana/EnySaTsia) - Voting app project for any Yes/No questions
 - [lostromos/lostromos](https://github.com/lostromos/lostromos) - Lostrómos is a service that creates Kubernetes resources based on a Custom Resource endpoint in the Kubernetes API
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [luizalabs/teresa](https://github.com/luizalabs/teresa) - Open source tool to deploy apps to Kubernetes clusters
 - [letsila/mi](https://github.com/letsila/mi) - High performance facebook messenger bot written in Golang
 - [helm/monocular](https://github.com/helm/monocular) - ⚠️(OBSOLETE) Search and discovery UI for Helm Chart repositories
@@ -4468,7 +4468,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - Let's be honest, who really knows how to use ffmpeg. Its that tool that is so helpful but not needed enough to justify learning all of its inner workings. The days of scrolling through stackoverflow a
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -6320,7 +6320,7 @@
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [sheepkiller/kafka-manager-docker](https://github.com/sheepkiller/kafka-manager-docker) - Kafka Manager Dockerfile
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 The fish shell prompt for astronauts
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
@@ -7135,7 +7135,7 @@
 - [interledgerjs/ilp-connector](https://github.com/interledgerjs/ilp-connector) - Reference implementation of an Interledger connector.
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [callstack/react-native-slider](https://github.com/callstack/react-native-slider) - React Native component exposing Slider from iOS and SeekBar from Android
-- [Kureev/react-native-blur](https://github.com/Kureev/react-native-blur) - React Native Blur component
+- [margelo/react-native-blur](https://github.com/margelo/react-native-blur) - React Native Blur component
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [benawad/fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
