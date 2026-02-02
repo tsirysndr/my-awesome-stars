@@ -936,6 +936,7 @@
 
 ## Go 
 
+- [margin-at/margin](https://github.com/margin-at/margin) - 
 - [apenwarr/atlogin](https://github.com/apenwarr/atlogin) - An OIDC provider that logs in with ATProto
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search
@@ -1049,6 +1050,7 @@
 - [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
 - [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -1062,7 +1064,7 @@
 - [extism/go-pdk](https://github.com/extism/go-pdk) - Extism Plug-in Development Kit (PDK) for Go
 - [extism/cli](https://github.com/extism/cli) - The extism CLI is used to generate plugin scaffolding and manage Extism installations
 - [extism/extism-pql](https://github.com/extism/extism-pql) - RunReveal's PQL compiler as an Extism plugin.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [opencontainers/go-digest](https://github.com/opencontainers/go-digest) - Common digest package used across the container ecosystem
 - [xigxog/kubefox](https://github.com/xigxog/kubefox) - Simplifying Kubernetes.
@@ -2835,7 +2837,6 @@
 ## JavaScript 
 
 - [noppa/xmllint-wasm](https://github.com/noppa/xmllint-wasm) - Port of libxml to WebAssembly using Emscripten
-- [margin-at/margin](https://github.com/margin-at/margin) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
@@ -4284,6 +4285,7 @@
 - [vishalnayak/DistributedSystemReadings](https://github.com/vishalnayak/DistributedSystemReadings) - Good reads for an overall understanding of distributed systems. SBU Fall 2014.
 - [rakyll/awesome-spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner references, tools, libraries and more.
 - [patrickstjohn/running-rook-in-production](https://github.com/patrickstjohn/running-rook-in-production) - Some hints and tips for running rook in production.
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [ethereum-oasis-op/baseline](https://github.com/ethereum-oasis-op/baseline) - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and distributed ledger technology to enable confidential and complex coordination between enterpri
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
@@ -4505,7 +4507,6 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [version-fox/vfox-plugins](https://github.com/version-fox/vfox-plugins) - 🚀🚀 This repository serves as a registry for vfox community plugins.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
@@ -5018,7 +5019,6 @@
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [denoland/deno_doc](https://github.com/denoland/deno_doc) - Documentation generator for Deno
 - [denoland/roll-your-own-javascript-runtime](https://github.com/denoland/roll-your-own-javascript-runtime) - 
-- [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [kyu08/fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes commands using fuzzy finder with preview window for make, npm, pnpm, yarn, just and task.
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
@@ -6147,7 +6147,6 @@
 ## SCSS 
 
 - [fermyon/developer](https://github.com/fermyon/developer) - This is the home for developer.fermyon.com
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 
