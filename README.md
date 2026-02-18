@@ -247,7 +247,6 @@
 - [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output.
 - [asaaki/cmark.ex](https://github.com/asaaki/cmark.ex) - 💧 Elixir NIF for cmark (C), a parser library following the CommonMark spec, a compatible implementation of Markdown.
 - [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
-- [benoitc/hackney](https://github.com/benoitc/hackney) - simple HTTP client in Erlang
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [cryptocoinjs/keccak](https://github.com/cryptocoinjs/keccak) - Keccak sponge function family
 - [GNOME/gvfs](https://github.com/GNOME/gvfs) - Read-only mirror of https://gitlab.gnome.org/GNOME/gvfs
@@ -851,6 +850,7 @@
 - [kafka4beam/brod](https://github.com/kafka4beam/brod) - Apache Kafka client library for Erlang/Elixir
 - [beam-telemetry/telemetry_poller](https://github.com/beam-telemetry/telemetry_poller) - Periodically gather measurements and publish them as Telemetry events
 - [ninenines/cowlib](https://github.com/ninenines/cowlib) - Support library for manipulating Web protocols.
+- [benoitc/hackney](https://github.com/benoitc/hackney) - simple HTTP client in Erlang
 - [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine
 - [biokoda/actordb](https://github.com/biokoda/actordb) - ActorDB distributed SQL database
 - [cloudant/mango](https://github.com/cloudant/mango) - MongoDB API layer for CouchDB
@@ -939,7 +939,7 @@
 
 ## Go 
 
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [apenwarr/atlogin](https://github.com/apenwarr/atlogin) - An OIDC provider that logs in with ATProto
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search
@@ -3255,9 +3255,7 @@
 - [nteract/spawnteract](https://github.com/nteract/spawnteract) - :children_crossing: Spawn Jupyter Kernels
 - [nteract/kernelspecs](https://github.com/nteract/kernelspecs) - :card_index: Find Jupyter kernelspecs on a system
 - [nteract/jupyter-paths](https://github.com/nteract/jupyter-paths) - :city_sunrise: Pure JavaScript implementation of jupyter --paths --json
-- [nteract/ion](https://github.com/nteract/ion) - A React-backed UI Toolkit
 - [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
-- [nteract/create-nteract-app](https://github.com/nteract/create-nteract-app) - :zap: Create an nteractive application with zero configuration
 - [nteract/commuter](https://github.com/nteract/commuter) - 🚎 Notebook sharing hub
 - [standard/snazzy](https://github.com/standard/snazzy) - Format JavaScript Standard Style as Stylish (i.e. snazzy) output
 - [Synvox/rehook](https://github.com/Synvox/rehook) - Make React Hooks out of your Recompose enhancers
@@ -4854,6 +4852,7 @@
 
 ## Rust 
 
+- [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) - Graceful process restarts in Rust
 - [cloudflare/ecdysis](https://github.com/cloudflare/ecdysis) - A library for graceful restarts in Rust
