@@ -450,7 +450,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
@@ -737,6 +737,7 @@
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 - [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [letsila/slim3-jwt-auth-example](https://github.com/letsila/slim3-jwt-auth-example) - Server side implementation example of JWT (JSON Web Token) authentication using Slim3
 
 ## archlinux 
@@ -2387,7 +2388,7 @@
 
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 
@@ -2395,7 +2396,7 @@
 
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
@@ -2406,7 +2407,7 @@
 
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [denizyuret/Knet.jl](https://github.com/denizyuret/Knet.jl) - Koç University deep learning framework.
@@ -2965,6 +2966,7 @@
 
 ## devops 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source containers-as-microVMs orchestrator.
@@ -3096,7 +3098,7 @@
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
-- [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Binary
+- [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Distribution
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
@@ -3974,6 +3976,7 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [choojs/nanohtml](https://github.com/choojs/nanohtml) - :dragon: HTML template strings for the Browser with support for Server Side Rendering in Node.
 - [choojs/choo-handbook](https://github.com/choojs/choo-handbook) - 🚂✋📖 - Learn the choo framework through a set of exercises
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
 ## game 
@@ -5888,7 +5891,6 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
-- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [NativeScript/nativescript-cli](https://github.com/NativeScript/nativescript-cli) - NativeScript CLI - command-line tools
 - [expo/react-native-action-sheet](https://github.com/expo/react-native-action-sheet) - A cross-platform ActionSheet for React Native
 - [react-native-documents/document-picker](https://github.com/react-native-documents/document-picker) - Document Picker and Viewer for React Native
@@ -6879,6 +6881,7 @@
 - [finagle/finch](https://github.com/finagle/finch) - Scala combinator library for building Finagle HTTP services
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## julia 
 
@@ -8665,6 +8668,7 @@
 
 ## others 
 
+- [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Packages OpenClaw for nix.
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
@@ -9080,7 +9084,7 @@
 - [tokio-rs/tracing-opentelemetry](https://github.com/tokio-rs/tracing-opentelemetry) - 
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API.
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [tsirysndr/my-awesome-stars](https://github.com/tsirysndr/my-awesome-stars) - A curated list of my Github stars! ✨
 - [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
@@ -11567,7 +11571,6 @@
 - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
 - [katzer/cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications) - Cordova Local-Notification Plugin
 - [nolanlawson/pouchdb-find](https://github.com/nolanlawson/pouchdb-find) - Easy-to-use query language for PouchDB. ⚠️ NOTICE ⚠️: moved to the PouchDB repo
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [codymikol/karma-webpack](https://github.com/codymikol/karma-webpack) - Karma webpack Middleware
 - [ionic-team/ionic-unit-testing-example](https://github.com/ionic-team/ionic-unit-testing-example) - Example of adding unit testing in your Ionic 2.x or greater apps with Karma and Jasmine
 - [Kong/apiembed](https://github.com/Kong/apiembed) - Embeddable API code snippets for your website, blog or API documentation
@@ -14177,7 +14180,7 @@
 
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## storybook 
 
@@ -14436,6 +14439,7 @@
 
 ## terraform 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS Kubernetes Operator - "Argo CD for Terraform"
 - [cmackenzie1/tfstate-worker](https://github.com/cmackenzie1/tfstate-worker) - A Terraform HTTP Backend built using Cloudflare Workers with locking support
@@ -14490,6 +14494,7 @@
 
 ## testing 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [bluesky-social/atproto-interop-tests](https://github.com/bluesky-social/atproto-interop-tests) - Implementation-neutral test data for atproto
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e/component tests for your JVM back-end app with Kotlin
