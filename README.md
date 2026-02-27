@@ -939,6 +939,7 @@
 
 ## Go 
 
+- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [apenwarr/atlogin](https://github.com/apenwarr/atlogin) - An OIDC provider that logs in with ATProto
@@ -1579,7 +1580,7 @@
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [krig/go-sox](https://github.com/krig/go-sox) - libsox bindings for go
 - [cosmos/scaffold](https://github.com/cosmos/scaffold) - Scaffolding for Cosmos-SDK based application
-- [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber) - prototype of superintelligence
+- [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber) - 🟢🟣 prototype of superintelligence
 - [michiwend/gomusicbrainz](https://github.com/michiwend/gomusicbrainz) - a Go (Golang) MusicBrainz WS2 client library - work in progress
 - [coreos/coreos-assembler](https://github.com/coreos/coreos-assembler) - Tooling container to assemble CoreOS-like systems
 - [mdlayher/waveform](https://github.com/mdlayher/waveform) - Go package capable of generating waveform images from audio streams. MIT Licensed.
@@ -2622,6 +2623,7 @@
 
 ## Haskell 
 
+- [mirvoxtm/Binah](https://github.com/mirvoxtm/Binah) - Simple Haskell Web Framework inspired by Express.js
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [andyarvanitis/purescript-native](https://github.com/andyarvanitis/purescript-native) - A native compiler backend for PureScript (via C++ or Golang)
 - [extism/haskell-pdk](https://github.com/extism/haskell-pdk) - Extism Plug-in development kit (PDK) for Haskell
@@ -3258,7 +3260,6 @@
 - [nteract/spawnteract](https://github.com/nteract/spawnteract) - :children_crossing: Spawn Jupyter Kernels
 - [nteract/kernelspecs](https://github.com/nteract/kernelspecs) - :card_index: Find Jupyter kernelspecs on a system
 - [nteract/jupyter-paths](https://github.com/nteract/jupyter-paths) - :city_sunrise: Pure JavaScript implementation of jupyter --paths --json
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
 - [nteract/commuter](https://github.com/nteract/commuter) - 🚎 Notebook sharing hub
 - [standard/snazzy](https://github.com/standard/snazzy) - Format JavaScript Standard Style as Stylish (i.e. snazzy) output
 - [Synvox/rehook](https://github.com/Synvox/rehook) - Make React Hooks out of your Recompose enhancers
@@ -3742,7 +3743,7 @@
 - [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [open-cli-tools/chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform cli utility to watch file system changes
 - [insin/nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [neutrinojs/neutrino](https://github.com/neutrinojs/neutrino) - Create and build modern JavaScript projects with zero initial configuration.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [nytimes/kyt](https://github.com/nytimes/kyt) - Starting a new JS app? Build, test and run advanced apps with kyt 🔥
@@ -4234,7 +4235,7 @@
 - [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
 - [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs
 - [terra-money/awesome-terra](https://github.com/terra-money/awesome-terra) - A curated list of awesome Terra blockchain resources
-- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+- [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [github/balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee intellectual property agreement, open sourced and reusable
 - [aurae-runtime/client-rust](https://github.com/aurae-runtime/client-rust) - Rust client for Aurae
 - [aurae-runtime/community](https://github.com/aurae-runtime/community) - If you are new to Aurae. Start here.
@@ -4956,7 +4957,7 @@
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) - Ergonomic bindings to duckdb for Rust
 - [teal-fm/teal](https://github.com/teal-fm/teal) - Your music, beautifully tracked. All yours. (coming soon)
-- [cooklang/cookcli](https://github.com/cooklang/cookcli) - One binary CLI + embedded web-server to manage Cooklang recipes
+- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
 - [freeverseio/laos](https://github.com/freeverseio/laos) - 
@@ -5686,7 +5687,7 @@
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [tsirysndr/mixtapetorrent](https://github.com/tsirysndr/mixtapetorrent) - Get the latest torrents from mixtapetorrent.com
 - [haileys/rustcast](https://github.com/haileys/rustcast) - Icecast compatible streaming server in Rust
-- [fxbox/multicast-dns](https://github.com/fxbox/multicast-dns) - Experimental mDNS Rust wrapper around Avahi C libraries
+- [fxbox/multicast-dns](https://github.com/fxbox/multicast-dns) - INACTIVE - Experimental mDNS Rust wrapper around Avahi C libraries
 - [azasypkin/rust-cast](https://github.com/azasypkin/rust-cast) - Library written in Rust to communicate with the Google Cast devices
 - [germangb/minimp3-rs](https://github.com/germangb/minimp3-rs) - minimp3 rust bindings + wrapper
 - [windy1/zeroconf-rs](https://github.com/windy1/zeroconf-rs) - zeroconf is a cross-platform library that wraps underlying ZeroConf/mDNS implementations such as Bonjour or Avahi, providing an easy and idiomatic way to both register and browse services.
@@ -5786,7 +5787,7 @@
 - [paritytech/parity-bridges-common](https://github.com/paritytech/parity-bridges-common) - Collection of Useful Bridge Building Tools 🏗️
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
 - [ChainSafe/chainbridge-substrate](https://github.com/ChainSafe/chainbridge-substrate) - 
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [zcash/librustzcash](https://github.com/zcash/librustzcash) - Rust-language assets for Zcash
@@ -6501,6 +6502,9 @@
 
 ## TypeScript 
 
+- [glommer/codemogger](https://github.com/glommer/codemogger) - Codemogger is a code indexing library and MCP server for AI coding agents
+- [glommer/memelord](https://github.com/glommer/memelord) - Memelord is an in-process agentic memory system
+- [proliferate-ai/proliferate](https://github.com/proliferate-ai/proliferate) - The open source background agent
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 - [ewanc26/malachite](https://github.com/ewanc26/malachite) - Malachite is a tool to import your Last.fm and Spotify listening history to the AT Protocol network using the `fm.teal.alpha.feed.play` lexicon.
@@ -7338,6 +7342,7 @@
 - [svengau/grpc-graphql-sample](https://github.com/svengau/grpc-graphql-sample) - grpc / graphql sample project
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
+- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [TrueFiEng/Waffle](https://github.com/TrueFiEng/Waffle) - Library for writing and testing smart contracts.
@@ -7637,6 +7642,7 @@
 
 ## Zig 
 
+- [tw4452852/zbpf](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig
 - [mitchellh/zig-quickjs-ng](https://github.com/mitchellh/zig-quickjs-ng) - Zig build and bindings for quickjs-ng
 - [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - A String Library made for Zig
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
