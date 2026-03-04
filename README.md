@@ -684,6 +684,7 @@
 - [moomerman/xrpc](https://github.com/moomerman/xrpc) - Implementation of the XRPC client spec in Elixir.
 - [cometsh/drinkup](https://github.com/cometsh/drinkup) - Elixir ATProtocol firehose & subscription listener
 - [cometsh/comet](https://github.com/cometsh/comet) - Music streaming on ATProto!
+- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
 - [HashNuke/hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
@@ -839,7 +840,6 @@
 
 ## Erlang 
 
-- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 - [lambdaclass/erlings](https://github.com/lambdaclass/erlings) - Small exercises to get you used to reading and writing Erlang code
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [rvirding/luerl](https://github.com/rvirding/luerl) - Lua in Erlang
@@ -2840,6 +2840,7 @@
 
 ## JavaScript 
 
+- [ramarlina/agx](https://github.com/ramarlina/agx) - 
 - [katelyynn/bleh](https://github.com/katelyynn/bleh) - a full redesign for last.fm
 - [noppa/xmllint-wasm](https://github.com/noppa/xmllint-wasm) - Port of libxml to WebAssembly using Emscripten
 - [margin-at/margin](https://github.com/margin-at/margin) - Margin's Monorepo, available under the MIT License
@@ -2906,7 +2907,7 @@
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [RajaRakoto/cntemad-repository](https://github.com/RajaRakoto/cntemad-repository) - Repository for students of CNTEMAD Madagascar who wish to help each other and share their knowledge...👨🏽‍🎓👩🏻‍🎓
-- [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
+- [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [grigorii-horos/cli-html](https://github.com/grigorii-horos/cli-html) - Render HTML to Terminal
 - [grigorii-horos/cli-markdown](https://github.com/grigorii-horos/cli-markdown) - Markdown render for Markdown
@@ -4860,6 +4861,8 @@
 
 ## Rust 
 
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - Personal AI assistant platform, rewritten in Rust from OpenClaw
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
@@ -7371,7 +7374,6 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [product-os/katapult](https://github.com/product-os/katapult) - A tool for launching environment variants on different modes and targets, based on kompose format files.
 - [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk) - The SDK to make balena powered JavaScript applications.
@@ -7618,6 +7620,7 @@
 - [ignite/web](https://github.com/ignite/web) - Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [tinrab/graphql-realtime-chat](https://github.com/tinrab/graphql-realtime-chat) - Real-time Chat with GraphQL Subscriptions in Go
 
 ## WebAssembly 
@@ -7649,6 +7652,7 @@
 
 ## Zig 
 
+- [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [sidequery/ghostree](https://github.com/sidequery/ghostree) - Ghostty but with native worktrees
 - [tw4452852/zbpf](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig
 - [mitchellh/zig-quickjs-ng](https://github.com/mitchellh/zig-quickjs-ng) - Zig build and bindings for quickjs-ng
