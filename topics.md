@@ -3046,7 +3046,7 @@
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, lightweight workflow engine with a built-in Web UI. Define workflows in a simple, declarative YAML format. Execute them anywhere, compose complex pipelines, and distribute tasks. Zer
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -3433,6 +3433,7 @@
 
 ## elixir 
 
+- [cometsh/atex](https://github.com/cometsh/atex) - An Elixir toolkit for the AT Protocol.
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
 - [cometsh/drinkup](https://github.com/cometsh/drinkup) - Elixir ATProtocol firehose & subscription listener
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
@@ -5086,7 +5087,7 @@
 - [kamilsk/semaphore](https://github.com/kamilsk/semaphore) - 🚦 Semaphore pattern implementation with timeout of lock/unlock operations.
 - [omio-labs/myke](https://github.com/omio-labs/myke) - make with yaml: development tasks made simple with golang, yaml and many ingredients
 - [savsgio/atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework. Zero memory allocations in hot paths.
-- [kpango/gache](https://github.com/kpango/gache) - fastest lockfree cache library for go application
+- [kpango/gache](https://github.com/kpango/gache) - super fast lockfree cache library for go application
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
@@ -8757,7 +8758,6 @@
 - [oramasearch/resy](https://github.com/oramasearch/resy) - Remote Sync change detection lib. Currently supporting AWS S3 but possibly open to more sources.
 - [bluesky-social/go-util](https://github.com/bluesky-social/go-util) - Sharable Go Utilities
 - [apple/pkl-lsp](https://github.com/apple/pkl-lsp) - Language server for Pkl, implementing the server-side of the Language Server Protocol.
-- [cometsh/atex](https://github.com/cometsh/atex) - A set of utilities for working with the AT Protocol in Elixir.
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust
 - [moomerman/atproto](https://github.com/moomerman/atproto) - Implementation of the ATProtocol client spec in Elixir.
 - [hyperlink-academy/leaflet](https://github.com/hyperlink-academy/leaflet) - A tool for shared writing and social publishing
@@ -9571,7 +9571,7 @@
 - [puchka/btc-clj](https://github.com/puchka/btc-clj) - Programming Bitcoin in Clojure
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
-- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
+- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [hoplon/castra](https://github.com/hoplon/castra) - HTTP remote procedure call handler for Clojure.
 - [hoplon/hoplon](https://github.com/hoplon/hoplon) - Simple and powerful tool for building web apps out of highly composable elements in ClojureScript.
 - [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - 🐙 Types and functions for programs running on Erlang!
@@ -12060,7 +12060,7 @@
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube/pytube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
@@ -15558,7 +15558,7 @@
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [DzenanJupic/rustube](https://github.com/DzenanJupic/rustube) - A YouTube video downloader, originally inspired by pytube, written in Rust.
-- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube/pytube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [azasypkin/rust-cast](https://github.com/azasypkin/rust-cast) - Library written in Rust to communicate with the Google Cast devices
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
