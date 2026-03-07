@@ -678,6 +678,7 @@
 
 ## Elixir 
 
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [cometsh/atex](https://github.com/cometsh/atex) - An Elixir toolkit for the AT Protocol.
 - [moomerman/atproto](https://github.com/moomerman/atproto) - Implementation of the ATProtocol client spec in Elixir.
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
@@ -817,7 +818,6 @@
 
 ## Elm 
 
-- [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
 - [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Autogenerate type-safe GraphQL queries in Elm.
 - [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes.
 - [mdgriffith/elm-ui](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again?
@@ -871,6 +871,7 @@
 
 ## Gleam 
 
+- [Brickell-Research/caffeine_lang](https://github.com/Brickell-Research/caffeine_lang) - Making service expectation declaration easier.
 - [midas-framework/midas_sdk](https://github.com/midas-framework/midas_sdk) - A bag of SDK's that can be used with midas
 - [bigmoves/goose](https://github.com/bigmoves/goose) - 🪿 A Gleam WebSocket consumer for AT Protocol Jetstream events.
 - [bigmoves/squall](https://github.com/bigmoves/squall) - Type-safe GraphQL client generator for Gleam
@@ -1160,6 +1161,7 @@
 - [shykes/dagger](https://github.com/shykes/dagger) - A portable devkit for CI/CD pipelines
 - [jpadams/dagger-module-trivy](https://github.com/jpadams/dagger-module-trivy) - 
 - [shykes/daggerverse](https://github.com/shykes/daggerverse) - My personal collection of Dagger modules
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [solo-io/packer-plugin-arm-image](https://github.com/solo-io/packer-plugin-arm-image) - Packer plugin for ARM images
@@ -1287,7 +1289,7 @@
 - [mit-dci/zkledger](https://github.com/mit-dci/zkledger) - Privacy-preserving auditing for distributed ledgers
 - [aurae-runtime/client-go](https://github.com/aurae-runtime/client-go) - Go gRPC client for Aurae
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [ChainSafe/chainbridge-core](https://github.com/ChainSafe/chainbridge-core) - 🌁 Sygma core library (ChainBridge)
@@ -2853,6 +2855,7 @@
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) - A website to listen to cool radio stations and scrobble to LastFM
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
+- [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
 - [moonbeam-foundation/moonbeam-docs](https://github.com/moonbeam-foundation/moonbeam-docs) - Documentation for the Moonbeam project
@@ -3902,7 +3905,7 @@
 - [mozilla/rust-android-gradle](https://github.com/mozilla/rust-android-gradle) - 
 - [jitsi/jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure
 - [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, background mode and more!
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The premium audio player for React Native
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [grpc/grpc-kotlin](https://github.com/grpc/grpc-kotlin) - Kotlin gRPC implementation. HTTP/2 based RPC
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
@@ -4167,6 +4170,7 @@
 
 ## Others 
 
+- [mjepronk/wiwinwl-purescript](https://github.com/mjepronk/wiwinwl-purescript) - What I Wish I Knew When Learning PureScript
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [tsirysndr/tap](https://github.com/tsirysndr/tap) - Multi-platform binary builder for indigo tap - an AT Protocol sync utility.
@@ -4512,7 +4516,7 @@
 - [sparky8512/starlink-grpc-tools](https://github.com/sparky8512/starlink-grpc-tools) - Random scripts and other bits for interacting with the SpaceX Starlink user terminal hardware
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -5380,7 +5384,7 @@
 - [koute/pinky](https://github.com/koute/pinky) - An NES emulator written in Rust
 - [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The Rust-based bundler for JavaScript and TypeScript with modern webpack API 🦀
 - [uhyo/nitrogql](https://github.com/uhyo/nitrogql) - GraphQL + TypeScript toolchain
 - [seijikun/desktopcast](https://github.com/seijikun/desktopcast) - CLI utility that screencaptures your Linux desktop and streams it to Kodi via UPNP/DLNA and RTSP
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
@@ -6903,7 +6907,7 @@
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
 - [microsoft/node-pty](https://github.com/microsoft/node-pty) - Fork pseudoterminals in Node.JS
 - [the-guild-org/yoga-cloudflare-workers-template](https://github.com/the-guild-org/yoga-cloudflare-workers-template) - CF Workers Wrangler GraphQL Yoga template 📦 🚀
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [fluent-ci-templates/android-fastlane-pipeline](https://github.com/fluent-ci-templates/android-fastlane-pipeline) - ready-to-use Fastlane pipeline and jobs for Android (React Native) projects.
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
@@ -7652,6 +7656,7 @@
 
 ## Zig 
 
+- [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server for zig
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [sidequery/ghostree](https://github.com/sidequery/ghostree) - Ghostty but with native worktrees
 - [tw4452852/zbpf](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig
