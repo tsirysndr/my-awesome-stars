@@ -8,6 +8,7 @@
 - [Astro](#astro)
 - [Awk](#awk)
 - [Ballerina](#ballerina)
+- [Bikeshed](#bikeshed)
 - [BitBake](#bitbake)
 - [Blade](#blade)
 - [C](#c)
@@ -118,6 +119,10 @@
 
 - [ballerina-attic/grpc-service](https://github.com/ballerina-attic/grpc-service) - 
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
+
+## Bikeshed 
+
+- [w3c-fedid/FedCM](https://github.com/w3c-fedid/FedCM) - A privacy preserving identity exchange Web API
 
 ## BitBake 
 
@@ -2889,6 +2894,7 @@
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) - A build system for creating cross-platform styles.
 - [dwmkerr/wait-port](https://github.com/dwmkerr/wait-port) - Simple binary to wait for a port to open. Useful for docker-compose and general server side activities.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [tsirysndr/azure-pipeline-demo](https://github.com/tsirysndr/azure-pipeline-demo) - Run FluentCI in Azure Pipelines 🔥
 - [opentofu/setup-opentofu](https://github.com/opentofu/setup-opentofu) - 
 - [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) - The OpenTelemetry website and documentation
@@ -6521,6 +6527,7 @@
 
 ## TypeScript 
 
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [glommer/codemogger](https://github.com/glommer/codemogger) - Codemogger is a code indexing library and MCP server for AI coding agents
@@ -6712,7 +6719,6 @@
 - [dylibso/observe-sdk](https://github.com/dylibso/observe-sdk) - Continuous runtime observablity SDKs to monitor WebAssembly code.
 - [evanderkoogh/otel-cf-workers](https://github.com/evanderkoogh/otel-cf-workers) - An OpenTelemetry compatible library for instrumenting and exporting traces for Cloudflare Workers
 - [hffmnn/spin-lambda-cdk](https://github.com/hffmnn/spin-lambda-cdk) - 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
