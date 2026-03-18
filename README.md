@@ -1058,7 +1058,7 @@
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [GoogleCloudPlatform/cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Continuous Testing Platform for Cloud-Native Applications
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [seungyeop-lee/daggerverse](https://github.com/seungyeop-lee/daggerverse) - My Dagger modules
@@ -1230,7 +1230,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
@@ -2094,7 +2094,6 @@
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 - [zippoxer/bow](https://github.com/zippoxer/bow) - Bow - Minimal embedded database powered by Badger
 - [ebfe/scard](https://github.com/ebfe/scard) - Go bindings to the PC/SC API.
-- [gogetth/sscard](https://github.com/gogetth/sscard) - Golang Smart Card API: Opensource project for thailand smart card
 - [dumacp/smartcard](https://github.com/dumacp/smartcard) - smartcard devices under the PCSC implementation
 - [keycard-tech/keycard-cli](https://github.com/keycard-tech/keycard-cli) - A command line tool and shell to manage keycards
 - [DarthSim/hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications
@@ -2474,6 +2473,7 @@
 - [coreos/locksmith](https://github.com/coreos/locksmith) - Reboot manager for Container Linux
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [musteka-la/mustekala](https://github.com/musteka-la/mustekala) - MetaMask Light Client Development
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [pebbe/zmq4](https://github.com/pebbe/zmq4) - A Go interface to ZeroMQ version 4
@@ -2855,6 +2855,7 @@
 
 ## JavaScript 
 
+- [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [ramarlina/agx](https://github.com/ramarlina/agx) - 
@@ -4738,7 +4739,6 @@
 - [facebookarchive/fbzmq](https://github.com/facebookarchive/fbzmq) - Facebook ZeroMQ wrappers.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [kingosticks/mopidy-tunein](https://github.com/kingosticks/mopidy-tunein) - Mopidy extension for playing music from tunein
 - [futapi/fut](https://github.com/futapi/fut) - fut is a simple library for managing Fifa 19 Ultimate Team.
