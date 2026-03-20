@@ -326,7 +326,7 @@
 ## agent 
 
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -343,7 +343,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - Personal AI assistant platform, rewritten in Rust from OpenClaw
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
@@ -1190,7 +1190,7 @@
 - [liuchengxu/blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial) - :ear_of_rice: A step-by-step blockchain tutorial in simplified Chinese
 - [paritytech/revive](https://github.com/paritytech/revive) - Solidity compiler for Polkadot, targetting PolkaVM in pallet-revive
 - [cometbft/cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.
-- [klaus993/cairo-vm](https://github.com/klaus993/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
+- [starkware-libs/cairo-vm-2](https://github.com/starkware-libs/cairo-vm-2) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 - [diem/move](https://github.com/diem/move) - Home of the Move programming language
 - [galacticcouncil/Basilisk-node](https://github.com/galacticcouncil/Basilisk-node) - Basilisk - cross-chain liquidity protocol on Kusama
@@ -1981,7 +1981,7 @@
 
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
 - [paritytech/revive](https://github.com/paritytech/revive) - Solidity compiler for Polkadot, targetting PolkaVM in pallet-revive
-- [klaus993/cairo-vm](https://github.com/klaus993/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
+- [starkware-libs/cairo-vm-2](https://github.com/starkware-libs/cairo-vm-2) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
 - [Glistix/glistix](https://github.com/Glistix/glistix) - Fork of the Gleam compiler providing a Nix backend, compiling Gleam to Nix
 - [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) - JIT and AOT compiler for the Ethereum Virtual Machine, built on Revm.
@@ -2233,7 +2233,7 @@
 - [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 - [lambdaclass/lambdaworks](https://github.com/lambdaclass/lambdaworks) - lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
-- [klaus993/cairo-vm](https://github.com/klaus993/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
+- [starkware-libs/cairo-vm-2](https://github.com/starkware-libs/cairo-vm-2) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - ARCHIVED/MOVED: please visit the new location
 - [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) - ⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI
@@ -3060,7 +3060,7 @@
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Your Workflow Operator h
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -7034,7 +7034,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [sharadregoti/devops-cli](https://github.com/sharadregoti/devops-cli) - A Terminal/Web UI to interact with devops tools & services, intended for devops/platform engineers.
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -7531,7 +7531,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [GenieFramework/Genie.jl](https://github.com/GenieFramework/Genie.jl) - 🧞The highly productive Julia web framework
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -8252,7 +8252,7 @@
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## node 
@@ -8635,7 +8635,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server — Ultra-low latency streaming engine with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding & scaling
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
@@ -8720,11 +8720,15 @@
 
 ## others 
 
+- [threddyrex/atproto-links](https://github.com/threddyrex/atproto-links) - a set of links to atproto resources
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw
+- [orta/cosmic-soundcloud](https://github.com/orta/cosmic-soundcloud) - A SoundCloud player for COSMIC desktop
 - [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
 - [NetBSDfr/sailor](https://github.com/NetBSDfr/sailor) - Portable container system
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [iMilnb/smolBSD](https://github.com/iMilnb/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [espeon/spwn](https://github.com/espeon/spwn) - 
 - [superfly/sprites-ex](https://github.com/superfly/sprites-ex) - An Elixir SDK for Sprites
@@ -9030,7 +9034,7 @@
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 - [david-vanderson/dvui](https://github.com/david-vanderson/dvui) - Immediate Zig GUI for Apps and Games
-- [sourcey/spectacle](https://github.com/sourcey/spectacle) - Beautiful static documentation generator for OpenAPI/Swagger 2.0
+- [sourcey/sourcey](https://github.com/sourcey/sourcey) - Beautiful static documentation generator for OpenAPI/Swagger 2.0
 - [gleam-lang/cookbook](https://github.com/gleam-lang/cookbook) - 👩🏾‍🍳 How to do many things in Gleam
 - [Gabriella439/haskell-flake](https://github.com/Gabriella439/haskell-flake) - Flake template for Haskell repository
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
@@ -9235,7 +9239,7 @@
 - [r0gue-io/pop-node](https://github.com/r0gue-io/pop-node) - Pop Network makes it easy for smart contract developers to use the Power of Polkadot.
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
-- [ArloFilley/rusty_torrent](https://github.com/ArloFilley/rusty_torrent) - A Rust Bittorrent v1 Library
+- [ArloFilley/rusty_torrent](https://github.com/ArloFilley/rusty_torrent) - Bittorrent V1 Library and Client Written in Rust
 - [mise-plugins/registry](https://github.com/mise-plugins/registry) - Convenience shortname repository for mise plugins
 - [gleam-lang/vscode-gleam](https://github.com/gleam-lang/vscode-gleam) - 📟 Gleam support for VS Code
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -10245,7 +10249,7 @@
 - [xiph/vorbis](https://github.com/xiph/vorbis) - Reference implementation of the Ogg Vorbis audio format.
 - [moritz-wundke/Boost-for-Android](https://github.com/moritz-wundke/Boost-for-Android) - Android port of Boost C++ Libraries
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Node.js implementation of Web audio API
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Portable implementation of Web audio API
 - [chirlu/sox](https://github.com/chirlu/sox) - SoX, Swiss Army knife of sound processing
 - [beschulz/wav2json](https://github.com/beschulz/wav2json) - Generate waveformjs.org compatible json data out of wav files.
 - [binglingziyu/ffmpeg-android-build](https://github.com/binglingziyu/ffmpeg-android-build) - 
@@ -11982,7 +11986,7 @@
 
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
-- [klaus993/cairo-vm](https://github.com/klaus993/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
+- [starkware-libs/cairo-vm-2](https://github.com/starkware-libs/cairo-vm-2) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
 - [Glistix/glistix](https://github.com/Glistix/glistix) - Fork of the Gleam compiler providing a Nix backend, compiling Gleam to Nix
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
@@ -13102,7 +13106,7 @@
 - [kyu08/fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes commands using fuzzy finder with preview window for make, npm, pnpm, yarn, just and task.
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [tsirysndr/rockbox-zig](https://github.com/tsirysndr/rockbox-zig) - A modern Music Player Daemon based on Rockbox firmware
-- [klaus993/cairo-vm](https://github.com/klaus993/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
+- [starkware-libs/cairo-vm-2](https://github.com/starkware-libs/cairo-vm-2) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
 - [fluentci-demos/fluentci-demo-rust](https://github.com/fluentci-demos/fluentci-demo-rust) - FluentCI demo CI pipeline using Rust
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
