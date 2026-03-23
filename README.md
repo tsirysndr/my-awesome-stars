@@ -1184,7 +1184,7 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [ariga/atlas-sync-action](https://github.com/ariga/atlas-sync-action) - Sync migration directories to Atlas Cloud
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+- [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [cirruslabs/cirrus-ci-agent](https://github.com/cirruslabs/cirrus-ci-agent) - Agent to execute Cirrus CI tasks
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
@@ -1247,7 +1247,7 @@
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [planetscale/ghcommit](https://github.com/planetscale/ghcommit) - Use GitHub's GraphQL API to commit files to a GitHub repository.
 - [lauripiispanen/most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter) - CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions
@@ -3398,7 +3398,7 @@
 - [chainpoint/chainpoint-cli](https://github.com/chainpoint/chainpoint-cli) - A Command Line Interface (CLI) for creating and verifying Chainpoint proofs.
 - [ethjs/ethjs-util](https://github.com/ethjs/ethjs-util) - A simple set of Ethereum JS utilities such toBuffer and isHexPrefixed.
 - [diversario/node-ssdp](https://github.com/diversario/node-ssdp) - node.js SSDP client/server.
-- [ritiek/play-on-kodi](https://github.com/ritiek/play-on-kodi) - Stream your local/network content directly to Kodi by making HTTP requests
+- [ritiek/play-on-kodi](https://github.com/ritiek/play-on-kodi) - Stream your local/network content directly to Kodi by making HTTP requests.
 - [balance-io/balance-manager](https://github.com/balance-io/balance-manager) - A tool to manage your wallets
 - [oeuillot/upnpserver](https://github.com/oeuillot/upnpserver) - Fast and light upnp server for node
 - [finnp/minilock](https://github.com/finnp/minilock) - encrypt and decrypt with minilock
@@ -5082,7 +5082,7 @@
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [lambdaclass/lambdaworks](https://github.com/lambdaclass/lambdaworks) - lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
-- [starkware-libs/cairo-vm-2](https://github.com/starkware-libs/cairo-vm-2) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
+- [starkware-libs/cairo-vm](https://github.com/starkware-libs/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that 
 - [fluentci-demos/fluentci-demo-rust](https://github.com/fluentci-demos/fluentci-demo-rust) - FluentCI demo CI pipeline using Rust
 - [hasura/ndc-sdk-rs](https://github.com/hasura/ndc-sdk-rs) - Hasura NDC SDK for Rust
 - [hasura/ndc-postgres](https://github.com/hasura/ndc-postgres) - Hasura v3 Data Connector for PostgreSQL
@@ -7606,7 +7606,7 @@
 - [jamesmacaulay/graphqlbin](https://github.com/jamesmacaulay/graphqlbin) - Mock GraphQL schema server
 - [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 - [MetaMask/browser-passworder](https://github.com/MetaMask/browser-passworder) - A simple browserifiable module for encrypting and decrypting JSON-serializable objects with a password.
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
