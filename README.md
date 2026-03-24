@@ -875,7 +875,6 @@
 
 ## Gherkin 
 
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [reitzig/sdkman-for-fish](https://github.com/reitzig/sdkman-for-fish) - Adds support for SDKMAN! to fish
 
 ## Gleam 
@@ -1035,7 +1034,7 @@
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
-- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - MySQL-compatible HTAP database with Git for Data, vector search, and fulltext search. Cloud-native, AI-ready
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [r3labs/sse](https://github.com/r3labs/sse) - Server Sent Events server and client for Golang
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
@@ -4331,7 +4330,6 @@
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [bricef/gitops-tutorial](https://github.com/bricef/gitops-tutorial) - Gitops tutorial for Kubecon Seattle 2018
-- [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [leandrocp/awesome-cqrs-event-sourcing](https://github.com/leandrocp/awesome-cqrs-event-sourcing) - A curated list of awesome CQRS and Event Sourcing things
 - [RPi-Distro/firmware-nonfree](https://github.com/RPi-Distro/firmware-nonfree) - 
 - [leostera/paper-eaters](https://github.com/leostera/paper-eaters) - :books:
@@ -4486,7 +4484,7 @@
 
 ## Python 
 
-- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs so
 - [bluesky-social/atproto-interop-tests](https://github.com/bluesky-social/atproto-interop-tests) - Implementation-neutral test data for atproto
@@ -5019,6 +5017,7 @@
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 - [megaeth-labs/revm](https://github.com/megaeth-labs/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Mithronn/rusty_ytdl](https://github.com/Mithronn/rusty_ytdl) - A Rust library for Youtube video searcher and downloader
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 - [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
@@ -6282,6 +6281,7 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [acj/freebsd-firecracker](https://github.com/acj/freebsd-firecracker) - Launch FreeBSD VMs using Firecracker
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [cirruslabs/docker-images-flutter](https://github.com/cirruslabs/docker-images-flutter) - Docker Images for Flutter
 - [mise-plugins/registry](https://github.com/mise-plugins/registry) - Convenience shortname repository for mise plugins
 - [tsirysndr/dotfiles](https://github.com/tsirysndr/dotfiles) - My Personal Dotfiles  🏠 💻 ✨.
@@ -6673,7 +6673,6 @@
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [fiberplane/fiberplane](https://github.com/fiberplane/fiberplane) - Supercharge your local development
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [nperez0111/bookhive](https://github.com/nperez0111/bookhive) - Goodreads but better. Built on top of Bluesky.
 - [beeman/awesome-atproto](https://github.com/beeman/awesome-atproto) - A curated list of awesome ATProto resources
@@ -7327,6 +7326,7 @@
 - [node-celery-ts/node-celery-ts](https://github.com/node-celery-ts/node-celery-ts) - TypeScript Celery client for Node
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
+- [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [nodefluent/kafka-streams](https://github.com/nodefluent/kafka-streams) - equivalent to kafka-streams :octopus: for nodejs :sparkles::turtle::rocket::sparkles:
 - [iotsound/iotsound](https://github.com/iotsound/iotsound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [react-native-voice/voice](https://github.com/react-native-voice/voice) - :microphone: React Native Voice Recognition library for iOS and Android (Online and Offline Support)
@@ -7476,7 +7476,6 @@
 - [CodeSequence/store-saga](https://github.com/CodeSequence/store-saga) - An Rx implementation of redux-saga for @ngrx/store
 - [ngneat/content-loader](https://github.com/ngneat/content-loader) - ⚪️ SVG component to create placeholder loading, like Facebook cards loading.
 - [ethereumjs/ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) - Project is in active development and has been moved to the EthereumJS monorepo.
-- [0xProject/0x-starter-project](https://github.com/0xProject/0x-starter-project) - A project showcasing how to get started with 0x.js
 - [0xProject/0x-monorepo](https://github.com/0xProject/0x-monorepo) - 0x protocol monorepo - includes our smart contracts and many developer tools
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
