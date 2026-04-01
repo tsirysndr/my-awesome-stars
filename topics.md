@@ -331,11 +331,12 @@
 - [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
+- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
-- [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - open, interoperable sandbox platform for agents and humans 📦 ✨
+- [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - the universal sandbox runtime for agents and humans.
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is a single-binary runtime to build and run autonomous agents — no Python, no Node.js, just define the role.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -353,6 +354,7 @@
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -411,7 +413,7 @@
 - [CortexFoundation/CortexTheseus](https://github.com/CortexFoundation/CortexTheseus) - Cortex - AI on Blockchain, Official Golang implementation
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
+- [nteract/semiotic](https://github.com/nteract/semiotic) - React data visualization library for streaming, networks, and AI-assisted development
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [BytomDAO/bytom](https://github.com/BytomDAO/bytom) - Official Go implementation of the Bytom protocol
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
@@ -1531,6 +1533,7 @@
 
 ## cli 
 
+- [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2477,7 +2480,7 @@
 - [spotify/reactochart](https://github.com/spotify/reactochart) - :chart_with_upwards_trend: React chart component library :chart_with_downwards_trend:
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
+- [nteract/semiotic](https://github.com/nteract/semiotic) - React data visualization library for streaming, networks, and AI-assisted development
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [FormidableLabs/victory-chart](https://github.com/FormidableLabs/victory-chart) - Chart Component for Victory
@@ -2919,7 +2922,7 @@
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - open, interoperable sandbox platform for agents and humans 📦 ✨
+- [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - the universal sandbox runtime for agents and humans.
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -3222,7 +3225,7 @@
 - [crashappsec/chalk](https://github.com/crashappsec/chalk) - Chalk allows you to follow code from development, through builds and into production.
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
-- [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - open, interoperable sandbox platform for agents and humans 📦 ✨
+- [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - the universal sandbox runtime for agents and humans.
 - [tsirysndr/base-workspace](https://github.com/tsirysndr/base-workspace) - A reproducible dev workspace, built with docker, nix, pkgx, homebrew, vscode & terraform 🧑‍💻✨
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments
@@ -6508,6 +6511,7 @@
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [kitojs/kito](https://github.com/kitojs/kito) - 🐺 The high-performance, type-safe and modern TypeScript web framework written in Rust.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
+- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
@@ -6595,7 +6599,7 @@
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android, iOS & Web) ActionSheet with a flexible api, native performance for react native. Create anything you want inside ActionSheet.
 - [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es) - Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
-- [BinaryMuse/toml-node](https://github.com/BinaryMuse/toml-node) - TOML parser for Node.js and the Browser. Parses TOML v0.4.0
+- [BinaryMuse/toml-node](https://github.com/BinaryMuse/toml-node) - TOML parser for Node.js and the Browser. Parses TOML v1.0.0
 - [crubier/react-graph-vis](https://github.com/crubier/react-graph-vis) - A react component to render nice graphs using vis.js
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
@@ -7557,6 +7561,7 @@
 - [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - Personal AI assistant platform, rewritten in Rust from OpenClaw
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs so
+- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -8414,6 +8419,7 @@
 
 ## nodejs 
 
+- [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [kitojs/kito](https://github.com/kitojs/kito) - 🐺 The high-performance, type-safe and modern TypeScript web framework written in Rust.
@@ -8461,7 +8467,7 @@
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
-- [BinaryMuse/toml-node](https://github.com/BinaryMuse/toml-node) - TOML parser for Node.js and the Browser. Parses TOML v0.4.0
+- [BinaryMuse/toml-node](https://github.com/BinaryMuse/toml-node) - TOML parser for Node.js and the Browser. Parses TOML v1.0.0
 - [kiegroup/act-js](https://github.com/kiegroup/act-js) - A node.js wrapper for nektos/act to programmatically run your github actions locally
 - [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 - [socketio/engine.io-protocol](https://github.com/socketio/engine.io-protocol) - Engine.IO protocol
@@ -8648,6 +8654,7 @@
 
 ## npm 
 
+- [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [tsndr/cloudflare-worker-jwt](https://github.com/tsndr/cloudflare-worker-jwt) - A lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.
 - [NoEnv/docker-sonar-scanner](https://github.com/NoEnv/docker-sonar-scanner) - Sonar Scanner as Docker Image
@@ -8803,6 +8810,8 @@
 
 ## others 
 
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+- [tsirysndr/pty-tunnel-server](https://github.com/tsirysndr/pty-tunnel-server) - 
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [ocsigen/lwt](https://github.com/ocsigen/lwt) - OCaml promises and concurrent I/O
@@ -8920,7 +8929,6 @@
 - [superfly/init-snapshot](https://github.com/superfly/init-snapshot) - Fly
 - [superfly/docs](https://github.com/superfly/docs) - 
 - [unikraft/catalog](https://github.com/unikraft/catalog) - Unikraft Applications & Examples Catalog
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - 
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [coreos/butane](https://github.com/coreos/butane) - Butane translates human-readable Butane Configs into machine-readable Ignition Configs.
 - [njapke/overlayfs-in-firecracker](https://github.com/njapke/overlayfs-in-firecracker) - 
@@ -9107,7 +9115,7 @@
 - [flathub/org.flathub.electron-sample-app](https://github.com/flathub/org.flathub.electron-sample-app) - Sample application based on electron
 - [outpaddling/desktop-installer](https://github.com/outpaddling/desktop-installer) - Quickly configure a FreeBSD, NetBSD, or OpenBSD desktop system
 - [Seeker14491/opener](https://github.com/Seeker14491/opener) - Open a file or link in the system default program.
-- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust (incubating)
+- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [eugeniodepalo/react-native-gtk4](https://github.com/eugeniodepalo/react-native-gtk4) - React renderer for GTK4 using node-gtk
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [Andry-RALAMBOMANANTSOA/instrument](https://github.com/Andry-RALAMBOMANANTSOA/instrument) - Futures Order matching engine
@@ -9258,7 +9266,7 @@
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [tsirysndr/my-awesome-stars](https://github.com/tsirysndr/my-awesome-stars) - A curated list of my Github stars! ✨
 - [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [acj/freebsd-firecracker](https://github.com/acj/freebsd-firecracker) - Launch FreeBSD VMs using Firecracker
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
@@ -12586,7 +12594,7 @@
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [CharlesStover/reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management.
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
+- [nteract/semiotic](https://github.com/nteract/semiotic) - React data visualization library for streaming, networks, and AI-assisted development
 - [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 - [Synvox/rehook](https://github.com/Synvox/rehook) - Make React Hooks out of your Recompose enhancers
 - [kudos-dude/react-best-practices](https://github.com/kudos-dude/react-best-practices) - A comprehensive reference guide to kickstart your React architecting career!
@@ -14527,6 +14535,7 @@
 
 ## terminal 
 
+- [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
@@ -14808,6 +14817,7 @@
 
 ## typescript 
 
+- [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
 - [tylersayshi/prototypey](https://github.com/tylersayshi/prototypey) - atproto lexicon typescript toolkit
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
@@ -14886,7 +14896,7 @@
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [fluent-ci-templates/microcks-pipeline](https://github.com/fluent-ci-templates/microcks-pipeline) - Import API specifications into Microcks and run Microcks tests
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
-- [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - open, interoperable sandbox platform for agents and humans 📦 ✨
+- [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - the universal sandbox runtime for agents and humans.
 - [tryabby/abby](https://github.com/tryabby/abby) - Open-Source Feature Flags, Remote Config & A/B Tests for Developers ⛳🧪
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [subdirectory/subshell](https://github.com/subdirectory/subshell) - Substrate API playground in a Deno 🦕 repl, using polkadot-js extension as remote signer ✍️.  Say goodbye to hardcoded mnemonics / seeds in dev scripts!👋
@@ -15349,7 +15359,7 @@
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
+- [nteract/semiotic](https://github.com/nteract/semiotic) - React data visualization library for streaming, networks, and AI-assisted development
 - [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
 
 ## vpn 
