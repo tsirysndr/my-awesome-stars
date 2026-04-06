@@ -1310,7 +1310,7 @@
 - [mit-dci/zkledger](https://github.com/mit-dci/zkledger) - Privacy-preserving auditing for distributed ledgers
 - [aurae-runtime/client-go](https://github.com/aurae-runtime/client-go) - Go gRPC client for Aurae
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Your Workflow Operator h
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Your Workflow Operator h
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [ChainSafe/chainbridge-core](https://github.com/ChainSafe/chainbridge-core) - 🌁 Sygma core library (ChainBridge)
@@ -2868,6 +2868,7 @@
 
 ## JavaScript 
 
+- [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
 - [isaacs/node-tar](https://github.com/isaacs/node-tar) - tar for node
 - [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec) - Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -4915,7 +4916,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
-- [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - Personal AI assistant platform, rewritten in Rust from OpenClaw
+- [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 🦀 Personal AI assistant platform, rewritten in Rust from OpenClaw
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
@@ -4955,6 +4956,7 @@
 - [videah/jetstream-oxide](https://github.com/videah/jetstream-oxide) - A typed Rust library for easily interacting with and consuming the Bluesky Jetstream service.
 - [superfly/init-snapshot](https://github.com/superfly/init-snapshot) - Fly
 - [aa-proxy/aa-proxy-rs](https://github.com/aa-proxy/aa-proxy-rs) - AndroidAuto wired/wireless proxy
+- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - The MQTT ecosystem in rust
 - [nate-craft/auditorium](https://github.com/nate-craft/auditorium) - Cross-platform, local, simple, fast, and distraction free CLI application to listen to your music library
@@ -5039,7 +5041,6 @@
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 - [megaeth-labs/revm](https://github.com/megaeth-labs/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Mithronn/rusty_ytdl](https://github.com/Mithronn/rusty_ytdl) - A Rust library for Youtube video searcher and downloader
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 - [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
@@ -6567,6 +6568,8 @@
 
 ## TypeScript 
 
+- [pocketenv-io/pocketenv-js](https://github.com/pocketenv-io/pocketenv-js) - JavaScript/TypeScript SDK for Pocketenv
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [angelorc/vmsan](https://github.com/angelorc/vmsan) - Firecracker made simple. Spin up secure microVMs in milliseconds, from install to interactive shell in one command.
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
@@ -6629,7 +6632,6 @@
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [tsirysndr/rocksky](https://github.com/tsirysndr/rocksky) - A decentralized music tracking and discovery platform built on AT Protocol 🎵
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [tsirysndr/oh-my-droid](https://github.com/tsirysndr/oh-my-droid) - Opinionated Android  15+ Linux Terminal Setup
@@ -6702,6 +6704,7 @@
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [fiberplane/fiberplane](https://github.com/fiberplane/fiberplane) - Supercharge your local development
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [nperez0111/bookhive](https://github.com/nperez0111/bookhive) - Goodreads but better. Built on top of Bluesky.
 - [beeman/awesome-atproto](https://github.com/beeman/awesome-atproto) - A curated list of awesome ATProto resources
