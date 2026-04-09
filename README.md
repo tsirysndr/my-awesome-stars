@@ -530,6 +530,7 @@
 
 ## Clojure 
 
+- [borkdude/cream](https://github.com/borkdude/cream) - Fast starting Clojure runtime built with GraalVM native-image + Crema
 - [pocketenv-io/pocketenv-clojure](https://github.com/pocketenv-io/pocketenv-clojure) - Clojure SDK for Pocketenv
 - [HumbleUI/HumbleUI](https://github.com/HumbleUI/HumbleUI) - Clojure Desktop UI framework
 - [babashka/sci](https://github.com/babashka/sci) - Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs
@@ -885,6 +886,7 @@
 
 ## Gleam 
 
+- [RedHelium/galchemy](https://github.com/RedHelium/galchemy) - galchemy is a PostgreSQL-first SQL toolkit for Gleam
 - [pocketenv-io/pocketenv-gleam](https://github.com/pocketenv-io/pocketenv-gleam) - Gleam SDK for Pocketenv
 - [alii/arc](https://github.com/alii/arc) - ⌒ JavaScript on the BEAM
 - [Brickell-Research/caffeine_lang](https://github.com/Brickell-Research/caffeine_lang) - Making service expectation declaration easier.
@@ -955,6 +957,9 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
+- [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
+- [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs) - High performance FUSE filesystem for AI workloads with S3 compatible backends
 - [pocketenv-io/pocketenv-go](https://github.com/pocketenv-io/pocketenv-go) - Go SDK for  Pocketenv
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -2075,7 +2080,7 @@
 - [kataras/neffos](https://github.com/kataras/neffos) - A modern, fast and scalable websocket framework with elegant API written in Go
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [mosuka/blast](https://github.com/mosuka/blast) - Blast is a full text search and indexing server, written in Go, built on top of Bleve.
-- [rb-go/go-jrpc2client](https://github.com/rb-go/go-jrpc2client) - Golang JSON-RPC 2.0 client package based on erikdubbelboer/fasthttp
+- [ergoz/go-jrpc2client](https://github.com/ergoz/go-jrpc2client) - Golang JSON-RPC 2.0 client package based on erikdubbelboer/fasthttp
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
@@ -4220,6 +4225,7 @@
 - [tsirysndr/rocksky-docs](https://github.com/tsirysndr/rocksky-docs) - Rocksky API Documentation
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [jbwharris/scrobbleable-streams](https://github.com/jbwharris/scrobbleable-streams) - Radio streams that can be scrobbled by last.fm
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [tidal-music/tidal-sdk](https://github.com/tidal-music/tidal-sdk) - TIDAL SDK
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
@@ -4504,7 +4510,7 @@
 
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs so
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 - [bluesky-social/atproto-interop-tests](https://github.com/bluesky-social/atproto-interop-tests) - Implementation-neutral test data for atproto
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [neondatabase/appdotbuild-agent](https://github.com/neondatabase/appdotbuild-agent) - The agent that generates working apps (and maybe some other things)
@@ -5165,7 +5171,7 @@
 - [megaeth-labs/reth](https://github.com/megaeth-labs/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [fluentci-io/ruff-plugin](https://github.com/fluentci-io/ruff-plugin) - Set up your CI/CD Pipeline with a specific version of Ruff
-- [fermyon/enterprise-architectures-and-patterns](https://github.com/fermyon/enterprise-architectures-and-patterns) - Collection of Enterprise Architectures & Patterns built with Spin and WebAssembly
+- [akamai-developers/serverless-architectures-and-patterns](https://github.com/akamai-developers/serverless-architectures-and-patterns) - Collection of Enterprise Architectures & Patterns built with Spin and WebAssembly
 - [fluentci-io/dagger-plugin](https://github.com/fluentci-io/dagger-plugin) - Set up your CI/CD Pipeline with a specific version of dagger
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [fluentci-io/flipt-plugin](https://github.com/fluentci-io/flipt-plugin) - Set up your CI/CD Pipeline with a specific version of Flipt
@@ -6164,7 +6170,7 @@
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
-- [AmbireTech/adex-protocol-substrate](https://github.com/AmbireTech/adex-protocol-substrate) - Substrate implementation of the AdEx Protocol v4: OUTPACE & Registry
+- [heyAuraDev/adex-protocol-substrate](https://github.com/heyAuraDev/adex-protocol-substrate) - Substrate implementation of the AdEx Protocol v4: OUTPACE & Registry
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
@@ -6576,7 +6582,7 @@
 - [angelorc/vmsan](https://github.com/angelorc/vmsan) - Firecracker made simple. Spin up secure microVMs in milliseconds, from install to interactive shell in one command.
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
-- [millionco/expect](https://github.com/millionco/expect) - Expect more from your agents. Test what they build in a real browser.
+- [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [eurosky-social/u-at-proto](https://github.com/eurosky-social/u-at-proto) - 
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
