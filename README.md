@@ -111,6 +111,7 @@
 ## Astro 
 
 - [denoland/deno-astro-template](https://github.com/denoland/deno-astro-template) - Template repo for an Astro site, preconfigured to run with Deno and Deno Deploy
+- [beam-community/elixir-companies](https://github.com/beam-community/elixir-companies) - A list of companies currently using Elixir in production.
 
 ## Awk 
 
@@ -563,7 +564,7 @@
 - [borkdude/bebo](https://github.com/borkdude/bebo) - Run Clojure scripts on deno
 - [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure
 - [dakrone/cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding
-- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a temporary convenience mirror
 - [weavejester/compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure
 - [blmstrm/clj-spotify](https://github.com/blmstrm/clj-spotify) - A clojure wrapper for the Spotify web API
 - [seancorfield/honeysql](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL
@@ -799,7 +800,6 @@
 - [felt/geo_postgis](https://github.com/felt/geo_postgis) - Postgrex Extension for PostGIS
 - [duailibe/cuid](https://github.com/duailibe/cuid) - Collision-resistant ids, in Elixir
 - [swoosh/swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir
-- [beam-community/elixir-companies](https://github.com/beam-community/elixir-companies) - A list of companies currently using Elixir in production.
 - [phoenixframework/phoenix_pubsub](https://github.com/phoenixframework/phoenix_pubsub) - Distributed PubSub and Presence platform for the Phoenix Framework
 - [uesteibar/neuron](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir
 - [slashmili/alchemist.vim](https://github.com/slashmili/alchemist.vim) - Elixir Integration Into Vim
@@ -1023,7 +1023,7 @@
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
 - [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
-- [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source containers-as-microVMs orchestrator.
+- [alexisbouchez/ravel](https://github.com/alexisbouchez/ravel) - An open-source microVMs orchestrator.
 - [suzuki-shunsuke/cmdx](https://github.com/suzuki-shunsuke/cmdx) - Task runner. It provides useful help messages and supports interactive prompts and validation of arguments
 - [liuchengxu/blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial) - :ear_of_rice: A step-by-step blockchain tutorial in simplified Chinese
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
@@ -2718,7 +2718,7 @@
 - [rkapsi/daap](https://github.com/rkapsi/daap) - Digital Audio Access Protocol (DAAP)
 - [openairplay/jolivia](https://github.com/openairplay/jolivia) - An Java implementation of DMAP, DAAP, DPAP, DMCP, DACP and RAOP with Guice + Jetty - Essentially a iTunes share, iPhoto share and Airport Express emulation
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-- [apache/cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
+- [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
@@ -2915,6 +2915,7 @@
 - [indexzero/node-procfile](https://github.com/indexzero/node-procfile) - Procfile parser for node.js
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
+- [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [dylibso/reactables](https://github.com/dylibso/reactables) - Reactables enable you to bring the power of React and JSX outside of the JavaScript ecosystem.
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
@@ -4912,7 +4913,7 @@
 - [meilisearch/cellulite](https://github.com/meilisearch/cellulite) - Embedded geospatial database built on top of LMDB for Meilisearch
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [pocketenv-io/pocketenv-rust](https://github.com/pocketenv-io/pocketenv-rust) - Rust SDK for Pocketenv
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [ethereum/kohaku](https://github.com/ethereum/kohaku) - Privacy-first tooling for the Ethereum ecosystem
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
@@ -5687,7 +5688,7 @@
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -6000,7 +6001,7 @@
 - [zhuowei/nft_ptr](https://github.com/zhuowei/nft_ptr) - C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain
 - [mrstegeman/libmdns](https://github.com/mrstegeman/libmdns) - rust mdns library
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tomaka/rouille](https://github.com/tomaka/rouille) - Web framework in Rust
 - [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
@@ -6766,7 +6767,6 @@
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) - 
-- [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 - [microsoft/azure-pipelines-terraform](https://github.com/microsoft/azure-pipelines-terraform) - Azure Pipelines tasks for installing Terraform and running Terraform commands in a build or release pipeline.
 - [microsoft/tfs-cli](https://github.com/microsoft/tfs-cli) - Cross-platform CLI for Microsoft Team Foundation Server and Visual Studio Team Services
