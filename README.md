@@ -184,7 +184,7 @@
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [NetBSD/src](https://github.com/NetBSD/src) - Automatic conversion of the NetBSD src CVS module, use with care. Please submit bugs/changes via https://gnats.netbsd.org
-- [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
+- [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [DragonFlyBSD/DragonFlyBSD](https://github.com/DragonFlyBSD/DragonFlyBSD) - DragonFly BSD System Source Repository (read-only mirror)
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -968,7 +968,7 @@
 - [wrr/drop](https://github.com/wrr/drop) - productivity-focused sandboxing for Linux
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
+- [entireio/cli](https://github.com/entireio/cli) - Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [apenwarr/atlogin](https://github.com/apenwarr/atlogin) - An OIDC provider that logs in with ATProto
@@ -4004,6 +4004,7 @@
 
 ## MDX 
 
+- [pocketenv-io/docs](https://github.com/pocketenv-io/docs) - 
 - [Codesee-io/opensourcehub](https://github.com/Codesee-io/opensourcehub) - Connecting contributors and maintainers and helping all onboard better.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your tea
@@ -6579,6 +6580,7 @@
 
 ## TypeScript 
 
+- [rdmurphy/atproto-openapi-types](https://github.com/rdmurphy/atproto-openapi-types) - OpenAPI types for the AT Protocol generated according to the AT Protocol Specification by converting/translating the lexicon specs into OpenAPI types.
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [denoland/skills](https://github.com/denoland/skills) - Modern Deno skills for AI coding assistants. Covers Deno, JSR imports, Fresh, Deno Deploy, and best practices.
 - [pocketenv-io/pocketenv-js](https://github.com/pocketenv-io/pocketenv-js) - JavaScript/TypeScript SDK for Pocketenv
@@ -6636,7 +6638,7 @@
 - [tsirysndr/freebsd-up](https://github.com/tsirysndr/freebsd-up) - A simple, zero-configuration script to quickly boot FreeBSD ISO images using QEMU
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
-- [knotbin/airport](https://github.com/knotbin/airport) - AT Protocol PDS migration built in Deno Fresh
+- [knotbin/airport](https://github.com/knotbin/airport) - The first ever AT Protocol PDS Migrator
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [dylanblokhuis/kysely-bun-sqlite](https://github.com/dylanblokhuis/kysely-bun-sqlite) - Use Kysely with the Bun runtime
