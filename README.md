@@ -324,7 +324,6 @@
 
 ## C++ 
 
-- [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [drhelius/Gearsystem](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
@@ -1184,7 +1183,7 @@
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [TruStacks/trustacks](https://github.com/TruStacks/trustacks) - 
 - [quartz-technology/daggerverse](https://github.com/quartz-technology/daggerverse) - Daggerverse modules made by Quartz
-- [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
+- [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - An open-source cloud-native unified-cloud platform. 开源云原生融合云平台
 - [TomChv/daggerverse](https://github.com/TomChv/daggerverse) - Daggerverse modules
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [shykes/dagger](https://github.com/shykes/dagger) - A portable devkit for CI/CD pipelines
@@ -1353,6 +1352,7 @@
 - [chai2010/webp](https://github.com/chai2010/webp) - WebP decoder and encoder for Go (Zero Dependencies). 该项目不再维护, 大家自己fork吧
 - [go-ozzo/ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - A Go (golang) package that enhances the standard database/sql package by providing powerful data retrieval methods as well as DB-agnostic query building capabilities.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
 - [libp2p/go-libp2p-peerstore](https://github.com/libp2p/go-libp2p-peerstore) - an object to manage sets of peers, their addresses and other metadata
 - [consbio/mbtileserver](https://github.com/consbio/mbtileserver) - Basic Go server for mbtiles
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
@@ -3413,6 +3413,7 @@
 - [loomnetwork/plasma-cash](https://github.com/loomnetwork/plasma-cash) - Plasma Cash Contract & Client. ERC721, ERC20, and ETH compatible
 - [thechriswalker/twirp-js](https://github.com/thechriswalker/twirp-js) - Javascript client helper for Twirp RPC codegen
 - [react-toolbox/react-toolbox-themr](https://github.com/react-toolbox/react-toolbox-themr) - A tool to statically extract and generate custom themes for React Toolbox
+- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [chainpoint/chainpoint-cli](https://github.com/chainpoint/chainpoint-cli) - A Command Line Interface (CLI) for creating and verifying Chainpoint proofs.
 - [ethjs/ethjs-util](https://github.com/ethjs/ethjs-util) - A simple set of Ethereum JS utilities such toBuffer and isHexPrefixed.
 - [diversario/node-ssdp](https://github.com/diversario/node-ssdp) - node.js SSDP client/server.
@@ -4914,6 +4915,7 @@
 
 ## Rust 
 
+- [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [meilisearch/cellulite](https://github.com/meilisearch/cellulite) - Embedded geospatial database built on top of LMDB for Meilisearch
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [pocketenv-io/pocketenv-rust](https://github.com/pocketenv-io/pocketenv-rust) - Rust SDK for Pocketenv
@@ -6361,7 +6363,6 @@
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [tsirysndr/eth-parity-clusters](https://github.com/tsirysndr/eth-parity-clusters) - Ethereum development 10-nodes clusters using Docker
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
@@ -6535,7 +6536,6 @@
 - [insidegui/ChromeCastCore](https://github.com/insidegui/ChromeCastCore) - An open source implementation of the Google Cast SDK for macOS
 - [vapor/fluent](https://github.com/vapor/fluent) - Vapor ORM (queries, models, and relations) for NoSQL and SQL databases
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [teslamotors/react-native-camera-kit](https://github.com/teslamotors/react-native-camera-kit) - A high performance, easy to use, rock solid camera library for React Native apps.
 - [ealeksandrov/ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for mobile apps and provisioning profiles
@@ -6606,7 +6606,7 @@
 - [superfly/sprites-js](https://github.com/superfly/sprites-js) - 
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
-- [ramarlina/agx](https://github.com/ramarlina/agx) - 
+- [ramarlina/agx](https://github.com/ramarlina/agx) - agx: Run AI coding agents as a persistent team with objectives, memory, and coordinated work. The same agents built this tool — 167+ merged PRs, 93% clean.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [glommer/codemogger](https://github.com/glommer/codemogger) - Codemogger is a code indexing library and MCP server for AI coding agents
 - [glommer/memelord](https://github.com/glommer/memelord) - Memelord is an in-process agentic memory system
@@ -7218,6 +7218,7 @@
 - [polkadot-js/tools](https://github.com/polkadot-js/tools) - Various cli tools for Polkadot and Substrate chains, including basic node monitoring, making API queries via a cli app and other command-line tools
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [paritytech/txwrapper-core](https://github.com/paritytech/txwrapper-core) - Tools for FRAME chain builders to publish chain specific offline transaction generation libraries.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
@@ -7521,7 +7522,6 @@
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [0xProject/0x-launch-kit-backend](https://github.com/0xProject/0x-launch-kit-backend) - Launch a 0x relayer in under a minute [DEPRECATED]
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
-- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [CodeSequence/store-saga](https://github.com/CodeSequence/store-saga) - An Rx implementation of redux-saga for @ngrx/store
 - [ngneat/content-loader](https://github.com/ngneat/content-loader) - ⚪️ SVG component to create placeholder loading, like Facebook cards loading.
