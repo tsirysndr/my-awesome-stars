@@ -35,7 +35,6 @@
 - [Gherkin](#gherkin)
 - [Gleam](#gleam)
 - [Go](#go)
-- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -1076,6 +1075,7 @@
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [GoogleCloudPlatform/cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [seungyeop-lee/daggerverse](https://github.com/seungyeop-lee/daggerverse) - My Dagger modules
@@ -2562,10 +2562,6 @@
 - [mattn/go-gtk](https://github.com/mattn/go-gtk) - Go binding for GTK
 - [conformal/gotk3](https://github.com/conformal/gotk3) - Go bindings for GTK3
 
-## Go Template 
-
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
-
 ## Groovy 
 
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
@@ -3725,6 +3721,7 @@
 - [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [philikon/ReactNativify](https://github.com/philikon/ReactNativify) - How to use node.js libraries in React Native
+- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 - [GridPlus/cryptobridge-contracts](https://github.com/GridPlus/cryptobridge-contracts) - Smart contracts for trustless bridges
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [cosmos/cosmos-sdk-js](https://github.com/cosmos/cosmos-sdk-js) - (NOTICE: Very out of date) JavaScript client for the Cosmos SDK API
@@ -4915,6 +4912,7 @@
 
 ## Rust 
 
+- [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [meilisearch/cellulite](https://github.com/meilisearch/cellulite) - Embedded geospatial database built on top of LMDB for Meilisearch
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
@@ -4929,7 +4927,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
-- [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 🦀 Personal AI assistant platform, rewritten in Rust from OpenClaw
+- [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 🦀 Personal Multi-agent AI assistant platform, rewritten in Rust from OpenClaw
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
@@ -6464,7 +6462,6 @@
 - [mattdf/payment-channel](https://github.com/mattdf/payment-channel) - Ethereum Payment Channel in 50 lines of code
 - [willitscale/solidity-util](https://github.com/willitscale/solidity-util) - Solidity Standard Utilities
 - [aragon/aragonOS](https://github.com/aragon/aragonOS) - (Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols
-- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [enzymefinance/protocol](https://github.com/enzymefinance/protocol) - Enzyme Protocol Implementation
 
