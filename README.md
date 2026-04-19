@@ -5465,7 +5465,7 @@
 - [eliaperantoni/spaceman](https://github.com/eliaperantoni/spaceman) - A gRPC client from another world
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) - Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) - An optimized implementation of librsync in pure Rust.
-- [iopsystems/rezolus](https://github.com/iopsystems/rezolus) - High-resolution, low-overhead systems telemetry
+- [iopsystems/rezolus](https://github.com/iopsystems/rezolus) - High-resolution, low-overhead systems and service telemetry
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
@@ -6614,7 +6614,7 @@
 - [jchoi2x/genius-mcp](https://github.com/jchoi2x/genius-mcp) - Genius MCP server that lets you search for songs, artists, and most importantly lyrics.
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
-- [margin-at/margin](https://github.com/margin-at/margin) - Margin's Monorepo, available under the MIT License
+- [margin-at/margin](https://github.com/margin-at/margin) - Margin's Monorepo, available under AGPLv3
 - [FujoWebDev/fujocoded-plugins](https://github.com/FujoWebDev/fujocoded-plugins) - A repository of remark/rehype, Zod, Astro plugins and more
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
