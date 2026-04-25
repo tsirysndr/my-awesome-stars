@@ -555,7 +555,7 @@
 - [flexsurfer/rn-shadow-steroid](https://github.com/flexsurfer/rn-shadow-steroid) - React Native with shadow-cljs on steroids
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [vouch-opensource/krell](https://github.com/vouch-opensource/krell) - Simple ClojureScript React Native Tooling
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [coast-framework/coast](https://github.com/coast-framework/coast) - The fullest full stack clojure web framework
 - [CicadaLabs/bips](https://github.com/CicadaLabs/bips) - Bitcoin Improvement Proposals implemented in Clojure.
 - [funcool/promesa](https://github.com/funcool/promesa) - A promise library & concurrency toolkit for Clojure and ClojureScript.
@@ -4730,7 +4730,7 @@
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [nadirizr/dazel](https://github.com/nadirizr/dazel) - Run Google's bazel inside a docker container via a seamless proxy.
 - [egorsmkv/libra-grpc-py](https://github.com/egorsmkv/libra-grpc-py) - gRPC client for Libra in Python
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [floydhub/dl-docker](https://github.com/floydhub/dl-docker) - An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
