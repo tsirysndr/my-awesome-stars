@@ -711,7 +711,7 @@
 - [livinginthepast/honcho](https://github.com/livinginthepast/honcho) - A process manager for your `Procfile`(s)
 - [dashbitco/nimble_parsec](https://github.com/dashbitco/nimble_parsec) - A simple and fast library for text-based parser combinators
 - [Clivern/Lynx](https://github.com/Clivern/Lynx) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [mtrudel/thousand_island](https://github.com/mtrudel/thousand_island) - Thousand Island is a pure Elixir socket server
 - [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
@@ -4080,6 +4080,7 @@
 
 ## Nix 
 
+- [archie-judd/agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Lightweight and declarative sandboxing for AI agents on Linux and macOS using Nix.
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Packages OpenClaw for nix.
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [ony-boom/remote-os](https://github.com/ony-boom/remote-os) - VPS config
@@ -4916,6 +4917,7 @@
 
 ## Rust 
 
+- [bluez/bluer](https://github.com/bluez/bluer) - BlueR — Official BlueZ Bindings for Rust
 - [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -6730,7 +6732,7 @@
 - [fiberplane/fiberplane](https://github.com/fiberplane/fiberplane) - Supercharge your local development
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
-- [nperez0111/bookhive](https://github.com/nperez0111/bookhive) - Goodreads but better. Built on top of Bluesky.
+- [nperez0111/bookhive](https://github.com/nperez0111/bookhive) - Track your books, share your shelves, see what others are reading
 - [beeman/awesome-atproto](https://github.com/beeman/awesome-atproto) - A curated list of awesome ATProto resources
 - [denoland/docs](https://github.com/denoland/docs) - Deno documentation, examples and API Reference. Powered by Lume.
 - [denoland/denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
