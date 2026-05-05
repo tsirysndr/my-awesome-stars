@@ -138,7 +138,6 @@
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing the HV exploit and a custom bootloader
 - [tsirysndr/squeezelite](https://github.com/tsirysndr/squeezelite) - Lightweight headless squeezebox player for Lyrion Media Server
 - [mikebrady/nqptp](https://github.com/mikebrady/nqptp) - Not Quite PTP
-- [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) - FUSE implementation for overlayfs
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
@@ -4629,7 +4628,7 @@
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
 - [tom-doerr/codex.fish](https://github.com/tom-doerr/codex.fish) - Supercharge your command line with OpenAI Codex integration. Get AI-powered coding assistance right in your fish shell.
 - [leana8959/manage-music-metadata](https://github.com/leana8959/manage-music-metadata) - Manage metadata of music files
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
 - [opacam/Cohen3](https://github.com/opacam/Cohen3) - Simple DLNA/UPnP Media Client/Server for Python 3
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
@@ -4927,6 +4926,7 @@
 - [typesense/typesense-rust](https://github.com/typesense/typesense-rust) - Rust client for Typesense | Work In Progress & Help Wanted
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [meilisearch/cellulite](https://github.com/meilisearch/cellulite) - Embedded geospatial database built on top of LMDB for Meilisearch
+- [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) - FUSE implementation for overlayfs
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [pocketenv-io/pocketenv-rust](https://github.com/pocketenv-io/pocketenv-rust) - Rust SDK for Pocketenv
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
@@ -4970,7 +4970,7 @@
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust Performance Profiler & Channels Monitoring Toolkit (TUI, MCP)
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, time, and async code.
 - [oramasearch/resy](https://github.com/oramasearch/resy) - Remote Sync change detection lib. Currently supporting AWS S3 but possibly open to more sources.
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust
 - [teal-fm/cadet](https://github.com/teal-fm/cadet) - jetstream listener and ingester for teal dot fm
@@ -4982,7 +4982,6 @@
 - [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - The MQTT ecosystem in rust
-- [nate-craft/auditorium](https://github.com/nate-craft/auditorium) - Cross-platform, local, simple, fast, and distraction free CLI application to listen to your music library
 - [samitbasu/rust-hdl](https://github.com/samitbasu/rust-hdl) - A framework for writing FPGA firmware using the Rust Programming Language
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 - [daniel5151/clicky](https://github.com/daniel5151/clicky) - A clickwheel iPod emulator (WIP)
