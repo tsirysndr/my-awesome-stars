@@ -8188,7 +8188,7 @@
 - [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [cometsh/comet](https://github.com/cometsh/comet) - Music streaming on ATProto!
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [espeon/muse](https://github.com/espeon/muse) - music platform
@@ -9178,7 +9178,7 @@
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [mary-ext/atproto-scraping](https://github.com/mary-ext/atproto-scraping) - Git scraping of AT Protocol/Bluesky instances
 - [teaxyz/tea-token](https://github.com/teaxyz/tea-token) - $TEA ERC-20 token
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [jbwharris/scrobbleable-streams](https://github.com/jbwharris/scrobbleable-streams) - Radio streams that can be scrobbled by last.fm
 - [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) - A website to listen to cool radio stations and scrobble to LastFM
@@ -9624,7 +9624,6 @@
 - [cirruslabs/vetu](https://github.com/cirruslabs/vetu) - Create, publish and virtualize ephemeral Linux VMs with ease
 - [puchka/BetaX-Community](https://github.com/puchka/BetaX-Community) - This repository contains the scripts and the results we got when using way points to generate the path followed by buses in the urban area of Antanarivo.
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
-- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [nteract/ansi-to-react](https://github.com/nteract/ansi-to-react) - :guardsman: ANSI to React
 - [joypixels/emoji-toolkit](https://github.com/joypixels/emoji-toolkit) - The world's largest independent emoji font.
 - [tektoncd/hub](https://github.com/tektoncd/hub) - The tekton hub, official. This repository is archived and no longer maintained.
