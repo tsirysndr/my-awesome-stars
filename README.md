@@ -2877,6 +2877,7 @@
 
 ## JavaScript 
 
+- [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
 - [audiojs/audio-decode](https://github.com/audiojs/audio-decode) - Minimal audio decoders layer
 - [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
 - [isaacs/node-tar](https://github.com/isaacs/node-tar) - tar for node
@@ -4178,7 +4179,6 @@
 - [teaxyz/teaBASE](https://github.com/teaxyz/teaBASE) - Developer Cockpit
 - [itinance/react-native-sha256](https://github.com/itinance/react-native-sha256) - sha256 natively for react-native
 - [red5pro/react-native-red5pro](https://github.com/red5pro/react-native-red5pro) - React Native Red5 Pro Publisher/Subscriber
-- [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
@@ -4731,7 +4731,7 @@
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [nadirizr/dazel](https://github.com/nadirizr/dazel) - Run Google's bazel inside a docker container via a seamless proxy.
 - [egorsmkv/libra-grpc-py](https://github.com/egorsmkv/libra-grpc-py) - gRPC client for Libra in Python
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [floydhub/dl-docker](https://github.com/floydhub/dl-docker) - An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
@@ -5013,7 +5013,7 @@
 - [at-microcosm/microcosm-rs](https://github.com/at-microcosm/microcosm-rs) - Rust atproto crates and services for microcosm
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
-- [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - 
+- [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - StarkWare's next gen prover
 - [thrumdev/nomt](https://github.com/thrumdev/nomt) - Super-fast Merklized Embedded Key-Value Store for blockchain nodes
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
 - [tsirysndr/rocksky-connect](https://github.com/tsirysndr/rocksky-connect) - Remote playback control for any local player — inspired by "Spotify Connect".
@@ -5843,6 +5843,7 @@
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [cloudflare/rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) - A template for kick starting a Cloudflare Worker project using workers-rs. Write your Cloudflare Worker entirely in Rust!
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [wasmCloud/wash-archive](https://github.com/wasmCloud/wash-archive) - MOVED: https://github.com/wasmCloud/wasmCloud/tree/main/crates/wash
 - [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
@@ -6551,6 +6552,7 @@
 - [Carthage/Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa
 - [OpenST/ost-wallet-sdk-ios](https://github.com/OpenST/ost-wallet-sdk-ios) - OST Platform Wallet SDK for iOS
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
+- [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 - [Zewo/Venice](https://github.com/Zewo/Venice) - Coroutines, structured concurrency and CSP for Swift on macOS and Linux.
 - [Kitura/Swift-Kuery](https://github.com/Kitura/Swift-Kuery) - SQL database abstraction layer
@@ -7809,7 +7811,6 @@
 - [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) - Objective-C runtime bindings for Zig (Zig calling ObjC).
 - [mitchellh/zig-js](https://github.com/mitchellh/zig-js) - Access the JS host environment from Zig compiled to WebAssembly.
 - [mattn/zig-json](https://github.com/mattn/zig-json) - 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [mitchellh/zig-libxml2](https://github.com/mitchellh/zig-libxml2) - libxml2 built using Zig build system
 - [exercism/zig-test-runner](https://github.com/exercism/zig-test-runner) - 
 - [exercism/zig](https://github.com/exercism/zig) - Exercism exercises in Zig.
