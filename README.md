@@ -181,7 +181,7 @@
 - [yglukhov/wasmrt](https://github.com/yglukhov/wasmrt) - 
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [extism/wamr-sdk](https://github.com/extism/wamr-sdk) - A lightweight WAMR backend for Extism
-- [PromyLOPh/pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player
+- [PromyLOPh/pianobar](https://github.com/PromyLOPh/pianobar) - Repository moved to codeberg.org, see below.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [NetBSD/src](https://github.com/NetBSD/src) - Automatic conversion of the NetBSD src CVS module, use with care. Please submit bugs/changes via https://gnats.netbsd.org
@@ -4287,6 +4287,7 @@
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
 - [google/learn_unsafe_rust](https://github.com/google/learn_unsafe_rust) - 
 - [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
+- [irmen/synthesizer](https://github.com/irmen/synthesizer) - python sample mixer and sequencer, waveform synthesizer, and sound playback engine
 - [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs
 - [terra-money/awesome-terra](https://github.com/terra-money/awesome-terra) - A curated list of awesome Terra blockchain resources
 - [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
@@ -4634,7 +4635,6 @@
 - [opacam/Cohen3](https://github.com/opacam/Cohen3) - Simple DLNA/UPnP Media Client/Server for Python 3
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
-- [irmen/synthesizer](https://github.com/irmen/synthesizer) - python sample mixer and sequencer, waveform synthesizer, and sound playback engine
 - [yomguy/DeeFuzzer](https://github.com/yomguy/DeeFuzzer) - Light and instant media streaming client for web radios and TVs written in Python
 - [bazelbuild/continuous-integration](https://github.com/bazelbuild/continuous-integration) - Bazel's Continuous Integration Setup
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
