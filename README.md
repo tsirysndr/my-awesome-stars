@@ -765,7 +765,7 @@
 - [elixir-ecto/myxql](https://github.com/elixir-ecto/myxql) - MySQL 5.5+ driver for Elixir
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [dashbitco/nimble_totp](https://github.com/dashbitco/nimble_totp) - A tiny Elixir library for time-based one time passwords (TOTP)
-- [dashbitco/broadway_kafka](https://github.com/dashbitco/broadway_kafka) - A Broadway connector for Kafka
+- [elixir-broadway/broadway_kafka](https://github.com/elixir-broadway/broadway_kafka) - A Broadway connector for Kafka
 - [kafkaex/kafka_ex](https://github.com/kafkaex/kafka_ex) - Kafka client library for Elixir
 - [edgurgel/httpoison](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney
 - [michalmuskala/jason](https://github.com/michalmuskala/jason) - A blazing fast JSON parser and generator in pure Elixir.
@@ -779,7 +779,7 @@
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [getsentry/sentry-elixir](https://github.com/getsentry/sentry-elixir) - The official Elixir SDK for Sentry (sentry.io)
 - [surface-ui/surface](https://github.com/surface-ui/surface) - A server-side rendering component library for Phoenix
-- [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
+- [elixir-broadway/broadway](https://github.com/elixir-broadway/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions
 - [tungd/elixir-dns](https://github.com/tungd/elixir-dns) - DNS library for Elixir
 - [render-examples/elixir_cluster](https://github.com/render-examples/elixir_cluster) - Distributed Elixir Cluster on Render with libcluster and Mix Releases
@@ -1616,7 +1616,6 @@
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [krig/go-sox](https://github.com/krig/go-sox) - libsox bindings for go
 - [cosmos/scaffold](https://github.com/cosmos/scaffold) - Scaffolding for Cosmos-SDK based application
-- [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber) - 🟢🟣 cybergraph prototype
 - [michiwend/gomusicbrainz](https://github.com/michiwend/gomusicbrainz) - a Go (Golang) MusicBrainz WS2 client library - work in progress
 - [coreos/coreos-assembler](https://github.com/coreos/coreos-assembler) - Tooling container to assemble CoreOS-like systems
 - [mdlayher/waveform](https://github.com/mdlayher/waveform) - Go package capable of generating waveform images from audio streams. MIT Licensed.
@@ -2715,7 +2714,6 @@
 ## Java 
 
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [nordic-institute/X-Road](https://github.com/nordic-institute/X-Road) - Source code of the X-Road® data exchange layer software
 - [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
 - [pfrazee/example-atproto-rn-app](https://github.com/pfrazee/example-atproto-rn-app) - Demonstrates how to set up a React Native app to use the atproto api.
@@ -4548,6 +4546,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow) - DuckDB for streaming data
 - [nestipy/nestipy](https://github.com/nestipy/nestipy) - Nestipy is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
 - [agentstack-ai/AgentStack](https://github.com/agentstack-ai/AgentStack) - The fastest way to build robust AI agents
@@ -4955,6 +4954,7 @@
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [rust-lang/bors](https://github.com/rust-lang/bors) - Rust implementation of bors used for various Rust components (e.g. the compiler).
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
@@ -6324,7 +6324,6 @@
 - [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [cbeley/beleyenv](https://github.com/cbeley/beleyenv) - A dev-focused, idempotent system bootstrap script for ChromeOS's officially supported Linux container. Designed for me, but flexible enough for you to use too!
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [tsirysndr/rockbox-aur](https://github.com/tsirysndr/rockbox-aur) - AUR build scripts for Rockbox
 - [gentoo/guru](https://github.com/gentoo/guru) - [MIRROR] GURU: repository of new packages maintained collaboratively by users
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
@@ -6485,7 +6484,7 @@
 ## Starlark 
 
 - [cgrindel/rules_swift_package_manager](https://github.com/cgrindel/rules_swift_package_manager) - Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.
-- [aherrmann/rules_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
+- [hermeticbuild/rules_zig](https://github.com/hermeticbuild/rules_zig) - Bazel build rules for Zig
 - [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
 - [fluentci-demos/fluentci-demo-buck](https://github.com/fluentci-demos/fluentci-demo-buck) - A FluentCI demo CI Pipeline using Buck2
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
@@ -6514,7 +6513,7 @@
 ## Swift 
 
 - [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI.
-- [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music player and library built with Swift 6 and SwiftUI — gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ engine powered by FFm
+- [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music player and library built with Swift 6 and SwiftUI. Features gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ engine powere
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [swiftlang/swift-format](https://github.com/swiftlang/swift-format) - Formatting technology for Swift source code
 - [grpc/grpc-swift-2](https://github.com/grpc/grpc-swift-2) - 
@@ -6598,6 +6597,7 @@
 
 ## TypeScript 
 
+- [redwoodjs/agent-ci](https://github.com/redwoodjs/agent-ci) - Agent-CI is local GitHub Actions for your agents.
 - [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & React.
 - [rrantsa/open-source-madagascar](https://github.com/rrantsa/open-source-madagascar) - Une liste collaborative de projets open source utiles à Madagascar, créés par des Malgaches ou adaptés au contexte malgache.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -7329,6 +7329,7 @@
 - [herisata/node-starter](https://github.com/herisata/node-starter) - 
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
+- [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber) - 🟢 cybergraph prototype sdk
 - [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
 - [CosmWasm/dApps](https://github.com/CosmWasm/dApps) - A collection of sample dApps for CosmWasm contracts, using CosmJS frontend SDK
 - [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar) - 🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem
