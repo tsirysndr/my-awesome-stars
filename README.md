@@ -2599,6 +2599,7 @@
 
 ## HTML 
 
+- [solpbc/welcome-mat](https://github.com/solpbc/welcome-mat) - the welcome mat — how agents sign up for things. a protocol for AI agent self-enrollment using cryptographic identity.
 - [iMilnb/smolBSD](https://github.com/iMilnb/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases
 - [superfly/docs](https://github.com/superfly/docs) - 
@@ -3174,7 +3175,7 @@
 - [AsureNetwork/bip39-cli](https://github.com/AsureNetwork/bip39-cli) - simple cli tool to create, and verify bip39 mnemonics
 - [WalletConnect/create-eth-app](https://github.com/WalletConnect/create-eth-app) - Create Ethereum-powered apps with one command
 - [protobufjs/bytebuffer.js](https://github.com/protobufjs/bytebuffer.js) - A fast and complete ByteBuffer implementation using either ArrayBuffers in the browser or Buffers under node.js.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - The most widely used Protobuf package for JavaScript & TypeScript. Fast, conformant, and versatile.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript. Widely used, fast, and versatile.
 - [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x) - Encode/decode any base
 - [tannerlinsley/react-query-devtools](https://github.com/tannerlinsley/react-query-devtools) - ⚛️ Devtools for React Query
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -4936,7 +4937,6 @@
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [pocketenv-io/pocketenv-rust](https://github.com/pocketenv-io/pocketenv-rust) - Rust SDK for Pocketenv
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
-- [ethereum/kohaku](https://github.com/ethereum/kohaku) - Privacy-first tooling for the Ethereum ecosystem
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
 - [orta/cosmic-soundcloud](https://github.com/orta/cosmic-soundcloud) - A SoundCloud player for COSMIC desktop
@@ -5402,7 +5402,7 @@
 - [pop-os/os-release](https://github.com/pop-os/os-release) - Rust crate for parsing the /etc/os-release file, common with Linux distributions
 - [mehmet-yuksel/redis_lunatic](https://github.com/mehmet-yuksel/redis_lunatic) - 
 - [zip-rs/zip-old](https://github.com/zip-rs/zip-old) - Zip implementation in Rust
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It sticks to anything.
 - [wasix-org/wasix-witx](https://github.com/wasix-org/wasix-witx) - WebAssembly System Interface
 - [guile-rs/guile-rs](https://github.com/guile-rs/guile-rs) - Safe Rust bindings for GNU Guile
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -6194,7 +6194,7 @@
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
 - [heyAuraDev/adex-protocol-substrate](https://github.com/heyAuraDev/adex-protocol-substrate) - Substrate implementation of the AdEx Protocol v4: OUTPACE & Registry
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [poanetwork/hbbft](https://github.com/poanetwork/hbbft) - An implementation of the paper "Honey Badger of BFT Protocols" in Rust. This is a modular library of consensus.
 - [omni/poa-bridge](https://github.com/omni/poa-bridge) - POA &lt;-&gt; Ethereum bridge for self transfers of POA native token to POA20 (ERC20 representation). Not supported. Use TokenBridge instead
@@ -6608,6 +6608,7 @@
 - [denoland/skills](https://github.com/denoland/skills) - Modern Deno skills for AI coding assistants. Covers Deno, JSR imports, Fresh, Deno Deploy, and best practices.
 - [pocketenv-io/pocketenv-js](https://github.com/pocketenv-io/pocketenv-js) - JavaScript/TypeScript SDK for Pocketenv
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+- [ethereum/kohaku](https://github.com/ethereum/kohaku) - Privacy-first tooling for the Ethereum ecosystem
 - [angelorc/vmsan](https://github.com/angelorc/vmsan) - Firecracker made simple. Spin up secure microVMs in milliseconds, from install to interactive shell in one command.
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
