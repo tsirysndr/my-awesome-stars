@@ -331,6 +331,7 @@
 
 ## agent 
 
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [pocketenv-io/pocketenv-clojure](https://github.com/pocketenv-io/pocketenv-clojure) - Clojure SDK for Pocketenv
@@ -358,8 +359,9 @@
 
 ## agents 
 
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -371,7 +373,7 @@
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -386,10 +388,11 @@
 
 ## ai 
 
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec) - Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
@@ -437,7 +440,7 @@
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - An open-source cloud-native unified-cloud platform. 开源云原生融合云平台
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -1604,6 +1607,7 @@
 
 ## claude-code 
 
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
@@ -2622,7 +2626,7 @@
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It sticks to anything.
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -2940,7 +2944,7 @@
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [zhmushan/abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [graphql-hive/graphql-yoga](https://github.com/graphql-hive/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 
 ## dependency-management 
@@ -3167,7 +3171,7 @@
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -3286,7 +3290,7 @@
 
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [benodiwal/testcontainers-ocaml](https://github.com/benodiwal/testcontainers-ocaml) - Lightweight, throwaway instances of databases, message brokers, or any service that runs in a Docker container. Enables reliable integration testing with real services instead of mocks.
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
@@ -3443,7 +3447,7 @@
 - [weaveworks/footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [kata-containers/runtime](https://github.com/kata-containers/runtime) - Kata Containers version 1.x runtime (for version 2.x see https://github.com/kata-containers/kata-containers).
 - [uber-archive/makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
@@ -3460,7 +3464,7 @@
 - [spotify/helios](https://github.com/spotify/helios) - Docker container orchestration platform
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [sudoalgorithm/Scalable-python-apps-with-Kubernetes](https://github.com/sudoalgorithm/Scalable-python-apps-with-Kubernetes) - 
@@ -6556,7 +6560,7 @@
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [wiremock/wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
 - [NoEnv/docker-sonar-scanner](https://github.com/NoEnv/docker-sonar-scanner) - Sonar Scanner as Docker Image
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
@@ -6807,7 +6811,7 @@
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript. Widely used, fast, and versatile.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [frinyvonnick/gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - A changelog generator for gitmoji 😜
 - [clappr/clappr](https://github.com/clappr/clappr) - An extensible, plugin-oriented, HTML5-first media player for the web
@@ -6881,7 +6885,7 @@
 - [loomnetwork/loom-js](https://github.com/loomnetwork/loom-js) - JS library for building browser apps & NodeJS services that interact with Loom DAppChains
 - [ConsenSysMesh/rimble-ui](https://github.com/ConsenSysMesh/rimble-ui) - React components that implement Rimble's Design System.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
@@ -6941,7 +6945,7 @@
 - [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [hash-bang/Conkie](https://github.com/hash-bang/Conkie) - JavaScript desktop widgets
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -7357,7 +7361,7 @@
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [stakater/Konfigurator](https://github.com/stakater/Konfigurator) - A kubernetes operator that dynamically generates and manages app configuration based on kubernetes resources  – [✩Star] if you're using it!
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [kata-containers/runtime](https://github.com/kata-containers/runtime) - Kata Containers version 1.x runtime (for version 2.x see https://github.com/kata-containers/kata-containers).
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [uber-archive/makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
@@ -7477,7 +7481,7 @@
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓 By @miguelmota
 - [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) - Go(lang) examples - (explain the basics of #golang)
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
 ## library 
@@ -7523,7 +7527,7 @@
 ## linux 
 
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [wrr/drop](https://github.com/wrr/drop) - productivity-focused sandboxing for Linux
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [drhelius/Gearsystem](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
@@ -7655,7 +7659,7 @@
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -7673,6 +7677,7 @@
 
 ## llm 
 
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure that's powering E2B Cloud.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -7783,7 +7788,7 @@
 - [getmetal/motorhead](https://github.com/getmetal/motorhead) - 🧠 Motorhead is a memory and information retrieval server for LLMs.
 - [facebookincubator/nimble](https://github.com/facebookincubator/nimble) - New and extensible file format for storage of large columnar datasets.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [agrafix/openai-hs](https://github.com/agrafix/openai-hs) - Unofficial OpenAI Haskell Bindings
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
@@ -7824,7 +7829,7 @@
 - [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI.
 - [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music player and library built with Swift 6 and SwiftUI. Features gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ engine powere
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor) - An offline macOS music player
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance adaptive, durable, portable, transactional embeddable storage engine with optional tiered object storage for infinite scale. Designed for flash and RAM optimization.
@@ -7985,7 +7990,7 @@
 
 ## mcp 
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [drhelius/Gearsystem](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - [jchoi2x/genius-mcp](https://github.com/jchoi2x/genius-mcp) - Genius MCP server that lets you search for songs, artists, and most importantly lyrics.
@@ -8554,7 +8559,7 @@
 ## nodejs 
 
 - [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
@@ -8587,7 +8592,7 @@
 - [tsirysndr/env-js](https://github.com/tsirysndr/env-js) - Get environment variables in Deno, Bun and Node.js
 - [extism/js-sdk](https://github.com/extism/js-sdk) - Run Extism WebAssembly plug-ins / functions from JavaScript (supports major browsers, Node.js, Deno, Bun, and Cloudflare Workers)
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [TheSpyder/rescript-nodejs](https://github.com/TheSpyder/rescript-nodejs) - Node bindings for ReScript
 - [feross/buffer](https://github.com/feross/buffer) - The buffer module from node.js, for the browser.
 - [joakin/elm-node](https://github.com/joakin/elm-node) - Run Elm + JS programs easily in node
@@ -8726,7 +8731,7 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [webtorrent/parse-torrent](https://github.com/webtorrent/parse-torrent) - Parse a torrent identifier (magnet uri, .torrent file, info hash)
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [loopbackio/loopback-connector-postgresql](https://github.com/loopbackio/loopback-connector-postgresql) - PostgreSQL connector for LoopBack.
@@ -8763,7 +8768,7 @@
 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [elsoul/skeet](https://github.com/elsoul/skeet) - 🚧 What...? Skeet is evolving to SLV!
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It sticks to anything.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [vapor/fluent](https://github.com/vapor/fluent) - Vapor ORM (queries, models, and relations) for NoSQL and SQL databases
 - [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -&gt; IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient
@@ -8952,11 +8957,11 @@
 
 ## others 
 
+- [solpbc/welcome-mat](https://github.com/solpbc/welcome-mat) - the welcome mat — how agents sign up for things. a protocol for AI agent self-enrollment using cryptographic identity.
 - [redwoodjs/agent-ci](https://github.com/redwoodjs/agent-ci) - Agent-CI is local GitHub Actions for your agents.
 - [colinfredynand/plugin.kodi.navidrome](https://github.com/colinfredynand/plugin.kodi.navidrome) - 
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The programming language for agents
 - [rrantsa/open-source-madagascar](https://github.com/rrantsa/open-source-madagascar) - Une liste collaborative de projets open source utiles à Madagascar, créés par des Malgaches ou adaptés au contexte malgache.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimalistic coding agent written in Rust, optimized for memory footprint and performance
 - [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
 - [audiojs/audio-decode](https://github.com/audiojs/audio-decode) - Minimal audio decoders layer
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
@@ -9001,7 +9006,7 @@
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [threddyrex/atproto-links](https://github.com/threddyrex/atproto-links) - a set of links to atproto resources
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [orta/cosmic-soundcloud](https://github.com/orta/cosmic-soundcloud) - A SoundCloud player for COSMIC desktop
 - [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
 - [NetBSDfr/sailor](https://github.com/NetBSDfr/sailor) - Portable container system
@@ -9211,7 +9216,7 @@
 - [upstash/workflow-js](https://github.com/upstash/workflow-js) - Durable, Reliable and Performant Serverless Functions
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
-- [branchseer/oxidase](https://github.com/branchseer/oxidase) - Transpiles TypeScript at the Speed of Parsing
+- [wan9chi/oxidase](https://github.com/wan9chi/oxidase) - Transpiles TypeScript at the Speed of Parsing
 - [basicdb/basic-cli](https://github.com/basicdb/basic-cli) - cli for creating & managing basic.tech projects
 - [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) - 🔬pgwatch: PostgreSQL metrics monitor/dashboard
 - [teal-fm/teal](https://github.com/teal-fm/teal) - Your music, beautifully tracked. All yours. (coming soon)
@@ -11570,7 +11575,7 @@
 - [Legitcode/scheduler](https://github.com/Legitcode/scheduler) - A pure React implementation of a drag and drop scheduler
 - [seigel/pouchdb-react-native](https://github.com/seigel/pouchdb-react-native) - Pouchdb with async storage
 - [hivewallet/coinmap](https://github.com/hivewallet/coinmap) - Map showing places where Bitcoin is accepted.
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [containers/build](https://github.com/containers/build) - another build tool for container images (archived, see https://github.com/rkt/rkt/issues/4024)
 - [notadamking/react-typing-animation](https://github.com/notadamking/react-typing-animation) - A fully-featured typing animation in React that supports any valid JSX.
 - [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
@@ -12550,7 +12555,7 @@
 - [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 
@@ -12629,7 +12634,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [ParthJadhav/Tmuxer](https://github.com/ParthJadhav/Tmuxer) - A Spotlight-like tool for searching and launching Tmux sessions in your preferred terminal.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [rescript-lang/create-rescript-app](https://github.com/rescript-lang/create-rescript-app) - npm create rescript-app@latest
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -13116,7 +13121,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [MarsX-dev/devhunt](https://github.com/MarsX-dev/devhunt) - A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase your
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
@@ -13300,13 +13305,14 @@
 ## rust 
 
 - [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & React.
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
 - [typesense/typesense-rust](https://github.com/typesense/typesense-rust) - Rust client for Typesense | Work In Progress & Help Wanted
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [pocketenv-io/pocketenv-rust](https://github.com/pocketenv-io/pocketenv-rust) - Rust SDK for Pocketenv
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 🦀 Personal Multi-agent AI assistant platform, written in Rust — multi-agent, self-learning skills, RAG, MCP, and agentskills.io compatible
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -13491,7 +13497,7 @@
 - [tessi/wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly from Elixir
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It sticks to anything.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
@@ -13946,7 +13952,7 @@
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [raphamorim/wasm-and-rust](https://github.com/raphamorim/wasm-and-rust) - WebAssembly and Rust: A Web Love Story
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
@@ -14021,7 +14027,7 @@
 
 ## security 
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
@@ -14104,7 +14110,7 @@
 
 ## self-hosted 
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -14134,7 +14140,7 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.
 - [tsirysndr/music-player](https://github.com/tsirysndr/music-player) - An extensible music server written in Rust 🚀🎵✨
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -14166,7 +14172,7 @@
 - [jollytoad/deno_http_fns](https://github.com/jollytoad/deno_http_fns) - A bunch of functions for building HTTP servers
 - [enisdenjo/graphql-sse](https://github.com/enisdenjo/graphql-sse) - Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift
 - [installer/instl](https://github.com/installer/instl) - 🤖 Instl is an installation script generator for GitHub projects. It does not need any setup, and can be used to install most GitHub projects on Linux, macOS and Windows.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -14409,7 +14415,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [vapor/postgres-kit](https://github.com/vapor/postgres-kit) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 - [vapor/sql-kit](https://github.com/vapor/sql-kit) - *️⃣ Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It sticks to anything.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [coast-framework/coast](https://github.com/coast-framework/coast) - The fullest full stack clojure web framework
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
@@ -15018,7 +15024,7 @@
 ## typescript 
 
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
 - [tylersayshi/prototypey](https://github.com/tylersayshi/prototypey) - atproto lexicon typescript toolkit
@@ -15097,7 +15103,7 @@
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [fluent-ci-templates/microcks-pipeline](https://github.com/fluent-ci-templates/microcks-pipeline) - Import API specifications into Microcks and run Microcks tests
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - the universal sandbox runtime for agents and humans.
 - [tryabby/abby](https://github.com/tryabby/abby) - Open-Source Feature Flags, Remote Config & A/B Tests for Developers ⛳🧪
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
@@ -15293,7 +15299,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Idnan/ts-grpc-example](https://github.com/Idnan/ts-grpc-example) - gRPC example with typescript and nodejs
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript. Widely used, fast, and versatile.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
@@ -15823,7 +15829,7 @@
 ## windows 
 
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance adaptive, durable, portable, transactional embeddable storage engine with optional tiered object storage for infinite scale. Designed for flash and RAM optimization.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
