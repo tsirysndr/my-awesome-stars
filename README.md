@@ -484,7 +484,7 @@
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [facebookarchive/beringei](https://github.com/facebookarchive/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
@@ -2887,6 +2887,7 @@
 - [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec) - Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [katelyynn/bleh](https://github.com/katelyynn/bleh) - a full redesign for last.fm
@@ -3779,7 +3780,7 @@
 - [n4kz/react-native-material-textfield](https://github.com/n4kz/react-native-material-textfield) - Material textfield
 - [chitezh/react-native-svg-image](https://github.com/chitezh/react-native-svg-image) - Load SVG images from network; Does not work with local svgs
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
+- [react/metro](https://github.com/react/metro) - 🚇 The JavaScript bundler for React Native
 - [Workiva/react-dart](https://github.com/Workiva/react-dart) - Dart Bindings for React JS
 - [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
 - [ConsenSys-archive/ganache-cli-archive](https://github.com/ConsenSys-archive/ganache-cli-archive) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache for current development.
@@ -3788,7 +3789,7 @@
 - [react-materialize/react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss
 - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [trainyard/choo-cli](https://github.com/trainyard/choo-cli) - Command line scaffolding tools for choo
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [mafintosh/lil-pids](https://github.com/mafintosh/lil-pids) - Dead simple process manager with few features
 - [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
@@ -4588,7 +4589,7 @@
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [wasmerio/python-flask-example](https://github.com/wasmerio/python-flask-example) - Sample Python Flask server for Wasmer Edge
@@ -4936,7 +4937,7 @@
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) - FUSE implementation for overlayfs
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [pocketenv-io/pocketenv-rust](https://github.com/pocketenv-io/pocketenv-rust) - Rust SDK for Pocketenv
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
 - [orta/cosmic-soundcloud](https://github.com/orta/cosmic-soundcloud) - A SoundCloud player for COSMIC desktop
@@ -6324,6 +6325,7 @@
 - [tsirysndr/android-dotfiles](https://github.com/tsirysndr/android-dotfiles) - .files for android 15+ linux terminal
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [cbeley/beleyenv](https://github.com/cbeley/beleyenv) - A dev-focused, idempotent system bootstrap script for ChromeOS's officially supported Linux container. Designed for me, but flexible enough for you to use too!
 - [tsirysndr/rockbox-aur](https://github.com/tsirysndr/rockbox-aur) - AUR build scripts for Rockbox
@@ -6623,7 +6625,6 @@
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
@@ -6704,7 +6705,6 @@
 - [mary-ext/atcute](https://github.com/mary-ext/atcute) - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [tsirysndr/rocksky-lexicons](https://github.com/tsirysndr/rocksky-lexicons) - ATProto lexicons used by https://rocksky.app
 - [ony-boom/mms](https://github.com/ony-boom/mms) - A local music server and player
@@ -7543,7 +7543,6 @@
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
 - [wadackel/react-md-spinner](https://github.com/wadackel/react-md-spinner) - Material Design spinner components for React.js.
 - [chingyawhao/material-ui-next-pickers](https://github.com/chingyawhao/material-ui-next-pickers) - A material ui next datepicker, demo on
-- [material-components/material-components-web-react](https://github.com/material-components/material-components-web-react) - Material Components for React (MDC React)
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [0xProject/0x-launch-kit-backend](https://github.com/0xProject/0x-launch-kit-backend) - Launch a 0x relayer in under a minute [DEPRECATED]
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
