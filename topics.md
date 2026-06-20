@@ -245,6 +245,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -472,6 +473,7 @@
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
 ## ai-agents 
@@ -498,6 +500,7 @@
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 
 ## ajax 
 
@@ -826,6 +829,7 @@
 
 ## archlinux 
 
+- [warpme/miniarch](https://github.com/warpme/miniarch) - ArchLinux ARM SD card images for quick start with ArchLinux on ARM SBC & TV Boxes
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [tsirysndr/rockbox-aur](https://github.com/tsirysndr/rockbox-aur) - AUR build scripts for Rockbox
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -1664,7 +1668,7 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [appleboy/drone-ssh](https://github.com/appleboy/drone-ssh) - Drone plugin for executing remote ssh commands
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an extreme dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -3270,7 +3274,7 @@
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [haskell-distributed/distributed-process](https://github.com/haskell-distributed/distributed-process) - Cloud Haskell core libraries
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -4577,7 +4581,7 @@
 - [gobuffalo/suite](https://github.com/gobuffalo/suite) - A test suite for Buffalo applications
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [khezen/avro](https://github.com/khezen/avro) - Apache AVRO for go
-- [go-httpproxy/httpproxy](https://github.com/go-httpproxy/httpproxy) - Go HTTP proxy server library
+- [orkunkaraduman/go-httpproxy](https://github.com/orkunkaraduman/go-httpproxy) - Go HTTP proxy server library
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
 - [liftbridge-io/go-liftbridge](https://github.com/liftbridge-io/go-liftbridge) - Go client for Liftbridge. https://github.com/liftbridge-io/liftbridge
@@ -4798,7 +4802,7 @@
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) - The jsonrpc package helps implement of JSON-RPC 2.0
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [twitchtv/twirp-example](https://github.com/twitchtv/twirp-example) - Example Twirp service
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
@@ -5118,7 +5122,7 @@
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [khezen/avro](https://github.com/khezen/avro) - Apache AVRO for go
 - [bank-vaults/bank-vaults](https://github.com/bank-vaults/bank-vaults) - A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault (auth methods, secret engines).
-- [go-httpproxy/httpproxy](https://github.com/go-httpproxy/httpproxy) - Go HTTP proxy server library
+- [orkunkaraduman/go-httpproxy](https://github.com/orkunkaraduman/go-httpproxy) - Go HTTP proxy server library
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
@@ -5374,7 +5378,7 @@
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [globalsign/mgo](https://github.com/globalsign/mgo) - The MongoDB driver for Go
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [Hashnode/mint](https://github.com/Hashnode/mint) - Mint Blockchain — Build blockchain powered social apps
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
@@ -6185,7 +6189,7 @@
 ## homebrew 
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an extreme dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
 - [tsirysndr/dotfiles](https://github.com/tsirysndr/dotfiles) - My Personal Dotfiles  🏠 💻 ✨.
 - [tsirysndr/dotfiles-example](https://github.com/tsirysndr/dotfiles-example) - A Minimal Dotfiles example
@@ -6380,7 +6384,7 @@
 
 ## ios 
 
-- [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI.
+- [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [emexlab/emexDE](https://github.com/emexlab/emexDE) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -7822,7 +7826,7 @@
 
 ## macos 
 
-- [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI.
+- [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music player and library built with Swift 6 and SwiftUI. Features gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ engine powere
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
@@ -8010,6 +8014,7 @@
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
 ## microservices 
@@ -8053,7 +8058,7 @@
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [monzo/typhon](https://github.com/monzo/typhon) - A wrapper around Go's net/http to provide safety and convenience. At Monzo, Typhon forms the basis of most clients and servers in our microservices platform.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -8828,7 +8833,7 @@
 
 ## open-source 
 
-- [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI.
+- [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 🦀 Personal Multi-agent AI assistant platform, written in Rust — multi-agent, self-learning skills, RAG, MCP, and agentskills.io compatible
@@ -8862,7 +8867,7 @@
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server — Ultra-low latency streaming engine with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding & scaling
@@ -9192,7 +9197,7 @@
 - [apple/pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language
 - [korken89/biquad-rs](https://github.com/korken89/biquad-rs) - A Rust library for digital second order IIR filtrers, also known as biquads
 - [Polochon-street/bliss](https://github.com/Polochon-street/bliss) - Bliss music library that can compute distance between songs
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
 - [jotaijs/jotai-effect](https://github.com/jotaijs/jotai-effect) - A Jōtai utility package for reactive side-effects
@@ -13158,6 +13163,10 @@
 - [Workiva/react-dart](https://github.com/Workiva/react-dart) - Dart Bindings for React JS
 - [infinitered/apisauce](https://github.com/infinitered/apisauce) - Axios + standardized errors + request/response transforms.
 
+## redteam 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+
 ## redux 
 
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
@@ -13679,7 +13688,7 @@
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
@@ -14094,7 +14103,7 @@
 
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [wrr/drop](https://github.com/wrr/drop) - productivity-focused sandboxing for Linux
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an extreme dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [crashappsec/chalk](https://github.com/crashappsec/chalk) - Chalk allows you to follow code from development, through builds and into production.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -14614,7 +14623,7 @@
 
 ## swift 
 
-- [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI.
+- [MathieuDubart/cassette](https://github.com/MathieuDubart/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music player and library built with Swift 6 and SwiftUI. Features gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ engine powere
 - [emexlab/emexDE](https://github.com/emexlab/emexDE) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 - [peterfriese/swift-book](https://github.com/peterfriese/swift-book) - The Swift Programming Language book as a PDF!
