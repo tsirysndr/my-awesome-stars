@@ -1540,7 +1540,7 @@
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
 - [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [bakape/thumbnailer](https://github.com/bakape/thumbnailer) - Go media thumbnailer
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
@@ -2374,7 +2374,7 @@
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
-- [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
+- [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features.
 - [sonm-io/core](https://github.com/sonm-io/core) - Decentralized Fog Computing Platform
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
@@ -4994,7 +4994,7 @@
 - [videah/jetstream-oxide](https://github.com/videah/jetstream-oxide) - A typed Rust library for easily interacting with and consuming the Bluesky Jetstream service.
 - [superfly/init-snapshot](https://github.com/superfly/init-snapshot) - Fly
 - [aa-proxy/aa-proxy-rs](https://github.com/aa-proxy/aa-proxy-rs) - AndroidAuto wired/wireless proxy
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - The MQTT ecosystem in rust
 - [samitbasu/rust-hdl](https://github.com/samitbasu/rust-hdl) - A framework for writing FPGA firmware using the Rust Programming Language
@@ -6101,7 +6101,7 @@
 - [polkadot-evm/frontier](https://github.com/polkadot-evm/frontier) - Ethereum and EVM compatibility layer for Polkadot and Substrate.
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [CosmWasm/simple-option](https://github.com/CosmWasm/simple-option) - Demo repo for hackatom video
-- [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
+- [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Real-life smart contracts under open-source licenses
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly Smart Contracts for the Cosmos SDK
 - [gautamdhameja/pallet-did](https://github.com/gautamdhameja/pallet-did) - A Substrate pallet for decentralized identifiers' (DIDs) management.
 - [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma ORM
