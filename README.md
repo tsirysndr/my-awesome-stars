@@ -2095,7 +2095,7 @@
 - [fishworks/gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
-- [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
+- [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A scriptable Dropbox CLI for files, shared links, teams, and automation workflows
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [gernest/wow](https://github.com/gernest/wow) - :open_mouth::exclamation::exclamation: Wow:exclamation: now my Go commandline app is spinning with :rainbow: and :horse:
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -6612,6 +6612,7 @@
 
 ## TypeScript 
 
+- [CharlesWiltgen/TagLib-Wasm](https://github.com/CharlesWiltgen/TagLib-Wasm) - TagLib-Wasm is the universal tagging library for TypeScript/JavaScript platforms: Browsers, Node.js, Deno, Bun, Cloudflare Workers, and Electron apps
 - [victoralvesf/aonsoku](https://github.com/victoralvesf/aonsoku) - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
@@ -7579,7 +7580,7 @@
 - [ethereumjs/ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) - Utilities for handling Ethereum keys
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [react-component/tooltip](https://github.com/react-component/tooltip) - 💡 Tooltip UI component for React
+- [react-component/tooltip](https://github.com/react-component/tooltip) - 💡 Positioned React tooltip for hover, focus, click, and controlled popup flows.
 - [MetaMask/json-rpc-engine](https://github.com/MetaMask/json-rpc-engine) - A tool for processing JSON RPC
 - [MetaMask/eth-json-rpc-middleware](https://github.com/MetaMask/eth-json-rpc-middleware) - Ethereum middleware for composing an Ethereum provider using json-rpc-engine. Intended to replace provider-engine
 - [MetaMask/obs-store](https://github.com/MetaMask/obs-store) - A synchronous in-memory store for a single value
@@ -7617,7 +7618,7 @@
 - [bryaneaton13/react-pull-to-refresh](https://github.com/bryaneaton13/react-pull-to-refresh) - React component for web pull to refresh
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [zenozeng/color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and SHA256).
-- [react-component/progress](https://github.com/react-component/progress) - React Progress Bar
+- [react-component/progress](https://github.com/react-component/progress) - 📊 Lightweight React line and circle progress indicators with SVG rendering.
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
