@@ -3930,6 +3930,7 @@
 ## Kotlin 
 
 - [CraftWorksMC/Chora](https://github.com/CraftWorksMC/Chora) - Simple Navidrome / Subsonic Music Player
+- [fossisawesome/firmium](https://github.com/fossisawesome/firmium) - A lightweight, fast, and simple music player for Navidrome. Based on the OpenSubsonic API!
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [apple/pkl-lsp](https://github.com/apple/pkl-lsp) - Language server for Pkl, implementing the server-side of the Language Server Protocol.
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
@@ -4925,11 +4926,10 @@
 
 ## Rust 
 
-- [tsirysndr/fin](https://github.com/tsirysndr/fin) - a neon-electric TUI Jellyfin client for mpv & Chromecast
+- [tsirysndr/fin](https://github.com/tsirysndr/fin) - a neon-electric TUI Jellyfin client for mpv, Chromecast & UPnP MediaRenderer
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.
 - [coreos/coreos-installer](https://github.com/coreos/coreos-installer) - Installer for CoreOS disk images
 - [bluetech/pcsc-rust](https://github.com/bluetech/pcsc-rust) - Rust bindings to PC/SC for smart card communication
-- [fossisawesome/firmium](https://github.com/fossisawesome/firmium) - A lightweight, fast, and simple music player for Navidrome. Based on the OpenSubsonic API!
 - [Fingel/gelly](https://github.com/Fingel/gelly) - A native music client for Jellyfin and Navidrome/Subsonic
 - [tsirysndr/smolsonic](https://github.com/tsirysndr/smolsonic) - A tiny Subsonic  + Jellyfin server + S3 API written in Rust
 - [ds1sqe/reovim](https://github.com/ds1sqe/reovim) - Rust powered text editor
