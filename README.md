@@ -656,7 +656,7 @@
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [prateekmedia/pstube](https://github.com/prateekmedia/pstube) - Watch and download videos without ads
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -4335,7 +4335,6 @@
 - [googleapis/nodejs-tasks](https://github.com/googleapis/nodejs-tasks) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 - [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) - Collect libraries and packages about cryptography in Rust.
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [gitlabhq/terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) - Terraform GitLab Provider
 - [drhelius/grpc-demo](https://github.com/drhelius/grpc-demo) - A demo to showcase technologies like Go, gRPC, Istio, Helm and Kubernetes Operators.
 - [shubheksha/companies-sponsoring-visas](https://github.com/shubheksha/companies-sponsoring-visas) - A list of companies that sponsor employees from other countries.
@@ -4687,6 +4686,7 @@
 - [pablo/huawei-modem-python-api-client](https://github.com/pablo/huawei-modem-python-api-client) - Modem USB Huawei HTTP API Python client
 - [isignpy/isign](https://github.com/isignpy/isign) - Code sign iOS applications, without proprietary Apple software or hardware
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [cosme12/SimpleCoin](https://github.com/cosme12/SimpleCoin) - Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as educational material. In other words, a simple Bitcoin clone.
 - [marqeta/marqeta-python](https://github.com/marqeta/marqeta-python) - Marqeta Python SDK
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
@@ -6341,7 +6341,6 @@
 - [tsirysndr/android-dotfiles](https://github.com/tsirysndr/android-dotfiles) - .files for android 15+ linux terminal
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
-- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [cbeley/beleyenv](https://github.com/cbeley/beleyenv) - A dev-focused, idempotent system bootstrap script for ChromeOS's officially supported Linux container. Designed for me, but flexible enough for you to use too!
 - [tsirysndr/rockbox-aur](https://github.com/tsirysndr/rockbox-aur) - AUR build scripts for Rockbox
@@ -6725,6 +6724,7 @@
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [espeon/muse](https://github.com/espeon/muse) - music platform
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [tsirysndr/rocksky-lexicons](https://github.com/tsirysndr/rocksky-lexicons) - ATProto lexicons used by https://rocksky.app
 - [ony-boom/mms](https://github.com/ony-boom/mms) - A local music server and player
