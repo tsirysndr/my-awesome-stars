@@ -366,6 +366,7 @@
 ## agent-skills 
 
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 
 ## agents 
@@ -567,7 +568,7 @@
 
 ## android 
 
-- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
+- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -2469,7 +2470,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Type-safe styled components for ReScript, Melange and native with type-safe CSS
+- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - styled components for Reason/OCaml with type-safe CSS and static extraction
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
@@ -2482,6 +2483,7 @@
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [airbnb/react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
+- [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
 - [styled-components/elm-styled](https://github.com/styled-components/elm-styled) - Styling your Html Elements with typed Css 💅
 - [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components.
 - [WeeJeWel/decoravit](https://github.com/WeeJeWel/decoravit) - Beautiful code beautifier — App for macOS
@@ -4194,6 +4196,7 @@
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [dolab/gogo](https://github.com/dolab/gogo) - Modern microservice web framework of golang
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
 - [sarulabs/di](https://github.com/sarulabs/di) - Dependency injection container in go (golang)
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [spotify/apollo](https://github.com/spotify/apollo) - Java libraries for writing composable microservices
@@ -4228,6 +4231,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
+- [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
 - [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
 - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
 - [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
@@ -6251,6 +6255,7 @@
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
+- [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
 - [WeeJeWel/decoravit](https://github.com/WeeJeWel/decoravit) - Beautiful code beautifier — App for macOS
 - [lovasoa/react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -6414,7 +6419,7 @@
 
 ## ios 
 
-- [CassetteLabs/cassette](https://github.com/CassetteLabs/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
+- [CassetteLab/cassette](https://github.com/CassetteLab/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [emexlab/emexDE](https://github.com/emexlab/emexDE) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -7053,7 +7058,7 @@
 
 ## jetpack-compose 
 
-- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
+- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
 
 ## jquery 
 
@@ -7182,7 +7187,7 @@
 
 ## kotlin 
 
-- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
+- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [luckasRanarison/mes](https://github.com/luckasRanarison/mes) - A decent multiplateform NES emulator written in Rust
 - [lupuuss/Mokkery](https://github.com/lupuuss/Mokkery) - The mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven.
@@ -7571,9 +7576,9 @@
 
 ## linux 
 
-- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
+- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
 - [Tatayoyoh/deezer-tui](https://github.com/Tatayoyoh/deezer-tui) - Deezer musics from your terminal, powered by Rust 🦀🎶
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [Fingel/gelly](https://github.com/Fingel/gelly) - A native music client for Jellyfin and Navidrome/Subsonic
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [tsirysndr/zerod](https://github.com/tsirysndr/zerod) - Headless Rust gRPC daemon to drive Bluetooth, HLS/DASH playback, and snapcast/shairport-sync/squeezelite on Raspberry Pi audio rigs.
@@ -7878,9 +7883,9 @@
 ## macos 
 
 - [Tatayoyoh/deezer-tui](https://github.com/Tatayoyoh/deezer-tui) - Deezer musics from your terminal, powered by Rust 🦀🎶
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [mauriciomorkun/AudioRouterNow](https://github.com/mauriciomorkun/AudioRouterNow) - Free, open-source macOS audio routing — send system audio to multiple outputs simultaneously
-- [CassetteLabs/cassette](https://github.com/CassetteLabs/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
+- [CassetteLab/cassette](https://github.com/CassetteLab/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music and podcast player and library built with Swift 6 and SwiftUI. Features gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ e
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
@@ -8892,7 +8897,7 @@
 ## open-source 
 
 - [mauriciomorkun/AudioRouterNow](https://github.com/mauriciomorkun/AudioRouterNow) - Free, open-source macOS audio routing — send system audio to multiple outputs simultaneously
-- [CassetteLabs/cassette](https://github.com/CassetteLabs/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
+- [CassetteLab/cassette](https://github.com/CassetteLab/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 🦀 Personal Multi-agent AI assistant platform, written in Rust — multi-agent, self-learning skills, RAG, MCP, and agentskills.io compatible
@@ -9015,6 +9020,9 @@
 
 ## others 
 
+- [odin-lang/examples](https://github.com/odin-lang/examples) - Examples of idiomatic Odin code
+- [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
+- [DeterminateSystems/flakehub-cache-action](https://github.com/DeterminateSystems/flakehub-cache-action) - 
 - [googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
 - [cross-platform-actions/action](https://github.com/cross-platform-actions/action) - Cross-platform GitHub action
 - [anyvm-org/anyvm](https://github.com/anyvm-org/anyvm) - Run any VM anywhere: run FreeBSD, OpenBSD, NetBSD, Solaris, OmniOS and more on Windows, Linux and Macos
@@ -9395,7 +9403,7 @@
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
 - [neithern/g4music](https://github.com/neithern/g4music) - A light weight music player written in GTK4, with a fluent adaptive user interface.
-- [Midstall/dbus.zig](https://github.com/Midstall/dbus.zig) - DBus packaging & bindings in Zig
+- [Midstall/dbus.zig](https://github.com/Midstall/dbus.zig) - DBus implemented in Zig
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [NfNitLoop/deno-embedder](https://github.com/NfNitLoop/deno-embedder) - Dev tools for embedding files into Deno applications
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
@@ -10116,7 +10124,7 @@
 - [google/containerdbg](https://github.com/google/containerdbg) - 
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [binaryjs/binaryjs](https://github.com/binaryjs/binaryjs) - Node binary websocket streaming made easy
-- [webrtc-rs/rtp](https://github.com/webrtc-rs/rtp) - A pure Rust implementation of RTP
+- [appr-tc/rtp](https://github.com/appr-tc/rtp) - A pure Rust implementation of RTP
 - [microsoft/Spartan](https://github.com/microsoft/Spartan) - Spartan: High-speed zkSNARKs without trusted setup
 - [AndrianinaH/discord-bot-chatgpt](https://github.com/AndrianinaH/discord-bot-chatgpt) - A very simple discord bot using openAI written in nodejs
 - [joe-elliott/tempo-otel-example](https://github.com/joe-elliott/tempo-otel-example) - 
@@ -11399,7 +11407,6 @@
 - [loomnetwork/loom-truffle-provider](https://github.com/loomnetwork/loom-truffle-provider) - Adapter that allows Truffle Suite to communicate with Loom DappChain
 - [3box/3box-verifications](https://github.com/3box/3box-verifications) - Verification service
 - [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
-- [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
 - [heyAuraDev/adex-protocol-substrate](https://github.com/heyAuraDev/adex-protocol-substrate) - Substrate implementation of the AdEx Protocol v4: OUTPACE & Registry
 - [azavana/velirano](https://github.com/azavana/velirano) - Just for Fun Repo listing all promises made by the brand new president of Madagascar for Madagascar
@@ -12295,7 +12302,7 @@
 
 ## productivity 
 
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -13384,7 +13391,7 @@
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [tsirysndr/equalizer](https://github.com/tsirysndr/equalizer) - Real-time terminal equalizer for raw PCM pipes — Rockbox 10-band EQ + bass/treble
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [fossisawesome/firmium](https://github.com/fossisawesome/firmium) - A lightweight, fast, and simple music player for Navidrome. Based on the OpenSubsonic API!
 - [tsirysndr/smolsonic](https://github.com/tsirysndr/smolsonic) - A tiny Subsonic  + Jellyfin server + S3 API written in Rust
 - [rust-stdx/stdx](https://github.com/rust-stdx/stdx) - Rust's extended standard library: simplicity, performance and supply chain security for everyone.
@@ -13490,7 +13497,6 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [fluentci-io/haskell-plugin](https://github.com/fluentci-io/haskell-plugin) - Set up your CI/CD with a specific version of Haskell
-- [varbhat/cvtek](https://github.com/varbhat/cvtek) - 📄 Craft your Resume/CV using TOML
 - [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -13542,7 +13548,7 @@
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
 - [ParthJadhav/Tmuxer](https://github.com/ParthJadhav/Tmuxer) - A Spotlight-like tool for searching and launching Tmux sessions in your preferred terminal.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -14205,7 +14211,7 @@
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
@@ -14686,6 +14692,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [mixel-music/mixel-music](https://github.com/mixel-music/mixel-music) - Build your own music server simply.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -14701,8 +14708,8 @@
 
 ## swift 
 
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
-- [CassetteLabs/cassette](https://github.com/CassetteLabs/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
+- [CassetteLab/cassette](https://github.com/CassetteLab/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music and podcast player and library built with Swift 6 and SwiftUI. Features gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ e
 - [emexlab/emexDE](https://github.com/emexlab/emexDE) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 - [peterfriese/swift-book](https://github.com/peterfriese/swift-book) - The Swift Programming Language book as a PDF!
@@ -15085,7 +15092,7 @@
 - [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI for LLMs
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - oscilloscope/vectorscope/spectroscope for your terminal
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [saltfishpr/redis-viewer](https://github.com/saltfishpr/redis-viewer) - A tool to view redis data in terminal.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -15923,7 +15930,7 @@
 
 ## windows 
 
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance adaptive, durable, portable, transactional embeddable storage engine with optional tiered object storage for infinite scale. Designed for flash and RAM optimization.
