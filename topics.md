@@ -9164,7 +9164,7 @@
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
 - [tsirysndr/openindiana-up](https://github.com/tsirysndr/openindiana-up) - A simple, powerful CLI tool to spin up OpenIndiana virtual machines with QEMU
 - [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
-- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
+- [alchemy-run/alchemy-async](https://github.com/alchemy-run/alchemy-async) - Infrastructure as TypeScript
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [epilot-dev/engineering-principles](https://github.com/epilot-dev/engineering-principles) - Core principles for epilot engineers
@@ -9537,7 +9537,7 @@
 - [seungyeop-lee/daggerverse](https://github.com/seungyeop-lee/daggerverse) - My Dagger modules
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
-- [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
+- [mkaczanowski/packer-plugin-builder-arm](https://github.com/mkaczanowski/packer-plugin-builder-arm) - Packer plugin to build ARM images
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
 - [purerl/purerl](https://github.com/purerl/purerl) - Erlang backend for the PureScript compiler
 - [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
@@ -14214,7 +14214,7 @@
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
