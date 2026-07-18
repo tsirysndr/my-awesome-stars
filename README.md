@@ -146,7 +146,7 @@
 - [ringtailsoftware/uvm32](https://github.com/ringtailsoftware/uvm32) - Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrained devices. Single C file, no dynamic memory allocations, asynchronous design, pure C99
 - [NetBSDfr/pkgin](https://github.com/NetBSDfr/pkgin) - pkgin's official github repository
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
-- [open-telemetry/opentelemetry-ebpf-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) - 
+- [open-telemetry/opentelemetry-ebpf-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) - Zero-code OpenTelemetry instrumentation powered by eBPF
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance adaptive, durable, portable, transactional embeddable storage engine with optional tiered object storage for infinite scale. Designed for flash and RAM optimization.
 - [unikraft/catalog](https://github.com/unikraft/catalog) - Unikraft Applications & Examples Catalog
 - [coreos/rpm-ostree](https://github.com/coreos/rpm-ostree) - ⚛📦 Hybrid image/package system with atomic upgrades and package layering
@@ -832,7 +832,7 @@
 - [Accenture/reactive-interaction-gateway](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
 - [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) - The GraphQL toolkit for Elixir
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [discord/manifold](https://github.com/discord/manifold) - Fast batch message passing between nodes for Erlang/Elixir.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 
@@ -1108,7 +1108,7 @@
 - [extism/go-pdk](https://github.com/extism/go-pdk) - Extism Plug-in Development Kit (PDK) for Go
 - [extism/cli](https://github.com/extism/cli) - The extism CLI is used to generate plugin scaffolding and manage Extism installations
 - [extism/extism-pql](https://github.com/extism/extism-pql) - RunReveal's PQL compiler as an Extism plugin.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [opencontainers/go-digest](https://github.com/opencontainers/go-digest) - Common digest package used across the container ecosystem
 - [xigxog/kubefox](https://github.com/xigxog/kubefox) - Simplifying Kubernetes.
@@ -2602,7 +2602,7 @@
 - [iMilnb/smolBSD](https://github.com/iMilnb/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases
 - [superfly/docs](https://github.com/superfly/docs) - 
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [cypress-io/cypress-example-kitchensink](https://github.com/cypress-io/cypress-example-kitchensink) - This is an example app used to showcase Cypress.io testing.
 - [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
@@ -2640,7 +2640,6 @@
 - [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [vkiryukhin/vkthread](https://github.com/vkiryukhin/vkthread) - javascript plugin allows to execute any function of javascript code in a thread
 - [thonymg/app-generator-cli](https://github.com/thonymg/app-generator-cli) - cli tools generator for react & redux app
-- [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) - A type-safe HTTP client for Android and the JVM
 - [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 - [ThisIsDallas/Simple-Grid](https://github.com/ThisIsDallas/Simple-Grid) - A basic responsive grid for winners. This project is based on Chris Coyier's post on grids http://css-tricks.com/dont-overthink-it-grids/
@@ -2864,6 +2863,7 @@
 - [nitaliano/react-native-mapbox-gl](https://github.com/nitaliano/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 - [Michaelvilleneuve/react-native-document-scanner](https://github.com/Michaelvilleneuve/react-native-document-scanner) - Document scanner, features live border detection, perspective correction, image filters and more ! 📲📸
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
+- [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) - A type-safe HTTP client for Android and the JVM
 - [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
 - [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts) - React Native Contacts
 - [eclipse-archived/ceylon](https://github.com/eclipse-archived/ceylon) - The Ceylon compiler, language module, and command line tools
@@ -3334,7 +3334,6 @@
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [latviancoder/hooks-by-example](https://github.com/latviancoder/hooks-by-example) - Collection of beginner-friendly real world examples of hook usage.
 - [flepretre/use-redux](https://github.com/flepretre/use-redux) - 
-- [mamitiana4/functions-samples](https://github.com/mamitiana4/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [OpenZeppelin/starter-kit](https://github.com/OpenZeppelin/starter-kit) - An OpenZeppelin starter kit containing React, OpenZeppelin SDK & OpenZeppelin Contracts.
 - [brendandburns/ksql](https://github.com/brendandburns/ksql) - Query Kubernetes API objects using SQL.
 - [brendandburns/designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
@@ -5155,7 +5154,7 @@
 - [kyu08/fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes commands using fuzzy finder with preview window for make, npm, pnpm, yarn, just and task.
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [lambdaclass/lambdaworks](https://github.com/lambdaclass/lambdaworks) - lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
