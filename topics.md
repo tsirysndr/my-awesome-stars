@@ -451,6 +451,7 @@
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - An open-source cloud-native unified-cloud platform. 开源云原生融合云平台
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -2640,7 +2641,7 @@
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [hasura/ndc-postgres](https://github.com/hasura/ndc-postgres) - Hasura v3 Data Connector for PostgreSQL
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
@@ -3177,7 +3178,7 @@
 - [fluent-ci-templates/gleam-pipeline](https://github.com/fluent-ci-templates/gleam-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Gleam projects.
 - [briefercloud/layerform](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
 - [fluent-ci-templates/nodejs-pipeline](https://github.com/fluent-ci-templates/nodejs-pipeline) - A ready-to-use CI/CD Pipeline and jobs for NodeJS projects.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [fluent-ci-templates/bun-pipeline](https://github.com/fluent-ci-templates/bun-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Bun projects.
 - [fluent-ci-templates/gradle-pipeline](https://github.com/fluent-ci-templates/gradle-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Gradle projects.
 - [tsirysndr/fluent-aws-codepipeline](https://github.com/tsirysndr/fluent-aws-codepipeline) - Generate AWS CodePipeline YAML config from a simple declarative syntax in TypeScript 🛠️ 💻 ✨
@@ -4321,7 +4322,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
@@ -7792,7 +7793,7 @@
 ## low-code 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -8540,7 +8541,7 @@
 ## no-code 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
@@ -12191,7 +12192,7 @@
 - [lpil/pog](https://github.com/lpil/pog) - 🐘 A PostgreSQL database client for Gleam, based on PGO
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [hasura/ndc-postgres](https://github.com/hasura/ndc-postgres) - Hasura v3 Data Connector for PostgreSQL
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
@@ -14228,7 +14229,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
@@ -14600,7 +14601,6 @@
 - [denoland/denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A versatile, feature-rich Rust ORM ⛵
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [vapor/sqlite-kit](https://github.com/vapor/sqlite-kit) - Non-blocking SQLite client library with SQL builder built on SwiftNIO
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
@@ -15072,7 +15072,7 @@
 ## tui 
 
 - [Tatayoyoh/deezer-tui](https://github.com/Tatayoyoh/deezer-tui) - Deezer musics from your terminal, powered by Rust 🦀🎶
-- [tsirysndr/fin](https://github.com/tsirysndr/fin) - a neon-electric TUI Jellyfin & Subsonic client - powered by Symphonia, mpv, Chromecast & UPnP MediaRenderer
+- [tsirysndr/fin](https://github.com/tsirysndr/fin) - a neon-electric TUI Jellyfin & Subsonic client - powered by Rockbox, mpv, Chromecast & UPnP MediaRenderer
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
