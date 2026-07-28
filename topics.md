@@ -477,7 +477,6 @@
 - [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber) - 🟢 cybergraph prototype sdk
 - [old-storyai/Story.ai](https://github.com/old-storyai/Story.ai) - Notebook for building internal tools.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [CortexFoundation/CortexTheseus](https://github.com/CortexFoundation/CortexTheseus) - Cortex - AI on Blockchain, Official Golang implementation
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -799,6 +798,7 @@
 - [apex/rpc](https://github.com/apex/rpc) - Simple RPC style APIs with generated clients & servers.
 - [drashland/drash](https://github.com/drashland/drash) - A microframework for building JavaScript HTTP applications. Runtime-agnostic. Strongly typed.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
@@ -1141,7 +1141,7 @@
 ## babel 
 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [goatandsheep/react-native-dotenv](https://github.com/goatandsheep/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
+- [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) - Custom module resolver plugin for Babel
 - [CharlesStover/reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management.
@@ -1163,6 +1163,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
 - [pnxtech/hydra](https://github.com/pnxtech/hydra) - A light-weight library for building distributed applications such as microservices
@@ -3442,6 +3443,7 @@
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [blackccpie/deezzy](https://github.com/blackccpie/deezzy) - Lightweight Qml/C++ Deezer Player using Native SDK
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [okteto/go-getting-started](https://github.com/okteto/go-getting-started) - Develop Go Apps in Kubernetes with Okteto
 - [ethereum-oasis-op/baseline](https://github.com/ethereum-oasis-op/baseline) - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and distributed ledger technology to enable confidential and complex coordination between enterpri
@@ -4613,7 +4615,6 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [okteto/go-getting-started](https://github.com/okteto/go-getting-started) - Develop Go Apps in Kubernetes with Okteto
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -5862,7 +5863,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-- [goatandsheep/react-native-dotenv](https://github.com/goatandsheep/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
+- [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
@@ -6035,7 +6036,6 @@
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [rancher/fleet](https://github.com/rancher/fleet) - Deploy workloads from Git to large fleets of Kubernetes clusters
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
@@ -6849,7 +6849,7 @@
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant, and unusually versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [frinyvonnick/gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - A changelog generator for gitmoji 😜
 - [clappr/clappr](https://github.com/clappr/clappr) - An extensible, plugin-oriented, HTML5-first media player for the web
@@ -7892,6 +7892,7 @@
 - [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music and podcast player and library built with Swift 6 and SwiftUI. Features gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ e
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [drhelius/Gearsystem](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor) - An offline macOS music player
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -8077,6 +8078,7 @@
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - [Acquired by The Guild] The Grafbase GraphQL Federation Gateway
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -9225,7 +9227,7 @@
 - [tsirysndr/rocksky_gleam](https://github.com/tsirysndr/rocksky_gleam) - Gleam Library for the Rocksky API
 - [ealmloff/sledgehammer_bindgen](https://github.com/ealmloff/sledgehammer_bindgen) - Breaking the WASM/JS communication performance barrier
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - decentralized mesh chat
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
 - [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
 - [alloy-rs/examples](https://github.com/alloy-rs/examples) - Example code for using alloy and alloy-core
@@ -12754,7 +12756,7 @@
 - [rescript-react-native/template](https://github.com/rescript-react-native/template) - ReScript React Native template
 - [flexsurfer/rn-shadow-steroid](https://github.com/flexsurfer/rn-shadow-steroid) - React Native with shadow-cljs on steroids
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
-- [goatandsheep/react-native-dotenv](https://github.com/goatandsheep/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
+- [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
 - [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android, iOS & Web) ActionSheet with a flexible api, native performance for react native. Create anything you want inside ActionSheet.
 - [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
@@ -13034,7 +13036,7 @@
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [rescript-react-native/template](https://github.com/rescript-react-native/template) - ReScript React Native template
 - [flexsurfer/rn-shadow-steroid](https://github.com/flexsurfer/rn-shadow-steroid) - React Native with shadow-cljs on steroids
-- [goatandsheep/react-native-dotenv](https://github.com/goatandsheep/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
+- [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android, iOS & Web) ActionSheet with a flexible api, native performance for react native. Create anything you want inside ActionSheet.
 - [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
@@ -14254,6 +14256,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -14561,6 +14564,7 @@
 - [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [khezen/avro](https://github.com/khezen/avro) - Apache AVRO for go
 - [yaacov/kubectl-sql](https://github.com/yaacov/kubectl-sql) - kubectl-sql is a kubectl plugin that use SQL like language to query the Kubernetes cluster manager
@@ -15412,7 +15416,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Idnan/ts-grpc-example](https://github.com/Idnan/ts-grpc-example) - gRPC example with typescript and nodejs
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant, and unusually versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
