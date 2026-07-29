@@ -699,6 +699,7 @@
 
 ## Elixir 
 
+- [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
 - [pocketenv-io/pocketenv-elixir](https://github.com/pocketenv-io/pocketenv-elixir) - Elixir SDK for Pocketenv
 - [superfly/sprites-ex](https://github.com/superfly/sprites-ex) - An Elixir SDK for Sprites
 - [algorisys-oss/elixir-katas](https://github.com/algorisys-oss/elixir-katas) - Learn elixir one kata at a time
@@ -862,6 +863,7 @@
 ## Erlang 
 
 - [devinus/poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory
+- [tsirysndr/rocksky-sdk-demo](https://github.com/tsirysndr/rocksky-sdk-demo) - Rocksky SDK demos across 10 languages — a tour of the AppView read-query API.
 - [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
 - [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 - [lambdaclass/erlings](https://github.com/lambdaclass/erlings) - Small exercises to get you used to reading and writing Erlang code
@@ -3936,7 +3938,7 @@
 - [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e/component tests for your JVM back-end app with Kotlin
 - [konform-kt/konform](https://github.com/konform-kt/konform) - Portable validations for Kotlin
 - [cashapp/misk](https://github.com/cashapp/misk) - Microservice Kontainer
-- [lysine-dev/sqldelight](https://github.com/lysine-dev/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
 - [xmtp/xmtp-android](https://github.com/xmtp/xmtp-android) - XMTP client SDK for Android applications written in Kotlin.
@@ -4930,7 +4932,6 @@
 
 ## Rust 
 
-- [tsirysndr/rocksky-sdk-demo](https://github.com/tsirysndr/rocksky-sdk-demo) - Rocksky SDK demos across 10 languages — a tour of the AppView read-query API.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [rsform/jacquard](https://github.com/rsform/jacquard) - A better atproto crate
 - [tsirysndr/atradio.fm](https://github.com/tsirysndr/atradio.fm) - A social internet radio platform built on the AT Protocol
