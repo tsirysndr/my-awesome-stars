@@ -2202,6 +2202,7 @@
 - [x52dev/confik](https://github.com/x52dev/confik) - Composable multi-source configuration for Rust applications.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [jetify-com/tyson](https://github.com/jetify-com/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
+- [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
 - [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
@@ -3674,6 +3675,7 @@
 
 ## elixir 
 
+- [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
 - [pocketenv-io/pocketenv-elixir](https://github.com/pocketenv-io/pocketenv-elixir) - Elixir SDK for Pocketenv
 - [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
 - [cometsh/atex](https://github.com/cometsh/atex) - An Elixir toolkit for the AT Protocol.
@@ -5863,7 +5865,6 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-- [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv) - Load react native environment variables using import statements for multiple env files.
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
@@ -5876,7 +5877,6 @@
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
-- [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
 - [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) - An implementation of a socket.io client written in the Rust programming language.
 - [prateekmedia/pstube](https://github.com/prateekmedia/pstube) - Watch and download videos without ads
@@ -14505,7 +14505,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-- [lysine-dev/sqldelight](https://github.com/lysine-dev/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -14844,6 +14844,7 @@
 
 ## terminal 
 
+- [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
 - [Tatayoyoh/deezer-tui](https://github.com/Tatayoyoh/deezer-tui) - Deezer musics from your terminal, powered by Rust 🦀🎶
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -15085,6 +15086,7 @@
 
 ## tui 
 
+- [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
 - [Tatayoyoh/deezer-tui](https://github.com/Tatayoyoh/deezer-tui) - Deezer musics from your terminal, powered by Rust 🦀🎶
 - [tsirysndr/fin](https://github.com/tsirysndr/fin) - a neon-electric TUI Jellyfin & Subsonic client - powered by Rockbox, mpv, Chromecast & UPnP MediaRenderer
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
