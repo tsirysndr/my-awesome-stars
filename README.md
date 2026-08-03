@@ -1263,7 +1263,7 @@
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go.
 - [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for project infrastructure
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI,GPT 5.5, GPT-Image-2, Whisper API clients for Go
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
@@ -2688,7 +2688,6 @@
 - [hasura/kriti-lang](https://github.com/hasura/kriti-lang) - A minimal JSON templating language
 - [dhall-terraform/dhall-terraform](https://github.com/dhall-terraform/dhall-terraform) - Generate dhall records from terraform resouces, data_sources & providers
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [haskell/haskeline](https://github.com/haskell/haskeline) - A Haskell library for line input in command-line programs.
 - [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
 - [scotty-web/scotty](https://github.com/scotty-web/scotty) - Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository)
@@ -2898,6 +2897,7 @@
 - [noppa/xmllint-wasm](https://github.com/noppa/xmllint-wasm) - Port of libxml to WebAssembly using Emscripten
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [evmos/docs](https://github.com/evmos/docs) - The official docs for Evmos
@@ -4525,6 +4525,7 @@
 
 ## Python 
 
+- [berry-audio/berryaudio](https://github.com/berry-audio/berryaudio) - Opensource Audiophile Spotify, Airplay, Bluetooth & Multiroom Audio Streamer for Raspberry Pi
 - [zzstoatzz/plyr.fm](https://github.com/zzstoatzz/plyr.fm) - audio streaming app
 - [DeterminateSystems/flakehub-cache-action](https://github.com/DeterminateSystems/flakehub-cache-action) - 
 - [anyvm-org/anyvm](https://github.com/anyvm-org/anyvm) - Run any VM anywhere: run FreeBSD, OpenBSD, NetBSD, Solaris, OmniOS and more on Windows, Linux and Macos
@@ -4684,6 +4685,7 @@
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 - [hei-school/avereno](https://github.com/hei-school/avereno) - Yet another retry utility in Python
+- [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [neo4j-drivers/boltkit](https://github.com/neo4j-drivers/boltkit) - Toolkit for Neo4j 3.0+ driver authors
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [EbbLabs/python-tidal](https://github.com/EbbLabs/python-tidal) - Python API for TIDAL music streaming service
@@ -4937,7 +4939,9 @@
 
 ## Rust 
 
-- [tsirysndr/bsdkrun](https://github.com/tsirysndr/bsdkrun) - A Firecracker-style microVM launcher for BSD and Linux guests on macOS and Linux, built on libkrun (Hypervisor.framework)
+- [tsirysndr/libkrun](https://github.com/tsirysndr/libkrun) - libkrun v1.19.4 fork adding PVH boot primitives (start_info + protected-mode vCPU state) for faster, kernel-direct x86_64 microVM startup.
+- [rust-vmm/rust-vmm](https://github.com/rust-vmm/rust-vmm) - The rust-vmm monorepo
+- [tsirysndr/bsdkrun](https://github.com/tsirysndr/bsdkrun) - A Firecracker-style microVM launcher for BSD and Linux guests on macOS and Linux, built on libkrun (Hypervisor.framework/KVM)
 - [tsirysndr/panini](https://github.com/tsirysndr/panini) - Press a Gleam (Erlang/BEAM) app into a single self-contained binary — a Burrito for Gleam.
 - [inxbit/prismtty](https://github.com/inxbit/prismtty) - Fast terminal output highlighter focused on network devices and Unix systems
 - [tsirysndr/hlsd](https://github.com/tsirysndr/hlsd) - Serve live HLS (and optional MPEG-DASH) from a raw PCM s16le audio stream
@@ -6550,7 +6554,6 @@
 
 - [flo-bit/blento](https://github.com/flo-bit/blento) - your bento style website with data hosted on your bluesky PDS, svelte/tailwind
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [flo-bit/skywatched](https://github.com/flo-bit/skywatched) - review movies and tv shows, based on at proto
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
