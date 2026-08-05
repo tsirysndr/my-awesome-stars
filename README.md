@@ -971,6 +971,7 @@
 
 ## Go 
 
+- [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
@@ -3107,7 +3108,7 @@
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Portable implementation of Web audio API
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Cross-platform Web Audio API
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -3178,7 +3179,7 @@
 - [AsureNetwork/bip39-cli](https://github.com/AsureNetwork/bip39-cli) - simple cli tool to create, and verify bip39 mnemonics
 - [WalletConnect/create-eth-app](https://github.com/WalletConnect/create-eth-app) - Create Ethereum-powered apps with one command
 - [protobufjs/bytebuffer.js](https://github.com/protobufjs/bytebuffer.js) - A fast and complete ByteBuffer implementation using either ArrayBuffers in the browser or Buffers under node.js.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, conformant, and unusually versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant through Edition 2024, and unusually versatile. No protoc required.
 - [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x) - Encode/decode any base
 - [tannerlinsley/react-query-devtools](https://github.com/tannerlinsley/react-query-devtools) - ⚛️ Devtools for React Query
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -4146,6 +4147,7 @@
 
 ## OCaml 
 
+- [mirage/mirage-skeleton](https://github.com/mirage/mirage-skeleton) - Examples of simple MirageOS apps
 - [ocsigen/lwt](https://github.com/ocsigen/lwt) - OCaml promises and concurrent I/O
 - [benodiwal/testcontainers-ocaml](https://github.com/benodiwal/testcontainers-ocaml) - Lightweight, throwaway instances of databases, message brokers, or any service that runs in a Docker container. Enables reliable integration testing with real services instead of mocks.
 - [makerprism/solid-ml](https://github.com/makerprism/solid-ml) - An OCaml framework for building reactive web applications with server-side rendering (SSR), inspired by SolidJS
@@ -4941,7 +4943,7 @@
 
 - [tsirysndr/libkrun](https://github.com/tsirysndr/libkrun) - libkrun v1.19.4 fork adding PVH boot primitives (start_info + protected-mode vCPU state) for faster, kernel-direct x86_64 microVM startup.
 - [rust-vmm/rust-vmm](https://github.com/rust-vmm/rust-vmm) - The rust-vmm monorepo
-- [tsirysndr/bsdkrun](https://github.com/tsirysndr/bsdkrun) - A Firecracker-style microVM launcher for BSD and Linux guests on macOS and Linux, built on libkrun (Hypervisor.framework/KVM)
+- [tsirysndr/bsdkrun](https://github.com/tsirysndr/bsdkrun) - Instant MicroVMs for macOS and Linux
 - [tsirysndr/panini](https://github.com/tsirysndr/panini) - Press a Gleam (Erlang/BEAM) app into a single self-contained binary — a Burrito for Gleam.
 - [inxbit/prismtty](https://github.com/inxbit/prismtty) - Fast terminal output highlighter focused on network devices and Unix systems
 - [tsirysndr/hlsd](https://github.com/tsirysndr/hlsd) - Serve live HLS (and optional MPEG-DASH) from a raw PCM s16le audio stream
