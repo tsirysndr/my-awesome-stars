@@ -1308,7 +1308,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [tendermint/spn](https://github.com/tendermint/spn) - A blockchain to launch blockchains.
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [joe-elliott/tempo-otel-example](https://github.com/joe-elliott/tempo-otel-example) - 
@@ -2212,7 +2212,7 @@
 - [xtaci/smux](https://github.com/xtaci/smux) - A stream multiplexing library for Golang with minimal memory usage.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [hashicorp/levant](https://github.com/hashicorp/levant) - An open source templating and deployment tool for HashiCorp Nomad jobs
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
@@ -3746,7 +3746,7 @@
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [indutny/bn.js](https://github.com/indutny/bn.js) - BigNum in pure javascript
 - [browserify/crypto-browserify](https://github.com/browserify/crypto-browserify) - partial implementation of node's `crypto` for the browser
-- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
+- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
 - [ipfs-inactive/npm-go-ipfs-dep](https://github.com/ipfs-inactive/npm-go-ipfs-dep) - DEPRECATED by https://github.com/ipfs/npm-go-ipfs
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [mtth/avsc](https://github.com/mtth/avsc) - Avro for JavaScript :zap:
@@ -4161,7 +4161,7 @@
 - [andrenth/sequoia](https://github.com/andrenth/sequoia) - OCaml type-safe query builder with syntax tree extension
 - [andrenth/ocaml-swagger](https://github.com/andrenth/ocaml-swagger) - Swagger 2.0 code generator for OCaml
 - [dialohq/ocaml-grpc](https://github.com/dialohq/ocaml-grpc) - gRPC library for OCaml
-- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
+- [stategraph/stategraph](https://github.com/stategraph/stategraph) - Terraform without the state file bottleneck
 - [zth/resgraph](https://github.com/zth/resgraph) - Build implementation-first GraphQL servers in ReScript
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
@@ -4447,7 +4447,7 @@
 - [remix-project-org/remix-ide](https://github.com/remix-project-org/remix-ide) - Documentation for Remix IDE
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [ealmansi/bitcoincashjs](https://github.com/ealmansi/bitcoincashjs) - WARNING: This project is no longer maintained. Please, use bitcore-lib-cash instead.
-- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing
+- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking IPFS support in web browsers: ipfs:// addressing, transports browsers can dial directly, and work with browser vendors
 - [stacks-network/stacks](https://github.com/stacks-network/stacks) - Overview of Bitcoin's Stacks layer.
 - [EOSIO/Documentation](https://github.com/EOSIO/Documentation) - EOSIO Documents
 - [sendbird/SendBird-SDK-JavaScript](https://github.com/sendbird/SendBird-SDK-JavaScript) - Sendbird Chat SDK for JavaScript for enablement of a rich, engaging, scalable, and real-time chat service.
@@ -4534,7 +4534,7 @@
 - [mauriciomorkun/AudioRouterNow](https://github.com/mauriciomorkun/AudioRouterNow) - Free, open-source macOS audio routing — send system audio to multiple outputs simultaneously
 - [colinfredynand/plugin.kodi.navidrome](https://github.com/colinfredynand/plugin.kodi.navidrome) - 
 - [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [hopx-ai/hopx](https://github.com/hopx-ai/hopx) - The Cloud for AI Agents — secure, real-world environments that spin up in milliseconds.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
