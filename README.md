@@ -721,7 +721,6 @@
 - [HashNuke/hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [fluentci-demos/fluentci-demo-elixir-phoenix](https://github.com/fluentci-demos/fluentci-demo-elixir-phoenix) - A FluentCI demo CI Pipeline using Elixir and Phoenix
-- [fishjam-dev/fishjam](https://github.com/fishjam-dev/fishjam) - General purpose media server. Supports WebRTC, HLS, RTSP, SIP
 - [elixirs/faker](https://github.com/elixirs/faker) - Faker is a pure Elixir library for generating fake data.
 - [livinginthepast/honcho](https://github.com/livinginthepast/honcho) - A process manager for your `Procfile`(s)
 - [dashbitco/nimble_parsec](https://github.com/dashbitco/nimble_parsec) - A simple and fast library for text-based parser combinators
@@ -4479,7 +4478,6 @@
 
 ## PLpgSQL 
 
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 
 ## Perl 
@@ -4570,7 +4568,6 @@
 - [mkinf-io/mkinf](https://github.com/mkinf-io/mkinf) - mkinf SDK to interact with mkinf hub MCP servers
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - Let's be honest, who really knows how to use ffmpeg. Its that tool that is so helpful but not needed enough to justify learning all of its inner workings. The days of scrolling through stackoverflow a
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
@@ -4949,12 +4946,13 @@
 
 ## Rust 
 
-- [tsirysndr/app-elfloader](https://github.com/tsirysndr/app-elfloader) - 
+- [yetidevworks/reeve](https://github.com/yetidevworks/reeve) - A TUI based local web development stack for macOS and Linux
+- [tsirysndr/app-elfloader](https://github.com/tsirysndr/app-elfloader) - Load and execute Linux ELF binaries
 - [tsirysndr/pie](https://github.com/tsirysndr/pie) - Build official language runtimes and databases from source as position independent executables, from typed Pkl recipes.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [tsirysndr/libkrun](https://github.com/tsirysndr/libkrun) - libkrun v1.19.4 fork adding PVH boot primitives (start_info + protected-mode vCPU state) for faster, kernel-direct x86_64 microVM startup.
 - [rust-vmm/rust-vmm](https://github.com/rust-vmm/rust-vmm) - The rust-vmm monorepo
-- [tsirysndr/bsdkrun](https://github.com/tsirysndr/bsdkrun) - Instant MicroVMs for macOS and Linux
+- [tsirysndr/bsdkrun](https://github.com/tsirysndr/bsdkrun) - Instant MicroVMs/Unikernels for macOS and Linux
 - [tsirysndr/panini](https://github.com/tsirysndr/panini) - Press a Gleam (Erlang/BEAM) app into a single self-contained binary — a Burrito for Gleam.
 - [inxbit/prismtty](https://github.com/inxbit/prismtty) - Fast terminal output highlighter focused on network devices and Unix systems
 - [tsirysndr/hlsd](https://github.com/tsirysndr/hlsd) - Serve live HLS (and optional MPEG-DASH) from a raw PCM s16le audio stream
@@ -5060,6 +5058,7 @@
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
 - [alloy-rs/examples](https://github.com/alloy-rs/examples) - Example code for using alloy and alloy-core
