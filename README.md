@@ -134,6 +134,9 @@
 
 ## C 
 
+- [mslxnu/procfs](https://github.com/mslxnu/procfs) - macOS Subsystem for Linux / Process File System (mSL/ProcFS) - A native /proc file system for macOS with Linux-compatibility features.
+- [mslxnu/fhs](https://github.com/mslxnu/fhs) - macOS Subsystem for Linux / Filesystem Hierarchy Standard (mSL/FHS)
+- [mslxnu/native_abi](https://github.com/mslxnu/native_abi) - macOS Subsystem for Linux / Native ABI — Linux binaries running as ordinary macOS processes
 - [unikraft/app-elfloader](https://github.com/unikraft/app-elfloader) - Load and execute Linux ELF binaries
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
 - [mirage/ocaml-solo5](https://github.com/mirage/ocaml-solo5) - Freestanding OCaml runtime
@@ -1338,6 +1341,7 @@
 - [firecracker-microvm/firectl](https://github.com/firecracker-microvm/firectl) - firectl is a command-line tool to run Firecracker microVMs
 - [google/deck](https://github.com/google/deck) - Deck provides a flexible logging framework for Go apps.
 - [ngiafeno/go-deezer](https://github.com/ngiafeno/go-deezer) - Go library for accessing the Deezer API
+- [cosmos/ibc](https://github.com/cosmos/ibc) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -4100,6 +4104,7 @@
 
 ## Nix 
 
+- [tweag/opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Packages OpenClaw for nix.
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [ony-boom/remote-os](https://github.com/ony-boom/remote-os) - VPS config
@@ -4531,6 +4536,7 @@
 
 ## Python 
 
+- [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops) - A beautiful and fast self-hosted PaaS for deploying and managing web apps, databases, static websites and more.
 - [unikraft-cloud/examples](https://github.com/unikraft-cloud/examples) - 📚 Unikraft Cloud Examples and Sample Projects
 - [nanovms/ops-examples](https://github.com/nanovms/ops-examples) - A repository of basic and advanced examples using Ops
 - [berry-audio/berryaudio](https://github.com/berry-audio/berryaudio) - Opensource Audiophile Spotify, Airplay, Bluetooth & Multiroom Audio Streamer for Raspberry Pi
@@ -4568,6 +4574,7 @@
 - [mkinf-io/mkinf](https://github.com/mkinf-io/mkinf) - mkinf SDK to interact with mkinf hub MCP servers
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Control Blender 3D with any LLM of your choice
 - [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - Let's be honest, who really knows how to use ffmpeg. Its that tool that is so helpful but not needed enough to justify learning all of its inner workings. The days of scrolling through stackoverflow a
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
@@ -4746,7 +4753,7 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [dropbox/stone](https://github.com/dropbox/stone) - The Official API Spec Language for Dropbox API V2
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
 - [sgrvinod/a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) - SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
@@ -5071,7 +5078,7 @@
 - [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) - Pure Rust implementation of components of the Secure Shell (SSH) protocol
 - [at-microcosm/microcosm-rs](https://github.com/at-microcosm/microcosm-rs) - Rust atproto crates and services for microcosm
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
+- [rivet-dev/actors](https://github.com/rivet-dev/actors) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - StarkWare's next gen prover
 - [thrumdev/nomt](https://github.com/thrumdev/nomt) - Super-fast Merklized Embedded Key-Value Store for blockchain nodes
@@ -6649,7 +6656,6 @@
 ## TeX 
 
 - [gavofyork/graypaper](https://github.com/gavofyork/graypaper) - The JAM Specification
-- [cosmos/ibc](https://github.com/cosmos/ibc) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 - [ethereum/yellowpaper](https://github.com/ethereum/yellowpaper) - The "Yellow Paper": Ethereum's formal specification
 - [w3f/polkadot-spec](https://github.com/w3f/polkadot-spec) - The Polkadot Protocol Specification
 - [cosmos/cosmos](https://github.com/cosmos/cosmos) - Internet of Blockchains ⚛
