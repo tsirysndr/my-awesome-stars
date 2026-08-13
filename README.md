@@ -134,6 +134,8 @@
 
 ## C 
 
+- [somestupidgirl/libkext](https://github.com/somestupidgirl/libkext) - Minimalist's kernel extension library
+- [zw3rk/hyper-linux](https://github.com/zw3rk/hyper-linux) - hl — Run aarch64-linux ELF binaries on macOS Apple Silicon via Hypervisor.framework
 - [mslxnu/procfs](https://github.com/mslxnu/procfs) - macOS Subsystem for Linux / Process File System (mSL/ProcFS) - A native /proc file system for macOS with Linux-compatibility features.
 - [mslxnu/fhs](https://github.com/mslxnu/fhs) - macOS Subsystem for Linux / Filesystem Hierarchy Standard (mSL/FHS)
 - [mslxnu/native_abi](https://github.com/mslxnu/native_abi) - macOS Subsystem for Linux / Native ABI — Linux binaries running as ordinary macOS processes
@@ -2895,6 +2897,7 @@
 
 ## JavaScript 
 
+- [mlugg/setup-zig](https://github.com/mlugg/setup-zig) - Install a Zig compiler for usage in GitHub Actions workflows. Read-only mirror of https://codeberg.org/mlugg/setup-zig.
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
 - [audiojs/decode](https://github.com/audiojs/decode) - Minimal audio decoders layer
 - [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
@@ -4574,7 +4577,7 @@
 - [mkinf-io/mkinf](https://github.com/mkinf-io/mkinf) - mkinf SDK to interact with mkinf hub MCP servers
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Control Blender 3D with any LLM of your choice
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - Let's be honest, who really knows how to use ffmpeg. Its that tool that is so helpful but not needed enough to justify learning all of its inner workings. The days of scrolling through stackoverflow a
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
@@ -4753,7 +4756,7 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [dropbox/stone](https://github.com/dropbox/stone) - The Official API Spec Language for Dropbox API V2
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Dataframes
 - [sgrvinod/a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) - SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
@@ -4953,6 +4956,7 @@
 
 ## Rust 
 
+- [tsirysndr/cVisor](https://github.com/tsirysndr/cVisor) - Embedded bash sandbox for agents, inspired by gVisor
 - [yetidevworks/reeve](https://github.com/yetidevworks/reeve) - A TUI based local web development stack for macOS and Linux
 - [tsirysndr/app-elfloader](https://github.com/tsirysndr/app-elfloader) - Load and execute Linux ELF binaries
 - [tsirysndr/pie](https://github.com/tsirysndr/pie) - Build official language runtimes and databases from source as position independent executables, from typed Pkl recipes.
@@ -6578,6 +6582,7 @@
 
 ## Swift 
 
+- [origon/hylyx](https://github.com/origon/hylyx) - Linux — Built for Apple Silicon.
 - [googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
 - [CassetteLab/cassette](https://github.com/CassetteLab/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
 - [bocan/bocan-music](https://github.com/bocan/bocan-music) - A native macOS music and podcast player and library built with Swift 6 and SwiftUI. Features gapless playback, AcoustID fingerprinting, smart playlists, lyrics, visualizers, scrobbling, and a DSP/EQ e
@@ -7390,7 +7395,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [opynfinance/GammaProtocol](https://github.com/opynfinance/GammaProtocol) - The most powerful, capital efficient DeFi options protocol
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-- [drashland/drash](https://github.com/drashland/drash) - A microframework for building JavaScript HTTP applications. Runtime-agnostic. Strongly typed.
+- [drashland/drash](https://github.com/drashland/drash) - A strongly typed, runtime-agnostic web framework for building structured HTTP services in JavaScript, built on Web Standards.
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
