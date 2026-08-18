@@ -94,6 +94,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -361,13 +362,14 @@
 - [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - the universal sandbox runtime for agents and humans.
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
 
 ## agent-skills 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [denoland/skills](https://github.com/denoland/skills) - Deno skills for AI coding assistants. Covers using Deno as a package manager and runtime, migrating from npm/yarn/pnpm/bun, Fresh, and Deno Deploy.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
@@ -400,7 +402,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [zifeo/lade](https://github.com/zifeo/lade) - Give shell commands and AI agents temporary access to secrets, files, and private networks, then clean everything up automatically.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
@@ -477,7 +479,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
@@ -797,7 +799,6 @@
 - [rivo2302/Mvola](https://github.com/rivo2302/Mvola) - A light Python module for  your API Mvola.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [readmeio/api](https://github.com/readmeio/api) - 🚀 Automatic SDK generation from an OpenAPI definition
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -1231,7 +1232,7 @@
 - [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 
 ## beginner-project 
 
@@ -1581,7 +1582,6 @@
 
 - [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 🦀 Personal Multi-agent AI assistant platform, written in Rust — multi-agent, self-learning skills, RAG, MCP, and agentskills.io compatible
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 
 ## chatgpt 
@@ -1658,6 +1658,7 @@
 
 ## claude-code 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1674,6 +1675,7 @@
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - the universal sandbox runtime for agents and humans.
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 
 ## claude-skills 
 
@@ -1832,7 +1834,6 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit) - Modern, scalable tools. Exceptional developer experience.
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [polkadot-js/tools](https://github.com/polkadot-js/tools) - Various cli tools for Polkadot and Substrate chains, including basic node monitoring, making API queries via a cli app and other command-line tools
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
@@ -3121,7 +3122,7 @@
 - [tilt-dev/tilt-extensions](https://github.com/tilt-dev/tilt-extensions) - Extensions for Tilt
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit) - Modern, scalable tools. Exceptional developer experience.
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -3613,7 +3614,7 @@
 - [tsirysndr/android-dotfiles](https://github.com/tsirysndr/android-dotfiles) - .files for android 15+ linux terminal
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
-- [comtrya/comtrya-dotfiles](https://github.com/comtrya/comtrya-dotfiles) - Configuration Management for Localhost / dotfiles
+- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [xero/evangelion.nvim](https://github.com/xero/evangelion.nvim) - a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
@@ -3641,6 +3642,10 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+## dsh-plugin 
+
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 
 ## education 
 
@@ -3811,6 +3816,8 @@
 
 ## emacs 
 
+- [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [ocaml/merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
@@ -5076,7 +5083,7 @@
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) - golang ftp server library
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka
 - [fgeller/jsonify](https://github.com/fgeller/jsonify) - cli app to create JSON objects
@@ -5787,7 +5794,7 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [gentoo/guru](https://github.com/gentoo/guru) - [MIRROR] GURU: repository of new packages maintained collaboratively by users
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty
-- [comtrya/comtrya-dotfiles](https://github.com/comtrya/comtrya-dotfiles) - Configuration Management for Localhost / dotfiles
+- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
 - [denoland/docs](https://github.com/denoland/docs) - Deno documentation, examples and API Reference. Powered by Lume.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
@@ -8683,7 +8690,7 @@
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 
 ## nodejs 
@@ -8891,7 +8898,7 @@
 - [amqp-node/amqplib](https://github.com/amqp-node/amqplib) - AMQP 0-9-1 library and client for Node.JS
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
@@ -9089,6 +9096,8 @@
 
 ## others 
 
+- [benoitc/erlang_quic](https://github.com/benoitc/erlang_quic) - Pure Erlang QUIC implementation (RFC 9000)
+- [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [perminder-klair/subwave](https://github.com/perminder-klair/subwave) - Personal internet radio: Agentic AI DJ
 - [mlugg/setup-zig](https://github.com/mlugg/setup-zig) - Install a Zig compiler for usage in GitHub Actions workflows. Read-only mirror of https://codeberg.org/mlugg/setup-zig.
 - [somestupidgirl/libkext](https://github.com/somestupidgirl/libkext) - Minimalist's kernel extension library
@@ -11511,7 +11520,7 @@
 - [zertosh/errorify](https://github.com/zertosh/errorify) - Browserify plugin to write failed build error messages to the output file
 - [mattdesl/budo](https://github.com/mattdesl/budo) - :clapper: a dev server for rapid prototyping
 - [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
-- [deepops-ai/deepops](https://github.com/deepops-ai/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
+- [iorigin-ai/deepops](https://github.com/iorigin-ai/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
 - [itsthatguy/avatars-api-middleware](https://github.com/itsthatguy/avatars-api-middleware) - The express middleware for our avatars service
 - [beatgammit/base64-js](https://github.com/beatgammit/base64-js) - Base64 encoding/decoding in pure JS
 - [3box/3box-graphql](https://github.com/3box/3box-graphql) - 3box GraphQL Service
@@ -12171,6 +12180,7 @@
 
 ## package-manager 
 
+- [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [coreos/rpm-ostree](https://github.com/coreos/rpm-ostree) - ⚛📦 Hybrid image/package system with atomic upgrades and package layering
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -12781,7 +12791,7 @@
 
 - [victoralvesf/aonsoku](https://github.com/victoralvesf/aonsoku) - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
-- [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & React.
+- [Psysonic/psysonic](https://github.com/Psysonic/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & React.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and and discovery experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [Rantoniaina/kpi](https://github.com/Rantoniaina/kpi) - A standalone desktop application for tracking developer performance through ticket management, bug tracking, and monthly KPI reporting. Built with Tauri, React, and Rust.
@@ -13488,6 +13498,7 @@
 
 ## rust 
 
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [yetidevworks/reeve](https://github.com/yetidevworks/reeve) - A TUI based local web development stack for macOS and Linux
 - [inxbit/prismtty](https://github.com/inxbit/prismtty) - Fast terminal output highlighter focused on network devices and Unix systems
@@ -13500,7 +13511,7 @@
 - [tsirysndr/smolsonic](https://github.com/tsirysndr/smolsonic) - A tiny Subsonic  + Jellyfin server + S3 API written in Rust
 - [rust-stdx/stdx](https://github.com/rust-stdx/stdx) - Rust's extended standard library: simplicity, performance and supply chain security for everyone.
 - [YeautyYE/ez-ffmpeg](https://github.com/YeautyYE/ez-ffmpeg) - A safe and ergonomic Rust interface for FFmpeg integration, designed for ease of use.
-- [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & React.
+- [Psysonic/psysonic](https://github.com/Psysonic/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & React.
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
@@ -14360,6 +14371,7 @@
 
 ## server 
 
+- [cloudamqp/lavinmq](https://github.com/cloudamqp/lavinmq) - Ultra quick message queue and streaming server
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) - Graceful process restarts in Rust
 - [honojs/node-server](https://github.com/honojs/node-server) - Node.js Server for Hono
 - [ghivert/brioche](https://github.com/ghivert/brioche) - Opinionated Bun's bindings for Gleam
@@ -14519,7 +14531,7 @@
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 
 ## sketch 
 
@@ -15721,6 +15733,7 @@
 
 ## vim 
 
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -16263,7 +16276,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 
 
 ## License
