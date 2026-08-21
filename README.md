@@ -618,6 +618,7 @@
 
 ## Crystal 
 
+- [cloudamqp/lavinmq](https://github.com/cloudamqp/lavinmq) - Ultra quick message queue and streaming server
 - [itsezc/crystal-gql](https://github.com/itsezc/crystal-gql) - A complete GraphQL client shard for the Crystal language inspired by Apollo client including error handling and planned support for caching, authentication and subscriptions.
 - [graphql-crystal/graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library for Crystal
 - [jgaskins/grpc](https://github.com/jgaskins/grpc) - Pure-Crystal implementation of gRPC
@@ -868,11 +869,15 @@
 
 ## Emacs Lisp 
 
+- [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
+- [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Erlang 
 
+- [benoitc/erlang_quic](https://github.com/benoitc/erlang_quic) - Pure Erlang QUIC implementation (RFC 9000)
 - [tsirysndr/beamtea](https://github.com/tsirysndr/beamtea) - A delightful terminal UI framework for the BEAM - Bubble Tea for Erlang. The Elm Architecture on prim_tty, with reusable bubbles (spinner, textinput, table, and more)
 - [devinus/poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory
 - [tsirysndr/rocksky-sdk-demo](https://github.com/tsirysndr/rocksky-sdk-demo) - Rocksky SDK demos across 10 languages — a tour of the AppView read-query API.
@@ -981,6 +986,7 @@
 
 ## Go 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [urunc-dev/urunc](https://github.com/urunc-dev/urunc) - a simple container runtime that aspires to become `runc` for unikernels
 - [nubificus/bunny](https://github.com/nubificus/bunny) - Build libOSes effortlessly
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
@@ -1065,6 +1071,7 @@
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS Kubernetes Operator - "Argo CD for Terraform"
 - [cometbft/cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.
 - [hypermodeinc/modus](https://github.com/hypermodeinc/modus) - modus: a framework for building agentic flows powered by WebAssembly
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [hantsaniala/uploader](https://github.com/hantsaniala/uploader) - File uploader across multiple FTP server with Go.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
@@ -1276,7 +1283,7 @@
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go.
 - [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for project infrastructure
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI,GPT 5.5, GPT-Image-2, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 5.6, GPT-Image-2, Whisper API clients for Go
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
@@ -1350,7 +1357,7 @@
 - [mit-dci/zkledger](https://github.com/mit-dci/zkledger) - Privacy-preserving auditing for distributed ledgers
 - [aurae-runtime/client-go](https://github.com/aurae-runtime/client-go) - Go gRPC client for Aurae
 - [aws/go-kafka-event-source](https://github.com/aws/go-kafka-event-source) - Go/Kafka client library for developing event sourcing applications
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One bin
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One b
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [ChainSafe/chainbridge-core](https://github.com/ChainSafe/chainbridge-core) - 🌁 Sygma core library (ChainBridge)
@@ -1430,7 +1437,7 @@
 - [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) - golang ftp server library
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [ChainSafe/ChainBridge](https://github.com/ChainSafe/ChainBridge) - 🌉 Modular Multi-Directional Blockchain Bridge to interact with Multiple Networks; Ethereum, Ethereum Classic, Substrate,  based chains. Stay tuned for ChainBridge Hub!
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [tendermint/liquidity](https://github.com/tendermint/liquidity) - Cosmos SDK Liquidity module
@@ -2054,6 +2061,7 @@
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [ulule/deepcopier](https://github.com/ulule/deepcopier) - simple struct copying for golang
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [perlin-network/life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
 - [perlin-network/wavelet](https://github.com/perlin-network/wavelet) - Write once, run forever. Deploy robust, scalable, decentralized WebAssembly applications on Wavelet.
@@ -2067,7 +2075,7 @@
 - [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development.
 - [nwtgck/go-fakelish](https://github.com/nwtgck/go-fakelish) - Fake English word generator for Go and CLI
 - [s4kibs4mi/awesome-twirp](https://github.com/s4kibs4mi/awesome-twirp) - Example project using Twirp
-- [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) - A bazel BUILD file formatter and editor
+- [bazel-contrib/buildtools](https://github.com/bazel-contrib/buildtools) - A bazel BUILD file formatter and editor
 - [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) - Go rules for Bazel
 - [emicklei/proto](https://github.com/emicklei/proto) - parser for Google ProtocolBuffers definition
@@ -2897,6 +2905,7 @@
 
 ## JavaScript 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [mlugg/setup-zig](https://github.com/mlugg/setup-zig) - Install a Zig compiler for usage in GitHub Actions workflows. Read-only mirror of https://codeberg.org/mlugg/setup-zig.
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
 - [audiojs/decode](https://github.com/audiojs/decode) - Minimal audio decoders layer
@@ -2934,7 +2943,6 @@
 - [twobin/react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
 - [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [roccomuso/netcat](https://github.com/roccomuso/netcat) - :computer: Netcat client and server modules written in pure Javascript for Node.js.
 - [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
@@ -3192,7 +3200,7 @@
 - [AsureNetwork/bip39-cli](https://github.com/AsureNetwork/bip39-cli) - simple cli tool to create, and verify bip39 mnemonics
 - [WalletConnect/create-eth-app](https://github.com/WalletConnect/create-eth-app) - Create Ethereum-powered apps with one command
 - [protobufjs/bytebuffer.js](https://github.com/protobufjs/bytebuffer.js) - A fast and complete ByteBuffer implementation using either ArrayBuffers in the browser or Buffers under node.js.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant through Edition 2024, and unusually versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - High-performance Protocol Buffers for JavaScript and TypeScript. Conformant through Edition 2024, and unusually versatile. No protoc required.
 - [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x) - Encode/decode any base
 - [tannerlinsley/react-query-devtools](https://github.com/tannerlinsley/react-query-devtools) - ⚛️ Devtools for React Query
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -4244,7 +4252,7 @@
 - [rivet-dev/dynamic-apps](https://github.com/rivet-dev/dynamic-apps) - Deploy an AI-generated backend for every user.
 - [slavingia/skills](https://github.com/slavingia/skills) - Based on The Minimalist Entrepreneur by Sahil Lavingia
 - [lightpanda-io/awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda) - A curated list of cool things people are building with Lightpanda
-- [threddyrex/atproto-links](https://github.com/threddyrex/atproto-links) - a set of links to atproto resources
+- [threddyrex/atproto-links](https://github.com/threddyrex/atproto-links) - atproto info, including lists of implementations for PDSs, Relays, and AppViews
 - [mjepronk/wiwinwl-purescript](https://github.com/mjepronk/wiwinwl-purescript) - What I Wish I Knew When Learning PureScript
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
@@ -4538,6 +4546,7 @@
 
 ## Python 
 
+- [superfly/sprites-py](https://github.com/superfly/sprites-py) - Python SDK for Sprites
 - [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops) - A beautiful and fast self-hosted PaaS for deploying and managing web apps, databases, static websites and more.
 - [unikraft-cloud/examples](https://github.com/unikraft-cloud/examples) - 📚 Unikraft Cloud Examples and Sample Projects
 - [nanovms/ops-examples](https://github.com/nanovms/ops-examples) - A repository of basic and advanced examples using Ops
@@ -4955,6 +4964,7 @@
 
 ## Rust 
 
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [tsirysndr/cVisor](https://github.com/tsirysndr/cVisor) - Embedded bash sandbox for agents, inspired by gVisor
 - [yetidevworks/reeve](https://github.com/yetidevworks/reeve) - A TUI based local web development stack for macOS and Linux
@@ -5139,7 +5149,7 @@
 - [megaeth-labs/revm](https://github.com/megaeth-labs/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
 - [Mithronn/rusty_ytdl](https://github.com/Mithronn/rusty_ytdl) - A Rust library for Youtube video searcher and downloader
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
-- [comtrya/comtrya-dotfiles](https://github.com/comtrya/comtrya-dotfiles) - Configuration Management for Localhost / dotfiles
+- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
 - [ipqwery/ipapi-rust](https://github.com/ipqwery/ipapi-rust) - Rust bindings for ipquery.io | A free and performant ip address API
 - [gabdube/native-windows-gui](https://github.com/gabdube/native-windows-gui) - A light windows GUI toolkit for rust
 - [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
@@ -5958,7 +5968,7 @@
 - [asaaki/opentelemetry-tide](https://github.com/asaaki/opentelemetry-tide) - 🔭🌊 OpenTelemetry integration for Tide
 - [dfinity/ic](https://github.com/dfinity/ic) - Internet Computer blockchain source: the client/replica software run by nodes
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - An Event Sourcing runtime with WebAssembly & embedded event store
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -6532,7 +6542,7 @@
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [Kong/docker-kong](https://github.com/Kong/docker-kong) - :monkey: Docker distribution for Kong
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming
 
 ## Smarty 
@@ -6583,6 +6593,7 @@
 
 ## Swift 
 
+- [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer) - The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
 - [origon/hylyx](https://github.com/origon/hylyx) - Linux — Built for Apple Silicon.
 - [googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
 - [CassetteLab/cassette](https://github.com/CassetteLab/cassette) - Cassette is another Swift-native iOS and macOS music client for Subsonic and OpenSubsonic servers. Based on Apple Music UI. Free forever.
@@ -6669,6 +6680,7 @@
 
 ## TypeScript 
 
+- [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare's edge network
 - [perminder-klair/subwave](https://github.com/perminder-klair/subwave) - Personal internet radio: Agentic AI DJ
 - [hmsk/vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin for Vite enables you to compile an Elm application/document/element
@@ -6678,7 +6690,7 @@
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 - [redwoodjs/local-ci](https://github.com/redwoodjs/local-ci) - Run GitHub Actions locally — pause on failure, retry in place, and keep caches on your machine.
-- [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & React.
+- [Psysonic/psysonic](https://github.com/Psysonic/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & React.
 - [rrantsa/open-source-madagascar](https://github.com/rrantsa/open-source-madagascar) - Une liste collaborative de projets open source utiles à Madagascar, créés par des Malgaches ou adaptés au contexte malgache.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
@@ -6697,7 +6709,7 @@
 - [eurosky-social/u-at-proto](https://github.com/eurosky-social/u-at-proto) - 
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and and discovery experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
-- [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
+- [coder/xum](https://github.com/coder/xum) - A desktop app for isolated, parallel agentic development
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
@@ -6731,7 +6743,7 @@
 - [tsirysndr/vmx](https://github.com/tsirysndr/vmx) - A Docker-like CLI and HTTP API for managing headless QEMU VMs
 - [Rabbit-Company/Web-JS](https://github.com/Rabbit-Company/Web-JS) - High-performance web framework
 - [toss/granite](https://github.com/toss/granite) - Enterprise-grade React Native framework for microservice apps. Brownfield friendly, 200KB bundles, AWS-ready infrastructure.
-- [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+- [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash.
 - [Anastasia-Labs/lucid-evolution](https://github.com/Anastasia-Labs/lucid-evolution) - A highly scalable, production-ready transaction builder and off-chain framework for dApps and devs on Cardano.
 - [AugustinMauroy/am-neuralnetwork](https://github.com/AugustinMauroy/am-neuralnetwork) - A simple neural network library for JavaScript and TypeScript.
 - [tsirysndr/openindiana-up](https://github.com/tsirysndr/openindiana-up) - A simple, powerful CLI tool to spin up OpenIndiana virtual machines with QEMU
@@ -6837,7 +6849,6 @@
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [eugeniodepalo/react-native-gtk4](https://github.com/eugeniodepalo/react-native-gtk4) - React renderer for GTK4 using node-gtk
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
@@ -6860,6 +6871,7 @@
 - [microsoft/playwright-examples](https://github.com/microsoft/playwright-examples) - 
 - [fluentci-demos/fluentci-demo-javascript](https://github.com/fluentci-demos/fluentci-demo-javascript) - A FluentCI demo CI/CD pipeline using Node.js, TypeScript, Nest.js and React.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [samchon/prisma-markdown](https://github.com/samchon/prisma-markdown) - Markdown generator of Prisma, including ERD and descriptions
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
@@ -7533,7 +7545,6 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [prisma/prisma-client-js](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement)
 - [graphql-hive/graphql-modules](https://github.com/graphql-hive/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [perlin-network/lens](https://github.com/perlin-network/lens) - The official network explorer for Wavelet.
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -7611,7 +7622,7 @@
 - [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
-- [deepops-ai/deepops](https://github.com/deepops-ai/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
+- [origin-bi/deepops](https://github.com/origin-bi/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [itsthatguy/avatars-api-middleware](https://github.com/itsthatguy/avatars-api-middleware) - The express middleware for our avatars service
 - [polkadot-js/client](https://github.com/polkadot-js/client) - An alternative Polkadot Runtime Environment implementation acting as a full-node (excluding block production for validators) for syncing with Substrate-based chains.
