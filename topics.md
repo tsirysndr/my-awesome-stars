@@ -168,6 +168,7 @@
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
+- [kali-linux](#kali-linux)
 - [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -584,6 +585,7 @@
 
 ## android 
 
+- [mslxnu/native_abi](https://github.com/mslxnu/native_abi) - macOS Subsystem for Linux / Native ABI — Linux binaries running as ordinary macOS processes
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
@@ -7224,6 +7226,10 @@
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 
+## kali-linux 
+
+- [mslxnu/native_abi](https://github.com/mslxnu/native_abi) - macOS Subsystem for Linux / Native ABI — Linux binaries running as ordinary macOS processes
+
 ## koa 
 
 - [rithinch/event-driven-microservices-docker-example](https://github.com/rithinch/event-driven-microservices-docker-example) - 🐳  Simple example of event driven communication between microservices, based on Docker containers, Docker Compose and RabbitMQ. Microservices are implemented in Node.js using Koa.
@@ -12748,7 +12754,6 @@
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
