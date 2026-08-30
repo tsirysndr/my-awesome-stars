@@ -9102,6 +9102,7 @@
 
 ## others 
 
+- [tsirysndr/sledge](https://github.com/tsirysndr/sledge) - CLI to read & write ACS memory (SLE) and ACOS smart cards over PC/SC.
 - [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 - [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer) - The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
 - [benoitc/erlang_quic](https://github.com/benoitc/erlang_quic) - Pure Erlang QUIC implementation (RFC 9000)
@@ -9517,7 +9518,7 @@
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
 - [neithern/g4music](https://github.com/neithern/g4music) - A light weight music player written in GTK4, with a fluent adaptive user interface.
-- [Midstall/dbus.zig](https://github.com/Midstall/dbus.zig) - DBus implemented in Zig
+- [LilithSemi/dbus.zig](https://github.com/LilithSemi/dbus.zig) - DBus implemented in Zig
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [NfNitLoop/deno-embedder](https://github.com/NfNitLoop/deno-embedder) - Dev tools for embedding files into Deno applications
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
@@ -9625,7 +9626,7 @@
 - [thesellouts/sellout](https://github.com/thesellouts/sellout) - sold out shows.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [extism/moonbit-pdk](https://github.com/extism/moonbit-pdk) - Extism PDK for the MoonBit programming language.
-- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
 - [bytecodealliance/wasm-pkg-tools](https://github.com/bytecodealliance/wasm-pkg-tools) - 
 - [dylibso/reactables](https://github.com/dylibso/reactables) - Reactables enable you to bring the power of React and JSX outside of the JavaScript ecosystem.
 - [coffee-cup/zig-kv](https://github.com/coffee-cup/zig-kv) - A simple key value store written in Zig
@@ -11656,7 +11657,7 @@
 - [uber/zanzibar](https://github.com/uber/zanzibar) - A build system & configuration system to generate versioned API gateways.
 - [3box/3box-address-server](https://github.com/3box/3box-address-server) - A server that associates an Ethereum address with its orbitdb address
 - [graphql-binding/graphql-binding-example-service](https://github.com/graphql-binding/graphql-binding-example-service) - GraphQL Bindings GraphQL server for examples
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Consensus Specifications
 - [paritytech/shasper](https://github.com/paritytech/shasper) - Parity Shasper beacon chain implementation using the Substrate framework.
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
 - [dcharbonnier/jsonrpc2-tools](https://github.com/dcharbonnier/jsonrpc2-tools) - tools for node-jsonrpc2
@@ -12251,6 +12252,7 @@
 
 ## perl 
 
+- [LudovicRousseau/pcsc-tools](https://github.com/LudovicRousseau/pcsc-tools) - Some tools to be used with smart cards and PC/SC
 - [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
