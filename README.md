@@ -1953,7 +1953,7 @@
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a cloud native application framework for Go with rich eco-system
 - [apache/servicecomb-mesher](https://github.com/apache/servicecomb-mesher) - A high performance service mesh implementation written in go
 - [si3nloong/goloquent](https://github.com/si3nloong/goloquent) - Golang sequel eloquent
-- [rancher/terraform-provider-rke](https://github.com/rancher/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
+- [rancher-archives/terraform-provider-rke](https://github.com/rancher-archives/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
 - [sourcegraph/go-langserver](https://github.com/sourcegraph/go-langserver) - Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
@@ -2346,7 +2346,7 @@
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
-- [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
+- [rancher-archives/rke](https://github.com/rancher-archives/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [kata-containers/runtime](https://github.com/kata-containers/runtime) - Kata Containers version 1.x runtime (for version 2.x see https://github.com/kata-containers/kata-containers).
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
@@ -4997,7 +4997,7 @@
 - [bluetech/pcsc-rust](https://github.com/bluetech/pcsc-rust) - Rust bindings to PC/SC for smart card communication
 - [Fingel/gelly](https://github.com/Fingel/gelly) - A native music client for Jellyfin and Navidrome/Subsonic
 - [tsirysndr/smolsonic](https://github.com/tsirysndr/smolsonic) - A tiny Subsonic  + Jellyfin server + S3 API written in Rust
-- [ds1sqe/reovim](https://github.com/ds1sqe/reovim) - Rust powered text editor
+- [ds1sqe/reovim](https://github.com/ds1sqe/reovim) - A high-performance, extensible editing system
 - [rust-stdx/stdx](https://github.com/rust-stdx/stdx) - Rust's extended standard library: simplicity, performance and supply chain security for everyone.
 - [tsirysndr/zerod](https://github.com/tsirysndr/zerod) - Headless Rust gRPC daemon to drive Bluetooth, HLS/DASH playback, and snapcast/shairport-sync/squeezelite on Raspberry Pi audio rigs.
 - [YeautyYE/ez-ffmpeg](https://github.com/YeautyYE/ez-ffmpeg) - A safe and ergonomic Rust interface for FFmpeg integration, designed for ease of use.
@@ -5219,7 +5219,6 @@
 - [hasura/ndc-postgres](https://github.com/hasura/ndc-postgres) - Hasura v3 Data Connector for PostgreSQL
 - [fluentci-io/cmake-plugin](https://github.com/fluentci-io/cmake-plugin) - CI/CD Plugin for CMake
 - [bytecodealliance/wit-deps](https://github.com/bytecodealliance/wit-deps) - WIT dependency manager
-- [bytecodealliance/jco](https://github.com/bytecodealliance/jco) - JavaScript toolchain for working with WebAssembly Components
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [rescript-lang/rewatch](https://github.com/rescript-lang/rewatch) - Rewatch is an alternative build system for the Rescript Compiler.
@@ -6875,6 +6874,7 @@
 - [fluentci-demos/fluentci-demo-javascript](https://github.com/fluentci-demos/fluentci-demo-javascript) - A FluentCI demo CI/CD pipeline using Node.js, TypeScript, Nest.js and React.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
+- [bytecodealliance/jco](https://github.com/bytecodealliance/jco) - JavaScript toolchain for working with WebAssembly Components
 - [samchon/prisma-markdown](https://github.com/samchon/prisma-markdown) - Markdown generator of Prisma, including ERD and descriptions
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
@@ -7340,7 +7340,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [cawfree/create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp) - Your next Ethereum application starts here. ⚛️  💪  🦄
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
 - [open-web3-stack/open-web3.js](https://github.com/open-web3-stack/open-web3.js) - 
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
@@ -7682,7 +7682,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [buildo/react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
