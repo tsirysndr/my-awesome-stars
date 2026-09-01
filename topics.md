@@ -9155,7 +9155,7 @@
 - [CraftWorksMC/Chora](https://github.com/CraftWorksMC/Chora) - Simple Navidrome / Subsonic Music Player
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) - Automatic conversion of the NetBSD pkgsrc CVS module, use with care
-- [ds1sqe/reovim](https://github.com/ds1sqe/reovim) - Rust powered text editor
+- [ds1sqe/reovim](https://github.com/ds1sqe/reovim) - A high-performance, extensible editing system
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents
 - [mstorsjo/fdk-aac](https://github.com/mstorsjo/fdk-aac) - A standalone library of the Fraunhofer FDK AAC code from Android.
 - [solpbc/welcome-mat](https://github.com/solpbc/welcome-mat) - the welcome mat — how agents sign up for things. a protocol for AI agent self-enrollment using cryptographic identity.
@@ -9626,7 +9626,7 @@
 - [thesellouts/sellout](https://github.com/thesellouts/sellout) - sold out shows.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [extism/moonbit-pdk](https://github.com/extism/moonbit-pdk) - Extism PDK for the MoonBit programming language.
-- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [bytecodealliance/wasm-pkg-tools](https://github.com/bytecodealliance/wasm-pkg-tools) - 
 - [dylibso/reactables](https://github.com/dylibso/reactables) - Reactables enable you to bring the power of React and JSX outside of the JavaScript ecosystem.
 - [coffee-cup/zig-kv](https://github.com/coffee-cup/zig-kv) - A simple key value store written in Zig
@@ -10542,7 +10542,6 @@
 - [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) - MacOS big sur theme for kde plasma
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [syscl/XPS9350-macOS](https://github.com/syscl/XPS9350-macOS) - macOS patches for Dell XPS 13 9350 (Skylake)
 - [publiusfederalist/zmsg](https://github.com/publiusfederalist/zmsg) - Send encrypted messages and decrypt them without sharing keys.  Built using the Handshake blockchain.
 - [mitchellh/zig-libxml2](https://github.com/mitchellh/zig-libxml2) - libxml2 built using Zig build system
@@ -11148,7 +11147,7 @@
 - [apache/servicecomb-mesher](https://github.com/apache/servicecomb-mesher) - A high performance service mesh implementation written in go
 - [gnosis/research](https://github.com/gnosis/research) - You will find an index of our research work here.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
-- [rancher/terraform-provider-rke](https://github.com/rancher/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
+- [rancher-archives/terraform-provider-rke](https://github.com/rancher-archives/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
 - [sourcegraph/go-langserver](https://github.com/sourcegraph/go-langserver) - Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
 - [microsoft/fastlane-plugin-appcenter](https://github.com/microsoft/fastlane-plugin-appcenter) - App Center fastlane integration.
 - [coreos/fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system
@@ -11517,7 +11516,7 @@
 - [cashshuffle/cashshuffle](https://github.com/cashshuffle/cashshuffle) - A CashShuffle server implented in Go.
 - [librespot-org/librespot-golang](https://github.com/librespot-org/librespot-golang) - Go port of librespot, the Open Source Spotify client library
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
-- [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
+- [rancher-archives/rke](https://github.com/rancher-archives/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 - [loomnetwork/plasma-cli](https://github.com/loomnetwork/plasma-cli) - All In One stateful Plasma-Cash client, browser compatible
 - [loomnetwork/loom-truffle-provider](https://github.com/loomnetwork/loom-truffle-provider) - Adapter that allows Truffle Suite to communicate with Loom DappChain
 - [3box/3box-verifications](https://github.com/3box/3box-verifications) - Verification service
@@ -11766,7 +11765,7 @@
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [containers/build](https://github.com/containers/build) - another build tool for container images (archived, see https://github.com/rkt/rkt/issues/4024)
 - [notadamking/react-typing-animation](https://github.com/notadamking/react-typing-animation) - A fully-featured typing animation in React that supports any valid JSX.
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [hyperledger-indy/indy-node](https://github.com/hyperledger-indy/indy-node) - The server portion of a distributed ledger purpose-built for decentralized identity.
 - [hyperledger-archives/sawtooth-core](https://github.com/hyperledger-archives/sawtooth-core) - Core repository for Sawtooth Distributed Ledger
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
@@ -15932,6 +15931,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [CrowdHailer/Ace](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2
 - [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
@@ -15995,6 +15995,7 @@
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [a8m/rql](https://github.com/a8m/rql) - Resource Query Language for REST
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
