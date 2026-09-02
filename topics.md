@@ -5143,7 +5143,7 @@
 - [bakape/thumbnailer](https://github.com/bakape/thumbnailer) - Go media thumbnailer
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performan
 - [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - Gearbox :gear: is a web framework written in Go with a focus on high performance
-- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
+- [Consensys-Incorporated/gnark](https://github.com/Consensys-Incorporated/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
 - [timakin/gopli](https://github.com/timakin/gopli) - DB replication tool to synchronize data with multi environments written in Golang.
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
@@ -6587,6 +6587,7 @@
 - [felHR85/UsbSerial](https://github.com/felHR85/UsbSerial) - Usb serial controller for Android
 - [FluuxIO/go-xmpp](https://github.com/FluuxIO/go-xmpp) - Native Go XMPP library
 - [graniticio/granitic](https://github.com/graniticio/granitic) - Web/micro-services and IoC framework for Golang developers
+- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [iotJumpway/RPI-Examples](https://github.com/iotJumpway/RPI-Examples) - Examples of using the IoT JumpWay with the Raspberry Pi 3.
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
 - [ernoaapa/eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device
@@ -8803,7 +8804,7 @@
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [ethereum-oasis-op/baseline](https://github.com/ethereum-oasis-op/baseline) - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and distributed ledger technology to enable confidential and complex coordination between enterpri
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [wasmerio/wasmer-js](https://github.com/wasmerio/wasmer-js) - Monorepo for Javascript WebAssembly packages by Wasmer
+- [wasmerio/wasmer-sdk](https://github.com/wasmerio/wasmer-sdk) - Wasmer SDK: Run anything, anywhere suing WebAssembly-based sandboxes
 - [paambaati/node-liftbridge](https://github.com/paambaati/node-liftbridge) - 🌉 Node.js client for Liftbridge
 - [smrchy/rsmq](https://github.com/smrchy/rsmq) - Redis Simple Message Queue
 - [volumio/Volumio2](https://github.com/volumio/Volumio2) - Volumio 2 - Audiophile Music Player
@@ -9128,7 +9129,7 @@
 - [tsirysndr/libkrun](https://github.com/tsirysndr/libkrun) - libkrun v1.19.4 fork adding PVH boot primitives (start_info + protected-mode vCPU state) for faster, kernel-direct x86_64 microVM startup.
 - [rust-vmm/rust-vmm](https://github.com/rust-vmm/rust-vmm) - The rust-vmm monorepo
 - [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
-- [nextbsd-redux/nextbsd](https://github.com/nextbsd-redux/nextbsd) - 
+- [nextbsd/nextbsd](https://github.com/nextbsd/nextbsd) - 
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [rescript-lang/vim-rescript](https://github.com/rescript-lang/vim-rescript) - 
 - [hmsk/vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin for Vite enables you to compile an Elm application/document/element
@@ -10715,7 +10716,7 @@
 - [xiph/vorbis](https://github.com/xiph/vorbis) - Reference implementation of the Ogg Vorbis audio format.
 - [moritz-wundke/Boost-for-Android](https://github.com/moritz-wundke/Boost-for-Android) - Android port of Boost C++ Libraries
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Cross-platform Web Audio API
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Cross-platform & headless Web Audio
 - [chirlu/sox](https://github.com/chirlu/sox) - SoX, Swiss Army knife of sound processing
 - [beschulz/wav2json](https://github.com/beschulz/wav2json) - Generate waveformjs.org compatible json data out of wav files.
 - [binglingziyu/ffmpeg-android-build](https://github.com/binglingziyu/ffmpeg-android-build) - 
@@ -11356,7 +11357,6 @@
 - [react-native-config/react-native-config](https://github.com/react-native-config/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
-- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [karelia/ConnectionKit](https://github.com/karelia/ConnectionKit) - FTP/SFTP/WebDAV etc. for Cocoa.  Join the ConnectionKit mailing list for information and suggestions.
 - [ppareit/swiftp](https://github.com/ppareit/swiftp) - FTP server for your android device.
 - [4thline/cling](https://github.com/4thline/cling) - UPnP/DLNA library for Java and Android
