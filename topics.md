@@ -10716,7 +10716,7 @@
 - [xiph/vorbis](https://github.com/xiph/vorbis) - Reference implementation of the Ogg Vorbis audio format.
 - [moritz-wundke/Boost-for-Android](https://github.com/moritz-wundke/Boost-for-Android) - Android port of Boost C++ Libraries
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Cross-platform & headless Web Audio
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Headless Web Audio API
 - [chirlu/sox](https://github.com/chirlu/sox) - SoX, Swiss Army knife of sound processing
 - [beschulz/wav2json](https://github.com/beschulz/wav2json) - Generate waveformjs.org compatible json data out of wav files.
 - [binglingziyu/ffmpeg-android-build](https://github.com/binglingziyu/ffmpeg-android-build) - 
