@@ -838,7 +838,7 @@
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [andersfylling/disgord](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
-- [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys-Incorporated/ethql](https://github.com/Consensys-Incorporated/ethql) - A GraphQL interface to Ethereum :fire:
 - [hprose/hprose-golang](https://github.com/hprose/hprose-golang) - Hprose is a cross-language RPC. This project is Hprose for Golang.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -1184,7 +1184,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
-- [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys-Incorporated/ethql](https://github.com/Consensys-Incorporated/ethql) - A GraphQL interface to Ethereum :fire:
 - [pnxtech/hydra](https://github.com/pnxtech/hydra) - A light-weight library for building distributed applications such as microservices
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 
@@ -1422,7 +1422,7 @@
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
 - [getamis/eth-indexer](https://github.com/getamis/eth-indexer) - An Ethereum project to crawl blockchain states into database
 - [loomnetwork/loom-js](https://github.com/loomnetwork/loom-js) - JS library for building browser apps & NodeJS services that interact with Loom DAppChains
-- [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys-Incorporated/ethql](https://github.com/Consensys-Incorporated/ethql) - A GraphQL interface to Ethereum :fire:
 - [Zilliqa/scilla](https://github.com/Zilliqa/scilla) - Scilla - A Smart Contract Intermediate Level Language
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
@@ -2665,6 +2665,7 @@
 - [chart-kit/react-native-chart-kit](https://github.com/chart-kit/react-native-chart-kit) - Beautiful charts for React Native. Line, area, bar, pie, donut, progress, and contribution heatmaps for dashboards, reports, and data-rich mobile apps.
 - [FormidableLabs/victory-chart](https://github.com/FormidableLabs/victory-chart) - Chart Component for Victory
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
 
 ## database 
 
@@ -4014,7 +4015,7 @@
 - [tasitlabs/tasit-sdk](https://github.com/tasitlabs/tasit-sdk) - A JavaScript / TypeScript SDK for making native mobile Ethereum dapps using React Native
 - [getamis/eth-indexer](https://github.com/getamis/eth-indexer) - An Ethereum project to crawl blockchain states into database
 - [loomnetwork/loom-js](https://github.com/loomnetwork/loom-js) - JS library for building browser apps & NodeJS services that interact with Loom DAppChains
-- [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys-Incorporated/ethql](https://github.com/Consensys-Incorporated/ethql) - A GraphQL interface to Ethereum :fire:
 - [ConsenSysMesh/rimble-ui](https://github.com/ConsenSysMesh/rimble-ui) - React components that implement Rimble's Design System.
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [ConsenSysDiligence/smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) - A guide to smart contract security best practices
@@ -4289,7 +4290,7 @@
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
-- [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys-Incorporated/ethql](https://github.com/Consensys-Incorporated/ethql) - A GraphQL interface to Ethereum :fire:
 - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
 - [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
 - [lawnstarter/react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select) - 🔽 A Picker component for React Native which emulates the native &lt;select&gt; interfaces for iOS and Android
@@ -4622,7 +4623,7 @@
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together
-- [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) - Uniqush is a free and open source software system which provides a unified push service for server side notification to apps on mobile devices.
+- [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) - Push notification server for APNs, FCM and Web Push, written in Go.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
@@ -5130,7 +5131,7 @@
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together
-- [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) - Uniqush is a free and open source software system which provides a unified push service for server side notification to apps on mobile devices.
+- [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) - Push notification server for APNs, FCM and Web Push, written in Go.
 - [goftp/server](https://github.com/goftp/server) - A FTP server framework written by Golang, moved to https://gitea.com/goftp/server
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -5679,7 +5680,7 @@
 - [apollographql/apollo-client-devtools](https://github.com/apollographql/apollo-client-devtools) - Apollo Client browser developer tools.
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
 - [tinrab/graphql-realtime-chat](https://github.com/tinrab/graphql-realtime-chat) - Real-time Chat with GraphQL Subscriptions in Go
-- [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys-Incorporated/ethql](https://github.com/Consensys-Incorporated/ethql) - A GraphQL interface to Ethereum :fire:
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [shurcooL/graphql](https://github.com/shurcooL/graphql) - Package graphql provides a GraphQL client implementation.
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
@@ -6230,7 +6231,7 @@
 - [mirvoxtm/Binah](https://github.com/mirvoxtm/Binah) - Simple Haskell Web Framework inspired by Express.js
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [fluentci-io/haskell-plugin](https://github.com/fluentci-io/haskell-plugin) - Set up your CI/CD with a specific version of Haskell
-- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - 
+- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - MOVED TO CODEBERG. THIS IS A MIRROR.
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
@@ -7944,6 +7945,7 @@
 
 ## macos 
 
+- [tsirysndr/snapcaster](https://github.com/tsirysndr/snapcaster) - Route your Mac's audio output to Snapcast or Squeezebox players over the network — a Core Audio HAL virtual device plus a lightweight PCM streamer.
 - [origon/hylyx](https://github.com/origon/hylyx) - Linux — Built for Apple Silicon.
 - [zw3rk/hyper-linux](https://github.com/zw3rk/hyper-linux) - hl — Run aarch64-linux ELF binaries on macOS Apple Silicon via Hypervisor.framework
 - [mslxnu/procfs](https://github.com/mslxnu/procfs) - macOS Subsystem for Linux / Process File System (mSL/ProcFS) - A native /proc file system for macOS with Linux-compatibility features.
@@ -8124,7 +8126,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [drhelius/Gearsystem](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - [jchoi2x/genius-mcp](https://github.com/jchoi2x/genius-mcp) - Genius MCP server that lets you search for songs, artists, and most importantly lyrics.
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) - A Model Context Protocol (MCP) server implementation for DuckDB, providing database interaction capabilities
@@ -8328,6 +8330,7 @@
 
 - [berry-audio/berryaudio](https://github.com/berry-audio/berryaudio) - Opensource Audiophile Spotify, Airplay, Bluetooth & Multiroom Audio Streamer for Raspberry Pi
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
+- [tsirysndr/squeezed](https://github.com/tsirysndr/squeezed) - Serve a raw PCM audio stream to any Squeezelite / Squeezebox client over the SlimProto protocol.
 - [CharlesWiltgen/TagLib-Wasm](https://github.com/CharlesWiltgen/TagLib-Wasm) - TagLib-Wasm is the universal tagging library for TypeScript/JavaScript platforms: Browsers, Node.js, Deno, Bun, Cloudflare Workers, and Electron apps
 - [fossisawesome/firmium](https://github.com/fossisawesome/firmium) - firmium; a awesome music player! supports: android tv, wearOS, android auto, mac, windows, freebsd, linux, and android. can be used with any subsonic/opensubsonic server. supports local files too!
 - [Fingel/gelly](https://github.com/Fingel/gelly) - A native music client for Jellyfin and Navidrome/Subsonic
@@ -9135,7 +9138,6 @@
 - [rescript-lang/vim-rescript](https://github.com/rescript-lang/vim-rescript) - 
 - [hmsk/vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin for Vite enables you to compile an Elm application/document/element
 - [tsirysndr/gleamtea](https://github.com/tsirysndr/gleamtea) - Typed Gleam bindings for beamtea — Bubble Tea / The Elm Architecture for the BEAM terminal.
-- [tsirysndr/squeezed](https://github.com/tsirysndr/squeezed) - Serve a raw PCM audio stream to any Squeezelite / Squeezebox client over the SlimProto protocol.
 - [devinus/poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory
 - [tsirysndr/rocksky-sdk-demo](https://github.com/tsirysndr/rocksky-sdk-demo) - Rocksky SDK demos across 10 languages — a tour of the AppView read-query API.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
@@ -10051,7 +10053,7 @@
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 10th gen or AMD Ryzen
 - [coffee-cup/wasm-plugins](https://github.com/coffee-cup/wasm-plugins) - Experiment using WASM modules as plugins
 - [railwayapp/devicons](https://github.com/railwayapp/devicons) - I'm feeling lucky developer icons
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -12640,6 +12642,7 @@
 - [mattrobenolt/jinja2-cli](https://github.com/mattrobenolt/jinja2-cli) - The CLI for Jinja2
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [graphql-python/gql-next](https://github.com/graphql-python/gql-next) - A Python GraphQL Client library providing ability to validate and make type-safe GraphQL calls
 - [beetbox/audioread](https://github.com/beetbox/audioread) - cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
@@ -12709,6 +12712,7 @@
 - [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [graphql-python/gql-next](https://github.com/graphql-python/gql-next) - A Python GraphQL Client library providing ability to validate and make type-safe GraphQL calls
 - [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -12936,7 +12940,7 @@
 - [elixirscript/elixirscript_react](https://github.com/elixirscript/elixirscript_react) - React Library for ElixirScript
 - [michalchudziak/react-native-geolocation](https://github.com/michalchudziak/react-native-geolocation) - Geolocation APIs for React Native
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
-- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
+- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards with JSX.
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [grafoojs/grafoo](https://github.com/grafoojs/grafoo) - A GraphQL Client and Toolkit
@@ -13512,12 +13516,14 @@
 
 ## rust 
 
+- [tsirysndr/snapcaster](https://github.com/tsirysndr/snapcaster) - Route your Mac's audio output to Snapcast or Squeezebox players over the network — a Core Audio HAL virtual device plus a lightweight PCM streamer.
 - [cloudwego/pilota](https://github.com/cloudwego/pilota) - A thrift and protobuf implementation in pure rust with high performance and extensibility.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [yetidevworks/reeve](https://github.com/yetidevworks/reeve) - A TUI based local web development stack for macOS and Linux
 - [inxbit/prismtty](https://github.com/inxbit/prismtty) - Fast terminal output highlighter focused on network devices and Unix systems
 - [tsirysndr/hlsd](https://github.com/tsirysndr/hlsd) - Serve live HLS (and optional MPEG-DASH) from a raw PCM s16le audio stream
+- [tsirysndr/squeezed](https://github.com/tsirysndr/squeezed) - Serve a raw PCM audio stream to any Squeezelite / Squeezebox client over the SlimProto protocol.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [tsirysndr/equalizer](https://github.com/tsirysndr/equalizer) - Real-time terminal equalizer for raw PCM pipes — Rockbox 10-band EQ + bass/treble
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
@@ -13550,7 +13556,7 @@
 - [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - GDB TUI Dashboard for the understanding of vast knowledge
 - [supabase/etl](https://github.com/supabase/etl) - A high-performance Postgres replication engine written in Rust. Embed it in your Rust application or run it as a standalone binary.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [aa-proxy/aa-proxy-rs](https://github.com/aa-proxy/aa-proxy-rs) - AndroidAuto wired/wireless proxy
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - The MQTT ecosystem in rust
@@ -15596,7 +15602,7 @@
 - [tasitlabs/tasit-sdk](https://github.com/tasitlabs/tasit-sdk) - A JavaScript / TypeScript SDK for making native mobile Ethereum dapps using React Native
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [loomnetwork/loom-js](https://github.com/loomnetwork/loom-js) - JS library for building browser apps & NodeJS services that interact with Loom DAppChains
-- [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys-Incorporated/ethql](https://github.com/Consensys-Incorporated/ethql) - A GraphQL interface to Ethereum :fire:
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI — Command line tools to help you build React Native apps
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
@@ -15614,6 +15620,7 @@
 - [Soltsice/Soltsice](https://github.com/Soltsice/Soltsice) - Solidity & TypeScript Integration, Configuration and Examples
 - [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms library in TypeScript and JavaScript
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
+- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
 - [tapjs/tapjs](https://github.com/tapjs/tapjs) - Test Anything Protocol tools for node
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
@@ -15813,7 +15820,7 @@
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
-- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
+- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards with JSX.
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). https://x.com/MrAhmadAwais
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
