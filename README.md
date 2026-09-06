@@ -917,6 +917,7 @@
 
 ## Gleam 
 
+- [v4rm4n/gsh](https://github.com/v4rm4n/gsh) - Interactive Gleam Shell (GSH) — a lightweight REPL for Gleam with expression evaluation, persistent runtime bindings, multiline support, and an interactive shell experience built on the BEAM VM.
 - [tsirysndr/gleamtea](https://github.com/tsirysndr/gleamtea) - Typed Gleam bindings for beamtea — Bubble Tea / The Elm Architecture for the BEAM terminal.
 - [RedHelium/galchemy](https://github.com/RedHelium/galchemy) - galchemy is a PostgreSQL-first SQL toolkit for Gleam
 - [pocketenv-io/pocketenv-gleam](https://github.com/pocketenv-io/pocketenv-gleam) - Gleam SDK for Pocketenv
@@ -1190,7 +1191,7 @@
 - [contabo/terraform-provider-contabo](https://github.com/contabo/terraform-provider-contabo) - Terraform Provider for Contabo Cloud-Services
 - [contabo/cntb](https://github.com/contabo/cntb) - Contabo Command Line Interface
 - [tektoncd/operator](https://github.com/tektoncd/operator) - Kubernetes operator to manage installation, updation and uninstallation of tektoncd projects (pipeline, …)
-- [syumai/workers](https://github.com/syumai/workers) - Go package to run an HTTP server on Cloudflare Workers.
+- [syumai/workers-go](https://github.com/syumai/workers-go) - Go package to run an HTTP server on Cloudflare Workers.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [tektoncd/hub](https://github.com/tektoncd/hub) - The tekton hub, official. This repository is archived and no longer maintained.
 - [grafana-cold-storage/k6x](https://github.com/grafana-cold-storage/k6x) - Run k6 with extensions
@@ -4404,7 +4405,7 @@
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [choru-k/React-Native-Tips](https://github.com/choru-k/React-Native-Tips) - 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [ardatan/graphql-import](https://github.com/ardatan/graphql-import) - Import & export definitions in GraphQL SDL
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
@@ -4963,6 +4964,8 @@
 
 ## Rust 
 
+- [yituorou/meatshell](https://github.com/yituorou/meatshell) - 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
+- [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [tsirysndr/snapcaster](https://github.com/tsirysndr/snapcaster) - Route your Mac's audio output to Snapcast or Squeezebox players over the network — a Core Audio HAL virtual device plus a lightweight PCM streamer.
 - [tsirysndr/sledge](https://github.com/tsirysndr/sledge) - CLI to read & write ACS memory (SLE) and ACOS smart cards over PC/SC.
 - [cloudwego/pilota](https://github.com/cloudwego/pilota) - A thrift and protobuf implementation in pure rust with high performance and extensibility.
@@ -5372,7 +5375,7 @@
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format
 - [fiberplane/fiberplane-archived](https://github.com/fiberplane/fiberplane-archived) - Core Fiberplane data models and methods for transforming them (templates, providers, markdown conversion)
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
