@@ -1690,6 +1690,7 @@
 
 ## cli 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [tsirysndr/beamtea](https://github.com/tsirysndr/beamtea) - A delightful terminal UI framework for the BEAM - Bubble Tea for Erlang. The Elm Architecture on prim_tty, with reusable bubbles (spinner, textinput, table, and more)
 - [inxbit/prismtty](https://github.com/inxbit/prismtty) - Fast terminal output highlighter focused on network devices and Unix systems
@@ -2412,6 +2413,7 @@
 
 ## cryptography 
 
+- [davxy/ark-vrf](https://github.com/davxy/ark-vrf) - Elliptic Curve VRFs
 - [rust-stdx/stdx](https://github.com/rust-stdx/stdx) - Rust's extended standard library: simplicity, performance and supply chain security for everyone.
 - [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
@@ -2665,7 +2667,7 @@
 - [chart-kit/react-native-chart-kit](https://github.com/chart-kit/react-native-chart-kit) - Beautiful charts for React Native. Line, area, bar, pie, donut, progress, and contribution heatmaps for dashboards, reports, and data-rich mobile apps.
 - [FormidableLabs/victory-chart](https://github.com/FormidableLabs/victory-chart) - Chart Component for Victory
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
+- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Composable SVG map charts for data visualization in React
 
 ## database 
 
@@ -8328,6 +8330,7 @@
 
 ## music 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [berry-audio/berryaudio](https://github.com/berry-audio/berryaudio) - Opensource Audiophile Spotify, Airplay, Bluetooth & Multiroom Audio Streamer for Raspberry Pi
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [tsirysndr/squeezed](https://github.com/tsirysndr/squeezed) - Serve a raw PCM audio stream to any Squeezelite / Squeezebox client over the SlimProto protocol.
@@ -8868,7 +8871,7 @@
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
 - [simonepri/upash](https://github.com/simonepri/upash) - 🔒Unified API for password hashing algorithms
 - [feross/simple-get](https://github.com/feross/simple-get) - Simplest way to make http get requests. Supports HTTPS, redirects, gzip/deflate, streams in &lt; 100 lines
-- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
+- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Composable SVG map charts for data visualization in React
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
@@ -9106,6 +9109,8 @@
 
 ## others 
 
+- [matter-labs/zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
+- [Brskt/TidaLuna](https://github.com/Brskt/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
 - [tsirysndr/hisense-bt-fix](https://github.com/tsirysndr/hisense-bt-fix) - 
 - [yituorou/meatshell](https://github.com/yituorou/meatshell) - 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
@@ -13062,7 +13067,7 @@
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
+- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Composable SVG map charts for data visualization in React
 - [rainforestapp/react-pusher](https://github.com/rainforestapp/react-pusher) - A react component for handling pusher subscriptions
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
@@ -13520,6 +13525,7 @@
 
 ## rust 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [tsirysndr/snapcaster](https://github.com/tsirysndr/snapcaster) - Route your Mac's audio output to Snapcast or Squeezebox players over the network — a Core Audio HAL virtual device plus a lightweight PCM streamer.
 - [cloudwego/pilota](https://github.com/cloudwego/pilota) - A thrift and protobuf implementation in pure rust with high performance and extensibility.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Branchable computing by using a portable, lightweight, self-contained virtual machine
@@ -14973,6 +14979,7 @@
 
 ## terminal 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [yetidevworks/reeve](https://github.com/yetidevworks/reeve) - A TUI based local web development stack for macOS and Linux
 - [inxbit/prismtty](https://github.com/inxbit/prismtty) - Fast terminal output highlighter focused on network devices and Unix systems
@@ -15219,6 +15226,7 @@
 
 ## tui 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [yetidevworks/reeve](https://github.com/yetidevworks/reeve) - A TUI based local web development stack for macOS and Linux
 - [tsirysndr/beamtea](https://github.com/tsirysndr/beamtea) - A delightful terminal UI framework for the BEAM - Bubble Tea for Erlang. The Elm Architecture on prim_tty, with reusable bubbles (spinner, textinput, table, and more)
@@ -15625,7 +15633,7 @@
 - [Soltsice/Soltsice](https://github.com/Soltsice/Soltsice) - Solidity & TypeScript Integration, Configuration and Examples
 - [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms library in TypeScript and JavaScript
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
-- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
+- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Composable SVG map charts for data visualization in React
 - [tapjs/tapjs](https://github.com/tapjs/tapjs) - Test Anything Protocol tools for node
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
@@ -15833,7 +15841,7 @@
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [nteract/semiotic](https://github.com/nteract/semiotic) - React data visualization library for streaming, networks, and AI-assisted development
-- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
+- [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Composable SVG map charts for data visualization in React
 
 ## vpn 
 
@@ -16212,6 +16220,7 @@
 
 ## youtube 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [Mithronn/rusty_ytdl](https://github.com/Mithronn/rusty_ytdl) - A Rust library for Youtube video searcher and downloader
