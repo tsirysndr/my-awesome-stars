@@ -315,7 +315,7 @@
 
 ## C# # 
 
-- [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin.
+- [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin
 - [jesseward/jellyfin-plugin-lastfm](https://github.com/jesseward/jellyfin-plugin-lastfm) - LastFM plugin for the Jellyfin media system. Fork of the Emby Last.FM plug-in
 - [shinolabs/PinkSea](https://github.com/shinolabs/PinkSea) - An oekaki BBS board running on top of the AT Protocol.
 - [NickvisionApps/Tagger](https://github.com/NickvisionApps/Tagger) - Tag your music
@@ -338,7 +338,7 @@
 
 ## C++ 
 
-- [tsirysndr/mixxx](https://github.com/tsirysndr/mixxx) - Mixxx DJ software with Subsonic/Navidrome streaming library support — browse and load tracks from your self-hosted music server
+- [tsirysndr/mixxx](https://github.com/tsirysndr/mixxx) - Mixxx DJ software with MCP, Subsonic/Navidrome streaming library support — browse and load tracks from your self-hosted music server
 - [HarperFast/rocksdb-js](https://github.com/HarperFast/rocksdb-js) - RocksDB binding for Node.js
 - [mstorsjo/fdk-aac](https://github.com/mstorsjo/fdk-aac) - A standalone library of the Fraunhofer FDK AAC code from Android.
 - [complexlogic/rsgain](https://github.com/complexlogic/rsgain) - A simple, but powerful ReplayGain 2.0 tagging utility
@@ -998,7 +998,7 @@
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [tryffel/jellycli](https://github.com/tryffel/jellycli) - Jellyfin terminal client
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents
-- [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure that's powering E2B Cloud.
+- [e2b-dev/runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
 - [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
@@ -2222,7 +2222,6 @@
 - [djthorpe/ytapi](https://github.com/djthorpe/ytapi) - YouTube API Command-Line Interface
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [optiopay/kafka](https://github.com/optiopay/kafka) - Go driver for Kafka
-- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [CircleCI-Public/circleci-cli](https://github.com/CircleCI-Public/circleci-cli) - Use CircleCI from the command line
 - [cthulhu/go-steun](https://github.com/cthulhu/go-steun) - Collection of small things gopher needs for everyday projects
 - [seborama/fuego](https://github.com/seborama/fuego) - Functional Experiment in Golang
@@ -2293,7 +2292,7 @@
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [go-ego/re](https://github.com/go-ego/re) - Re is a tool for helping develop with ego app framework.
-- [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
+- [vcaesar/riot](https://github.com/vcaesar/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [nautilus/gateway](https://github.com/nautilus/gateway) - A federated api gateway for graphql services. https://gateway.nautilus.dev/
 - [logic-building/functional-go](https://github.com/logic-building/functional-go) - This library is inspired by functional programming - Clojure
@@ -2667,6 +2666,7 @@
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [kusamanetwork/userguide](https://github.com/kusamanetwork/userguide) - Kusama user guide
 - [reach-digital/polymer-apollo-client](https://github.com/reach-digital/polymer-apollo-client) - Polymer Apollo GraphQL Client web components
+- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [ConsenSysDiligence/smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) - A guide to smart contract security best practices
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
@@ -4247,6 +4247,7 @@
 
 ## Others 
 
+- [tsirysndr/dj-skills](https://github.com/tsirysndr/dj-skills) - Skills for AI agent DJ
 - [warpme/miniarch](https://github.com/warpme/miniarch) - ArchLinux ARM SD card images for quick start with ArchLinux on ARM SBC & TV Boxes
 - [tsirysndr/pty-tunnel-server](https://github.com/tsirysndr/pty-tunnel-server) - 
 - [slavingia/skills](https://github.com/slavingia/skills) - Based on The Minimalist Entrepreneur by Sahil Lavingia
@@ -4643,7 +4644,7 @@
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
@@ -7773,7 +7774,7 @@
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
-- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy (httpxy) middleware for connect, express, next.js and more
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [seek-oss/sku](https://github.com/seek-oss/sku) - Front-end development toolkit
 - [uport-project/uport-credentials](https://github.com/uport-project/uport-credentials) - Library for integrating uPort into node server side applications
