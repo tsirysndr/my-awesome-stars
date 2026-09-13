@@ -3442,6 +3442,7 @@
 - [halfzebra/create-elm-app](https://github.com/halfzebra/create-elm-app) - 🍃 Create Elm apps with zero configuration
 - [danneu/elm-chrome-extension](https://github.com/danneu/elm-chrome-extension) - a chrome extension composed of three elm apps that synchronize a single model
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [loomnetwork/solidityx-js](https://github.com/loomnetwork/solidityx-js) - SolidtyX is an opinionated version of Solidity.
 - [loomnetwork/plasma-cash](https://github.com/loomnetwork/plasma-cash) - Plasma Cash Contract & Client. ERC721, ERC20, and ETH compatible
 - [thechriswalker/twirp-js](https://github.com/thechriswalker/twirp-js) - Javascript client helper for Twirp RPC codegen
@@ -4431,7 +4432,6 @@
 - [0xProject/standard-relayer-api](https://github.com/0xProject/standard-relayer-api) - Standard specifications for 0x relayer public APIs
 - [raphamorim/wasm-and-rust](https://github.com/raphamorim/wasm-and-rust) - WebAssembly and Rust: A Web Love Story
 - [sogko/graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - GraphQL Shorthand Notation Cheat Sheet
-- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [operator-framework/getting-started](https://github.com/operator-framework/getting-started) - An end-to-end scenario showing how to use the Operator Framework.
 - [helm/hub](https://github.com/helm/hub) - ⚠️(OBSOLETE) Former distributed charts search for hub.helm.sh. Now see https://artifacthub.io/
@@ -7002,7 +7002,7 @@
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
 - [tsirysndr/top-mg-github-users](https://github.com/tsirysndr/top-mg-github-users) - The public contributions by users in Madagascar
 - [microsoft/reflect-metadata](https://github.com/microsoft/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [tsirysndr/daggerverse](https://github.com/tsirysndr/daggerverse) - My Collection of Dagger Modules  💻 📦✨🪐 🌌
 - [fluent-ci-templates/gitleaks-pipeline](https://github.com/fluent-ci-templates/gitleaks-pipeline) - A ready-to-use CI/CD Pipeline for detecting secrets in your code using Gitleaks
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
