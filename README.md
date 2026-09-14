@@ -989,6 +989,8 @@
 
 ## Go 
 
+- [SiaFoundation/walletd](https://github.com/SiaFoundation/walletd) - A new Sia wallet
+- [SiaFoundation/hostd](https://github.com/SiaFoundation/hostd) - The next generation of Sia hosting. Stable. Fast. Scalable.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [urunc-dev/urunc](https://github.com/urunc-dev/urunc) - a simple container runtime that aspires to become `runc` for unikernels
 - [nubificus/bunny](https://github.com/nubificus/bunny) - Build libOSes effortlessly
@@ -4822,7 +4824,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
-- [kingosticks/mopidy-tunein](https://github.com/kingosticks/mopidy-tunein) - Mopidy extension for playing music from tunein
+- [mopidy/mopidy-tunein](https://github.com/mopidy/mopidy-tunein) - Mopidy extension for playing music from tunein
 - [futapi/fut](https://github.com/futapi/fut) - fut is a simple library for managing Fifa 19 Ultimate Team.
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
