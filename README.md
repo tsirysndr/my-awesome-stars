@@ -989,6 +989,7 @@
 
 ## Go 
 
+- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
 - [SiaFoundation/walletd](https://github.com/SiaFoundation/walletd) - A new Sia wallet
 - [SiaFoundation/hostd](https://github.com/SiaFoundation/hostd) - The next generation of Sia hosting. Stable. Fast. Scalable.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -1144,7 +1145,7 @@
 - [extism/go-pdk](https://github.com/extism/go-pdk) - Extism Plug-in Development Kit (PDK) for Go
 - [extism/cli](https://github.com/extism/cli) - The extism CLI is used to generate plugin scaffolding and manage Extism installations
 - [extism/extism-pql](https://github.com/extism/extism-pql) - RunReveal's PQL compiler as an Extism plugin.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [opencontainers/go-digest](https://github.com/opencontainers/go-digest) - Common digest package used across the container ecosystem
 - [xigxog/kubefox](https://github.com/xigxog/kubefox) - Simplifying Kubernetes.
@@ -2930,6 +2931,7 @@
 - [evmos/docs](https://github.com/evmos/docs) - The official docs for Evmos
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) - A website to listen to cool radio stations and scrobble to LastFM
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
 - [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
@@ -2952,7 +2954,7 @@
 - [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [indexzero/node-procfile](https://github.com/indexzero/node-procfile) - Procfile parser for node.js
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv—from the creator of `dotenv`
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [dylibso/reactables](https://github.com/dylibso/reactables) - Reactables enable you to bring the power of React and JSX outside of the JavaScript ecosystem.
@@ -3150,7 +3152,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [Level/level](https://github.com/Level/level) - Universal abstract-level database for Node.js and browsers.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-- [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
+- [GoogleMapReact/google-map-react](https://github.com/GoogleMapReact/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [peerlinks/peerlinks-desktop](https://github.com/peerlinks/peerlinks-desktop) - Distributed Secure IRC | Desktop client for PeerLinks protocol
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [Efabien/hack-a-song](https://github.com/Efabien/hack-a-song) - cli tool for converting youtube video to mp3, save it locally and share it among devices
@@ -3449,7 +3451,6 @@
 - [loomnetwork/plasma-cash](https://github.com/loomnetwork/plasma-cash) - Plasma Cash Contract & Client. ERC721, ERC20, and ETH compatible
 - [thechriswalker/twirp-js](https://github.com/thechriswalker/twirp-js) - Javascript client helper for Twirp RPC codegen
 - [react-toolbox/react-toolbox-themr](https://github.com/react-toolbox/react-toolbox-themr) - A tool to statically extract and generate custom themes for React Toolbox
-- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [chainpoint/chainpoint-cli](https://github.com/chainpoint/chainpoint-cli) - A Command Line Interface (CLI) for creating and verifying Chainpoint proofs.
 - [ethjs/ethjs-util](https://github.com/ethjs/ethjs-util) - A simple set of Ethereum JS utilities such toBuffer and isHexPrefixed.
 - [diversario/node-ssdp](https://github.com/diversario/node-ssdp) - node.js SSDP client/server.
@@ -4592,7 +4593,6 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - 
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [nestipy/nestipy](https://github.com/nestipy/nestipy) - Nestipy is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
 - [agentstack-ai/AgentStack](https://github.com/agentstack-ai/AgentStack) - The fastest way to build robust AI agents
 - [pimoroni/mopidy-pidi](https://github.com/pimoroni/mopidy-pidi) - Mopidy plugin host for pidi display plugins.
@@ -4964,6 +4964,8 @@
 
 ## Rust 
 
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92)
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [matter-labs/zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
 - [davxy/ark-vrf](https://github.com/davxy/ark-vrf) - Elliptic Curve VRFs
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
@@ -6553,7 +6555,7 @@
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [Kong/docker-kong](https://github.com/Kong/docker-kong) - :monkey: Docker distribution for Kong
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming
 
 ## Smarty 
@@ -6804,7 +6806,6 @@
 - [streamplace/atproto-oauth-client-react-native](https://github.com/streamplace/atproto-oauth-client-react-native) - @aquareum/atproto-oauth-client-react-native
 - [char/k256-paper-key](https://github.com/char/k256-paper-key) - super shrimple web app for paper key generation for did:plc rotation keys
 - [mary-ext/atcute](https://github.com/mary-ext/atcute) - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.
-- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [espeon/muse](https://github.com/espeon/muse) - music platform
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
@@ -6822,6 +6823,7 @@
 - [tobilg/duckerd](https://github.com/tobilg/duckerd) - CLI to create an ER Diagram from DuckDB database files
 - [jotaijs/jotai-effect](https://github.com/jotaijs/jotai-effect) - A Jōtai utility package for reactive side-effects
 - [mkizka/linkat](https://github.com/mkizka/linkat) - Create your Link in Bio for Bluesky
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
 - [usounds/AtpDashboard](https://github.com/usounds/AtpDashboard) - A dashboard for monitoring the status of third-party collections in the AT Protocol.
 - [upstash/qstash-js](https://github.com/upstash/qstash-js) - Message queue for serverless
@@ -7649,6 +7651,7 @@
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [0xProject/0x-launch-kit-backend](https://github.com/0xProject/0x-launch-kit-backend) - Launch a 0x relayer in under a minute [DEPRECATED]
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
+- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [CodeSequence/store-saga](https://github.com/CodeSequence/store-saga) - An Rx implementation of redux-saga for @ngrx/store
 - [ethereumjs/ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) - Project is in active development and has been moved to the EthereumJS monorepo.
