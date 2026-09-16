@@ -6241,7 +6241,7 @@
 - [mirvoxtm/Binah](https://github.com/mirvoxtm/Binah) - Simple Haskell Web Framework inspired by Express.js
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [fluentci-io/haskell-plugin](https://github.com/fluentci-io/haskell-plugin) - Set up your CI/CD with a specific version of Haskell
-- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - MOVED TO CODEBERG. THIS IS A MIRROR.
+- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - !!! --- MOVED TO CODEBERG --- !!!
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
@@ -9117,6 +9117,7 @@
 
 ## others 
 
+- [SiaFoundation/s3d](https://github.com/SiaFoundation/s3d) - A lightweight, S3-compatible Renter for the Sia network
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
 - [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92)
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -9190,7 +9191,6 @@
 - [audiojs/decode](https://github.com/audiojs/decode) - Minimal audio decoders layer
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [kepler16/kmono](https://github.com/kepler16/kmono) - The missing workspace tool for clojure tools.deps projects
-- [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [archie-judd/agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Lightweight and declarative sandboxing for AI agents on Linux and macOS using Nix.
 - [bluez/bluer](https://github.com/bluez/bluer) - BlueR — Official BlueZ Bindings for Rust
 - [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
@@ -11633,7 +11633,6 @@
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [barnybug/go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
 - [jackc/sqlfmt](https://github.com/jackc/sqlfmt) - SQL Formatter
-- [maevadevs/Madagascar-Data](https://github.com/maevadevs/Madagascar-Data) - Datasets: Data about Madagascar in JSON format
 - [finnp/minilock](https://github.com/finnp/minilock) - encrypt and decrypt with minilock
 - [uport-project/uport-mobile](https://github.com/uport-project/uport-mobile) - uPort mobile app
 - [apollographql/reason-apollo](https://github.com/apollographql/reason-apollo) - Reason binding for Apollo Client and React Apollo
@@ -11932,7 +11931,7 @@
 - [pebbe/zmq4](https://github.com/pebbe/zmq4) - A Go interface to ZeroMQ version 4
 - [davidmichaelakers/ecrecover](https://github.com/davidmichaelakers/ecrecover) - Working example of ecrecover using web3.js
 - [dominictarr/pull-box-stream](https://github.com/dominictarr/pull-box-stream) - One way streaming encryption based on libsodium's secretbox primitive
-- [mopidy/mopidy-tunein](https://github.com/mopidy/mopidy-tunein) - Mopidy extension for playing music from tunein
+- [mopidy/mopidy-tunein](https://github.com/mopidy/mopidy-tunein) - Mopidy extension for playing music from TuneIn
 - [elodina/go-avro](https://github.com/elodina/go-avro) - Apache Avro for Golang
 - [oneflow/loopback-connector-rethinkdb](https://github.com/oneflow/loopback-connector-rethinkdb) - [UNMAINTAINED] Loopback connector for RethinkDB.
 - [strongloop/loopback-filters](https://github.com/strongloop/loopback-filters) - implements LoopBack-style filtering.
@@ -11951,7 +11950,6 @@
 - [uport-project/uport-cli-client](https://github.com/uport-project/uport-cli-client) - Minimal command-line based uPort client
 - [uport-project/uport-react-native-demo](https://github.com/uport-project/uport-react-native-demo) - 
 - [uport-project/uport-identity](https://github.com/uport-project/uport-identity) - uPort Contracts for managing identity DEPRECATED
-- [maevadevs/Maevadevs-References](https://github.com/maevadevs/Maevadevs-References) - Ref: A collection of developer's references
 - [jiripospisil/chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - A simple utility for downloading Chrome extensions
 - [brave/muon](https://github.com/brave/muon) - [DEPRECATED] Build browsers and browser like applications with HTML, CSS, and JavaScript
 - [louischatriot/nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
