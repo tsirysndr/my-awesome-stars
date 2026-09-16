@@ -150,7 +150,6 @@
 - [Moonbase59/loudgain](https://github.com/Moonbase59/loudgain) - ReplayGain 2.0 loudness normalizer based on the EBU R128/ITU BS.1770 standard (-18 LUFS, FLAC, Ogg, MP2, MP3, MP4, M4A, AAC, ALAC, Opus, ASF, WMA, WAV, AIFF, WavPack, APE)
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
-- [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [tsirysndr/squeezelite](https://github.com/tsirysndr/squeezelite) - Lightweight headless squeezebox player for Lyrion Media Server
 - [mikebrady/nqptp](https://github.com/mikebrady/nqptp) - Not Quite PTP
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -989,6 +988,7 @@
 
 ## Go 
 
+- [SiaFoundation/s3d](https://github.com/SiaFoundation/s3d) - A lightweight, S3-compatible Renter for the Sia network
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
 - [SiaFoundation/walletd](https://github.com/SiaFoundation/walletd) - A new Sia wallet
 - [SiaFoundation/hostd](https://github.com/SiaFoundation/hostd) - The next generation of Sia hosting. Stable. Fast. Scalable.
@@ -2699,7 +2699,7 @@
 - [extism/haskell-pdk](https://github.com/extism/haskell-pdk) - Extism Plug-in development kit (PDK) for Haskell
 - [chrisdone/hell](https://github.com/chrisdone/hell) - Haskell-based shell scripting language
 - [purerl/purerl](https://github.com/purerl/purerl) - Erlang backend for the PureScript compiler
-- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - MOVED TO CODEBERG. THIS IS A MIRROR.
+- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - !!! --- MOVED TO CODEBERG --- !!!
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [testcontainers/testcontainers-hs](https://github.com/testcontainers/testcontainers-hs) - Docker containers for your integration tests! http://hackage.haskell.org/package/testcontainers
@@ -2769,7 +2769,6 @@
 - [hei-school/sigmalex-planner](https://github.com/hei-school/sigmalex-planner) - 
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
-- [rescript-react-native/template](https://github.com/rescript-react-native/template) - ReScript React Native template
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Agontuk/react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service) - React native geolocation service for iOS and android
@@ -3014,6 +3013,7 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [ryyppy/rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - Opinionated Boilerplate for NextJS, Tailwind and ReScript
+- [rescript-react-native/template](https://github.com/rescript-react-native/template) - ReScript React Native template
 - [erlef/setup-beam](https://github.com/erlef/setup-beam) - Set up your BEAM-based GitHub Actions workflow (Erlang, Elixir, Gleam, ...)
 - [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv) - Load .env into React Native - with support for multiple .env files.
 - [cypress-io/github-action](https://github.com/cypress-io/github-action) - GitHub Action for running Cypress end-to-end & component tests
@@ -3947,7 +3947,6 @@
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
-- [maevadevs/Maevadevs-References](https://github.com/maevadevs/Maevadevs-References) - Ref: A collection of developer's references
 - [julienr/ipynb_playground](https://github.com/julienr/ipynb_playground) - Various ipython notebooks
 
 ## Just 
@@ -4425,7 +4424,6 @@
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [sumodirjo/engineering-blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blogs of startup and enterprise companies
 - [unbug/react-native-train](https://github.com/unbug/react-native-train) - I use this book to train my team, help them to know how to build React-native app in the right way.
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [letsila/awesome-blogs](https://github.com/letsila/awesome-blogs) - Curated list of awesome blogs by awesome people
 - [mojilala/sticker-api](https://github.com/mojilala/sticker-api) - MojiLaLa Sticker API documentation for partnerships
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
@@ -4440,7 +4438,6 @@
 - [helm/hub](https://github.com/helm/hub) - ⚠️(OBSOLETE) Former distributed charts search for hub.helm.sh. Now see https://artifacthub.io/
 - [PegaSysEng/pantheon](https://github.com/PegaSysEng/pantheon) - An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client
 - [0xProject/0x-protocol-specification](https://github.com/0xProject/0x-protocol-specification) - Specification for 0x protocol
-- [maevadevs/Madagascar-Data](https://github.com/maevadevs/Madagascar-Data) - Datasets: Data about Madagascar in JSON format
 - [knowbody/crra](https://github.com/knowbody/crra) - Create Reason React App
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
 - [LedgerHQ/ledger-nano-s](https://github.com/LedgerHQ/ledger-nano-s) - Ledger Nano S, a personal security device from Ledger (blockchain / bitcoin / ethereum / FIDO)
@@ -4488,6 +4485,7 @@
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [miavakanofidiana/APIResulatExamenMEN](https://github.com/miavakanofidiana/APIResulatExamenMEN) - Web scrapping qui permet d'obtenir les résultats de BEPC et CEPE à Madagascar
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
@@ -4824,7 +4822,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
-- [mopidy/mopidy-tunein](https://github.com/mopidy/mopidy-tunein) - Mopidy extension for playing music from tunein
+- [mopidy/mopidy-tunein](https://github.com/mopidy/mopidy-tunein) - Mopidy extension for playing music from TuneIn
 - [futapi/fut](https://github.com/futapi/fut) - fut is a simple library for managing Fifa 19 Ultimate Team.
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
@@ -4958,6 +4956,7 @@
 - [travis-ci/travis.rb](https://github.com/travis-ci/travis.rb) - Travis CI Client (CLI and Ruby library)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [busyloop/vj](https://github.com/busyloop/vj) - vj - JSON Humanizer
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) - Open source chef cookbooks.
 - [estiens/world_cup_json](https://github.com/estiens/world_cup_json) - Rails backend for a scraper that outputs World Cup data as JSON
@@ -7382,7 +7381,6 @@
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol
 - [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native that confirms OpenIAP
 - [graphql-nexus/nexus-prisma](https://github.com/graphql-nexus/nexus-prisma) - Prisma plugin for Nexus
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
