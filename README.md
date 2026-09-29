@@ -715,6 +715,7 @@
 
 ## Elixir 
 
+- [ydlr/mix2nix](https://github.com/ydlr/mix2nix) - Generate a set of nix derivations from a mix.lock file.
 - [tsirysndr/atoll](https://github.com/tsirysndr/atoll) - AT Protocol Personal Data Server (PDS), built with Elixir
 - [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
 - [pocketenv-io/pocketenv-elixir](https://github.com/pocketenv-io/pocketenv-elixir) - Elixir SDK for Pocketenv
@@ -2684,6 +2685,7 @@
 - [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [vkiryukhin/vkthread](https://github.com/vkiryukhin/vkthread) - javascript plugin allows to execute any function of javascript code in a thread
 - [thonymg/app-generator-cli](https://github.com/thonymg/app-generator-cli) - cli tools generator for react & redux app
+- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 - [ThisIsDallas/Simple-Grid](https://github.com/ThisIsDallas/Simple-Grid) - A basic responsive grid for winners. This project is based on Chris Coyier's post on grids http://css-tricks.com/dont-overthink-it-grids/
@@ -2753,6 +2755,7 @@
 
 ## Java 
 
+- [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [nordic-institute/X-Road](https://github.com/nordic-institute/X-Road) - Source code of the X-Road® data exchange layer software
@@ -2909,7 +2912,7 @@
 - [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts) - React Native Contacts
 - [eclipse-archived/ceylon](https://github.com/eclipse-archived/ceylon) - The Ceylon compiler, language module, and command line tools
 - [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples
-- [vsilaev/tascalate-async-await](https://github.com/vsilaev/tascalate-async-await) - Async / Await asynchronous programming model for Java versions 1.8 - 25; similar to the functionality available in C# 5. The implementation is based on continuations for Java (see my other projects).
+- [vsilaev/tascalate-async-await](https://github.com/vsilaev/tascalate-async-await) - Async / Await asynchronous programming model for Java versions 1.8 - 27; similar to the functionality available in C# 5. The implementation is based on continuations for Java (see my other projects).
 - [electronicarts/ea-async](https://github.com/electronicarts/ea-async) - EA Async implements async-await methods in the JVM.
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [MaxLeap/vertx-rpc](https://github.com/MaxLeap/vertx-rpc) - Wrap eventBus of vert.x 3 as transport layer for RPC invoking
@@ -3790,7 +3793,6 @@
 - [kimmobrunfeldt/react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) - Responsive and slick progress bars for React.
 - [jscomplete/graphfront-ui](https://github.com/jscomplete/graphfront-ui) - A multi-user admin interface on database schemas with a GraphQL API - Powering https://graphfront.com/
 - [joincivil/react-ethereum-provider](https://github.com/joincivil/react-ethereum-provider) - Inject web3 provider into your React app
-- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [apollographql/react-apollo](https://github.com/apollographql/react-apollo) - :recycle: React integration for Apollo Client
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
@@ -4430,6 +4432,7 @@
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [sumodirjo/engineering-blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blogs of startup and enterprise companies
 - [unbug/react-native-train](https://github.com/unbug/react-native-train) - I use this book to train my team, help them to know how to build React-native app in the right way.
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [letsila/awesome-blogs](https://github.com/letsila/awesome-blogs) - Curated list of awesome blogs by awesome people
 - [mojilala/sticker-api](https://github.com/mojilala/sticker-api) - MojiLaLa Sticker API documentation for partnerships
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
@@ -4964,7 +4967,6 @@
 - [travis-ci/travis.rb](https://github.com/travis-ci/travis.rb) - Travis CI Client (CLI and Ruby library)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [busyloop/vj](https://github.com/busyloop/vj) - vj - JSON Humanizer
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) - Open source chef cookbooks.
 - [estiens/world_cup_json](https://github.com/estiens/world_cup_json) - Rails backend for a scraper that outputs World Cup data as JSON
@@ -5038,7 +5040,7 @@
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) - FUSE implementation for overlayfs
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [pocketenv-io/pocketenv-rust](https://github.com/pocketenv-io/pocketenv-rust) - Rust SDK for Pocketenv
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
 - [orta/cosmic-soundcloud](https://github.com/orta/cosmic-soundcloud) - A SoundCloud player for COSMIC desktop
