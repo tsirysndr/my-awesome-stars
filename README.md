@@ -21,7 +21,6 @@
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
-- [Cython](#cython)
 - [D](#d)
 - [Dart](#dart)
 - [Dhall](#dhall)
@@ -550,6 +549,7 @@
 
 ## Clojure 
 
+- [tsirysndr/clojure-pds](https://github.com/tsirysndr/clojure-pds) - AT Protocol Personal Data Server in Clojure
 - [steffan-westcott/clj-otel](https://github.com/steffan-westcott/clj-otel) - An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry.
 - [bhauman/lein-figwheel](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
 - [bhauman/rebel-readline](https://github.com/bhauman/rebel-readline) - Terminal readline library for Clojure dialects
@@ -655,10 +655,6 @@
 - [Axentro/Axentro](https://github.com/Axentro/Axentro) - To be the go to platform for building dApps quickly and cheaply for business and gaming
 - [ziprandom/graphql-crystal](https://github.com/ziprandom/graphql-crystal) - a graphql implementation for crystal
 - [kemalcr/kemal](https://github.com/kemalcr/kemal) - Fast, Effective, Simple Web Framework
-
-## Cython 
-
-- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 
 ## D 
 
@@ -2646,7 +2642,6 @@
 - [solpbc/welcome-mat](https://github.com/solpbc/welcome-mat) - the welcome mat — how agents sign up for things. a protocol for AI agent self-enrollment using cryptographic identity.
 - [iMilnb/smolBSD](https://github.com/iMilnb/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [cypress-io/cypress-example-kitchensink](https://github.com/cypress-io/cypress-example-kitchensink) - This is an example app used to showcase Cypress.io testing.
 - [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
@@ -4767,6 +4762,7 @@
 - [ClusterHQ/flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [tilt-dev/tiltdemo](https://github.com/tilt-dev/tiltdemo) - 
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [dropbox/stone](https://github.com/dropbox/stone) - The Official API Spec Language for Dropbox API V2
@@ -4971,6 +4967,7 @@
 
 ## Rust 
 
+- [tsirysndr/pds-gateway](https://github.com/tsirysndr/pds-gateway) - 
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Fo
 - [tsirysndr/otelview-clickhouse](https://github.com/tsirysndr/otelview-clickhouse) - ClickHouse remote storage for traces, logs and metrics — Jaeger v2 and otelview compatible
 - [ClickHouse/clickhouse-rs](https://github.com/ClickHouse/clickhouse-rs) - Official pure Rust typed client for ClickHouse DB
@@ -5045,7 +5042,7 @@
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [espeon/spwn](https://github.com/espeon/spwn) - 
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
+- [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 🦀 Personal Multi-agent AI assistant platform, written in Rust — multi-agent, self-learning skills, RAG, MCP, and agentskills.io compatible
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -5054,7 +5051,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) - Graceful process restarts in Rust
 - [cloudflare/ecdysis](https://github.com/cloudflare/ecdysis) - A library for graceful restarts in Rust
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [rust-lang/bors](https://github.com/rust-lang/bors) - Rust implementation of bors used for various Rust components (e.g. the compiler).
@@ -5151,6 +5148,7 @@
 - [owo-colors/owo-colors](https://github.com/owo-colors/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) - Ergonomic bindings to duckdb for Rust
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
@@ -6372,6 +6370,7 @@
 
 ## Scala 
 
+- [tsirysndr/scala-pds](https://github.com/tsirysndr/scala-pds) - AT Protocol Personal Data Server in Scala 3
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [twitter/stitch](https://github.com/twitter/stitch) - 
 - [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
