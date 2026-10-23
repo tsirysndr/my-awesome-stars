@@ -2835,7 +2835,7 @@
 - [canonical/go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [kubedb/cli](https://github.com/kubedb/cli) - `kubectl` plugin for KubeDB
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
@@ -3965,6 +3965,7 @@
 
 ## ethereum 
 
+- [tsirysndr/citruswallet](https://github.com/tsirysndr/citruswallet) - Send ETH to AT Protocol handles. Your keys never leave MetaMask.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
 - [tsirysndr/evmosup](https://github.com/tsirysndr/evmosup) - Spin up an evmos blockchain in seconds
@@ -6966,7 +6967,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [sheerun/prettier-standard](https://github.com/sheerun/prettier-standard) - Formats with Prettier and lints with ESLint+Standard! (✿◠‿◠)
 - [mprot/msgpack-js](https://github.com/mprot/msgpack-js) - A MessagePack implementation for JavaScript and TypeScript.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -8317,7 +8318,7 @@
 - [rwynn/mongofluxd](https://github.com/rwynn/mongofluxd) - Real time sync from MongoDB into InfluxDB
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc) - ThisMyPC provides a neat web interface that can be used for browsing your desktop drives from any device in your browser itself. With the help of NodeJs, the file details are displayed in JSON format 
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [szokodiakos/typegoose](https://github.com/szokodiakos/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 - [azavana/EnySaTsia](https://github.com/azavana/EnySaTsia) - Voting app project for any Yes/No questions
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -8502,7 +8503,7 @@
 - [si3nloong/goloquent](https://github.com/si3nloong/goloquent) - Golang sequel eloquent
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
@@ -8883,7 +8884,7 @@
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc) - ThisMyPC provides a neat web interface that can be used for browsing your desktop drives from any device in your browser itself. With the help of NodeJs, the file details are displayed in JSON format 
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
@@ -9154,6 +9155,7 @@
 
 ## others 
 
+- [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [thomashoneyman/purescript-overlay](https://github.com/thomashoneyman/purescript-overlay) - PureScript core tools in Nix
 - [bluesky-social/barre](https://github.com/bluesky-social/barre) - A Rust reimplementation of Yoga, the flexbox engine behind React Native. Very early; not for production.
 - [ocurrent/ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
@@ -9484,7 +9486,7 @@
 - [usounds/AtpDashboard](https://github.com/usounds/AtpDashboard) - A dashboard for monitoring the status of third-party collections in the AT Protocol.
 - [upstash/qstash-js](https://github.com/upstash/qstash-js) - Message queue for serverless
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Product specific Cloudflare MCP servers
 - [wan9chi/oxidase](https://github.com/wan9chi/oxidase) - Transpiles TypeScript at the Speed of Parsing
 - [basicdb/basic-cli](https://github.com/basicdb/basic-cli) - cli for creating & managing basic.tech projects
 - [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) - 🔬pgwatch: PostgreSQL metrics monitor/dashboard
@@ -10380,7 +10382,7 @@
 - [mitchellh/zig-js](https://github.com/mitchellh/zig-js) - Access the JS host environment from Zig compiled to WebAssembly.
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [cowprotocol/ethcontract-rs](https://github.com/cowprotocol/ethcontract-rs) - Generate type-safe bindings for interacting with Ethereum contracts.
-- [google/pica](https://github.com/google/pica) - 
+- [google/pica](https://github.com/google/pica) - UWB hardware simulator written in Rust
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [jacobstern/music-player](https://github.com/jacobstern/music-player) - An extensible music server written in Rust 🚀🎵✨
 - [teller-protocol/teller-protocol-v2](https://github.com/teller-protocol/teller-protocol-v2) - 
@@ -12451,7 +12453,7 @@
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [go-pg/migrations](https://github.com/go-pg/migrations) - SQL database migrations for Golang go-pg and PostgreSQL
@@ -14805,7 +14807,7 @@
 
 - [kviklet/kviklet](https://github.com/kviklet/kviklet) - Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
 ## sqlite 
@@ -14862,7 +14864,7 @@
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [canonical/go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
@@ -15668,7 +15670,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [shirakaba/react-nativescript](https://github.com/shirakaba/react-nativescript) - React renderer for NativeScript
 - [mprot/msgpack-js](https://github.com/mprot/msgpack-js) - A MessagePack implementation for JavaScript and TypeScript.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [graphql-hive/graphql-modules](https://github.com/graphql-hive/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [perlin-network/lens](https://github.com/perlin-network/lens) - The official network explorer for Wavelet.
