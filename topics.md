@@ -396,7 +396,7 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [hypermodeinc/modus](https://github.com/hypermodeinc/modus) - modus: a framework for building agentic flows powered by WebAssembly
@@ -445,7 +445,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [stripe/ai](https://github.com/stripe/ai) - One-stop shop for building AI-powered products and businesses with Stripe.
@@ -543,7 +543,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
@@ -1988,6 +1988,7 @@
 
 ## clojure 
 
+- [tsirysndr/dagger-sdk](https://github.com/tsirysndr/dagger-sdk) - Dagger SDK experiments
 - [tsirysndr/clojure-pds](https://github.com/tsirysndr/clojure-pds) - AT Protocol Personal Data Server in Clojure
 - [steffan-westcott/clj-otel](https://github.com/steffan-westcott/clj-otel) - An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry.
 - [bhauman/lein-figwheel](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
@@ -3120,7 +3121,7 @@
 - [sanchxt/yoop](https://github.com/sanchxt/yoop) - A very fast P2P file sharing and clipboard sync for local networks. Works between any device and OS. No cloud or account required. Built with Rust.
 - [Rantoniaina/kpi](https://github.com/Rantoniaina/kpi) - A standalone desktop application for tracking developer performance through ticket management, bug tracking, and monthly KPI reporting. Built with Tauri, React, and Rust.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [sourcey/sourcey](https://github.com/sourcey/sourcey) - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
@@ -6274,6 +6275,7 @@
 - [amqp-rs/lapin](https://github.com/amqp-rs/lapin) - AMQP client library in Rust, with a clean, futures based API
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript & TypeScript
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 
 ## haskell 
@@ -12617,7 +12619,7 @@
 - [mkinf-io/mkinf](https://github.com/mkinf-io/mkinf) - mkinf SDK to interact with mkinf hub MCP servers
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [stripe/ai](https://github.com/stripe/ai) - One-stop shop for building AI-powered products and businesses with Stripe.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
@@ -16359,7 +16361,7 @@
 - [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
 - [arrufat/zignal](https://github.com/arrufat/zignal) - zero-dependency image processing library
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - MicroZig is a toolbox for building embedded applications in Zig.
-- [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - a protobuf 3 implementation for zig.
+- [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - a protobuf implementation for zig.
 - [allyourcodebase/ffmpeg](https://github.com/allyourcodebase/ffmpeg) - FFmpeg Zig package
 - [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig
 - [zig-wasm/wasmer-zig-api](https://github.com/zig-wasm/wasmer-zig-api) - Zig bindings for the Wasmer WebAssembly runtime
