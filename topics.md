@@ -1859,7 +1859,7 @@
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [gabrielmagno/crab-dlna](https://github.com/gabrielmagno/crab-dlna) - A minimal UPnP/DLNA media streamer written in Rust
 - [alt-art/lyrs](https://github.com/alt-art/lyrs) - Command line aplication to view lyrics using genius-rs
-- [tsirysndr/piratebay](https://github.com/tsirysndr/piratebay) - A command-line tool written in Rust for searching and downloading  torrents on piratebay
+- [tsirysndr/piratebay](https://github.com/tsirysndr/piratebay) - A command-line tool written in Rust for searching and downloading  torrents from the piratebay, , Nyaa, Bitsearch, LimeTorrents and TorrentDownload
 - [tsirysndr/datpiff](https://github.com/tsirysndr/datpiff) - A command-line tool for DatPiff Mixtapes
 - [tsirysndr/tononkira](https://github.com/tsirysndr/tononkira) - Search lyrics from tononkira.serasera.org.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
@@ -2128,6 +2128,8 @@
 
 ## command-line 
 
+- [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -6031,7 +6033,7 @@
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [SeaQL/starfish-ql](https://github.com/SeaQL/starfish-ql) - ✴️ An experimental graph database
 - [SeaQL/sea-schema](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery
-- [bolcom/libunftp](https://github.com/bolcom/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/bolcom/unFTP. Follow up and talk to us on https://t.me/unftp
+- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/Cloudinvoke/unFTP. Follow up and talk to us on https://t.me/unftp
 - [thruster-rs/thruster-socketio](https://github.com/thruster-rs/thruster-socketio) - A socket.io implementation over thruster
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [acorn-io/runtime](https://github.com/acorn-io/runtime) - A simple application deployment framework built on Kubernetes
@@ -6073,7 +6075,6 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [elementary/music](https://github.com/elementary/music) - Music player and library designed for elementary OS
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
@@ -8012,6 +8013,8 @@
 
 ## macos 
 
+- [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [tsirysndr/snapcaster](https://github.com/tsirysndr/snapcaster) - Route your Mac's audio output to Snapcast or Squeezebox players over the network — a Core Audio HAL virtual device plus a lightweight PCM streamer.
 - [origon/hylyx](https://github.com/origon/hylyx) - Linux — Built for Apple Silicon.
 - [zw3rk/hyper-linux](https://github.com/zw3rk/hyper-linux) - hl — Run aarch64-linux ELF binaries on macOS Apple Silicon via Hypervisor.framework
@@ -9177,6 +9180,7 @@
 
 ## others 
 
+- [gmkurtzer/ginux](https://github.com/gmkurtzer/ginux) - 
 - [megaeth-labs/stateless-validator](https://github.com/megaeth-labs/stateless-validator) - Rust stateless validator for MegaETH efficient block verification.
 - [megaeth-labs/mega-evm](https://github.com/megaeth-labs/mega-evm) - The encapsulation of revm tailored for MegaETH.
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
@@ -10587,7 +10591,6 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [keycard-tech/keycard-connect](https://github.com/keycard-tech/keycard-connect) - Keycard + WalletConnect
 - [subquery/subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
-- [Polkadex-Substrate/Polkadex](https://github.com/Polkadex-Substrate/Polkadex) - An Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [ethereum/yellowpaper](https://github.com/ethereum/yellowpaper) - The "Yellow Paper": Ethereum's formal specification
 - [status-im/nim-confutils](https://github.com/status-im/nim-confutils) - Simplified handling of command line options and config files
@@ -12003,7 +12006,6 @@
 - [dominictarr/pull-box-stream](https://github.com/dominictarr/pull-box-stream) - One way streaming encryption based on libsodium's secretbox primitive
 - [mopidy/mopidy-tunein](https://github.com/mopidy/mopidy-tunein) - Mopidy extension for playing music from TuneIn
 - [elodina/go-avro](https://github.com/elodina/go-avro) - Apache Avro for Golang
-- [oneflow/loopback-connector-rethinkdb](https://github.com/oneflow/loopback-connector-rethinkdb) - [UNMAINTAINED] Loopback connector for RethinkDB.
 - [strongloop/loopback-filters](https://github.com/strongloop/loopback-filters) - implements LoopBack-style filtering.
 - [AliyunContainerService/redis-cluster](https://github.com/AliyunContainerService/redis-cluster) - HA Redis Cluster with Sentinel by Docker Compose
 - [uport-project/specs](https://github.com/uport-project/specs) - uPort Protocol Specs
@@ -12234,7 +12236,7 @@
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [tsirysndr/kickasstorrent](https://github.com/tsirysndr/kickasstorrent) - A command-line tool for KickassTorrents
-- [tsirysndr/piratebay](https://github.com/tsirysndr/piratebay) - A command-line tool written in Rust for searching and downloading  torrents on piratebay
+- [tsirysndr/piratebay](https://github.com/tsirysndr/piratebay) - A command-line tool written in Rust for searching and downloading  torrents from the piratebay, , Nyaa, Bitsearch, LimeTorrents and TorrentDownload
 - [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -&gt; IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient
 - [aethereans/aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
@@ -12277,6 +12279,8 @@
 
 ## package-manager 
 
+- [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [knadh/pkg.bot](https://github.com/knadh/pkg.bot) - Super fast Linux package search engine for Linux distros
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
@@ -14046,13 +14050,13 @@
 - [gabrielmagno/crab-dlna](https://github.com/gabrielmagno/crab-dlna) - A minimal UPnP/DLNA media streamer written in Rust
 - [SeaQL/starfish-ql](https://github.com/SeaQL/starfish-ql) - ✴️ An experimental graph database
 - [SeaQL/sea-schema](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery
-- [bolcom/libunftp](https://github.com/bolcom/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/bolcom/unFTP. Follow up and talk to us on https://t.me/unftp
+- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/Cloudinvoke/unFTP. Follow up and talk to us on https://t.me/unftp
 - [mattnenterprise/rust-ftp](https://github.com/mattnenterprise/rust-ftp) - FTP client for Rust
 - [alt-art/genius-rs](https://github.com/alt-art/genius-rs) - Rust library that allows interact with Genius API
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [orottier/web-audio-api-rs](https://github.com/orottier/web-audio-api-rs) - A Rust implementation of the Web Audio API, for use in non-browser contexts
-- [tsirysndr/piratebay](https://github.com/tsirysndr/piratebay) - A command-line tool written in Rust for searching and downloading  torrents on piratebay
+- [tsirysndr/piratebay](https://github.com/tsirysndr/piratebay) - A command-line tool written in Rust for searching and downloading  torrents from the piratebay, , Nyaa, Bitsearch, LimeTorrents and TorrentDownload
 - [tsirysndr/datpiff](https://github.com/tsirysndr/datpiff) - A command-line tool for DatPiff Mixtapes
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [tsirysndr/tononkira](https://github.com/tsirysndr/tononkira) - Search lyrics from tononkira.serasera.org.
@@ -14517,7 +14521,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [xiph/Icecast-Server](https://github.com/xiph/Icecast-Server) - Icecast streaming media server (Mirror) - Please report bugs at https://gitlab.xiph.org/xiph/icecast-server/issues
 - [tsirysndr/music-player](https://github.com/tsirysndr/music-player) - An extensible music server written in Rust , single binary, zero dependency  🚀🎵✨
-- [bolcom/libunftp](https://github.com/bolcom/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/bolcom/unFTP. Follow up and talk to us on https://t.me/unftp
+- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/Cloudinvoke/unFTP. Follow up and talk to us on https://t.me/unftp
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
