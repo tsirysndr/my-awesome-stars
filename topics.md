@@ -1852,7 +1852,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [tsirysndr/music-player](https://github.com/tsirysndr/music-player) - An extensible music server written in Rust , single binary, zero dependency  🚀🎵✨
 - [tsirysndr/genius-cli](https://github.com/tsirysndr/genius-cli) - Search lyrics or song metadata from your terminal
 - [tsirysndr/kickasstorrent](https://github.com/tsirysndr/kickasstorrent) - A command-line tool for KickassTorrents
@@ -4461,7 +4461,7 @@
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
@@ -6033,7 +6033,7 @@
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [SeaQL/starfish-ql](https://github.com/SeaQL/starfish-ql) - ✴️ An experimental graph database
 - [SeaQL/sea-schema](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery
-- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/Cloudinvoke/unFTP. Follow up and talk to us on https://t.me/unftp
+- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Async, cloud orientated FTP(S) server library with extensions
 - [thruster-rs/thruster-socketio](https://github.com/thruster-rs/thruster-socketio) - A socket.io implementation over thruster
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [acorn-io/runtime](https://github.com/acorn-io/runtime) - A simple application deployment framework built on Kubernetes
@@ -10117,7 +10117,7 @@
 - [denoland/merch](https://github.com/denoland/merch) - The Deno shop!
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [peterldowns/nix-search-cli](https://github.com/peterldowns/nix-search-cli) - CLI for searching packages on search.nixos.org
-- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [divnix/rust-flake](https://github.com/divnix/rust-flake) - 
 - [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM
@@ -14050,7 +14050,7 @@
 - [gabrielmagno/crab-dlna](https://github.com/gabrielmagno/crab-dlna) - A minimal UPnP/DLNA media streamer written in Rust
 - [SeaQL/starfish-ql](https://github.com/SeaQL/starfish-ql) - ✴️ An experimental graph database
 - [SeaQL/sea-schema](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery
-- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/Cloudinvoke/unFTP. Follow up and talk to us on https://t.me/unftp
+- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Async, cloud orientated FTP(S) server library with extensions
 - [mattnenterprise/rust-ftp](https://github.com/mattnenterprise/rust-ftp) - FTP client for Rust
 - [alt-art/genius-rs](https://github.com/alt-art/genius-rs) - Rust library that allows interact with Genius API
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
@@ -14521,7 +14521,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [xiph/Icecast-Server](https://github.com/xiph/Icecast-Server) - Icecast streaming media server (Mirror) - Please report bugs at https://gitlab.xiph.org/xiph/icecast-server/issues
 - [tsirysndr/music-player](https://github.com/tsirysndr/music-player) - An extensible music server written in Rust , single binary, zero dependency  🚀🎵✨
-- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Extensible, async, cloud orientated FTP(S) server library and the core of unFTP: https://github.com/Cloudinvoke/unFTP. Follow up and talk to us on https://t.me/unftp
+- [Cloudinvoke/libunftp](https://github.com/Cloudinvoke/libunftp) - Async, cloud orientated FTP(S) server library with extensions
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
