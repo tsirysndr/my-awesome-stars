@@ -279,7 +279,6 @@
 - [aldebaran/connman](https://github.com/aldebaran/connman) - Aldebaran clone of the connman (http://connman.net/)
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺
 - [flavioribeiro/nginx-audio-track-for-hls-module](https://github.com/flavioribeiro/nginx-audio-track-for-hls-module) - :sound: Nginx module that generates audio track for HTTP Live Streaming (HLS) streams on the fly.
-- [kaltura/nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager
 - [ralph-irving/squeezelite](https://github.com/ralph-irving/squeezelite) - Lightweight headless squeezebox player for Lyrion Media Server
 - [zeromq/zproto](https://github.com/zeromq/zproto) - A protocol framework for ZeroMQ
 - [canonical/raft](https://github.com/canonical/raft) - Unmaintained C implementation of the Raft consensus protocol
@@ -674,7 +673,7 @@
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [prateekmedia/pstube](https://github.com/prateekmedia/pstube) - Watch and download videos without ads
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Beautiful music player for desktop & mobile.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -995,6 +994,9 @@
 
 ## Go 
 
+- [getplumber/plumber](https://github.com/getplumber/plumber) - Plumber detects CI/CD security issues in your GitHub workflows and gives you a score
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [tsirysndr/cloudflared](https://github.com/tsirysndr/cloudflared) - Cloudflare Tunnel client with NetBSD support
 - [haileyok/cocoon](https://github.com/haileyok/cocoon) - An ATProtocol PDS (Personal Data Server) written in Go with  a SQLite block and blob store
 - [openfga/openfga](https://github.com/openfga/openfga) - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
@@ -1752,7 +1754,7 @@
 - [irahardianto/monorepo-microservices](https://github.com/irahardianto/monorepo-microservices) - Working implementation of monorepo microservices in Go with MongoDB and Kubernetes
 - [jz222/logowl](https://github.com/jz222/logowl) - Collects logs to monitor and analyse web applications.
 - [okteto/go-getting-started](https://github.com/okteto/go-getting-started) - Develop Go Apps in Kubernetes with Okteto
-- [awalterschulze/goderive](https://github.com/awalterschulze/goderive) - Derives and generates mundane golang functions that you do not want to maintain yourself
+- [awalterschulze/goderive](https://github.com/awalterschulze/goderive) - Moved to https://git.awalterschulze.org/goderive
 - [nilslice/protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go
@@ -3798,7 +3800,6 @@
 - [zbtang/React-Native-ViewPager](https://github.com/zbtang/React-Native-ViewPager) - ViewPager and Indicator component for react-native on both android and ios.
 - [n4kz/react-native-material-textfield](https://github.com/n4kz/react-native-material-textfield) - Material textfield
 - [chitezh/react-native-svg-image](https://github.com/chitezh/react-native-svg-image) - Load SVG images from network; Does not work with local svgs
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [react/metro](https://github.com/react/metro) - 🚇 The JavaScript bundler for React Native
 - [Workiva/react-dart](https://github.com/Workiva/react-dart) - Dart Bindings for React JS
 - [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
@@ -4876,7 +4877,7 @@
 
 ## Racket 
 
-- [awalterschulze/the-little-typer-exercises](https://github.com/awalterschulze/the-little-typer-exercises) - exercises for the book - the little typer
+- [awalterschulze/the-little-typer-exercises](https://github.com/awalterschulze/the-little-typer-exercises) - Moved to https://git.awalterschulze.org/the-little-typer-exercises
 - [fractalide/fractalide](https://github.com/fractalide/fractalide) - Reusable Reproducible Composable Software
 
 ## ReScript 
@@ -4981,7 +4982,8 @@
 
 ## Rust 
 
-- [tsirysndr/fluentci](https://github.com/tsirysndr/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way
+- [embive/embive](https://github.com/embive/embive) - A lightweight, recoverable sandbox for executing untrusted RISC-V code in constrained environments
+- [tsirysndr/fluentci](https://github.com/tsirysndr/fluentci) - Build and run CI pipelines anywhere, consistently.
 - [paritytech/polkavm](https://github.com/paritytech/polkavm) - A fast and secure RISC-V based virtual machine
 - [tsirysndr/macports-rs](https://github.com/tsirysndr/macports-rs) - A fast, standalone Rust reimplementation of MacPorts port CLI, with parallel downloads, platform-aware indexes
 - [gmkurtzer/ginux](https://github.com/gmkurtzer/ginux) - 
@@ -5463,7 +5465,7 @@
 - [pendulum-chain/substrate-stellar-sdk](https://github.com/pendulum-chain/substrate-stellar-sdk) - A Rust SDK for Stellar that can be used for Substrate projects
 - [shiika-lang/shiika](https://github.com/shiika-lang/shiika) - A statically-typed programming language
 - [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
-- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way
+- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Build and run CI pipelines anywhere, consistently.
 - [paritytech/extended-parachain-template](https://github.com/paritytech/extended-parachain-template) - Node template to build parachains with all the required pallets. Slightly opinionated based on what majority of parachain teams are using.
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [murarth/linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
@@ -6347,6 +6349,7 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [iotaledger-archive/iota.legacy.rs](https://github.com/iotaledger-archive/iota.legacy.rs) - IOTA implementation ( rust )
 - [GildedHonour/frank_jwt](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [meta/relay](https://github.com/meta/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust
 - [trixnz/rustsym](https://github.com/trixnz/rustsym) - A tool to query symbols from rust code for use in IDEs
@@ -6727,7 +6730,7 @@
 - [usounds/Rito](https://github.com/usounds/Rito) - ATProto Social Bookmark
 - [usounds/atpassport](https://github.com/usounds/atpassport) - Handle manager for atproto apps.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
+- [ClickHouse/ClickStack](https://github.com/ClickHouse/ClickStack) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine.
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare's edge network
@@ -7729,7 +7732,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [buildo/react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
@@ -7757,7 +7760,7 @@
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
 - [apollographql/graphql-tag](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
