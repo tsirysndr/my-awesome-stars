@@ -994,6 +994,7 @@
 
 ## Go 
 
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Plumber detects CI/CD security issues in your GitHub workflows and gives you a score
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
@@ -3325,7 +3326,7 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [redux-utilities/reduce-reducers](https://github.com/redux-utilities/reduce-reducers) - Reduce multiple reducers into a single reducer from left to right
-- [fridays/next-routes](https://github.com/fridays/next-routes) - Universal dynamic routes for Next.js
+- [fridays/next-routes](https://github.com/fridays/next-routes) - Deprecated: Named routes for Next.js 2–9
 - [jangouts/jangouts](https://github.com/jangouts/jangouts) - Videoconferencing based on WebRTC and Janus Gateway with an UI inspired by Google Hangouts
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [spdy-http2/node-spdy](https://github.com/spdy-http2/node-spdy) - SPDY server on Node.js
@@ -4534,6 +4535,7 @@
 
 ## PureScript 
 
+- [fluentci-io/modules](https://github.com/fluentci-io/modules) - A collection of reusable WebAssembly modules for building composable CI/CD pipelines with FluentCI
 - [tsirysndr/squeezed](https://github.com/tsirysndr/squeezed) - Serve a raw PCM audio stream to any Squeezelite / Squeezebox client over the SlimProto protocol.
 - [thomashoneyman/purescript-overlay](https://github.com/thomashoneyman/purescript-overlay) - PureScript core tools in Nix
 - [Kamirus/purescript-selda](https://github.com/Kamirus/purescript-selda) - A type-safe, high-level SQL library for PureScript
