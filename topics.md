@@ -329,6 +329,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
@@ -370,7 +371,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [pocketenv-io/pocketenv](https://github.com/pocketenv-io/pocketenv) - the universal sandbox runtime for agents and humans.
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -380,6 +381,7 @@
 
 ## agent-skills 
 
+- [fluentci-io/skills](https://github.com/fluentci-io/skills) - Agent skills for CI/CD pipelines, pipeline as code, GitHub Actions, WebAssembly modules, build caching, and CI services with FluentCI.
 - [tsirysndr/dj-skills](https://github.com/tsirysndr/dj-skills) - Skills for AI agent DJ
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [denoland/skills](https://github.com/denoland/skills) - Deno skills for AI coding assistants. Covers using Deno as a package manager and runtime, migrating from npm/yarn/pnpm/bun, Fresh, and Deno Deploy.
@@ -391,6 +393,7 @@
 
 ## agents 
 
+- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare's edge network
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
@@ -402,13 +405,13 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [hypermodeinc/modus](https://github.com/hypermodeinc/modus) - modus: a framework for building agentic flows powered by WebAssembly
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -451,7 +454,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [stripe/ai](https://github.com/stripe/ai) - One-stop shop for building AI-powered products and businesses with Stripe.
@@ -528,6 +531,7 @@
 
 ## ai-agents 
 
+- [fluentci-io/skills](https://github.com/fluentci-io/skills) - Agent skills for CI/CD pipelines, pipeline as code, GitHub Actions, WebAssembly modules, build caching, and CI services with FluentCI.
 - [superfly/sprites-py](https://github.com/superfly/sprites-py) - Python SDK for Fly.io Sprites: computers for agents. Sprite management, remote command execution, filesystems, checkpoints, services, and network policy from Python.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -549,7 +553,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
@@ -948,6 +952,7 @@
 
 ## automation 
 
+- [fluentci-io/skills](https://github.com/fluentci-io/skills) - Agent skills for CI/CD pipelines, pipeline as code, GitHub Actions, WebAssembly modules, build caching, and CI services with FluentCI.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [BastilleBSD/bastille](https://github.com/BastilleBSD/bastille) - Bastille is an open-source system for automating deployment and management of containerized applications on FreeBSD.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
@@ -2308,6 +2313,7 @@
 
 ## continuous-integration 
 
+- [fluentci-io/skills](https://github.com/fluentci-io/skills) - Agent skills for CI/CD pipelines, pipeline as code, GitHub Actions, WebAssembly modules, build caching, and CI services with FluentCI.
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
 - [fluentci-demos/fluentci-demo-rust](https://github.com/fluentci-demos/fluentci-demo-rust) - FluentCI demo CI pipeline using Rust
 - [fluentci-demos/fluentci-demo-gleam](https://github.com/fluentci-demos/fluentci-demo-gleam) - A FluentCI demo CI Pipeline using Gleam and Wisp
@@ -2645,7 +2651,7 @@
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [jetify-com/tyson](https://github.com/jetify-com/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
@@ -2768,7 +2774,7 @@
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [neondatabase/electric-pglite](https://github.com/neondatabase/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 - [silverqx/TinyORM](https://github.com/silverqx/TinyORM) - Modern C++ ORM library
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
@@ -3149,7 +3155,7 @@
 - [sanchxt/yoop](https://github.com/sanchxt/yoop) - A very fast P2P file sharing and clipboard sync for local networks. Works between any device and OS. No cloud or account required. Built with Rust.
 - [Rantoniaina/kpi](https://github.com/Rantoniaina/kpi) - A standalone desktop application for tracking developer performance through ticket management, bug tracking, and monthly KPI reporting. Built with Tauri, React, and Rust.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [sourcey/sourcey](https://github.com/sourcey/sourcey) - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
@@ -3247,6 +3253,7 @@
 
 ## devops 
 
+- [fluentci-io/skills](https://github.com/fluentci-io/skills) - Agent skills for CI/CD pipelines, pipeline as code, GitHub Actions, WebAssembly modules, build caching, and CI services with FluentCI.
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [origon/hylyx](https://github.com/origon/hylyx) - Linux — Built for Apple Silicon.
@@ -3361,6 +3368,7 @@
 
 ## discord 
 
+- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [jewlexx/discord-presence](https://github.com/jewlexx/discord-presence) - Discord Rich Presence in Rust
@@ -3810,7 +3818,7 @@
 - [fluentci-demos/fluentci-demo-elixir-phoenix](https://github.com/fluentci-demos/fluentci-demo-elixir-phoenix) - A FluentCI demo CI Pipeline using Elixir and Phoenix
 - [elixirs/faker](https://github.com/elixirs/faker) - Faker is a pure Elixir library for generating fake data.
 - [dashbitco/nimble_parsec](https://github.com/dashbitco/nimble_parsec) - A simple and fast library for text-based parser combinators
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [mtrudel/thousand_island](https://github.com/mtrudel/thousand_island) - Thousand Island is a pure Elixir socket server
 - [dashbitco/nimble_csv](https://github.com/dashbitco/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir
@@ -4028,7 +4036,7 @@
 - [izelnakri/eth](https://github.com/izelnakri/eth) - Ethereum utilities for Elixir
 - [volsa/etherface](https://github.com/volsa/etherface) - Ethereum Signature Database
 - [dilan-dio4/Keagate](https://github.com/dilan-dio4/Keagate) - 🔑 Keagate is an open-source, high-performance alternative to popular cryptocurrency payment gateways such as Coinbase Commerce, CoinGate, BitPay, NOWPayments, CoinRemitter, CoinsPaid and more.
-- [Snowfork/snowbridge](https://github.com/Snowfork/snowbridge) - A trustless bridge between Polkadot and Ethereum
+- [Snowfork/snowbridge](https://github.com/Snowfork/snowbridge) - A trustless bridge between Ethereum and Polkadot
 - [blockchain/blockchain-wallet-v4-frontend](https://github.com/blockchain/blockchain-wallet-v4-frontend) - Blockchain.com's open source, non-custodial Wallet
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 - [mana-ethereum/ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
@@ -7252,7 +7260,7 @@
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [chirpstack/chirpstack-gateway-bridge](https://github.com/chirpstack/chirpstack-gateway-bridge) - ChirpStack Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT.
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
-- [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
+- [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - Fast JSON serializer that shapes the output with your JSON Schema
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - MOVED to jsonresume/jsonresume.org (packages/cli) — npm 'resume-cli' unchanged, revived for Node 18+
 - [wvlet/airframe](https://github.com/wvlet/airframe) - Essential Building Blocks for Scala
@@ -8451,11 +8459,11 @@
 - [CharlesWiltgen/TagLib-Wasm](https://github.com/CharlesWiltgen/TagLib-Wasm) - TagLib-Wasm is the universal tagging library for TypeScript/JavaScript platforms: Browsers, Node.js, Deno, Bun, Cloudflare Workers, and Electron apps
 - [fossisawesome/firmium](https://github.com/fossisawesome/firmium) - firmium; a awesome music player! supports: mac, windows, linux, and android. can be used with any subsonic/opensubsonic server. supports local files too!
 - [Fingel/gelly](https://github.com/Fingel/gelly) - A native music client for Jellyfin and Navidrome/Subsonic
+- [colinfredynand/plugin.kodi.navidrome](https://github.com/colinfredynand/plugin.kodi.navidrome) - Kodi music add-on for Navidrome: browse, stream, scrobble, offline downloads and Kodi library sync. Independent project, not affiliated with Navidrome.
 - [complexlogic/rsgain](https://github.com/complexlogic/rsgain) - A simple, but powerful ReplayGain 2.0 tagging utility
 - [wiremann/wiremann](https://github.com/wiremann/wiremann) - A fast, no-nonsense music player built in Rust. Just pure, native speed.
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [jchoi2x/genius-mcp](https://github.com/jchoi2x/genius-mcp) - Genius MCP server that lets you search for songs, artists, and most importantly lyrics.
-- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
@@ -9223,6 +9231,8 @@
 
 ## others 
 
+- [tsirysndr/postgres-nix](https://github.com/tsirysndr/postgres-nix) - Production-focused PostgreSQL Nix flake with selectable versions, pgroll, pgstream CDC, backups, and service templates for Linux and macOS.
+- [TerminalSkills/skills](https://github.com/TerminalSkills/skills) - Open-source library of AI agent skills — SKILL.md files for Claude Code, Codex, Gemini CLI, Cursor
 - [xataio/cli](https://github.com/xataio/cli) - Xata CLI
 - [fluentci-io/modules](https://github.com/fluentci-io/modules) - A collection of reusable WebAssembly modules for building composable CI/CD pipelines with FluentCI
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
@@ -9261,7 +9271,7 @@
 - [matter-labs/zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
 - [Brskt/TidaLuna](https://github.com/Brskt/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
 - [tsirysndr/hisense-bt-fix](https://github.com/tsirysndr/hisense-bt-fix) - 
-- [yituorou/meatshell](https://github.com/yituorou/meatshell) - 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
+- [yituorou/meatshell](https://github.com/yituorou/meatshell) - A lightweight, low-memory SSH / terminal client |一个轻量级、低内存占用的 SSH / 终端客户端
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [v4rm4n/gsh](https://github.com/v4rm4n/gsh) - Interactive Gleam Shell (GSH) — a lightweight REPL for Gleam with expression evaluation, persistent runtime bindings, multiline support, and an interactive shell experience built on the BEAM VM.
 - [tsirysndr/sledge](https://github.com/tsirysndr/sledge) - CLI to read & write ACS memory (SLE) and ACOS smart cards over PC/SC.
@@ -9308,7 +9318,7 @@
 - [googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
 - [cross-platform-actions/action](https://github.com/cross-platform-actions/action) - Cross-platform GitHub action
 - [anyvm-org/anyvm](https://github.com/anyvm-org/anyvm) - Run any VM anywhere: run FreeBSD, OpenBSD, NetBSD, Solaris, OmniOS and more on Windows, Linux and Macos
-- [csm/clojurust](https://github.com/csm/clojurust) - Clojure and Rust
+- [csm/clojurust](https://github.com/csm/clojurust) - A Clojure dialect
 - [Moonbase59/loudgain](https://github.com/Moonbase59/loudgain) - ReplayGain 2.0 loudness normalizer based on the EBU R128/ITU BS.1770 standard (-18 LUFS, FLAC, Ogg, MP2, MP3, MP4, M4A, AAC, ALAC, Opus, ASF, WMA, WAV, AIFF, WavPack, APE)
 - [coreos/coreos-installer](https://github.com/coreos/coreos-installer) - Installer for CoreOS disk images
 - [bluetech/pcsc-rust](https://github.com/bluetech/pcsc-rust) - Rust bindings to PC/SC for smart card communication
@@ -9320,7 +9330,6 @@
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents
 - [mstorsjo/fdk-aac](https://github.com/mstorsjo/fdk-aac) - A standalone library of the Fraunhofer FDK AAC code from Android.
 - [solpbc/welcome-mat](https://github.com/solpbc/welcome-mat) - the welcome mat — how agents sign up for things. a protocol for AI agent self-enrollment using cryptographic identity.
-- [colinfredynand/plugin.kodi.navidrome](https://github.com/colinfredynand/plugin.kodi.navidrome) - 
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [rrantsa/open-source-madagascar](https://github.com/rrantsa/open-source-madagascar) - Une liste collaborative de projets open source utiles à Madagascar, créés par des Malgaches ou adaptés au contexte malgache.
 - [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
@@ -11206,7 +11215,6 @@
 - [KILTprotocol/kilt-did-driver](https://github.com/KILTprotocol/kilt-did-driver) - KILT DID Driver for the Universal Resolver
 - [hokaccha/go-prettyjson](https://github.com/hokaccha/go-prettyjson) - JSON pretty print for Golang.
 - [felixfbecker/cli-highlight](https://github.com/felixfbecker/cli-highlight) - Syntax highlighting for your terminal 💻✨
-- [IBM/graphql-observability-example](https://github.com/IBM/graphql-observability-example) - example code of implementing GraphQL observability in Go
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
 - [uber/react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [bricef/gitops-tutorial](https://github.com/bricef/gitops-tutorial) - Gitops tutorial for Kubecon Seattle 2018
@@ -11498,7 +11506,7 @@
 - [nimiq/core-rs](https://github.com/nimiq/core-rs) - Official Rust implementation of the Nimiq protocol
 - [rtc-io/rtc](https://github.com/rtc-io/rtc) - Build WebRTC conferencing applications with easy using rtc.io. This package provides a super-friendly entry point for working with WebRTC, dive into underling rtc.io modules for more configuration and
 - [stanfieldr/ghetto-skype](https://github.com/stanfieldr/ghetto-skype) - Web Skype + Tray Icon + Notifications
-- [werkshy/pickup](https://github.com/werkshy/pickup) - MPD Web Client in Go
+- [werkshy/pickup](https://github.com/werkshy/pickup) - Web music jukebox for large collections
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [babarot/emoji-cli](https://github.com/babarot/emoji-cli) - :scream: Emoji completion on the command line
 - [huntlabs/kissrpc](https://github.com/huntlabs/kissrpc) - Ultra high performance RPC
@@ -12668,7 +12676,7 @@
 - [mkinf-io/mkinf](https://github.com/mkinf-io/mkinf) - mkinf SDK to interact with mkinf hub MCP servers
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [stripe/ai](https://github.com/stripe/ai) - One-stop shop for building AI-powered products and businesses with Stripe.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
@@ -14712,6 +14720,7 @@
 
 ## skills 
 
+- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [tsirysndr/otelview-skills](https://github.com/tsirysndr/otelview-skills) - Skills for otelview from an AI coding assistant — investigating traces, logs and metrics over MCP, instrumenting apps, and running the server.
 - [tsirysndr/dj-skills](https://github.com/tsirysndr/dj-skills) - Skills for AI agent DJ
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -16295,6 +16304,10 @@
 
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
+
+## whatsapp 
+
+- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 
 ## windows 
 
