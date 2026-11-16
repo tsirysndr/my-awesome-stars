@@ -4191,7 +4191,7 @@
 - [andrenth/sequoia](https://github.com/andrenth/sequoia) - OCaml type-safe query builder with syntax tree extension
 - [andrenth/ocaml-swagger](https://github.com/andrenth/ocaml-swagger) - Swagger 2.0 code generator for OCaml
 - [dialohq/ocaml-grpc](https://github.com/dialohq/ocaml-grpc) - gRPC library for OCaml
-- [stategraph/stategraph](https://github.com/stategraph/stategraph) - Terraform without the state file bottleneck
+- [stategraph/stategraph](https://github.com/stategraph/stategraph) - Open source Terraform and OpenTofu pull request automation
 - [zth/resgraph](https://github.com/zth/resgraph) - Build implementation-first GraphQL servers in ReScript
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
@@ -4988,6 +4988,7 @@
 
 ## Rust 
 
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [bytecodealliance/ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS) - JS -&gt; WebAssembly Component
 - [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
@@ -5018,7 +5019,7 @@
 - [davxy/ark-vrf](https://github.com/davxy/ark-vrf) - Elliptic Curve VRFs
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [Brskt/TidaLuna](https://github.com/Brskt/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
-- [yituorou/meatshell](https://github.com/yituorou/meatshell) - A lightweight, low-memory SSH / terminal client |一个轻量级、低内存占用的 SSH / 终端客户端
+- [yituorou/meatshell](https://github.com/yituorou/meatshell) - A lightweight, low-memory SSH / terminal client  |  一个轻量级、低内存占用的 SSH / 终端客户端
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [tsirysndr/sledge](https://github.com/tsirysndr/sledge) - CLI to read & write ACS memory (SLE) and ACOS smart cards over PC/SC.
 - [cloudwego/pilota](https://github.com/cloudwego/pilota) - A thrift and protobuf implementation in pure rust with high performance and extensibility.
