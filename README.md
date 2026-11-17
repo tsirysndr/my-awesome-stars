@@ -1034,7 +1034,7 @@
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [apenwarr/atlogin](https://github.com/apenwarr/atlogin) - An OIDC provider that logs in with ATProto
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
 - [bscott/chat-tails](https://github.com/bscott/chat-tails) - Tailscale Backed Chat Server
 - [coollabsio/coolify-cli](https://github.com/coollabsio/coolify-cli) - CLI for Coolify
 - [did-method-plc/go-didplc](https://github.com/did-method-plc/go-didplc) - Go implementation of did:plc
@@ -1886,7 +1886,7 @@
 - [crc-org/crc](https://github.com/crc-org/crc) - CRC is a tool to help you run containers. It manages local VMs to run a OpenShift 4.x cluster, Microshift or Podman optimized for testing and development purposes
 - [minishift/minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally | This project does not see active developement and maintenance.
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+- [gvisor/gvisor](https://github.com/gvisor/gvisor) - Application Kernel for Containers
 - [hashicorp/go-msgpack](https://github.com/hashicorp/go-msgpack) - Open-Source Go Code. msgpack.org[Go]
 - [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files.
 - [maxcnunes/waitforit](https://github.com/maxcnunes/waitforit) - Wait until an address become available.
@@ -2757,7 +2757,7 @@
 
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - To gain access, please finish setting up this repository now at:
 - [nordic-institute/X-Road](https://github.com/nordic-institute/X-Road) - Source code of the X-Road® data exchange layer software
 - [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
 - [pfrazee/example-atproto-rn-app](https://github.com/pfrazee/example-atproto-rn-app) - Demonstrates how to set up a React Native app to use the atproto api.
@@ -4988,6 +4988,7 @@
 
 ## Rust 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [bytecodealliance/ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS) - JS -&gt; WebAssembly Component
@@ -5070,7 +5071,6 @@
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [pocketenv-io/pocketenv-rust](https://github.com/pocketenv-io/pocketenv-rust) - Rust SDK for Pocketenv
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
 - [orta/cosmic-soundcloud](https://github.com/orta/cosmic-soundcloud) - A SoundCloud player for COSMIC desktop
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
@@ -6560,7 +6560,7 @@
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [sheepkiller/kafka-manager-docker](https://github.com/sheepkiller/kafka-manager-docker) - Kafka Manager Dockerfile
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 1000 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources
 - [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 The fish shell prompt for astronauts
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
@@ -6771,6 +6771,7 @@
 - [ethereum/kohaku](https://github.com/ethereum/kohaku) - Privacy-first tooling for the Ethereum ecosystem
 - [angelorc/vmsan](https://github.com/angelorc/vmsan) - Firecracker made simple. Spin up secure microVMs in milliseconds, from install to interactive shell in one command.
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
 - [rivet-dev/dynamic-apps](https://github.com/rivet-dev/dynamic-apps) - Deploy an AI-generated backend for every user.
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
@@ -7431,7 +7432,7 @@
 - [paritytech/canvas-ui](https://github.com/paritytech/canvas-ui) - Basic Polkadot/Substrate UI for interacting with a node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol
-- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native that confirms OpenIAP
+- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - Moved to the OpenIAP monorepo: github.com/hyodotdev/openiap (libraries/react-native-iap). In App Purchase module for React Native.
 - [graphql-nexus/nexus-prisma](https://github.com/graphql-nexus/nexus-prisma) - Prisma plugin for Nexus
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
