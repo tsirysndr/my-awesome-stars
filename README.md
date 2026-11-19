@@ -340,6 +340,7 @@
 
 ## C++ 
 
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [timeplus-io/proton](https://github.com/timeplus-io/proton) - The fastest unified streaming SQL Engine in a single C++ binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute stateful context from streams, logs, metrics, events, and CDC.
 - [tsirysndr/mixxx](https://github.com/tsirysndr/mixxx) - Mixxx DJ software with MCP, Subsonic/Navidrome streaming library support — browse and load tracks from your self-hosted music server
 - [HarperFast/rocksdb-js](https://github.com/HarperFast/rocksdb-js) - RocksDB binding for Node.js
@@ -836,7 +837,7 @@
 - [discord/semaphore](https://github.com/discord/semaphore) - Fast semaphore using ETS.
 - [xerions/phoenix_swagger](https://github.com/xerions/phoenix_swagger) - Swagger integration to Phoenix framework
 - [phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Realtime dashboard with metrics, request logging, plus storage, OS and VM insights
-- [elixir-soap/soap](https://github.com/elixir-soap/soap) - SOAP client for Elixir programming language
+- [Nitrino/soap](https://github.com/Nitrino/soap) - SOAP client for Elixir programming language
 - [absinthe-graphql/dataloader](https://github.com/absinthe-graphql/dataloader) - DataLoader for Elixir
 - [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"
 - [akira/exq](https://github.com/akira/exq) - Job processing library for Elixir  - compatible with Resque / Sidekiq
@@ -1345,7 +1346,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [tendermint/spn](https://github.com/tendermint/spn) - A blockchain to launch blockchains.
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [joe-elliott/tempo-otel-example](https://github.com/joe-elliott/tempo-otel-example) - 
@@ -2757,7 +2758,7 @@
 
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
-- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - To gain access, please finish setting up this repository now at:
+- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [nordic-institute/X-Road](https://github.com/nordic-institute/X-Road) - Source code of the X-Road® data exchange layer software
 - [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
 - [pfrazee/example-atproto-rn-app](https://github.com/pfrazee/example-atproto-rn-app) - Demonstrates how to set up a React Native app to use the atproto api.
@@ -3138,7 +3139,7 @@
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Headless Web Audio API
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Web Audio API outside browsers
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -3771,9 +3772,9 @@
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [indutny/bn.js](https://github.com/indutny/bn.js) - BigNum in pure javascript
 - [browserify/crypto-browserify](https://github.com/browserify/crypto-browserify) - partial implementation of node's `crypto` for the browser
-- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
+- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - [ BEWARE: NO MAINTAINER ] Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
 - [ipfs-inactive/npm-go-ipfs-dep](https://github.com/ipfs-inactive/npm-go-ipfs-dep) - DEPRECATED by https://github.com/ipfs/npm-go-ipfs
-- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - [ BEWARE: NO MAINTAINER ] An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [mtth/avsc](https://github.com/mtth/avsc) - Avro for JavaScript :zap:
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
@@ -4594,7 +4595,7 @@
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
 - [bluesky-social/cookbook](https://github.com/bluesky-social/cookbook) - A collection of example projects and scripts for atproto development.
 - [wish13yt/skyears-discord](https://github.com/wish13yt/skyears-discord) - Discord bot like .fmbot but for Rocksky.app
-- [brandonhimpfen/awesome-ocaml](https://github.com/brandonhimpfen/awesome-ocaml) - A curated list of awesome frameworks, libraries, tools, and resources for the OCaml programming language.
+- [awelist/awesome-ocaml](https://github.com/awelist/awesome-ocaml) - A curated list of awesome frameworks, libraries, tools, and resources for the OCaml programming language.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
@@ -5162,6 +5163,7 @@
 - [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [durch/rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with S3 API compatible services
 - [tsirysndr/replay](https://github.com/tsirysndr/replay) - Sniff and replay HTTP requests and responses — perfect for mocking APIs during testing.
+- [espeon/muse](https://github.com/espeon/muse) - music platform
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [starkware-libs/stwo-cairo](https://github.com/starkware-libs/stwo-cairo) - Prove Cairo programs with the blazing-fast S-two prover, powered by the cryptographic breakthrough of Circle STARKs.
@@ -5427,7 +5429,7 @@
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [fiberplane/fiberplane-archived](https://github.com/fiberplane/fiberplane-archived) - Core Fiberplane data models and methods for transforming them (templates, providers, markdown conversion)
@@ -6738,7 +6740,6 @@
 
 - [pfrazee/nbd](https://github.com/pfrazee/nbd) - E2EE proposal. Early draft, pending review.
 - [xataio/cli](https://github.com/xataio/cli) - Xata CLI
-- [tsirysndr/peachlet](https://github.com/tsirysndr/peachlet) - Send ETH to AT Protocol handles. Your keys never leave MetaMask.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [usounds/Rito](https://github.com/usounds/Rito) - ATProto Social Bookmark
@@ -6785,7 +6786,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [rivet-dev/agents](https://github.com/rivet-dev/agents) - A durable process per agent, with memory that survives restarts
-- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
 - [superfly/sprites-js](https://github.com/superfly/sprites-js) - JavaScript and TypeScript SDK for Fly.io Sprites: computers for agents. Node-style APIs for creating Sprites, running remote commands, moving files, and managing checkpoints.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -6863,7 +6864,6 @@
 - [streamplace/atproto-oauth-client-react-native](https://github.com/streamplace/atproto-oauth-client-react-native) - @aquareum/atproto-oauth-client-react-native
 - [char/k256-paper-key](https://github.com/char/k256-paper-key) - super shrimple web app for paper key generation for did:plc rotation keys
 - [mary-ext/atcute](https://github.com/mary-ext/atcute) - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.
-- [espeon/muse](https://github.com/espeon/muse) - music platform
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [tsirysndr/rocksky-lexicons](https://github.com/tsirysndr/rocksky-lexicons) - ATProto lexicons used by https://rocksky.app
@@ -7042,7 +7042,7 @@
 - [denorg/dpx](https://github.com/denorg/dpx) - 📦 CLI to run a Deno package without installing it (like npx for Deno)
 - [upstash/redis-js](https://github.com/upstash/redis-js) - HTTP based Redis Client for Serverless and Edge Functions
 - [deno-library/logger](https://github.com/deno-library/logger) - logger for deno
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow | Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Read
 - [nteract/ansi-to-react](https://github.com/nteract/ansi-to-react) - :guardsman: ANSI to React
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
