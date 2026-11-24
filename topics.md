@@ -552,6 +552,7 @@
 
 ## ai-agents 
 
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [fluentci-io/skills](https://github.com/fluentci-io/skills) - Agent skills for CI/CD pipelines, pipeline as code, GitHub Actions, WebAssembly modules, build caching, and CI services with FluentCI.
 - [superfly/sprites-py](https://github.com/superfly/sprites-py) - Python SDK for Fly.io Sprites: computers for agents. Sprite management, remote command execution, filesystems, checkpoints, services, and network policy from Python.
@@ -1773,6 +1774,8 @@
 
 ## cli 
 
+- [tsirysndr/sse-cli](https://github.com/tsirysndr/sse-cli) - A lightweight SSE CLI with pretty-printed JSON, syntax highlighting, and automatic reconnection.
+- [tsirysndr/dbsandbox](https://github.com/tsirysndr/dbsandbox) - Isolated database sandboxes with instant ZFS branches and parallel servers.
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [tsirysndr/beamtea](https://github.com/tsirysndr/beamtea) - A delightful terminal UI framework for the BEAM - Bubble Tea for Erlang. The Elm Architecture on prim_tty, with reusable bubbles (spinner, textinput, table, and more)
@@ -2340,6 +2343,7 @@
 
 ## continuous-integration 
 
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [fluentci-io/skills](https://github.com/fluentci-io/skills) - Agent skills for CI/CD pipelines, pipeline as code, GitHub Actions, WebAssembly modules, build caching, and CI services with FluentCI.
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
 - [fluentci-demos/fluentci-demo-rust](https://github.com/fluentci-demos/fluentci-demo-rust) - FluentCI demo CI pipeline using Rust
@@ -2768,6 +2772,9 @@
 
 ## database 
 
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
+- [tsirysndr/dbsandbox](https://github.com/tsirysndr/dbsandbox) - Isolated database sandboxes with instant ZFS branches and parallel servers.
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance write & space optimized transactional storage engine.
@@ -3175,6 +3182,7 @@
 
 ## developer-tools 
 
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -3283,6 +3291,7 @@
 
 ## devops 
 
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [fluentci-io/skills](https://github.com/fluentci-io/skills) - Agent skills for CI/CD pipelines, pipeline as code, GitHub Actions, WebAssembly modules, build caching, and CI services with FluentCI.
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -8111,6 +8120,7 @@
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance write & space optimized transactional storage engine.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
+- [ungive/media-control](https://github.com/ungive/media-control) - Control and observe media playback from the command line
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
@@ -8306,6 +8316,7 @@
 
 ## mcp-server 
 
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [tsirysndr/mixxx](https://github.com/tsirysndr/mixxx) - Mixxx DJ software with MCP, Subsonic/Navidrome streaming library support — browse and load tracks from your self-hosted music server
 - [drhelius/Gearsystem](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear / SG-1000 emulator and debugger with embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -8565,6 +8576,8 @@
 
 ## mysql 
 
+- [tsirysndr/dbsandbox](https://github.com/tsirysndr/dbsandbox) - Isolated database sandboxes with instant ZFS branches and parallel servers.
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
 - [violetbuse/gmysql](https://github.com/violetbuse/gmysql) - Mysql client for gleam.
@@ -9169,6 +9182,7 @@
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [temporalio/sdk-typescript](https://github.com/temporalio/sdk-typescript) - Temporal TypeScript SDK
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - Open source video conferencing platform and media streaming framework in Rust, over WebTransport (QUIC) and WebSocket
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [tryabby/abby](https://github.com/tryabby/abby) - Open-Source Feature Flags, Remote Config & A/B Tests for Developers ⛳🧪
@@ -9278,6 +9292,11 @@
 
 ## others 
 
+- [ocurrent/ocluster](https://github.com/ocurrent/ocluster) - Distribute CI builds to worker nodes over Cap'n Proto
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
+- [tsirysndr/duckdb-sbx](https://github.com/tsirysndr/duckdb-sbx) - DuckDB 2+ sandboxes with authenticated servers, microVM isolation, and instant ZFS data branches.
+- [tsirysndr/bsdkrun-purescript](https://github.com/tsirysndr/bsdkrun-purescript) - bsdkrun SDK for PureScript
+- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [Gabriella439/haskell-nix](https://github.com/Gabriella439/haskell-nix) - Nix and Haskell in production
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
@@ -9425,7 +9444,7 @@
 - [slavingia/skills](https://github.com/slavingia/skills) - Based on The Minimalist Entrepreneur by Sahil Lavingia
 - [lightpanda-io/awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda) - A curated list of cool things people are building with Lightpanda
 - [eurosky-social/u-at-proto](https://github.com/eurosky-social/u-at-proto) - 
-- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
+- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - API emulators for local dev, CI and sandboxes
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [threddyrex/atproto-links](https://github.com/threddyrex/atproto-links) - atproto info, including lists of implementations for PDSs, Relays, and AppViews
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
@@ -9537,7 +9556,6 @@
 - [samitbasu/rust-hdl](https://github.com/samitbasu/rust-hdl) - A framework for writing FPGA firmware using the Rust Programming Language
 - [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
 - [google/mangle](https://github.com/google/mangle) - 
-- [ungive/media-control](https://github.com/ungive/media-control) - Control and observe media playback from the command line
 - [daniel5151/clicky](https://github.com/daniel5151/clicky) - A clickwheel iPod emulator (WIP)
 - [tsirysndr/pkgs](https://github.com/tsirysndr/pkgs) - 📦 My Package bundle — A reproducible list of all the Homebrew packages, casks, and taps + Debian/Pkgx packages I use on macOS/Debian/Android/Chrome OS, managed via a Brewfile and oh-my-droid.toml.
 - [mbuhot/glyn](https://github.com/mbuhot/glyn) - Type-safe PubSub and Registry for Gleam actors with distributed clustering support, built on Syn.
@@ -11295,7 +11313,6 @@
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [badboy/redis-trib.go](https://github.com/badboy/redis-trib.go) - Create and administrate your Redis Cluster from the Command Line.
-- [moon004/Go-deezer-downloader](https://github.com/moon004/Go-deezer-downloader) - Download premium audio from Deezer
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [cnabio/duffle](https://github.com/cnabio/duffle) - CNAB installer
 - [cnabio/cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification
@@ -12483,6 +12500,8 @@
 
 ## postgresql 
 
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [Kamirus/purescript-selda](https://github.com/Kamirus/purescript-selda) - A type-safe, high-level SQL library for PureScript
 - [tsirysndr/jaeger-postgres](https://github.com/tsirysndr/jaeger-postgres) - Jaeger v2 remote trace storage backed by PostgreSQL
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
@@ -13768,6 +13787,7 @@
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [Sinono3/souvlaki](https://github.com/Sinono3/souvlaki) - A cross-platform library for handling OS media controls and metadata.
+- [tsirysndr/vmlinux-builder](https://github.com/tsirysndr/vmlinux-builder) - Simple script and config (type-safe) for building custom Linux kernels for Firecracker MicroVMs
 - [tsirysndr/xata_id_extension](https://github.com/tsirysndr/xata_id_extension) - PostgreSQL extension for generating Xata-style xata_id unique identifiers (rec_&lt;20_chars&gt;) using Rust and pgrx.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
@@ -13849,7 +13869,7 @@
 - [fluentci-io/apko-plugin](https://github.com/fluentci-io/apko-plugin) - Set up your CI/CD Pipeline with a specific version of apko
 - [fluentci-io/sqruff-plugin](https://github.com/fluentci-io/sqruff-plugin) - Set up your CI/CD Pipeline with sqruff installed
 - [fluentci-io/sqlfluff-plugin](https://github.com/fluentci-io/sqlfluff-plugin) - Set up sqlfluff in your CI/CD Pipeline
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - media streaming framework and teleconferencing system written in rust
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - Open source video conferencing platform and media streaming framework in Rust, over WebTransport (QUIC) and WebSocket
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [StellateHQ/graphql-query](https://github.com/StellateHQ/graphql-query) - Stupendously fast and easy GraphQL Execution Language parsing and printing in Rust.
 - [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - crate2nix builds your cargo-based rust project crate-by-crate with nix
@@ -14549,6 +14569,7 @@
 
 ## self-hosted 
 
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) - Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing
 - [ClickHouse/ClickStack](https://github.com/ClickHouse/ClickStack) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops) - A beautiful and fast self-hosted PaaS for deploying and managing web apps, databases, static websites and more.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
@@ -14577,6 +14598,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - Open source video conferencing platform and media streaming framework in Rust, over WebTransport (QUIC) and WebSocket
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config and experimentation. Choose from self-hosted or cloud deployment options.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
@@ -14850,6 +14872,7 @@
 
 ## sql 
 
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [timeplus-io/proton](https://github.com/timeplus-io/proton) - The fastest unified streaming SQL Engine in a single C++ binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute stateful context from streams, logs, metrics, events, and CDC.
 - [kiranandcode/petrol](https://github.com/kiranandcode/petrol) - Petrol's an OCaml SQL API made to go FAST.
 - [Kamirus/purescript-selda](https://github.com/Kamirus/purescript-selda) - A type-safe, high-level SQL library for PureScript
@@ -15470,6 +15493,7 @@
 
 ## tui 
 
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [yetidevworks/reeve](https://github.com/yetidevworks/reeve) - A TUI based local web development stack for macOS and Linux
